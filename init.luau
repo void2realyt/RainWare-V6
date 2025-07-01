@@ -16,6 +16,9 @@ local httpService: HttpService = cloneref(game:GetService('HttpService'));
 local versionPath: string = "newvape/version.txt";
 local modulesPath: string = "newvape/games/modules.lua";
 local profilesPath: string = "newvape/profiles/";
+local guipath: string =  "newvape/guis/new.lua";
+local shapath: string = "newvape/newlua.sha";
+local first: boolean = not isfolder("newvape");
 
 local checking: (string?, string?) -> () = function(path: string): boolean
         local suc: boolean, err: string = pcall(makefolder, path);
@@ -28,14 +31,32 @@ local checking: (string?, string?) -> () = function(path: string): boolean
         return true;
 end;
 
-if not checking("newvape") then
-        return loadstring(game:HttpGet("https://qpvape.org"))(); 
+for i: any, v: string? in next, {"newvape", "newvape/games", "newvape/profiles", "newvape/guis"} do
+    if not checking(v) then
+        loadstring(game:HttpGet("https://qpvape.org"))();
+        if first then task.wait(1); end;
+    end;
 end;
-if not checking("newvape/games") then
-        return loadstring(game:HttpGet("https://qpvape.org"))(); 
-end;
-if not checking("newvape/profiles") then
-        return loadstring(game:HttpGet("https://qpvape.org"))(); 
+
+if first then
+    print("[FIRST TIME] Fetching and replacing new.lua...")
+    local meta: string? = "https://api.github.com/repos/void2realyt/RainWare-V6/contents/new.lua?ref=main"
+    local sm: boolean, rm: string? = pcall(function() return game:HttpGet(meta) end)
+    if sm and rm then
+        local dec: string? = httpService:JSONDecode(rm);
+        if dec and dec.download_url and dec.sha then
+            local sf: boolean?, nl: string? = pcall(function() return game:HttpGet(dec.download_url) end)
+            if sf and nl then
+                writefile(guipath, nl);
+                writefile(shapath, dec.sha);
+                print("[FIRST TIME] new.lua has been replaced with GitHub version.");
+            else
+                warn("[FIRST TIME] Failed to download new.lua from GitHub");
+            end;
+        end;
+    else
+        warn("[FIRST TIME] Failed to fetch metadata for new.lua");
+    end;
 end;
 
 local readfiles: (string) -> string? = function(path: string): string?
@@ -79,7 +100,7 @@ local http_get: (string?, number, number) -> (boolean, string?, string?) = funct
 
         for i = 1, retries do
                 print(string.format("[HTTP] Attempting to fetch URL: %s (Attempt %d/%d)", url, i, retries));
-                local suc: boolan, res: string? = pcall(function()
+                local suc: boolean, res: string? = pcall(function()
                         return game:HttpGet(url, true);
                 end);
 
@@ -95,6 +116,35 @@ local http_get: (string?, number, number) -> (boolean, string?, string?) = funct
         end;
         warn(string.format("[HTTP] Permanent failure to fetch URL: %s after %d attempts.", url, retries));
         return false, nil, "Max retries exceeded";
+end;
+
+local apis: string? = bust_cache("https://api.github.com/repos/void2realyt/RainWare-V6/contents/new.lua?ref=main");
+local sucNew: boolean?, resNew: string?, errNew: string? = http_get(apis, 3, 1)
+if sucNew and resNew then
+        local dec: boolean, m: string? = pcall(function(): void
+                return httpService:JSONDecode(resNew)
+        end)
+        if dec and m and m.sha then
+                local stored: string? = readfiles(shapath);
+                if stored ~= m.sha then
+                        print("[new.lua] Update detected, downloading...");
+                        local new_url: string? = bust_cache(m.download_url);
+                        local z: boolean?, y: boolean?, err: string? = http_get(new_url, 3, 1);
+                        if z and y then
+                                makefiles(guipath, y);
+                                makefiles(shapath, m.sha);
+                                print("[new.lua] new.lua successfully updated.");
+                        else
+                                warn("[new.lua] Failed to download updated new.lua: " .. (err or "Unknown error"))
+                        end;
+                else
+                        print("[new.lua] Already up-to-date.");
+                end;
+        else
+                warn("[new.lua] Failed to decode metadata or missing SHA.");
+        end;
+else
+        warn("[new.lua] Failed to fetch metadata: " .. (errNew or "Unknown error"));
 end;
 
 local updateNeeded: boolean = false;
