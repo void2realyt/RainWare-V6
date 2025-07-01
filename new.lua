@@ -2492,7 +2492,7 @@ function mainapi:CreateGUI()
 	logo.Size = UDim2.fromOffset(140, 45) -- 62, 18
 	logo.Position = UDim2.fromOffset(6, -5)
 	logo.BackgroundTransparency = 1
-	logo.Image = getcustomasset('newvape/assets/new/guivape.png')
+	logo.Image = "rbxassetid://100552220279191" --getcustomasset('newvape/assets/new/guivape.png')
 	logo.ImageColor3 = select(3, uipallet.Main:ToHSV()) > 0.5 and uipallet.Text or Color3.new(1, 1, 1)
 	logo.Parent = window
 	local logov4 = Instance.new('ImageLabel')
@@ -2500,7 +2500,8 @@ function mainapi:CreateGUI()
 	logov4.Size = UDim2.fromOffset(42, 24)
 	logov4.Position = UDim2.new(1, -10, 0, 11)
 	logov4.BackgroundTransparency = 1
-	logov4.Image = getcustomasset('newvape/assets/new/guiv4.png')
+	logov4.Image = "rbxassetid://116438554588516"
+--getcustomasset('newvape/assets/new/guiv4.png')
 	logov4.Parent = logo
 	local children = Instance.new('Frame')
 	children.Name = 'Children'
@@ -6360,7 +6361,7 @@ VapeLogo.BackgroundTransparency = 1
 VapeLogo.BorderSizePixel = 0
 VapeLogo.Visible = false
 VapeLogo.BackgroundColor3 = Color3.new()
-VapeLogo.Image = getcustomasset('newvape/assets/new/textvape.png')
+VapeLogo.Image = 'rbxassetid://100552220279191'--getcustomasset('newvape/assets/new/textvape.png')
 VapeLogo.Parent = textgui.Children
 
 local lastside = textgui.Children.AbsolutePosition.X > (gui.AbsoluteSize.X / 2)
@@ -6382,7 +6383,7 @@ VapeLogoV4.Position = UDim2.new(1, -10, 0, 9)
 VapeLogoV4.BackgroundColor3 = Color3.new()
 VapeLogoV4.BackgroundTransparency = 1
 VapeLogoV4.BorderSizePixel = 0
-VapeLogoV4.Image = getcustomasset('newvape/assets/new/textv4.png')
+VapeLogoV4.Image = 'rbxassetid://116438554588516' --getcustomasset('newvape/assets/new/textv4.png')
 VapeLogoV4.Parent = VapeLogo
 local VapeLogoShadow = VapeLogo:Clone()
 VapeLogoShadow.Position = UDim2.fromOffset(1, 1)
