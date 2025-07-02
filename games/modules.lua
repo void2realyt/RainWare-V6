@@ -2724,7 +2724,7 @@ run(function()
             local character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
 
             if callback then
-                vape:CreateNotification('Invisibilty', 'You are now invisible.', 4)
+                vape:CreateNotification('Invisibilty', 'You are now invisible Disable when Respawned and toggle it again or you are visible', 6)
                 modifyHRP(true)
                 setCharacterVisibility(false)
                 startLoop(character)
