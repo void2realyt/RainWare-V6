@@ -2567,8 +2567,8 @@ end)
 run(function()
     local Ambience1: table = {}
     Ambience1 = vape.Categories.Render:CreateModule({
-        Name = "Ambience 1",
-        Function = function(callback)
+        ["Name"] = "Ambience 1",
+        ["Function"] = function(callback: boolean): void
             if callback then
                 local sky = Instance.new("Sky")
                 sky.Name = "Ambience 1"
@@ -2579,13 +2579,13 @@ run(function()
                 sky.SkyboxLf = id
                 sky.SkyboxRt = id
                 sky.SkyboxUp = id
-                sky.Parent = lighting
+                sky.Parent = lightingService
             else
                 local sky = lightingService:FindFirstChild("Ambience 1")
                 if sky then sky:Destroy() end
             end
         end,
-        Tooltip = "Ambience 1"
+        ["Tooltip"] = "Ambience 1"
     })
 end)
 
@@ -2593,11 +2593,11 @@ end)
 run(function()
     local Ambience2: table = {}
     Ambience2 = vape.Categories.Render:CreateModule({
-        Name = "Ambience 2",
-        Function = function(callback)
+        ["Name"] = "Ambience 2",
+        ["Function"] = function(callback: boolean): void
             if callback then
                 local sky = Instance.new("Sky")
-                sky.Name = "Ambience 1"
+                sky.Name = "Ambience 2"
                 local id = "rbxassetid://121826915456627"
                 sky.SkyboxBk = id
                 sky.SkyboxDn = id
@@ -2605,13 +2605,13 @@ run(function()
                 sky.SkyboxLf = id
                 sky.SkyboxRt = id
                 sky.SkyboxUp = id
-                sky.Parent = lighting
+                sky.Parent = lightingService
             else
-                local sky = lightingService:FindFirstChild("Ambience 1")
+                local sky = lightingService:FindFirstChild("Ambience 2")
                 if sky then sky:Destroy() end
             end
         end,
-        Tooltip = "Ambience 2"
+        ["Tooltip"] = "Ambience 2"
     })
 end)
 																																																														
