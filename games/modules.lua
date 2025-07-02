@@ -2634,3 +2634,86 @@ run(function()
     })
 end)
 
+
+run(function()
+    local Rain: table = {};
+    local function Roof(cframe: CFrame): BasePart?
+        local ray: Ray = Ray.new(cframe.Position, Vector3.new(0, 150, 0));
+        return workspace:FindPartOnRayWithIgnoreList(ray, {lplr.Character});
+    end;
+
+    local function Particle(cframe: CFrame)
+        local Spread: Vector3 = Vector3.new(
+            math.random(-100, 100),
+            math.random(-100, 100),
+            math.random(-100, 100)
+        );
+        local Part: Part = Instance.new("Part") ;
+        Part.Parent = workspace.CurrentCamera ;
+        local Smoke: Smoke = Instance.new("Smoke", Part);
+        Part.CanCollide = false;
+        Part.Transparency = 0.25;
+        Part.Reflectance = 0.15;
+        Part.BrickColor = BrickColor.new("Steel blue");
+        Part.FormFactor = Enum.FormFactor.Custom;
+        Part.Size = Vector3.new(0.15, 2, 0.15);
+        Part.CFrame = CFrame.new(
+            cframe.Position + (cframe:vectorToWorldSpace(Vector3.new(0, 1, 0)).Unit * 150) + Spread
+        ) * CFrame.Angles(0, math.atan2(cframe.Position.X, cframe.Position.Z) + math.pi, 0)
+        Smoke.RiseVelocity = -25;
+        Smoke.Opacity = 0.25;
+        Smoke.Size = 25;
+        debris:AddItem(Part, 3);
+        Instance.new("BlockMesh", Part);
+        Part.Touched:Connect(function(Hit)
+            Part:Destroy();
+        end);
+    end;
+
+    Rain = vape.Categories.Modules:CreateModule({
+        ["Name"] = "Rain",
+        ["Tooltip"] = "Rains, because this is rainware",
+        ["Function"] = function(callback: boolean): void
+            if callback then
+                task.spawn(function()
+                    repeat
+                        task.wait();
+                    until lplr.Character and lplr.Character:FindFirstChild("UpperTorso"); 
+                    local Torso: UpperTorso? = lplr.Character:FindFirstChild("UpperTorso"); 
+                    local RainSound: Sound = Instance.new("Sound");
+                    RainSound.Name = "RainSound";
+                    RainSound.SoundId = "rbxassetid://236148388";
+                    RainSound.Looped = true;
+                    RainSound.Volume = 0.05;
+                    RainSound.Parent = workspace.CurrentCamera;
+                    RainSound:Play();
+                    repeat
+                        if Roof(Torso.CFrame) == nil then
+                            for _ = 1, 5 do
+                                if (workspace.CurrentCamera.CFrame.Position - Torso.CFrame.Position).Magnitude > 100 then 
+                                    Particle(workspace.CurrentCamera.CFrame); 
+                                    Particle(Torso.CFrame);
+                                else
+                                    Particle(Torso.CFrame);
+                                end;
+                            end;
+                        else
+                            if Roof(workspace.CurrentCamera.CFrame) == nil then 
+                                for _ = 1, 5 do
+                                    Particle(workspace.CurrentCamera.CFrame); 
+                                end;
+                            end;
+                        end;
+                        task.wait(0);
+                    until not Rain["Enabled"];
+                    if RainSound and RainSound:IsDescendantOf(workspace.CurrentCamera) then
+                        RainSound:Stop();
+                        RainSound:Destroy();
+                    end;
+                end);
+            end;
+        end;
+    })
+end)
+
+
