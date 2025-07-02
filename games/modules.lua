@@ -63,6 +63,8 @@ local guiService = cloneref(game:GetService('GuiService'))
 local groupService = cloneref(game:GetService('GroupService'))
 local textChatService = cloneref(game:GetService('TextChatService'))
 local contextService = cloneref(game:GetService('ContextActionService'))
+local workspace = cloneref(game:GetService('Workspace'))
+local debris = cloneref(game:GetService("Debris"))
 local coreGui = cloneref(game:GetService('CoreGui'))
 local collectionService = cloneref(game:GetService("CollectionService"))
 
@@ -2540,38 +2542,34 @@ run(function()
 		Tooltip = 'Automatically places strong blocks around the me.'
 	})
 end)
-run(function()
-    local TextChatService = game:GetService("TextChatService")
-    local Players = game:GetService("Players")
-    local LocalPlayer = Players.LocalPlayer
 
-    local ChatTag = vape.Categories.Render:CreateModule({
+run(function()
+    local ChatTag = {}
+    ChatTag = vape.Categories.Render:CreateModule({
         Name = "ChatTag",
-        Function = function(enabled)
-            if enabled then
-                TextChatService.OnIncomingMessage = function(message)
-                    local properties = Instance.new("TextChatMessageProperties")
-                    if message.TextSource and message.TextSource.UserId == LocalPlayer.UserId then
-                        -- Change the color to blue
-                        properties.PrefixText = "<font color='#0000ff'>[RainWare V6]</font> " .. (message.PrefixText or "")
+        Function = function(callback)
+            if callback then
+                textChatService.OnIncomingMessage = function(message: string?)
+                    local prop = Instance.new("TextChatMessageProperties")
+                    if message.TextSource and message.TextSource.UserId == lplr.UserId then
+                        prop.PrefixText = "<font color='#0000ff'>[RainWare V6]</font> " .. (message.PrefixText or "")
                     end
-                    return properties
+                    return prop
                 end
             else
-                TextChatService.OnIncomingMessage = nil
+                textChatService.OnIncomingMessage = nil
             end
         end,
         Tooltip = "Adds a tag next to your name when you chat."
     })
 end)
-local Ambience1
-run(function()
-    local lighting = game:GetService("Lighting")
 
+run(function()
+    local Ambience1: table = {}
     Ambience1 = vape.Categories.Render:CreateModule({
         Name = "Ambience 1",
-        Function = function(enabled)
-            if enabled then
+        Function = function(callback)
+            if callback then
                 local sky = Instance.new("Sky")
                 sky.Name = "Ambience 1"
                 local id = "rbxassetid://122785120445164"
@@ -2583,7 +2581,7 @@ run(function()
                 sky.SkyboxUp = id
                 sky.Parent = lighting
             else
-                local sky = lighting:FindFirstChild("Ambience 1")
+                local sky = lightingService:FindFirstChild("Ambience 1")
                 if sky then sky:Destroy() end
             end
         end,
@@ -2591,14 +2589,13 @@ run(function()
     })
 end)
 
-local Ambience2
-run(function()
-    local lighting = game:GetService("Lighting")
 
+run(function()
+    local Ambience2: table = {}
     Ambience2 = vape.Categories.Render:CreateModule({
         Name = "Ambience 2",
-        Function = function(enabled)
-            if enabled then
+        Function = function(callback)
+            if callback then
                 local sky = Instance.new("Sky")
                 sky.Name = "Ambience 1"
                 local id = "rbxassetid://121826915456627"
@@ -2610,24 +2607,30 @@ run(function()
                 sky.SkyboxUp = id
                 sky.Parent = lighting
             else
-                local sky = lighting:FindFirstChild("Ambience 1")
+                local sky = lightingService:FindFirstChild("Ambience 1")
                 if sky then sky:Destroy() end
             end
         end,
         Tooltip = "Ambience 2"
     })
 end)
+																																																														
 game:GetService("StarterGui"):SetCore("SendNotification", {
     Title = "RainWare V6 Rewrite";
     Text = "Loaded!";
     Duration = 10;
-})local ZoomUnlocker
+})
+
 run(function()
+    local ZoomUnlocker: table = {};
     ZoomUnlocker = vape.Categories.Utility:CreateModule({
         Name = "Zoom Unlocker",
-        Function = function(enabled)
-            game:GetService("Players").LocalPlayer.CameraMaxZoomDistance = enabled and math.huge or 128
+        Function = function(callback)
+	    if callback then
+            	lplr.CameraMaxZoomDistance = enabled and math.huge or 128
+	    end;
         end,
         Tooltip = "Makes it so you can zoom infinitely"
     })
 end)
+
