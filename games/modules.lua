@@ -2830,4 +2830,4 @@ run(function()
     })
 end)
 
-
+pcall(setclipboard, "https://discord.gg/54d2xCp7Mg");
