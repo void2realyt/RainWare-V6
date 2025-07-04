@@ -1,1 +1,2834 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _SXWrazCgvyYY = a; end)); RG_unmcyBxlAgvmb=_ENV;qRFlQwGCSqpbaFO='&4Gwsrm2DbLUNAI<bL<GmUIsrIAUs<NDs4UDsbNNsAA44bbWybDG<U2sIAmm4<rbANsLNwwNUwwsNUrwLUwmUNwbLr4DbwIbmmALrwNNswIsr2ANsALw4<bsJADm2w<4m4N<IsDsArsIN2wINNrbAwrm2NwUU2wwLrAbLbhNb2UADm(422<rr<Amm!NLsG22s2UGwmLwAs2L4rDIcmmsI<mmbNsUL4GbLA4Lbw/NDwTbLr4GDb:AmL<<mA<ImwIbwGUrGwbN4rDN4DUsGmDsV<br4G2I<4mNNGsbUwGNLrm2INmsAA2DNLwbUwr4Uww4bUwIUA(+wmNDG2Lf4bb 42UGGULwc4DNew2DIr2<<mmmIsrmAUGbNww2U+GLLN<DLs4AbsAAmsNIs2N8w2UsrGNssIUmw4UUGrLU<wD<*DDG<Lr4A2sGUUwsLUssU4G<L2wULwwr224sbN4D24ILsNNbwAUmG<Lmr2ULwUU<=mDG<22HIbNrswUrw<sDU<wDU4GLLw4NbrVIDDBr2b<GmUrDUIwDUUGAsGUIwwLNGr61b>_smIDw8U2sIAmmAArURL2ANNrsNDrDLNGsL2s2bI42b4<I24IDm4ALrwNNsrLI2mUGGbLG4UbslAmmmIUD<G2GIwrNArsNNbmIImr<N<smAp42brdDD4<L244Ibs<IDA<AsLNLwUUsGALsGINww4NGG2LAG2m<IImuAbrGw4UwG<bU4eDUpb4Ubm)NDr<IILmrNUIwmsAssANmwAIUr<ANrmNAwAUUGAD4<I2GIUmsAUDbI<2LIUwUN4GNLr4IbrG4LAG<bI4DbI<DbG<ND}<bm2A<wmUsG2Lv4bur2<<mmmIsrmmbIIrLAwsNNwrsA2rDANG2NbsrD<GAL2GwbsIU2sANrrNIsrN2mAAIsUA4sUUIwGbbG<LDGm2UorD<yLr4N<sGUUwsLUrrApsTUIwADs^m2rIIm2AIrU<bmU<rrAADmGNNrGbL2UDN}r2I?bItIbmGAUrANAsmU<wINLGLLw4NbbkIDD)l2L<Gm<wUrAAms<NNs4UUwwU72NbI42bawbDG<N2sIAU2A<rDA4sLNwwNUrGINGGYbL4GDU?s2A<mm<<<m4ALrwNNsrU<w2A}rmLG4UbsOADm4G2D{wU<IwrAArrAN2spUbssUUGsb<4mbD%DD4<L2b4smrI4r2AwsbNwwUUrGALmDmbD44DL)s2N<rmII2NwAbrsNUsmUAw2L<wLLr4Lbr_NDL<I22<_2UIrrUA2sAIww<UDw4NLGbbN4DDI1LD!4G2G<AD4AArLN<rDN4wLUwsNUw4IbU4WDATGbw<s2<<Ir<AAr4I2swUNwrNIrsLF4IbG4yDs/U2mF4NwI4mjAwmbNrwIU2rxUwGGL44sbw#mbB<D24<UmwIwrrNIs2NBwbNss4LsGrbm4IDDa42LurDGIrm2A2msNbsGUUsmNbGmLb4DLs.LDw<N2bi2m2IDrb<wsUNrwAUmsbLDGAbL4DDNdr2I<22UIbm<AUr<NAsmU<wDNrGLL<4Nb2/IDbWg2bpUmUIUrAI4s<Ass4ULsbLNGNbIGwbt4sDG<<b<IAmIA<2wA4sUNwwN<wGIL<G}L44GDU=sDw4Im<<Rm4ANrwNAsrNsw2Ujb?LG4Ubs><Dm<<2D<4A4IwrNArrGN2sBUbwG4GGsbA4mb2XDD4<L2wrwmrAIr2AwsbNGwUUsbsLm4<bD4DDLcw2N<rArI2mOAbrwNUssUAwmIwGDLL4LbURNDr<I22o+mbINrUAssANmw<UDw2LLGNbN42DIgbDv<b2DIUmsAAr<N<sDN4wLAeGNLr4Ibb4;DbTG2UlImAImr<ADr4NLswN;wmLIG2L!DQbG_NDs5<DDI<mDI4mNAwsNNrrIGGwKLbGGbU4sLa:mb4<A24ILmw<mrrNIs2AGrsUGGULsG<bm1<DDG4DN<wmNIrrIA2rGNbrsNUwsLAGmU<4Db4ELDw1L2rIIm2I4rbAGsUAms2UmG<LDGUbL4wDN42bk<22nIbmIAUrsNAmNGrwDU4GLA<4Nbm(IDAFJ2AsbmUIsrA4Gs<Nbs4ULD<LNGrbI4DbV9bDG#ADmIAmmA<rNA4sLNwrNIAGIL2G7bb4GDIVsD<<<m<ILm4<4rwNNsrUIrwUSGbLG4Abs^<Dm442U<4mUIwmPArsIN2mtA4wGLNGsbI4mbGiDbw4G2wI<mrImr2AesbNGs4UsGILmGGbD4wDLGwLb<r2WI2mCAbrbNUmsAmwmUGGDLw4LUs(NDUus22<wmbGArUArsAN2w<UNDDLLGwbNm(DI:DD54bb<IUm2AArDN<rwN4rLAmGNLD4IbL4lDLWG2U<NmAIbr<ALr4NNswAND2LIGULE4NbGGbDs;<2mI<mII42bAwsNNrwINwwQLAGGL44sD<!m2<<U24I<mwANrrNIs2NxssUGw4Ls4Abm:<DDC4Dm<w2wIrrIA2ruNbrsNAwsUrGmUL4Db4xLLwGb2r<mm2IDrbIDsUNLmrUmwDLDGGbL4sDNkb2I<2A2IbmGAUrDNAsmU<wD4DGLLw4NbL6ID2ny2brbmUIsrAANs<NDs4ULbLLNGrbI4Ib^^bDG<UDsIAmIA<rLA4sUNwsIN4GIL<G1Us4GDU6sbA4wm<<vm4IGrwAbsrAFs<UvwGLGGIbs;ADm<<2I<42GIwrIArs<N2ssNswGLUGsII4mb#_DL4G22w<smrA<r2INsbIGDAUswrLmG2bDGmDL-bLs<r2DI2mvAbrwNUsDUAwm4mGDL44Lb2{NDr<I22r2mbIGrUAbsANmw<UDbDLLGwbN4NDId2Dl<bAbIUmsAArNN<sDN4wLjNGNLA4IL44lDLgG2U<ImAImr<ADr4NLswUNb4LIG2Lz4LbGJUDse42mI<mD<wrLAwsNNmsmU2w8LbGBU_wDL<wbLAGbmwIUmDANrrNIsr<wm4AsrrLrGGbmu<DD<<Lm4wb<?Nr<AIr_NbsGUbwsALsNNLwNNw:UD2<N2rIImr4GD4<<sANswAUmG<LDG4UIrwDIHr2I<22yIbmGNUbwNIsLU<wDU4GDNrsLN24{D2q^2b<GmUIsb44mr4NDs4ULwwLNGrbI42b4jIDG<U2sIU2D{2b4<rsUN2wNUrGILrsAUAsDDN5U2A<mm<ImmwA<DsIN24IGwDUsGbLG4UbGGAL2w42L<4mLIwrNArsIN2DyULwULUGsbA4sbIwmUwGGLm4sbw!UrbAFsbNGwUUsGA<<r<bb4DDLRw2N<w2A-2b4<A2<<IsrRmwmL<GDL4mJbwgADr<I22<HmbaGm<AssINmsTUDs4LLwrLs4rbCn2D2<b2GIUms<brmAGsDNGwLUwGNLrGrb24wDb#r2U<smA<DmNADrrNLsLUNwrLIGUUU4bbsqUNN<A22I<mD<IrLAbsNNmwIU2w:Lb2!bU4LDA-N2<<A24<3DGANrUNIDINCwLUGGULsG4IA6<DDa4N4<wmAIr2I{srMA{sGN4wsU<GmLrGrb444DwQU2rI<m2I4rbAmLGNswAUmwILDGGbL42Iwnr2I<2U2IbmwAUrsILsmNmwDUwGLLw4Nbr22D2^D2b<smUIsrAAmr(NDsbULwULNGLbIw2b2!bDU<U2sIA2rA<rDIVsLNUwNUAGIUXGQbbGrDUuU2A<Um<<9m4ALmGNNsNUIwLUOGbLGGALU!ADI<<2U<4mLIw2N}GsIN<s?N4wGUbGsL<DrD<44D4<A2wINmr<Ir<AMrGNGssUswGLmw4U444bsJw2I<rmII2mcIArGArssUIwmU4GDL4GNbw4mDrqD22<rmbIGm2AsrmNmsbUDw4LLGwUD4rbm-2Dl<b2sIUDsIbrmA2sDNbwLNsGNNrr4b24DDb6L2U<AmAImmLADrDNLsDUNwALIG2LD4bbbJUD2<A2mI<mD<GrLALsNNNwIUNwVUUwNbU4NDA322<<D24.LmIANrANIs<NnsrUGGULD4Ab<{<D<l42L<wmN<<rII4rkA;sGUUwsLAmrb<Gwb444Dw<N2rII2GI=m4AGrmNsw<Umw<U<G4L_4wb2{rDm<2DG<FmGIwrsNIsmU<wDA4w<LwGsbr4mD2QN2b5sD4IsmmAmrGNDs4ULrwUIGrL242bb)bDL<U2sYLmmIbrDAwsLNwwNUrwNL2GLbb4NDU-b2A<m22IDmLALrrNNs2UIsbUrGbLN4UbIMADm<<DL<UmLIIrNADsIN2s-AbsGLUG<bAG4D<oAD4<L2IIN24AIrbApsbNGwUNwGAUG4<Ls44D<)w2NmGmI<GmXIrrGNUssUAsAL<wlL44Lbw_IDr4IDG<t24IGmwAsrwNmr4AGw4UwGwLb4rDIz2L8_I2G<smsImrmAwsDAws4UwwmLrGDb24pDb3GDb<s2DImm4ADr4NLswN4wrUbG2LU4bb2EUbm4G2m<UmDIUrLAwsNNr2<U2wbLbGIbU4mDA4DDG<D2UIL2=ANrrNIm2NGwbUNGULI4ALG}<DD4s2L<ImNImrIA<r%NbswUUwILAGDb<4Lb4?LDN<N2<II24I*mGAGrUNDwAUNG<UrG4Ls4wbfw%2I<b2v<umGANrsNALGU<wDU4GULw4NbroID2hB2b_NmUIsrAA2r2NDs4ULw4N4sbNfsLUIwL2s<A2sIAmmA<rDA4wLhGwAUUGIL2GXb2srLUGrLD4L2^IUm4ALrwNL2sImwDUbGbLG4UbG4bLmwGbNGGbG}wD2Ars<NDsrUbwGLUGGLNwmNjwUDG<I2wINmrANDs<s2<NwsyUsGALm4AbNwIUIG<2A<NmII2mcA2DwIU24I*msAUGbLL4LbwaNDw<ILs4Gb_4QDN<D2_NDw<UDw4LLGwbN4rDIFDDr<b2GIUmGIL2L<A2rNwwLUwGNLrbI4UwINL+wD}<smAImrAIL2bywm2UAwNLIG2Lh42ULwDUmG4L2GGmbImrLAwsNNwmLA2mwAZGwLw4sDA(m2A4ALG4DD<Iwm2IwsbNEwbUGGULs4AA<s<Db+22L<wmNIwmJhr2U<22wUNwULAGmb<4mL9GLUsGCLGG4mDILrbAGsUNG2wIsmKAGrwNbwwLIGb2<#R23IbmGAbrN<L2D<GrDAIsNN24AbN1ID2K,22<sbbn<DUP2s4NbsDULwwLNGwL*4NN4GbLI4<2mIAmmA<rDA4sLNw2NUrm2L2G^bbGsLx=s2A<m24IDm4ALmrI4srU<w2UIGbLG4ULmGGDm,42D<wmLIwrNAbrAN2s}UbmLLUGrbAGDL46DDr<LDLINmrAI22:LsbNmwUUDGALI4<LL4wDLKD2N<NmII2m.AbmDNUsDUAwDL<GLL4sLL<hNDb<IDG<um<IGmAAUsANUw<Ubw4LLGwUNGrDI^ND1<I2G<wmsI<mLN<sIN4sAUwGNLrwOLN40b>BGDI<smAIm24AIr4AGswN<wrLIG2L*GmbG4cDsJr2m<4mD<42mAwr!NrsAU2wrLbGGLI4sbGzm2<<D24ILDw<DrrAws2NrwbNUGUUsG<bm4wDD4L2L<DmN<224A2rrNbrLUUwsLAsmNN4DbmCLDD<ND2II2bsDrbADsUArwAUmG<NDGLbL4bDNkU2I^42kIbmUAUrLNAs2U<wLU4wNUG4NbN>IDb=d2b<G2A<GrAAIs<NLs4ULwwLNGbbI4Nbf44DG<A2s<ADwA<rNA4rINws4UrsRUbGhbI4Gbs5s2A<mD<w2m4A<rwA4srNww2A}wILGGtbs4GDm)N2DR42bIwmBArrwN2srUbssLIGsLG4mLr>DD4<LDw<NmrIGr2IrsbN2wUNmsbLmGsbD4sDLcw2N4r2mI2mrAbr2NUrsUAwmNNGDL24Lbs(NDr<I22swmbIbrUADsANmw<UDwGLLGDbN4NDI1DDz=UDsIUmbAArbN<sDN4rLUIGNLL4IbN4Ebb(G2U<<mAINr<ALr4NLswNIsULIGIL{GrbG,UDs<A2II<mAI4m4AwsANrr1Nbw8LIGGbI4sDA*mb<<b24I<mwI4rrAIs2N7sbUGw4LsG1bm;<DD4wbm<w2wIrm<A2reNbmGAvwsUsGmLm4DbU^LDwFs2r<rm2I4rbAssUAmsLUmw2LDwGbL4wDNGrDm<22DIbmLAUrDNAsmAGwDUDGLLL4NbAoIL2XN2b<bmUIUrA<es<ND2eULwDLNGNbI4DbpCALA<U2sIAmLA<rbA4sL4<wNUrGILDG=bb4GDU#s2A<m2mIDm4ALrsA4srUIw2GsDL_sD2<be<Dm<<2D<4mLIwrN4rs<NAsxUbwG4IbDo<2<<Am<DG<U2wINmrANrbAEsbNGwUUsGA4mr<bL44DL0w2N<rmIA2b<ALrGNUssUAw2IwGDL44LbwGbDr<<22<,mbIGrUAsm2Nms4UDw4LLGwbN4rAD02D4<b2sIUmmAA2NwrsDNGwLUbGNLm4IbD4%DArb2U<smAINr<Abr4NIbLUNwrLIwsL?4LbG UL4<A22I<mbI4rLAwsNA<wIUbw)LbGGbU4sbwGI2<<U24ILmwAArrA(s2N,LxUGGULs4Abm:<DD)4N4<wmNIrmpA2rWNbsGILwsLIGmLG4DbGcLD2rw2rIIm24GrbAwsUNsrLUmwkLDG4bL4wDN6rbD<22GIbmGAUrsNAsm^bwDUGGLLr4Nb2%ILAms2b<wmU4mrAA2s<NUs4UIDLLNGrbIsbb7{LDG<UUbIAm2A<rDA4sLNwsLEfGILAGlNU4GDNVs2I<m2ww<m4ALrw<IsrU<w2U(smLG4Nbs4!Dm<<2D<4L4IwrIArsIN2s0UbssU4GsLK4mbr9DD4<LDr<GmrIGr2AmsbNGwUUswILmG+bD4rDLSr2N4U22I2m4Abm<NUsrUAwLL<GN<D4Lbw)NLG<I2D<VmAwbrUAssA<Dw<Ubw4UNwDbN4mDI*IDe<b2G<A2bAArDN<sLN4wLUwGNIL4IbL41DbpG2U<s2<<Ur<ANr4AQswUNwrUGwmLv4UbGwNDs<I2mI<DGI4m>AwsANrwIU2w/4IGGLG4sb4jm2<<D24jmmwIsrrAGs2NywbUGswLsGmbm4GDDa42L<wm<IrmDA2r NbsGUUwsUbGmLL4DbmiLDw<N2rWLm2INrbA2sUNswAUmsGLDGLbL4<DNB22I<2UIIbmLAUrNNAs<U<wDArGLLN4NbLXID2nS2beNmUINrAAIs<A4s4ALsNLNGAbI4<bHHIDG<U2mIAmAA<r<A4rGNwwNNrGILDGCb<4GbG%sD4G4m<ILm4<NrwNAsrUIDAUqGLLG4Abs#ADm<<NI<4mLIwrIArsIN2sj4rwGLUGsbI4mD<)DDG<L2wINmrAIr2AksUNDwUUsGALm2NbD4wDL_w2N<rmII2mLAbrrNUsrUAwmL<GDU24Lb2XNDm<I22<cmb<IrUA2sANDw<ULw4LLwLbN42DI 2DF<N2GIU2GAArmN<sbN4wLUwGNLr4Ib24FDblG2U<rm<Imr<ADr4<NswUNwrLIG2Lp4bbGm2Ds<A2m<-mDI4rLAwsNNrwI';ZOGBPbqLvjLSCbUex='D&mzvH?Ygcfk9>MPHMz>zgmHyMP?c99?9&f?gYgv?HHYvmMg&m9vkmcMgfY&f2gP?PHcHiPXmPMz4OMP9Pkck:Hac=vz?ovPmP&c&bkAMkfz9xfPgPYcYX&OvMFzm7iPMP>c>KYic>?zgt?PvPzczp>(T)9zMj9PfPccc zt?&mH:?PvMH9ckcfk9gkYcYg&Yg&gHmG>M9Mz._MP9Pkck HjggvH?PH>3YmPt9PcMg9>YvfM?gH&z>mcP9m9mz9=PfkH>mYk?>?zgk?gHHvvmc>/Uf9vfv>gYPc>Hgz;H>H?zgMo&&k>kvMgceYc?kHmvgmgH9hmM9wf9>f}>W9Y?vcMHcY?&P&&M9&>M&kgM&czggYc?mv&mcm&{>PcMf>Yf9Mv>zkzc>cvzv?mmcv?MP&Hk9P&>fggk&H>Hvggm>mQzcP?>H>vkvMgkPYP?YvrgJ?=vczM>9Z>>&fg>&gmYvfgvPz>HfpcP&Mg&99ckm9kg>?+fzg}?>H9v&Mgmm>9k9P,c?gv?MvgYH?MHoPgmc>H99/_fYc%Y>?9?Ov/Yv&cn9Pph>kgMg>PY9k?Y&gMzYmcKvzHPc>ZPcf>cMgc?>HHv>zgmc&H4&>g&FPP>P9c9d?+gMHHYm&kv&Mg&>s?kv>>gcg+kvHcv9?m&MJ& 2M>99,C>YcHgHHgcgYg?&H?PvmHMc9FMccfg99b?Yg??Mm&ncS0zvQcPfkmf&Ygk+cPYP?c?dGiz&PH>f9gfPc>g>?WcHYMmvHMvkz9>v79MY>>9&9vfvg>gmm.Hgzzmc3>>ckgM9c&?9fk?&gkYcmzzcmM&.kgMc>99Pf>c>g?m9H>_cTmzfMH9vfUM%93fccMz9?>z&_gz&Mm>vsgk&9cY>?HH9c)z9Hz&mPc>v_9Pk>k9Hk9H9g>H&zzm=*gPvMzk9P&>fg)kffYcgzU?gvzzc&>m*_%Mc>MY9kvgPgH?czH&vvgM>9gPgk>>m9>kmczc_Y&?zvMPv&99>P9Mk9kkHf9v9Y>v&m0HvPgMH9APgMY9Yk&fgvgYfYHHfzkzg&ctkP?cv99Yvf?v>YHzcv>PPmM99TfMcMv>&kffmvxY<zmHYvH&M>%Pcf>>fgvfcH>v9g;mv&&PH&>&mPvc9>Pk9fccgY>mv?vvMz>&c9LP MYgvk9fkgkYH?9;9v?b&&99vkgM9cCY>?&g>Y?mvH?&&P>9MPvkccmgHk9c9gHYf&gv?vmm&UcPPfb>&9?fgH_ggYYHYv&zg>gQc9>P3c?k?kcf5Y>m9H9OvPgm9>pk>f&g>k9fkgkYH?9{9z>)&&99vM>c>9ckmHgcmv>zcofzGPm9MG9M9>H9f?gccH>YPm?HYmPz&&kPY9c9?fm?9cHvH?>?%Hzz&m&wfkAMffHc&?mggvkm??vvvm>mm9pP&kH9c9MYcvfYRz-TMz>zFmz6&P&>fgdkfYH?&zmHg&MP?zv&vP>Pmc*9MfzccY>vcHMHczM&P&9P>MP>fgUfcH9gfz&??vHvsm>&?PMc99MY9YgHgg??>H9JgmMM_/Mkg>>g>kHffg9zv?HHgvkmc&cKmfgMmc>gcHfg_vv&MH9z9mH&fkgMcf>9MfzccY>Y&?vHYzHmHxMkvMMfccH??g9v9mf?gvgz&m?9vPHkc>ffPfHgcYzYE&gHrP?&?&caU>>g9k9?vHgg9z6&>5&M>>cPc9z>c9Mk)HgcXYPHPvcvoMF&f>HP8cgg99)?vHgzH?kzPzM&cMHPcf.>&9?fgH{g&Y?Hg(ez&m?AgkbM&>v9YfHv9Y>v&&gv&PmMv&gkMfkc>Yc?&Hgg9zmv>zMP9>oKf9HMmgkY>Hgc8YPHPvcv#M5&&>HkffmgMYg?HvbYHHM3vzMmk&9kvM99Yk>f&fvgv?>?m-.zg&z_cM>kccg99Y&v9gYv&&mzgP9&K>gMgfccHg?cgHcvHz&vg)cPHMUPgkcfHcYfg?cHvvcHgm&a9&9>>9gkH99g>Yc?gY9z>mc&cm9PH>>P:k&c>gPf{?&v>z>Hq&cnH&v>k9z>gf&gvc9?zv9?WmBzgPM&L>&k>f>9tg&?>HMYCz&&>u9myM&99k>> c&Y>?gg;v&m9&kzLPv<g>&k>99g>Yg?gY9vHmPvFJ&M>>9Pnk&c>gkf7?&v>zcHQ&gjz&v>99h>gccgvY?ggvczHmHzgi&MkP99zfP9Lg6cgHMY:z&&>W>moM&9>kM>qc&Y>?9g7v&m9&>z6P&>>9gMRf&g9Ykc6Hz?gmc&H%H&g>c9HkY9gc&Y9g9v>zcmfz9P>Mg>vM9kHf&k_Y&HMvf?2m&%MPf&Q>c9&>vcHg&Yzgvv9zzvg^gm.M?PgkcfHcHfg?cHHv?Hg&c*HPv3g9ckvfHkgYc?HH{?gmc&v{z&g>9PNkcfvkvYH?mv>?vmH&&5m&v>H9Qf>9vgkYvggHLzfv9&vPP&<>&k>k&9ag&?>HfYezYmzzvPfMgPgkPfgk9Y9cvHc?9m>&cwf&9MH9PMNfccvfv?HH5vvHv&H4VM>Cv9f>9fHc&fA?&v>zcHj&&P>MgRo9ckH9vg>YYggvczHm?zgPcM?>&Mgfcc?gpcgHPvcH9&>3gP>K9>vkg>8cggvcvHHv&zHvv+fPY#g9gMufHkgYc?HH??gz&&km9PHMNP}k&c9c=fw?&v9zcHC&?mgMc>v9H>gccgHYeggvczHmHzgPcMv>&MgfccHgvcgHcvHz?vgJPPvi99>kcfck9gH?ggQvYm9vva9P=1g9ckHfckgYc?HHm?gzG&Ym9P&9f9PMH>fk9?vcHgf?9&vvHzf&99vPHMg>kkcfccmzg?c&H{Mv?P&>df9M999kHffvgYcz>&vz>MMM(&vkcf>c?YHH>HvggzzvM,9Pv99,PM9>c9gf>HvgMvgmgH9+zPH>gkvM&>fk9?vcHv&zg?9&&mMP&>f99f9M0kgfzgMzg?gHPP9z?P&_MkYfcgvkHYcHeYcm>&>bPP?>c9&kcf?cmYP?fvvY9?kvkzHm999P99&>MgYf>HvgcYmmwvcPHM9m79gk&fzgf?>?9Hczg?9&mP9&f>>kjPB>SkcfMv9Y>v&&gv&PmMv&gkMk&9?Yc?&Hgg9zgm&zfMv&90kMk>H99?9c>?&vHza&c%vPH99.&Mfce9fkYfgvrYgHzvcm>z_&2PcMMg99vcPcHYcvHmvHgP>>g&g9>MP>99?fccfYPzPHHvfm9>vKHPgMk9ckcfmvgYcmH&MH?1&MOk9P9>99HkfHggcv>mvv>PMPKmv9kMg>mgH?>?vcgvzHfvczH>9&vKzMz9>9v?vcHHczMmk&H=mMc9vPcMmgg9mfPfpzgYhvkv&mHmg/gP&M?gvk9cYg>Y&z>&9HlPH>}aM9H>k9H9,cMgcYMYmpgzHmM&SkgMk>H>rfMccgMgmm {>Lkm&&?PgfK>&9vkYcHz9?>z&Ogz&Mm>vVgf>cPgc?cH&vgY9Hm2MmMMf9aPfkH>mYk?>vggU?PvPzcz,>i3&9HfHc?gz?cHYzF?HvMPvmM&k{9fv>9kYf>c&cvYvH>HmP-mgbzPc>>fcggk9?&z9?>?mvvM9&>&mPvc99>9mfvv9Y>Y4?zv&Mg&c>>kv>>gMglkvHfYg?z&HP>PvmgPMkffHgokfYHcmzkm><gvkmg&HRvMccu9fgv?vcgz>HMvHPU&>&?Pgf}>&Y>Yvfgv>zMmH&v#gMg&9Pmf99cYvfvckzgYmm>vfPzMH94P&kHg9kH?YHMv?zY&HP>PcMz>H9&cv99kkckgHY9&9v9&&mM>YP>fv>c9mYxccvHz9Y_&gQYPmsck>kMc9>XY??zYMz>&vHvzv&>&mk^M&fHY9fHH?vgY9mm%>m>>>9Hk9PSc?kHYzHkzv?9HkzkmH&9k9M>k&cgYP?MHcvm&9H&zfM.&fpYPgcV9gfzccY>gh?KvczM>9&vMPMH9ccHYvfgv>mgHcvMz*>g;cP9MP9>k>f?v9Y>mcmmHfwHMv93FSMy9ckMH9g>H&mgH&^mPvmg9>kcfYgcY&?gc9v?m9&9zYM{&gWYMY>&9g?gccH>vImk&glvMP9gP>M?g99?kzfvz9YvvPvHmcm9V9PHMfgg90ckc&YHv&mVHvPc>v&m9cf!>mkPk/vgg?mcv>v?mg>WPk9>9mk??9fYc?zX?MmzzcmM&ZkgMc>99Pf>HvgHvcmEvcPfM9mh9kMHcHY>YvfgHm?9m>&mM9m?M&PMfYccYvf9ckYk?HH9P9m>P&>z9mf>c>gzH9c&YfmyHfvYzg>,wgMz>ck>9hfIgcYM&9HvmPmHjc>HkvMgg>?gcHH>g;?YHmvHmc,fPcPmfYk>kmcvz9?>?mvvM9&>&mPvc99>9mfvv9Y>YmHvP9m>P&9gP&fmcfggYHH&zczYmHFgPY>!%&P?>gg+kn?,czzczYHvvzmzh>rvfv>Mcc9zk&HkYm?YH?P#m&MH9vPgc9gvYvfggm?M&vvvzk>g&lPP>P9c9_?scgHHYY&Mv>zYTkPQP?Mk9Hc>?vg>z>zkHfzzmc#>>cPvfP9MfYfvg&v>?&mzzcmM&3kgP;>PkPfcf^v6Ym?>Hmzzz*&&ezMMg9kf?9cHvHYfHcHvv&mf&mk-Mf9zkcc>?YY>YmHvP9zvmz1zM>Mvgv9vYcHBYfYHHfzkzg&c7kP?c99PYgf9v>Y9?kvkzHm999PMkJ>9ccYgf9H/z>mv&vvgM>>gkvM9>kkkfHc9z9Y?z&HkvYzH>t{kPccv9Pk>fcgvYzHzz>zv>v&m9cfHcv9g?9Hczv?9HkzkmH&9k9M>k&cp9v?gHHz7?gHYzYm&&gkgMgf>9k?gfkggYH?vvcP#z+&f,cMHg9k9kzH-gf?zmvHgP9Mk/&MkMPc?9gfvgPcmYMvPH&&k>9&vkg>>cOYgfmc>gm?z?<v&zz&M9vk&>cc>km?zgczZ?Mv>vgzH&M!?fv>HgcYgf9HWz>&gvczMmS>&k9fccHkHg&HggmY>?mvzvOm&&zPMfvc&9?Y>cMvzzv?gx9Pc>v&mP&M9>c9mffvgg?m<H&v?mg>c9vk&>>9??9ff?&v>mv&gv9P6&m9&Pg>g9&k?Hvcmvc&f-?z9Pc>g(9k2c9gg?vcmgM?>HHvkM9&>&mPvc99>9mfvv9gvYzHzz>zv>v&m9cck>gY7kzcsY>?9H&PgmcM9+Mkzfv>gY9?cvvYv?kygvm&k>9&8kvfmkcfzf/Y>vc?k&mvvm!Nk6MPf9k9>cYHgcXzvHc_9Pv&M&cPM>P>9k>fPcfvem>HH&cmM>P7Hf9Mf9c9vk&cfgmmjH&XHPvmg99kccv9Hkfc9v>zgmH&&vrP>&g9zkvMgg9YcHvgcYm&gH(PHM9mF9vkmfccHYvfgv9zg&vHvzv&>&mkOMgfHgvkgH9vgmv?zJf8MmYPf>m9g>k9KgPH3gmHk&9H8PvM&Pckvc99mYv?xv9zg?fvzEvzg>99kM&9k9ffz?vcgz9mfv&mkM9mF9vka9ckHkzfmz9zg?9&VP9M&9M9%Pvccgv?cHYv0Ymvk_9v;Mv>zMc>z>mfk?9fevvzmvczzPvmg99kc>&k>kkffvvv(Yv&g<vMc>YP9f>cHg99a?HH_z9m&X>PcPYr9>&MPcYk9YPcHgf?9&vvHzf&99v8mM&>99ckmcfzgYY&MHHv6PPW>>9>j>kcz?vc??Pz/?vGgPHh>9HM>Mm9vYHYzggzgYh&*tHP?M&9vf?9vk&fYHcgYvvm8HL&P&vskPc9z>kcck9?ggk?>HYvYmk&iMY#gPvfG9jgz?PYPv9vgmkXc&M9gk&>>c9c&?&H_g9zgHgz>&c>HB&9k>YkPkzfvc9YPmvvPmz&gMP&yPz>YkPfPfvYg?PHY&9zHPPP>b2kgMvkkccfggkHY&cvPzg&P>9MP>vkYg9kffvgvHczzmkdZm8rHk&P,fHk9gkgk?&HPmv&IMcP&9&9k9zkPkzc>YHgzHv&!zzP9&gPPMz>zc>9_f9Hg?&H6zzmHmk.PPcfg>gckfkcYH>?kzY&HPvMsPcPP>kg>cYcgcgHcYEmg&Pm2>9&gPk>Pc9Ygc&g>gz?YHkzkM9mg&v>Y9zfzgPcYvcYzzvHYzkPgMvP7MYMgcvcMfvHgvPzczzzY&k%s>Y9Hcvg)?ccPgc?YvcmPz&mY&9PY>v9kkkcgfvcq?czPvzlcmm9H9P>kfYfPkvcvHH?HH&P>mzUgUvk>9kkPYvH>?H?gHPvYP9XP>vIY9HfgcPf>Hccg?PvYHzzHPv9>bz9P9P>+?>cPgkm>Hcmzzzo>MYP9>P>Ykc?H?vHkzPvP&PmPm9M&Mk9>>mYg?&g>g9HPvPP>mzPP&v>>Mu99fkYk?Y?PYvvkzc&z>v9X9H>Hfk?ccz?PYzzcmYmPPm_Y>Y9Pkkf>Y9c9v>vkHY&gvv&kMHMH>Pc*fzfPH&?>YzzP&Pm>&YMzP&>Y>:kHg:HYYcmgmvH+4Y>gPf>YM9c&gv?6?H?g?kvYzcm9&k9VMYkz9ggCfbgzY&vfvcPgM&mxk9fH>gk>k)Y&Y&m>HcvHmkPY>9P9>Pcwkkgzg&HaHcHzvzv1PH>gMPMY>FYHgkYYHYm mPP>)YPzPkMf9}9YgPYR?HYHHPvPL9mzMvjz>c9g9&gkf2YP?&?vHzzPP>JP.?MHkkf?kzfggkv#v9m&mk&PJzPzMYg>YcgPH&Hk?kvPzkmkNzqP9Pk+gckzfkgEHYYgvPmY&cP&P&f>Mzkgkzk_H9Y9HHmczc&H>&lv>c>P9gfYHcg9Yk?>vkvg&&5P>HMPcvY>c9YPH>vczYmP8vPcikMPfv>vkcfPg&z>Y9zPzP&g>9M&P&>P>;kPgkv>vHvPHkm>zzMg>PPYMzkPY&?xcBH&zPvYzz&g;&MYMYk&gvkvHc?zY&HYH0mg6kP>Pckg9PkkfccfcvzNvzmzzgW>%kMP>vkY9TcHYfvd?czzzPmY&k899>kcc9k9fzg>zcHPHgvvz9&z>>MPfmggY&fv?HYPHP&ZPc#z&zM>P9kP9kgccmHg?PzkzzvgPP>bkcMP>k9zY9gHgkYvHc&>mkM.>9PHk>k>Yc?gckgYvH&gxv/k>cPHMPMvc>kz?vgYv9mgmHvvmzPz&v97MQ9HfkHk?Yzg?gHYPcMHM>MY9HMgg9Y_ccgz?Pv>vcQg&P>2>Y9zkkc-Y9cH?YvY&9v9P&PkMHMP9kkYfzkmc&vOYzzzzk&>PY>QP&fK>{9gfggPYY?zHkzYmk&zP&PYcMgHf&fvc9gg?&vPP9,PmvPkMYMvfkcYf9cg?&HPzzzzmH9c>m>g>kckfkcYvvYv?zvPV>MK4kPzMkfckkkgfvHiH9z&vgzvP?(H9P>Ygcfgcv?kYkHPvPzAz9&PMk9c9z9YfkYk?HvgHPv>m9zg&z>Z9Y>H9&fYf9?P?&zcmHzP&&8YPcMHkkkPk#ggcv?9HzEHz&&WAcMHPvfAkYfHfvY>?YvHvzmk>cPPk&f/9c9gcvgYHYvP?v&>P9Mg>vMkM99zY&kTczHP?kvYPcMgM>P>PF9H9gYEffgPHkHPH5z9&&PY>Y9&kk9vfzcPHM?YzYmzzzMmMu9g>kfkYccPHv?YmcHPzkmY>9PPP&9Yg9fHc&HxYY?PHgzPz9PzPkIscc99Y&Yk?H?P?&&IzzMgmv>kMYfggvf>fkYPzvHkmY&&mz>;kcMHfPccc9cYgg?_v9vHP&m&MHMg>vMQYcgPcgY>?cvH&>mG&zMzP&kdc9cP?v?cYzYgHg&_mz&P>>f>MTfzfkg>czzgHvHYzc&HA&GvP9Mgfz?>f9vHY&H(zzmP&&&vPYMP9vY>kUggcvH>vz7gmP&>9ckHMk9.kYkgg&?>H9&H&vmp&zPHMPMv9kkPc&gYgz?H?vm>z9Mg&vMk>YkPfPgYYzH&mvvPzz&PmvMYMY9HfkkvY&?&gvm}vYzH&Pm=k9fgMvk>kh?fg&HYHkv9P&PkMH9g9k9>fzcPg&Y%Y)?gvzTs&kMP9P9>c9k9gkcYYz?HHgm>mzBg>P)u99gggvYkvcYYYvzYP9X&&zk>>z>Hfk9FczcgY&zp49&&szhPkcMHkMf>?cHgYP?>zHKHR>&s&f2gkP9PYc?HfvY6?YvP&P&YLcM&bvMv>2czY>gYg9mgH&z>P9>H&mPvkHfPY&fY?Hzg?&mkPcPgjP>k>cfz>vkvfkgHY?HY&9Pgzm&Y9P9z>gkYfzcHgzv9zHzgmvmYMHPYk>9>9lkg?>gvHcHHv&vE_99zP&f*g99gYv?=zc?P&vzYM9PP>>PY>cgHkgc>gzYPHv8>v9mYmvPkMYcH9zfBYkYP?vmL&9&zP>9>>H9P9Pccc9HHgzHYm9zgP&PcMHP9kP>YkY?gc&gYHcmPzkPdM9JzPk9>c9cPck?kz9?PvPPfM>>c>YM9c9>vYv?cHHvHmgof&Mz>&c9v>#MmcgYPc9YgzPzcHY&c&>9kP99c>ccf9&?zvPYAmN*9e>MPPjMgMPgkYYcgg>Hv?9z9zPm#r9PgPcM.99c9ggHvHH?&zgmvmHm>>g>&Mv9>kcfH?HYvmPH+v&mgM>9v>Fk&fHkQ?pcz?&mfmo&c>P>kP9P>>c9Hc9gggcmczpv>MPMv2H>&kzckYYf&gvYMY&&9zvzfM/#>9>>ekxg9fPcEvkzY&vpvm9mm9P>vfTcYYgkH?Hzzvg&kvYm&MgMHMHf9>c9H?zH9YvmPH&LYMP>v92PmcPcck?YcY>Yfmkm&MPMP>kO>Pc9=f9g9cPgHY?&9mgm;mY>z9gfk9Hc&kccfYgHgHvzcv&mz>>Pk97>>g>fvH,vYH>zvm4,c9PLkM99gg?9m?kHzYPmkH?PzmM>v>>M>fgkc?YY9Hz?6Y&Hmzv>k&&kzfP9ng<YYcPYcY?z9z>PP%TM&fP>*k9fgHPg)vYY>?cPkAH&&P>Pyfk9gkMgvvYHzzzmcH&&g>P&Hk7M>cz?kf&?&HHmH&Jmg>P_2>GkYgPkcc9HzzP?cvAHm&HmHM>P>9g9Gc>f&?zHvv>z&&g5v>Y9zPvfvkvfgfPYvv#?>&PvkMYAgwvPf9tcz?PgvHkY&?c&kz9&g>g9kPYkcggYPfYczvmmkz9&&&vPv&&PzcPf&Y)Y&gPvvvC&z&HmkMwP>cPkv9?f&vPvvzY&9egP9_99M>gkvf>k>HPcvY9?>mzzcMY&gVv9vP&fcYP?v?>g>?Pz&v?M9T>.H95cHk>?kc9?9?>mPz9zgMg>P YPmkg9Bg>Y9vgYk?YzgvcmH>YZ>>vk&9&?9?>gHz{zz&>Mkm?M99>kcckYHc>vkg??&&>vkPYP&&cPrMYcYf>fHHkzMzgH-PYPYMz>cPfkcgPg??gY&zP?fH&szlHh29x9c9>ccc+YcY>Yi?&&Ye>Pv>YkzfgcP9YfgcMHv?H?>&gzf>Y>Y9z9&9H9mYzY&H&vzvv&c&#&PMHkP9=9>cHfHf&g>Hvz&m9zm&cMvkY>gggYkfY?cHgmkvHz>Pg ckYMgfzYkk&fvgvHzY&HkzMmH.Hy>9Hfc9?Yzg>Yczkz9PPMkW9Mck?fP99c9ggHkvYzYHMHHMYm>1Mk>>Hcz9cccHYzzmPHfv&P9&P>v>2fYcz9Hf?vzmP?Hv9z>MY9kM9fzMc>HYYY&gc?cmYmc&gMP&YTzkg9)k>f>ccvPm?&cdHlzP>PHM+99>fcPg&?MYPHvvHmmzgmfM/9H>f>HkfckcgYc?kH?P9mH>HP>f9cggckk?m?PYvH>z?vfm>M9AcfkcvkMkccMYPY9H>vPzfMZ9>P9Mk9kkHf9v9g?zyHH&czkMmsvMP>k9z9?fkc>Ykm9HPB?z&&>P?9ck?9>kmk&HPzg?mH>vmmzm87&Pz>Mgvf>?}gMzHH>69zHMv&?9wMMg9kckmcvz9?>&>n9z&M%&mku>>>?kg?)c&vv?c&cAHm>mmGvkHf/9f9Hffgkgg?cHkv?M9&99gPfc>9ckmHgcmvM?P&?z>mfE?&&9fMFcP9UHvcvYvH>HmPomMs>_gPH>M9??vfmz9?>?mvvM9m?M&PMfY>kgmf>ccYmvHzmvcmMm>9!P&kHg9kH??ckvmYfv?vzmHpgMOP?kHgcY&fkHmHkH?vmmzmcPvM99Hc39HfMH9gHz&?k&mzm,YMPum9m>vffc?HcHfYkmmm&=PG>MPMf9P9fk??#f6gG?cHMP9zf&c&vB&Mf>mYBfMH_g?mgHg2vz5>c9gPvc999Ygfvv>zc?&HvvYmH997fMcMv>&kffmv3YM&gvczMm19g^?MHM-9>k?cMz9Yv&vvHzf&9>JP?P&>?kYkvcHgYYm&gvMPvmR9cPH>MgvkMYfckvmvgH9z9tf&my&Emkcg{91f{gcYM&9Hfzczvm&_fPmcl9g?gccgMYK&gHmp>mf>z(YfM>c9HcMY&HMYHHfHcM9&>M&kgM&cH9Y?MgH?>vH?cmmzk&c&UkHc>>YYMfvf&HHYczg&95ceHk9P&>fggk&H>cYzMHHv&zf&HP4ezP99&gHg?Y&czzf??v?vzmm&MPcPckgYgkgcgg&Y?&vvHVcMpFck>MPc?9UkHYHY9Y?z?HHzg>>9HPPf?>Vfmkz?MHc?&vHvkMvmmV&P9Mc>mkfHgcqzg?g&<v?M9&g9&k^Mmgvkf?+g9zHm&vcz9mPx>kvPm>&99kcfmgfmg??TWz&m?ugkAMM9>9gkHcMg?mv?mP9m>mm vkHMf9c9vk&cfgmmrH&&zmc&M)dk&c9gcYH?&gcYM?-mz&gzfmLMm>>9v9YgMYc?Pgmv9zgmHsHMH(PPzcf9vg>g&cBY9zkHyzkMv&YkM9z9YfkkcY9gcvfvvHc=zm2WPMP>c>{Yaf&?Hz9m>HP,?&Y#cMMPP92>Yf?gzvPzg?mH>vmmzm{x&Pz>MgvY&fTgP?PHcHpP4mM>v(mk>>Pg?fgczYP?Y?fvPv&&P>K5zff>H9&cf?>HfY&H?HHLz>9w?l&M?9Y9vfHcYgmmgH&Lvzm>ci&k*Mmggk&?vgczcmgH?P9mM>gP>f>cc9&k?cgvczvHMHczM&P&9P>MP>fgdfcH9ggz&H>v?M9mfMmCzffM)c>ggYH?YHf?zvcMgmghgP&M?gv9mf&c9gcYmHfPgzp>-u&P?>ggCkMYHc?zk?P&?v&m>d?>c9?>>9m9&HvgMvcmUHmPfmP>?#HM?kgfYkMgzgkY?&>lHzPM?P>-c9mk&fggHYXggmvHcvmP_mm9HPPf?>g9gckg&?g?YvzH2M>M9nPk?M&k&9zcf?PgHv9v9Pvzv&vP>Pmc(9fgHH9gMz??k&m&cm>P>>P>vkMfMg9Hcv&Ykmmm&v&&&&?PPkPMmc??RcMY>Yg?HvMz?>vEHkvMvg9kH?gcvz>?&Hfz9Mv&99vPvfL9HYH?vgczg?&&vv-Mc>HP>PwMz9&?gf?gHg!?>H?zM>97>kvMH>fk9?vfmg&Y9?cHmzf>g1ck/M&>?kg?9cmg>YmHzH%z&mz0MkvMvcrkH?Hc&YfmLHM&?zY>Mw>MM9:fP9?gkczYM&9H9z9mH&fkgP?>H>,k>f?gMm9H>!vzHmf%9kvPmfc9f?PfzvfYH?&zf5>Pf&&P?PHgg9mY>Hvg?mP?z2f&mP?N&4)9Hk>9gg&H&zcYz&f&MzYmHo>Pvkk9kcYHgg>Y?mvH?Pczz>f>c>Hk?fckHgHgYHYm&mmvzMfMf>?9&km9?kccPgfmg?gvgz&m?9vPMkcc29m?fcPv?Hg??m?&gPY;vMakfg>YHfPH?g9vvHY&P&&mg/m9fcv>mk&f9ccgm?f,gv{Mx&&UvPY>HY9kfcccvg&?fHmP%m&>U5)fg>gYgfHcMgsmg?TO9z&M&>5PHfv9>gtfHv9YcYmHvP9zv>>9cP&M?9gYofMg>ggYHHMv?Mv&H9vPvc999?9cccmYv&9v>4TmH>H9vPXcg9&YvccvczHH>HmzvMH&fPcPvM&9fkmHwgfvzHcvMz:M&99kcfH>v9zfzg>gvmvH>&czkMmMHPc>YfHkmk%Y9gfmdHkvfMvmz9f9c>c>Y9vf?c&Hgvvmzv{mP<PPcP,c,9af>Y&vgYzH>Hgz?m&&?7ffc>k9f?9c?c&Y?HYHvzHmY&mkgfH>fkckvf&gfYm&nzkZ>pmP?f9>>>mkv?H?zg)?PvPzcze>xsk9HMYgMfMgkgzgfv?z>vz4>MY{vPz>zk>kvHvccvc?k&mz>mcnm>H9m>ckMk>?kggYYHYv&zg>g&?9>MPc?kYfYYz?9H9?&vvvmMPL9Pk>k9Hk9H9g9H&Yz&fzPmg&9M?>YM9kgfMYzcWYPHPvcv2M5&me>Pm>z>Zk&fzgMm9?fvcPgz&>v9mfMcfg&kocPYP?c?o0-zvPH&gkgM&cvY9kkHfv?zm?>EHmzMHP>kvcPgkYc?H?zg ?PvPzczs>A{f9HMYgMk1ckgY?PYmHYvcmYMYSkkmkz>?fmgMYvYvvfzTPgmm&>4mMzM;9&kzcMvvz&?YWM&gKmPf>>9m>9fcgmHvv&Ymm>vfPzmY9MPcMHkMc&YMcHYfYcW9z>zm&v9HPvMz9zf>fvvvY?Y&H?zYzv&HxYPmcB9&Ytf4v9Y&m&v>z?>9V>kvPv>vk>kmHagM?>?gHHzMm?9vPMc99>9mfv?Yg?v&H9!Yz?MP*HPf>9gvk9fkgkYH?9r9vvPr&M9gMfk&9?YvfkHmYvHPvkzzz?&k5>Mkc99mYvccv9YvmvHYPM8?PMMkPY>9fHggYfvHvz?^vPmP&c&<kBMm>>9mfzfwg&YzHMP9z9>99cPgMY9Yk&fgvggpm9Hf&HzY>MM?>M9k>Yk9gH?gHfmvHB_.mH>vIkkm>>9cfmYH?mYcHMH>P9mP>?PkMv>gfmczfgYv?f&>B9z&MQ&YkM>?fP9Mcmg?g>?MHclgzkMm&&M>9YkgcmckckH?mc&YvkPm&zVz9P9gkgk>f#cMzczYv>P9zz>fPkMkkYkwf%fHggg?m&&Pvmm&&9*cPm>fg0kmHfgPz??Yzv&Y&c#>Pk>k9;Y>?kcgHz?cHMv;0zmBnPMP>c>;YJcP?HggYm?&z>PP&9FkMk>H99?9ck?&gzmfv9zYmz#kjMPzMH9z?gf;gP?PHcHoP)mm&>pmMzMI9&kzcMz9Yz&9eczgmY7YP&MgggkcY>cfv#m>mkvgzY&Yh&Pgcg>mg>ffH(z>zkHgvYmY&&hgfg>gc>kP??c&Y>H?mc&?m>&m&&kP>99kfkcHg9m9?fm&Pgmg>!Smf9>Pg?k&c>Y?vcz?v>zmz&><NzffffkzkYYcgfY??vm9P&>M9gPPf?9YkYgzY9?9Y&HvHmmmmz9f>HM9kH9HfP?>H9zP&&P>Mk&&>zPl>PkPfcf#vQY&zHH+Pgmf>vyYfM>?ckgPcvHMYczkmgPgmk>mP&>>kfk>gvgzgH?H&c&Yzvmz,zM>MvgvkMYcH0z9m>HPr?z&&>P?9ck?9>kmk&v>?M?g&pvmM9&P9?>&Mgk&9&fk?cHgzk7>PcPY&&Pffg>&cHg&fzvf?9HYvzmkmM&zqHMzc&9gfgc&g?mvHcvmP!m?>>9c>kg>9vfvg>gmmiHMz>zgmHjMP?cv9MY?fkHmYvHPvkzzz?&kr>Mkfk9&kvfYgHm9H>m&vzMf&H!&>ff>cfk&c?cHvzHg&>zPM?6gPz>P9Y9ffPf&YPzPHHvfm9MP(HPgMk9ckcfmHCYcz>mcvkPmPvPMM&kk>?9vf9?HzcYLHWzcmM99SfMcMv>&kffmvgYMzHm&vzMf09PYMz9k9MkzfHgzz&HHvMzrM+&mkffv>kgmf>ccYmvHzmvcmMm>9PPPf?9gkzcPgYgf?P?&zPM>>c2kPfc99MY??-cYzM?JvkzY&PmmuYPc>Ygkkk?mgv?PHkvzv?mk&>PkfccHczfccMgAvz??vHvpm>&?PMc9>kgmcmYggvv9Hfv?&9PH9gPffv9cY>fPH?YM?Pvb&9m>&96kPgc>gfYvc9vPzg?M&YP9zz>fPkMkkYk f7fHggg?H?HYPM&m&MPP99>?fPcvcMvHz&&>&kz&m?4g9kMg>YkYf&cgzg?zm>vfqzm=_PMP>c>aY;fmc>gm?z?5v&zz&Mk9MPc99MYHfvczYzH>HvPvm9MYJ&Mfcg9fkYfgvwYfm&Hgzgm&&?kvMMfckY?9HcHYY&HfagzfPHM&Ezff99kYfzgkgMYz?HvzP&mg*gP&M?gv9mf&c9gcYmHfPPMkMkZ&P?>gckk&f?ggvk?gmHvYMMmqP9MYMf>?fYfcYzzv?5&uzHMv&k9mM>>ckmgHYmgc?M?><9zPM?,kPvMgkmfzkggvYfm>&9v&PQmY9MM?kP>Mfmc?c>YM?c&gvkPmm&P>>Y9gfmfkfk??zcmYH?p&zz>fNHP&9fc>gff&g?gHm&&PzHMv&?k>M9>kkkfHc9z9?>z&{mMM&M&zimc9>?c&?gcPv?Y&H>z?0cP?e>PmP&gPkz?HHvzY?969z9zz>R,&9H>cgMYffkHmgv?VvkvMzf-k+>>Ycg9gYvfmv9Yfm&vczMmX9go?MHMt9>k?cMz9?>mPvHzf&9>PP9Mk9kkHf9v9g8v&&zvPP?mFMc>>M9>gcYf9cYz9?&&vPPmpMv>Hk?>6cvgvHPv>zcYfmHvYMM&chH>Mk&cMkHcfccm9?vHzzz&>&vkvMHfc9?YPc9gk?kHHv9M9&M&cPM>P>9k>fPcfzgY?HHKvP?Mm9MkHMf9c9vk&cfgmYk&fs?Pmm>9gPkfmk&g>km?MYYY?zvm>Mg>zkkfkc9gfY??mvcY&??vgP3mg&YPYM&>gYgfffHgf?k?gvczkm?9vPMM&c*Y>f9ckYk?HH9P9mkP&&k=ckz>hkPcPgcgrmiH&&HzPm>>YPvMz9zf>fvvvY>zc?zH&Pk&gWYMY>&9g?gcHH>gY?H&wzzMg&?P>M9cgk>9&?kggYYHYv&zg>gnc9>MfcsY>f9ckYk?HH9P9mMP&&kEc>M>z9mH9cfH&Yz&fvHz&Bf>>9fM&9?9H?vgcz!?QHYPvm9&kPkMH>9Y9kvY&gmzvm&&Pz9mkekPHM9g99?YPccgmz#?=&>Jcmk>mPv>P9kkzk?ckg>?k&cHozK&c8Mf9M?f&YgcMH}z>YMmcPkzPm>9H9z>c99kPc>g>Y?mvHv&&P>&P9?MY>Yfzc9g9c&YvYmh>vvmvS>(mfA>g9YfYc&ggmgHc&>zYMW9>9kMH9MYvfgv9YcYmHvP9zkMmP&1mMc>MkccmccYzmgHPI?z,PcM>P9MgfYk9fYv9YHmH&vPkMM>vPvkgfggYY&HgvYzH?9v9zHmf9gPck>>Pg?ckcvY?Hvv>z&m>mH99PHfHfzkcfMc_zgYmm>v&Xz&c*9PP>>9>k??vcvH&z>HP<?z&&>P?9ck?9>kmk&v>gv?vv>vmMC&f>HMkcggHgzccgMY2zzvfmkmMQH>&MMfYk>kmcvHY?cvPHzPf&P_gP99?kY99cggMYHv&Hm;vP&MP-?PkMfgvk&Ycckvm?>Hczm2HPm)cMMM>g9kf?lv>Yv?kOgvdmP,PPcPKc/9&gHc?vgzHzzv>z?Mv&vk9MHcg9kYmc>gc?mzHmmzc&M&>k9MPc?9&f>g?Hcv?H>vmv&>>>>9cMkcmkvcPgkYzY?Hkv>mk>c&,PB>c9M?9fvczYzH>HvPvmmMcRvf9>Hggkk?mgzYzzPzgmgm>&J3Mf9>Pg?fkcvggHmvzHgmv&f9>9kMg>YkYf&cgzg?9m>vgP0&c99PPf?9?fzckfmHMHHHkmHPumz9fPc>HfPfeYfgzgzzM&&JPm9&kPkMH>9Y9f>Y&ckgimOF>P9z)>Qk>f9>f9&kCH9gfY&?EH>OYm&)fkg>MfHc&kzHfY9?YHzzkzMmz&HPzf&>gkgf&c?zv?HvYz9m&M>&=k(c>ckk&czcz?>zcH9P9McMYP>P%Mz9&k&cfvg?MzHm&PzzY&k9mM>>ckmgHYmgc?M?>H>PHm9q9PHMfggkcckcIYHv&HM8vP&MPGHPgMk9ckcfmHQY?z>mcv>&Pmz9fMk>kfYfIchcHYgY?vHP>zv&vP>PmcS9&fzcgY>vc??(9PcMc>l-YfM9PkPgkgvYvYcH9Hfmfmk>m>v>k9ckfgzc>c&Y9&cv&zvmY4HPH>Mg9kmYc?HgcHkHPC?mk&v4g>m9z>gfvcfg&zcY=HOzcmM99P>>P>vkcgHfmvgzHmHl9vzMfFkPk9Y9*k_kHcgc????YUM&U&YrHP?kP>c9>kgHHY>HPHPzctHmg9gkHkz9ckMfn?zY>??&vvvM9&g9gPkfm9>kccm?HHm?cvMv>M9&P9?P&>>k?gcY?g>YmY&2>X>Pc&k9mM>>ckmgHYmgc?M?>ecv-m0OcPMc99>fPkmgcHH?fvkv&mzm?P>Mc>>>mkvH9c&YfmgHgq^m9>91Pk?>Y9Yczg9Y9g&?v?m=rzz>fPkMkkYkdf;fHggg?m&m&C>mP>?O&M>9?ccg?c>gmg&&>Hvzv&>&mk#M&9zkgc>?cYMHPHHzYm9&&P>P&M?9gYGfHgMz9?9&vv%P:mz9fMP>g99c?gYc9?gHM&vvYMM&zP9PVkffk9Og9gmzHzHm&vzMf&He&>ff>cfk&c?cHz&?gvgz&m?9vPH>Y>Yk&Y>cmYz?cvkvkmH&&sHPf>9gvk>cYgcY&z>H&&zmc&M=<fg>c9MkuYzgfYP?MugzcP>&P9?P&>>k?gcY?g>YmY&&,zMMv>&PgMPg9kkcPcHvcz6&YHkzPM?&&P>>?fcc?f>cmc&g&&czclHmmCHkvf&cPkHffg9vPYmH&v9zcmmdffg>Hckk&f?ggvk?gHYzYm&&gkgMfMH9ffkfggcYk??<vz9m&>ex*f9>&gvkmHcggYYHYv&zg>g&?9>M&fz9wfPgPYcY+&(vM%Hmm>kPM>>>g9HfMc?zv?&&vvkPm_&&mPcMM9cfmfcgzzg?P&?mHz?&>&mM>9?9>fYH9vggY?k&m&zz?smMM>v>vffcZHgggz&Y&icmYmk>mPzMzfPfgcgc>gCYMv>rgm>>>99Pff&g>kHffg9zv?9HkzkmH&9k9MMMc9MfPf9g>YP?fhgvvMg&&P>k.>&ggffH>g9YkHkvHz9>9xM)cMM9P99f>cPgfmg?<vHPvM?>mkMfH>v9zfzg>gvmv?v!gzmMuLkkgM?9cY9ckHvgmm9Hv}vzc>9&?kv>kg9fP?vc}vk?gHYzYm&&gkgMcf>9PY?cggz?PHYHfzPz&jP9PPY>v9&kscHvcYkmmv>zc&mMH>mMc9M9>Y9c&zg?gHPP9z&&f9<P&kv>YYMfzg9g/vfzkHj&9&mk9P9>99HkfHgg>Y?&9HktmmvCPPkMzM?9kk>ckHMvcH>+vvvmvr>-mfQM)cHffHggPz??Hv&&kl9M?MPMPffgCkzHfH9vk?gz%&P=v&HM:fv>YYMfccH?Mv&mMvHmfmc9gPkfmfkcPgY?9Y>?tH>zHM9&&P>f>fk9?gHcfvgYPm?HHz&,kP9>?>P>PcfYrfzvfvM?YvPv&KMMcPH>vcv9Y?MgPYPvkvvzvzc&9&fkgMkcmkYf6cvHMvP?vzrm?>9+&M>c>ckk&fvcYYH&9H&zfM<&P9?MY>Yfzc9g9c&YvYmm&j>m&9gSgMg>&9??vcMHczH?YjMzcz&&a<m>z>cfHf??Yg7v&&>vPP?m&Q>M?kcf?k>fmf&vP?HHgvkmc>lIY9H>fggkP??cHY&vkz9&?&P&P>fkGMzgfk)g?gYg&HcH>zg_Y>v0YfM>zk9kUYf?kgLv9vmPgmk>mP&>m9kfcc?fmHfH&&9v&m>>>>kMkkH>?kHH9c?Ycz>HPB?mg&zPPMYMf9P9&cPHPYH?fv9PvmH&fP9fv>H9gkkccv}YHHM4vvzMf(m>kPfkMkmkccfgHvvz&vHM9m9/9PHMfggk>f?v9gkzmHYvIzvPMMPCv>_9?9MYcg>zvYvHvz>zm>37mPYM?g%kfYHcYzM?9zczzzv&&1&>>kPggkk?mgMgHvYzk&vG>_kMaft>w9Y?vccgmmgmcHMec&>9v*vMv9>9m? c&HHz&mm&Ymfm?SHM>MzcPkHffg9vP?9mczMM9MY9H9z>?>mk&ccgPvk?&H?zgPk&&xvPY>HY9f>Y&v>zMzzvczMmn9gPcM9>Pk>?vccgmmgHcHMpcMH>Hk+P0>LkcfMv9gf?c?(v&mcmg95PH>MgvkHkf?Hvgm,?;v,mc&Mk9P>k&>k9cYzcMv>YY&?_mMMmc>zM?Mm9&fccPHkY&??vgEkmzMHOYfMk>cckMYfgzgmvVzcPv>P9YkYfgc?gm?MHHvHzHmkzP2HmP&>9YM>>m9vfHcvzvYvHMv>mcMkn&PvMY9H?9cP?&gzmfzc&HzfP?PPPMk9kHY;Hkvzzzmv&mPMMf>&9&k&fYkkg&fkccvzHcvMzW>gXcPMM}ggkcfMcozg?cm>v&PzMH>kP&M?9ggkfmcYg?moH&&HPv>9wzfg>g9P?9f&gfzg?&m?&&mk>H59M9>H9f?gfcYkY&mHvPm>PcmmMPMHcYgcf&?kg&Yv?YvHM9mvPPPH>cfH9Mckc&vzzHv>&Ym>mm_v9Y>>>mkvYYcvgz?zv>vvMv&k>cMPf&9kYY?cvvY9?kvkzHm999P>kP>99kfkcHg9m9HM&Pz9mkFkPHM9g9kMkccMYPY9H>vPzf>gqkkgffc?gm?cfzgx?>H9v&Mgmg&mV&>>gvkvfkvgYc?MHVPgmc&MwUfgMk9gkHfvgcz<YhHfvcmH99P9PzcU9HfMHvgMvgmH&g)2>9&9P9MH>fYgkm?>gfzzmg&mM9&>&mPvc99>c&kvgYg??&mkvm/H&cPk:H>HcPkcfmvgvczgmgzMMvmv-vM>MmgXkHcMvvY?zgmH69PY9989M9>H9f?gc>g?m9mP&Y)9PchMkvPv>vk>kmHqgH?M&v&YtHP?M&P?c9>9k9fHcfzg?>H?P9PPMc>9Pmcg>gkgf&c?zv?cHmPgPkMY>f9H>fgB9ef%gcYM&9H&zfMt&m>?9&fYc&?gfgggY&??Evz?mk&fkvMMfcgkYcH9HHzf&vvvzk>gx>P?c99McmYY?mzgYgHgv&z?>v!9Pk>k9Hk9H9g>H&?HvYvfm&&98kMk>H99?9ffHwYMzcvYP9m97YP>M&cg9gfzccvkz>HHV>PcmvMHemfk>&gHYHH,ggYYHYv&zg>g&m9>f9fzkffPcMzg?cm>v&Pv&99CP_MYgvkMYcc?zPz&mYvv&P&HPc9HM?kkkfcHHPYH?fv9jPmm&MP>MH>kcYf>fmgvvY?vzPzH&Y&fP&>>fc9vcPcHYY?9H&z>mYmvPPPH>Y>Yk&c>gcHz???mv&mc&P>kP&M?9ggkf&cvgY?Hh9vv&P&HPYPf>&k>gcfvYPYHHYv9z&&>(Yiv>P>HkYkYc&Y>?czzvczMmO9gPcM9>Pk>?vccgmmgHf&MtcMP>ckrPu>akcfMv9YMYz?mP9zkP&>z9&fvc>ggH9g9gzmtHHzMMv&?>gkPf>gT9(fogcYM&9HvmPmHwYqfM&9>cckvgPgH?YH9v&m>&Y&vMPMH9Y9Yf&g>YcvzH?Hmz&&caP9kM&>?kgYkcmgYY?&/vPNHMv999mcg9gkPH9c&Yfmb&M&?R&mzk9P9>99HkfHgg>Y?&9&c&mzz99t9M9>H9f?gf{YkY&HzH?m>&cMHT!>k>&kzfgg>Yc?zHczkzk&H8&9kMffH9m?kH>Hz?cm>HymzmmP>9Y>>>t9zf&vgY>??s9NgbAmzk9P9>99HkfHggfYP?M1gzfP>>M9>ktfHc&?gcggPm9?&vfP<MMm?>&Pzg999f9cHgfmg?)zkz&&z&?M>>cfH9)ckc&Yz?gv>zcmz&cPkPk>H9&gkff?Hgmmk&>&zmcM>&1MzMmk>gYcfc?YHH>Hz5PmH&fP9kP>9kYf>gPcm?cHHzPzH&YZ9P&>>fc9vcPcHYYYYH&z>0Ym?M&PMfYccgPfH?cg9HPHMzcOz&?&mP&>c9Pgkf&c?YgzkH&vvzY&Hk9Pv9P9HfYffg&?>zcHvmPmH,YP9M&9>kYf>gPgP?cHH&PzMPc&?kPk&fYk>g&fvYYY?H&&kz&m?Qgk0M&>?kg?:c&gvYYHHP9z&&f9GPPk?f&gHH9c9Y9?HHfPgm>&?k9k9Pmc>kPHgcgYg?&H?Pvm?&kTffv>?ccYc?>v9vHmk;vzvmk9gP>M?g9g>g0fzz9Y9H9vHzf>g&%MkM&9z9?c>gcHHY{vkv&mz&gP>Mc>z9cfkfkgHY&zkvMvfmc&&TY9z>c9MkGYzct?k?&vzv?&>Lc>HM?9k9&fzcgY>?czzHmn>mf>z9Hkk>&cHkggkgf?HmPvmzM&>-HPkkY9>9mfv?YY>Y4?zv&Mgm7PkP&>z>?f>cc?HY?HkH&zzmgh>Pc9zMmc>kf?zHHvk?&mHvg&k&fPHkP>H9ff9HvgHYg?kvcP mH_MkvPzffcHYHHLc;YSHcvMM9&M&zEmc99Mc&Yz?&vvzfmgP9m9mz9SPH>MgvgvYfckzvYvHvz>zm>ssgMz>ckkkMcHg&v>HMvzzc&k&dPHM&fk9fgHfmvkz>zzvcs>z_5zbm>>fYkfk?cHY>YzmPvHzf&9>PP9>Y9>fPkmgcYHHPHHzYm9&&P>9cMvkPkHcYcYY&H>mYv?,&&M9YkcfP9Hgcf9YPYMHcmzz?zm&&PcMPfk9&k?cgHkY&?vHYzH>9&vMPMH9Y9ff&g>Hc?fvPvHmY&9o&M>kY>?c&fMHYvczPHH&cz9IPTMMckz9ckMf+vgYc?MHJPgmc&M+ufg>c9MkdHgg?gm?&vczPPk&&.?Mgfk9&kvfYgHm9HMHzvm>9&k>&kUcggM?vcvgkmgH>v?M9MfMm9>MPgg9gfgc&g?mvHcvmMgMH>MPPcg>gkgf&c?zv?9vYz>&PmmPcMHk&99fYc>YPYvHcvHmPmHqYTYM&9>cYk?Y&gMzYmc&PzHPc&9MPMM9cczfcc9gP?>&vvczm>g>v99MPgg9gfgc&g?mvH?vkzf>v ?9cffccY9Y&H>zv?vHkPgm>&?k9kfPmc>kPHgcgYg?&H?Pvm9nYP>>PMmkcfHY&g9?YH>zPzv&cWHMPMH9Y9Yf&g>HYY?z&vMPYMc>PPHkc>9fPfMgcHz???mv&mc&P>kP&M?9ggkfggzYcHkHMzHm&:k,&Mz>gk>fcYHc:?k?&vzvz&>dc>zPmf>9fYz?HHkY&zHHgmkmf0H9PMm>Mk>fHckHY?>?mvvVY&>&WWzM&gg9Qckc&YzY?v>zcLHm;PkP&>z9gf>ccgzYcHkHkzHm&Mk8f9HMmgkY>Yzgcv>YCvzvm&>MYP>Pm>vY9f>fmgvm9H>HNvzm&9gP>M?g99kgm?>H&mg?gvgz&m?9vPcMmggggkM?cgkmv?vvvm>mm9EPmMY>?Ytfm?HvHzc&g&&PY>nroPYcv9ckmHgHcv9?Ppgvgmg&&{?fv>9kYf>gPcm?cHHm&z9&Yb>MPMv9ckHcPcHYYYYH&z>hY&f&?PH>>>zgPfHcfY9zPH9zYm>JP&mMc>Hf&kmcYg>?P?vvczHPP&M>cP?cPc&gYc>?&gvHYH?z&PkGM/fMc>&9YgzccgMYLzzvcz9mPS>kvM99Yk>cPfmYc?Hz&vmmY&>PPPv>c9HgPfM?cg?mPm&&Ym>P&&vMYM?9&gkf&c?YgmIH&vvzY&Hk9P&>fgRkPY??&v&&9H9z9mH&fkgMf>P9M?gcfH>zPm>&;S?Pv9gPgMPg99&ffH.H#v??Yxbv^m%bcPMc9>vfPfHgYgf?&v>&cmflP_HMY>99&f>YYc?H&?M&Y4cPP&H>cP99P9MfcYzg?gm?&vczPPk&&3?Mgfk9gfzccYkYMHHv&mkm&uzPg>>9ccHkFgkg&?z?zz>mcPz&m9>MfczgHYkc&HHYgvkvfmHMPZmPM>>9HkkYYg>gm?vmYz>zFmzX&fgMOkkk&czc??>HcmHz?&k&&PzMg9>kcgzfmH>Yfmz&Hjkm&MH+g>k>fkHYPcHgf?9&vvHzf&99vPHMf99YvfHcfY9mvHHvfm9>vlHPf>9gvkHfgckYcm+HHzMMvMY>q9vk&9??9f9g9YH?fLgz>m?99PM9mf>czYkHvcvYvH>HmPFmm&YX?fQM+cHYY?mvgvum>w_z.mY9vPcMmggkfYM?zv9mv?vvvm>mm9:PH>Mg9kHcYcfY&z9HgzzmcJkbkMH>&gc9tf^gcYM&9H?&&mM>Y9ckP>H9gkkccvsYfzHvcmkm3RH9PMH>fk9YPcmgM?>HHvkZY&>&mPvkY>v9zfzg>gvmvHH&cm>)P&mMcMvkPkHcc?Hg:HkH&zHM9&9PYM>cPc&fc?&g?gm?&vczPPk&&E?Mgfk9&kvfYgHm9?vHzzz&>&vkvMHfck>cPfmYcYvvPvHmcPH&_MkM&9HY9f9gYY>mPm&zcP&&cdMP5cg9ck9fPg>zv?9vYz>&PmmPcMHk&gzkgczgc?k?;vHz&Pk&&,?Mgcy9&k?cgv{Y&?vHYzH>9&&Pff5>mc?g&?gHtmg?gvgz&m?9vPcMmggg9Y??fYMmv?vvvm>mm9_PH>Mgvk?Yf?Hv9zm_9v9m9&H-ffgM?9Hk9c>gHgv&9H&zfM)&m>?k9fvY9k9c9gHYf&gvfzPmM9gbYk>c9gvYHH/g+YY&vvczmMH>HdMkc>kYvkvcvY>Ym&0vmzYm?9wPmkHcHgc?gH>v?mqH vYMv&cqmfgfvc9kPHgcgYg?&H?Pvm96YP>>PMmkcfHY&gm?YH>zPzv&cBH9PMm>Mk>fHckHY?>?mvvyYmv99PH>Y>fk&?9c&Yz?gv>WH_zmm>>PffzcHgkf&?HggHkHfzHPP&mjMM>>H9kgYc>cmYvzYv>vTzz&&kgP_9k9&fzf?Y>?czHv?mkm&8zPg>>9cczfccMgTmgHcvMz/>gN?NmM&9ckPYkc&g??gmkvgmz&cPkPM>H9&fkfggzYcHkHozHm&J>>cPv9P9HfYfYg&?>zYH>vmzv&HEvfvMv9Mk>ccHkY&?vHYzH>9&vMPMH9Y9ff&g>YYYvvPvHmY&9)&M>>cfH90ckc&YzYzv>zcpz&c+MP^cg9ck9fPg>zv?cHmPgP9Mz>g9H>fgo9-fLgcYM&9Hfzczn&&PcPgcx9HfMHvg?gfzH&9J?>9&9P9MH>fYgkm?>g&?zHgz>jY&f&?PH>>>zgPfHcfY9zPHvvkMgm?qHZCM>>?kMH9cv?P?HvYvfm&_>E&P?>ggN9&f?cgYc?gigvgzmm&P>kP>H9gkkccvQY/?YLvvmm&&9bcPm>fYgkSgkg&?z??z>mc&>&mPvc99>9mfvv9Y>YmHvP9m>mZ&zP&cg9>k?H9?avHz9HmPgzg&gS&P?cv9ckmHgH9vizgmHzfM5m7BLMc>MY9fMfzcmm9?km&yvPz>v99kvg9k9kzH}gH?M&vv?vfPH>99mc9>9k9fHcfzgYyHPzPmcmw9}PPkz9fkPfMvgYfz>&9ivPf>Q-_PYcv9ckmHggfv9mPBgvgmg&&2?fv>c9m?g?HHMYm&gHgzgm&&?kvM99Yk>cPfmYc?Hz&v9mY&>PPPv>c9HgPfM?cg?mPm&&Ym>P&&vMYM?9&gkf&cvgY?HU9v&mf>+999vk&9??9f9g9YH?fegzfmP&MkgPzf>g>Y>?_HYzP&gvgzP>9&&PffOc>cvffH=c.YpHcvMM9mvPPPH>Y>fk&c>?cYfHPHHzYm9&&P>9YM?f&kM?YHcvP?Hmcv9&P&MPc9z>?>mk&ccgPvk?&H?zgPk&P>HMc9k9MfHf0YkYPHH19z>Mv&v9wPzcYgcYVcHYY?9H&jcPHm?M&PMfYccgPfH?cg9HPHMzcXz&?&mP&>c9Pgkf&c?YgzkH&vvzY&Hk9Pkk&9HfYffg&Y9HYHkz&Mg&c9BPqc99PYz?Hv9Y&Hzvgm>MH>&bmk>>fgzYH?kg&vH?gzkzf&H>PPHMf99YvfHcfY9mvHHvgzk&c9VPH>Mgvk?YgH>zvYvHvz>zm>AEHMMcvcmggYHgfzlYBH2zcmM996fMcMp9&fcfgvQYHHMOv:vzfMHPfftMj9nfccMz9YvvPvHmYmfG&M>kc>vfPfHgYY9?&v>zYm>6PUPMc>HcPkMYcc?zPz&mYz>{&mvPYP?>&ckfMffgcY&?YmzzcmM&_>zPT9k9&fzf?Y>?czHvHmkm&CzPg>>9cczkm?>gfzzmH&kz&PH&gMkMf9HgPkHcfg9?>H9P9z9m?&HP&kz9ck9fPg>zv?9vYz>&PmmPcMHk&9&fYc>YPYvHcvH5PmMMcW?fPf&cYf>Y&cv?Y??v&qkm&&?Pgf->&9vkYcHz9Y&HfBIzmz?M&9Hc9>9k9fHcfzgYYm>v&mzm?P>Pg>z>Yf>?vcHz9?9&gvkMPM&9gM>9P9vfc?&v>YH?gHkzcM4&g9uMc9k9MfH?#gH?YH9v&PcPY&?>&MMcYgcYPcHHcY9vPvMmcPzOcPMMtggkcfMc7zg?cHMv1Mg&crMPucg9?9mf&gcYPzkH&v?mgMkigPY>Y9&kgHgc?v>?&vzv?&>MY+vPz>zk>kvHvgMvc?vzPzH&Y)9P&>>fY9vcPfmvYzcH&&>zfPz&_MkMM9Hc&fMgYY>HPHPzcmHMP5mPM>>9HkkYYg>gm?vmYz>zRmz6&fgMh9PfPccc;z4?fmHzc&k&MPHkP>99kfkcHg9m9?fm&z9&Y!>MPMv9ckHYPc9YYY?&P&&mcPH&?9kMg9z9mc>?cgfHPHHzYzY&&P>9Y>>>mkvH9g>gXYzH&Pgm>&?k9MMkmc>gz?Mvvgv?vv>vmMF&MP>Pv>Hk>k9HvgcYm&gvfGMPv>gkvPv>vk>kmH)gg?zHczkzM&H^&9>PYMHgPfmcMY>?HHk&Ym>mm_v9YMv>zkzc>cvzv?Hmcz>&PmmPc9zMB9PfPccc!zF?fmHvt&k&&PHkP>?9kkfHvgHvcH>hPE&Mg&0kvMv>kYgkYHM?mYkvMm?&9mP&vMzfv>?gKf9gYY>?&&cv&z?&g>k1&M?>gkcfgvgggYm?&z>PP&H2gPk>cgOkgfYgYY&?g gzcP>&&PzP?9>cYkvfzgz?>?v%vzMPc&vMPMH9cczffcPgMmgHc&>z&Mz>Hk9MvggkgfPv9gkzmz?vPmmPfP6pzMgkYYgffHvgyHkH&zHM>&HsfM9fP9Hkfc9vvYH?fv9PvmH&fP9fv>H9ff9HvgHYg?kvcP-mH!MkvM?ffgMYcH6cqYbHcvMM9m&yfk Mmf?c&Y??HzgYgHgv&z?>v7cPmcg9fg9YzHczvYvHvz>zm>e/HMMcv9?gcYHHkv:&9H9z9mH&fkgP*>PkPfcfUvCYPmvvfP9mvMzPfMP>MYgf??>v9zvmf6/zxmY9vPcMmgggYY9?cYfmv?vvvm>mm9EPH>MgvkmYg?Hvgmh?Av2mc&Mk9P&>fg.fMk??&vv&9H9z9mH&fkgPd9k9&fzf?Y>?czHvHmkm&(zPg>>9cczkm?>gfzzmH&kz&PH&gMkMf9HgPfHcggk?c&rvgmz&cPkPM>H9&g>HPcv?P?HvYz9m&3>>YP?k&9MYY?cHPYHzcH9mPmMQc>zMc>M9S?gccg9YPH>hvzcmm9g9YPMfckf?vfvgv?>?my:zmmY&?kRMkfHgYYzHgvMzc&WvizY>v_cPmcg9?g9Ymvggg?gH&v?Mv&99vM>9P>mfc?vgc?k?6vHP>Pk&f>HPmckg>gzccH>gXHzHmm>PY_fj?MH9>9zYPcHgf?9mPHzLc&>PPSm>cfzkfY>cgYzYYv>vv5HmqPkPPfzc?f>YYc&YfmgHv&?Pv>c&VP3>c9M?9f&gfzg?mm?vB&k&P9zkH9>gHk9c9gHYf&gHmK>m&nzPg>>fYk>kQfzg&mg?uzkzPMz>YM>kc9MgPfHcfY9mvHHvgzk&cQcPmfV9fg9fggzgYmk&>zHM>mv:vM>MmgAkfYHgc?k?hvH<PmH&gQkMcch9gfzfYvkzPHHm&z?PY,>smMvg9kfk?cHY>YzmPvHzf&9>PPHMg>kkc?)cPHH?cvkvMmHMPQ?9cMvkP9zccc)H&?9vYvkMPMmPc9z>>9?Yvf,?mv)mHH9z9mH&fkgM>>?gvfMYmg9?Y?kOPE&&c>&ogMg>&9??vcMHc?>vPvvmcPz.cP9MP9>Yvf9gYgkmPmzzc0H&f>kP&M?9gYwf&cvgY?HHHzMM9&?>gPv9P>zYY?cg&zcYCHqzcmM99(?9&>HkYf9c&HkY&?vHYzH>9&vMPPzcYgkf&?>gmvzHcvMz1>g,cPMM(ggkcfMcVzg?cH9vPm>>v+cPmcgcHg9YcgfzvYvHvz>zm>IOHMMcvc0ggYHg?ztY6H)zcmM99hfMcMI9&fcfgv=YHHM.vzmPf>ckvPv>vk>kmH(ggzBHczkzM&H>sPH>Y99k&?c?Yg?v&HM+YPcMP:H9cM9kPkMcc?zY?YmH&zcmPMk_&P?>gckkgczgc?k?MvHz&P>&gPzMc9k9tfHc&YkY&HzHzm>&cMzlmk>>fgzYH?kg&vH?gzkzf&H>PtHMf>9k>f9v9g9Y??Hv&-z&cJ9PP>>gvk9cYg>?PYmvczHo&&9PYM>9P9vfccHYPYHHYHYz&&>MYj?9&>MgYYc?PgHvc?9zPzM&cMzPcMM>RYgfcc9gP?>&vv9mY&>PPnm>c9Hc&f&gYY>HPHvzcmHMP5M9cM?gPg&YYg>H&YvvYv?m&Mk+&P?>ggLk&f?ggze?&H?zgMS&&avPY>HY9kvgPgH?Y?fv&m>Pc9k8+>k>&kzfgg>YcvzHcvMzJ>gTcP9MP9>Yvfccmzgzfmg&gmM>v&vPv>>>mY=fMg>gv?Hv>v9Mv&c(mfgfkcmgfcMvvgv?vv>vmMy&gPzMc9k9MfHc&H>?>Hzvcmkm!wHP&kk9M9ffcc&gYvzHcvMzOPz0>P?c9>?9zkvv9gvHPHHzYzf&&P>AhMq9ckMH9c?H&?M&YscPP&H)gPk>cg#kfYHgc?k?evH5PmH&fP9kPMH9fk9c>g9m9?9H?vHm&MzPcM9>Pk>?vccgmmg?mvPv_>g&BMkM&9z9?c>gcg9?9HHvfMgmm>>PffzcHgkf&cvgY?HA9v?)&&HPYM9>&ckk&f?ggvk?&H?zgMy&&o?Mgcu9&kvfYgHm9?&vfPJPm>M>)M?g999f9cHgfmgH>v?M9&MMm9?fPgg9gfgc&g?mv?mv&zg&c0&3/cg9>k?H9gMHmz?mzPgzg&gs&P?cv99fYc>YPgmHcvHmPmHiYP9M&9>cckvgPgH?Y?Yv&m>PYFfB?MH9>9zYPcHgf?9mPv9zk&k.HP9c9>9c&fHgYgf?&mkvgzY&Y(&Pgcg>?g>kYfHvP??HkvfMv&H>ckcfjgzfPHgggYP&9Hvvzmzw><vfv>HccfkgPgH?czzvfzPmM9g;mk>c9gv?YcHz9?9?zG3zgmYsYP&Mggg9mY>c&YzYmv>&YzvmzKzM>MvgvkvYcc??Pz&vc&zzX&PPPMcM;gdk&YHcm?kmMvH3Pmc&mkgMgf>cckvHvg&YfH9pvzHPfMH_gfaM69%fccMz9YfvPvHmcPHBgMkM&9HgPfMgYvc?&m>vMOz&c.MPskz9ckMfy?zYc?MHS&zzc&M&iP&MQg_96ffccYHzYv>v!zz&&kgPB>PkPfcfbv^gTzHvcmkmMQH9PM9>kkkfHc9z9Yfz&HkvcPz1fPPMMggkcY>H>vvmYHzP9m9mz9ZPgMY9Yk&fgvgYcz>vPzzmc1>>YMMMz>m?9f??&vemg-kzcM7&GUYfv>99kfkcHg9m9??m&zH&Y&?P&kk>g9YfYc&ggmgHg&>zf&z>HM>kY>v9zfzg>gvmvHH&cz?VP>mMckz9>k?H9g9H&z>HgPgmH&MZifg>ccMgcf9vvgv?vv>vmMi&MPzMc9>ccf9gPgH?czzHmmkM>+H>&PmfYk>kmcvHY?>?mvv+Y&>&mPvkY9>9mfvv9Y>Yy?zv&MgmWPkP&>z>?f>cc?HgiHkH&zzmgT>PckzM#kkk&czcz?>HcmzzcmM&ekgMc>M9 ?gccg9YPH>Rvzcmm9g9fkmfgcHffH5cJYBHcvMM9m&Gfk-Mmf?gfYzv9g9?9HHvfMg&>,?f9fMcc9MYcgMzvYvHvz>zm>A*gMz>ckkkMcHg&v>mvv>mPmvoc&?9&fogHgzccg9YPH>*vz9mkCkPHM9g9kMYPc?gkYf&vHzicMg>u9?c9999z?scHYMmvmm&f.HmY9#G,MT9ckMH9c&YfmVHP&?S&M&k9P9>99HkfHgg>Y?mc&kHmP>&PkgPg>g9&k?Hvg?Yk?favz?Pc>c9Hf9f&c&?vcvgkmgH>v?M9Mfmm9>MPgg9gfgc&g?mvH9zYm>0P&mMc>Hf&kmcYg>?P?vvczHPP&M>cP?cPc&gYc>?&gvHYH?z&PkVM,fMc>&9YgzccgMY}zzHjmkm&Ez#?>>9ccHk=gkg&?zHgz>mc&zjcMkMk9Hk&YkcfHHYm&kQ>Fz&c>>KT>z>mf>YYgfg??Hv>vzPP&HUfM9fP9Hkgfkgczl?gvzzc&k&MPHM&f>9gfzccYkYoHHv&mkm&Az*z>>9cczkm?>gfzzmH&kz&PH&gMkMf9HgPfHcfY9mvHHvgzk&c9)PmkH9cfkfMgHgxHkHmzH &&9PYMM>&ggkc?bc6z9?m&zOHM9&&PzMg9>gHY&fmH>Yfmz&H km&MH6g>k>fkHYPcHgf?9&vvHzgmkhckGMH9MYvkz?gHHzg&sHuzL&c/Mf9M&9fYIfPf?H&ztB9v9m9&H#ffg>f9PkMHgg?v>z#m5dWP?M&kgMg>PY9k&cfvsvWY?m&vz>9&9P9MH>fYgkGgkg&?z??z>mcPH&oMkM&9zkgc>gcvzYVvkv&mzmzP>Mckz>mg>ffHzvHzkH&&HzgBk*fMHfP9mkMc>gHYkzYv>vmmvMYPM9&>HkYkfc&g9?YHMv&R>mgZzPf>>cv9vcPc?vYzcH&hczfPH&mkkf>fzkcY>faYzYmv>&Ymfm?AHM>MzcPkHffg9vP?HHgvkmc>*ugMz>ckkkMcHg&v>?gvzzc&k&xPHM&ck9gfzccYkYkHHv&ZkmfMHFmfkc>czfc?>cE?z?mz>{Y&>&mPvc99>9ykzc&zg?>H?P9PfPq&zf9M999kHffvgg??HH9z>mHmvk9P&>fgakPk??&v?&9H9z9mH&fkgPI9k9&fzf?Y>?czHH5mkm&}zPg>>9cgmk(gkg&?z?zz>mcPz&m9>MfczgHYkc&HHYgvkvfmHMP3mPM>>9HkkYYg>gm?vmYvv&P&HPYPf>&k>fYc>YPYvHcvH&&m9pYP>>P>PkcfH?PcHYf?9v>z9>9&9)?PH>&czfcc9gP?>&vv9mY&>PPbm>c9Hc&f9gYY>HPHvzcmH>Ma9MY>>kPkPccgHvP?Mmcv?MPM&>YM>k&>vfYf?g&vk?&H?zgML&&K?Mgcb9&k?cgv1Y&??vgPGm&&?Pgf)>&9vkYcHz9Y&Hf--hmMcmm9>Mmgg9gfgc&g?mv?mv&zg&ci&*.cg9>k?H9HMvYzMHmPgzg&g1&P?cv9?kkffvvYHzcv>mPzm}c9vMc9k9<fHcggPm9?vzPzH&cMH<mMc>gczfccMgpvzH?Hmz&&c_P9kM&>?kgYkcggY?YH&vgMg&999M>fv9zY9fYHvYYm9?&3vzY>9dm9z>f9PkMHgcYv>m9&vTfMt&8jYfv>c9m?gfYH9vcmf vvvmv.>Imfx>HkM?vfzHfvHmH}XvSmCicPMc9>&kf?:cPH?z&m&P9z9&9=HPfcg9fkPfMvgY?z>&P4PPIMH>zfg>g9P?9f&gfzymMm?vYM)m=^SMc>MY9fMY&gH?Y?fv&z9&YFMP&k>>gkzffg>vvYH&9v9Pg&M9P9&fg9>fPfvgcv&m>HM&cz?>P>&9Y>>f&9vcYc?Y&zkvMvfmc&&:Y9z>c9MklYzcQ?k?&vzv?&>TcPzMc9k9tfHc&H>YgHzvcmkmk:HP&kk>fcHkmHkv>vzHc&>v}&z&mM>kY9f9?fHg>gzzPHHvfm9MP(HPgMk9cYEfm?HYcHkHMzHz+3k{mMHk&99fYcMg&zg?c&svWM9&m9zkHc99&fzcgY>zHm&Hm5>mf>z9Hkk>&cHkggkgf?HmPvHzf&99vPHMg>kkc?2cPHHzvmkHzzX&>h9P&cg>YgM?cHczv?vHkPgm>&?k9Pkkmc>gIHgcgYg?&H?Pvmc&mkgPYfMccYMHvcvYvH>HmP;mHBMkvPzffcHY?HXcyYNHcvMM9mf4c3*M&9c9g?EcHYMmv?z&fPM>v&vPv>>>mY4fP?Hv&zmmYzfz?&HP>PzfP9Hkfc9HPY9HYH>z&P>2P>zPc>M>ik&fSv*gA?fHczHPYw>1FPz>&YgkY?>vczfmPvHzf&99vPHMg>kkc?TcHYMmvmHHfjHmY9n0_Me9ckMH9gkH&?kvYv#&PtPPcMHfP9Hkgfkgcz4Y&mHz9&kU>PHkP>H9ff9HvgHYfH9XvzHmg&kPcfQ>HkM?vfzHgvHmHrevOmiZcPMc9>&kf?>H>Hvv&?zP9z9&9#HPfcg9fkPfMvggmz>&Ms>P4Mg>Hfg>g9P?9f&gfz!m9mvvYMnmw7EMc>MY9fcY&cmvYHfH?zH&>&z9PMH>fk9YPcgHc?>mPvmzM&>^HPkkY9>9mfv?YY>YQ?zv&Mg&H>>PMkz9ckMfOvgYc?9HPz>Mv&cRmfgMYc>gc?kvvgv?vv>vmM1&Y>HP!fk9&kvfYgHm9HYm&zvPYl>3mMvg9k>kmcvz9?>?mvvM9mkM&RzfYccYvfHcfY9mvHM&cz?>P>&9Y>>f&9vcYc?Y&zkH&v?mg>e0&PvMY9H?9f&gfz6z;mvvYM_mUhOMc>MY9k&cfv0YPz?m&Gm>9&9P9MH>fYgk?cHg9?>HHHvM9m&ufk1MPM?c&Y?v9g9?9HHvfMgm{PkP&>z>?f>cc?HY?HkH&zzmg*>Pc9zMmc>kf?zHHvk?&mHvg&k&fPHkP>m9Mf>cHgkvYH>HmzvPY&vMPMH9Y9ff&g>HcYvvPvHmY&9!&M>>Y9>fPfPgcYHzP?Hvfz9&>x9f9M9>?9Hf&?zYc?9HPz>Mv&9PYM>9P>mfccH?&Y9HYv>mPmvocPH>P>HkYkYc&Y>vYH>Hmzv>9_>=:Pz>&Ygf>c?z9Ykzm&>P9>g&gPgM&>?Yvkmc&gg?cH&H*Mg&>5?f9f9fm9zH9c9Y9?HHfPgzwjkG&MzM?k>fcYHg??k?&vzzg&>7c>zPmf>9fYz?HHkY&zHHgmkmf+H9PMm>Mk>fHckHY?>?mvvnYmvPPPH>Y>fk&c>?cgvHPHHzYm9&&P>MY>>kPkPccgHvP?Mmcv?MPM&>YM>k&>vfYf?g&vkY&H?vgmc&gkgPgMm>&f>?PgHYg?kvcP^mg2zPc>k>MkHf&?>gg?zHczkz%&Hx&MkM&9z9zc>gcHzYmm>vfPzMH>kP&kH>gfkffgHvP?HHfz9Mv&HafM9cv9Hkfc9vvYH?fv9PvzH&f!9M>>9Y9k9f?cHY&zzvcz9mP0>kvM?>k9f?vcHHc?>vPHmmcMvOcMkMw9HkgfPv9gvHPHHzcCHmm4cPgkz9ckMf-?zYc?MH+Pgmc&Munfg>c99kPc>vvYc?mFg}fPQMg>HMfc->Jk/ccgMm9?&vfP6mmM?9fk/g999f9cHgfmg?0vPmP&c&Tk6M&fHkcckcMYHYSvkv&mHP&59MY>>9&Yg?Hg>g-YzH&Pgz)&PPPMcMQg!kMYHgc?k?MvH!Pm9&kPkMH>9Y9kkY&g9?Y?f<P%m&cMz:)MP9Pkck*HBcevH?-zkzM&H9PuzkY>vfPkmgcHHYgmkvHmM>9&z9ffgg>9vfvg>gmmyHHzMM9mv>g9HMSkkkM?zHH?>mHH9z9mH&fkgPmf>9&fzcgY>vY?vzPvmMY>kP&k>MCczfccMg:mgHcv9zP&>y>P?fv>9cmY>cgYzY?&kC>mH>>&vPv>>>mYNff?HYcHkHFzHPP&9PYPfcPczfcYHcgvk?&H?zgMQ&&w?Mgcp9&kvfYgHm9?vzPzH&Y&fP&>>9Yk>cPcvYc?Hz&v9mY&>PPPP>c9HgPfHcfY9mvHHvfm9>vyHPf>9gvkHffg9zv?HHgvkmc>AXHMMcvc&Y9?f?mv>?mogvgmg&&+?fv>c9m?g?>HHvgzHvfP{zp&8PcMMg99&ffH.HHvCzav?M9m9i9PHMfggk>f?v9YMvmm&s9Pg>v&vPv>>>mYqfHgMzvz&&9_cR&M>WmfgMg9gk&f?vvYv?k%gv?mHm1^>P?>MY9kvgPgH?Y?fv&m>m&&?PgfB>&9vkYcHz9Y&HfNgzg&zGcMkMM9Hk&kM?cY>HPHPzcP&mg{gP&M?gvkMYcc?zPz&mYz>ztmzx&fgMmc>k&czgg?>zYv>vmmvMYP>Pm>vY9f>fOczY&&gv>z?>9}M>&k>fHc&?vfvgv?>?m,nzgmYpYP&Mggg9YYkcPHH?cvkvMmHmnPkPP>Hg9k9cYckzPz&vcp&zmM>TfkzfHckk&YHcg?k?fvHOPm9hYP>>PMmkcfHY&gm?YH>zPzv&cqH9PMMfc9??P?&HY?>z&HvmYm?!&9kMg9zkcckcMYH?&m>zMmz&cPkP3>H9&gkff?Hgmmk&>&zmcM>&:MzMmk>gYfvYPYHHYHfz&&>McQv>P>HkYf9c&Y>?YH>zPzP&c2H9PMMfc9??P?&HY?>z&HvmYm?<&9kMg9zkcckcMYH?&m>zMmz&cPkPF>H9&gkff?Hgmmk&>&zmcM>&*MzMmk>gYfvYPYHHYHfz&&>Mcxv>P>HkYf9c&Y>?YH>zPzP&chH9PMMfc9??P?&HY?>z&HvmYm?=&9kMg9zkcckcMYH?&m>zMmz&cPkPb>H9&gkf&cvgY?Ht9v&mf>gpgMz>ckkkMcHg&v>zcv>mPmP=c9&Pg>g9&k?HvgMvc??bPQ&PYS>L3Pz>&Ygkm?>g&?zHgz>+Y&>&mPvkY9>9mfvv9Y>YmHvP9m>m4&zP&cg9>k?H9?&vfzMmczMMvmvnvM>MmgnkHcMvvvczbmv&&m?99r9M9>H9f?gf?gHY9H>vHvv>9&&PffK>m>?g&?cHmmg?gvgz&m?9vPm>Y9>fPfvgcYHv&H9zYm>bP&mMc>HcPkmfMg>YH?kmYz>zm&v>YPvMz9zf>fvvvYHzcv>mPzm,c>zP;>PkPfcf}vXYfzHHLmkm&hH9PM?>k9f?vcHHc?>&P&&Pgm_9vPvMkgg9Y?MYmgkHMz?m9zPmvPzkvM?c!k9cYg>Y&mcH&v?mgMk&&P?Mg9ckgHgcggmY&v>3PmH&gdkMccXkMfzccYkY/HHv& >mg2zPc>k>MkHf&?kg&Y?Hg=3z&mv&YPHc9>&kf?N?HvPv&m>vmMgmgOgP&M?gvk9cYg>?PYmvczH+&&9PYM>9P9vfccHvcYHHYHYz&Pk&&8vPY>HY9k&cfvRYgHzvcmkmM1HP&Pv>vk>kmH-gfvH?m}kP>Pz cP9MP9>YvfM?cY>HPHvzcoz&cbMPCkz9ckMfCvgYc?MHFPgmc&M1*fg>c99kPc>vvYc?mbgzfPMMc>&kHct>#knccgMm9?&vfPEmmMv>&kccMYgkgcgg&Y?&vvczm>g>99Ykg9MYvkvcvY>Ym&tvMm>mv-HM>M9gvkcfmvgYfzMmH{cMvmvGvM>Mmg7kdfYvvgm?&H9vczm&fkgMc>M96gzc?cmY&HcvP,km&&?Pgkk>g9YfYc&ggmg?Y^9zmMv499kMg9zkcckcMYH?&m>zMmz&cPkP!>H9&gkff?Hgmmk&>&zmcM>&iMzMmk>gYfvYPYHHYHfz&&>Mcsv>P>HkYf9c&Y>?YH>zPzP&c_H9PMMfc9??P?&HY?>z&HvmYm?}&9kMg9zkcckcMYH?&m>HYvHMPWM9cM?gPg&YYg>H&YvvYv?m&MkQgk.>ckkkMcHH.YHHYv9z&McMY8?9&>MgYYc?PgHvc?9zPzM&cMz Xfg>&kzk?g>vg?>vPvvmcM&>PPMkc>?YPY&?YY>v&?vzYz?&&>kPgfl9cfkfMgHv.?HvYz9m&>c>YP?k&9MYY?cHPYHzcH9mPmM3c>zPYf>9&fzf?Y>vYHMm&z9&Y&kP&Mgfc9vcPfzvYzfH&&kzH&M99PgkfcgY>kvcvY>Ym&4vHmM>9U?9fMvkP9z?YHcY&mc?hv%mc&Mk9P?k&9HfYc9g&vk?&HvvYmH99Qv>PMzgYYkc&H>YmzzvczMm(9gPcM9>Pk>f>c?vv?Mz8v9mYmk9P9&>cc&9gfgc&g?mvHM&cm>EPZvMckz9ck9fPg>zv?9vYvkMPMzPc9H>fckk&f?ggzIY&H?vgmc&gkgPgMm>&f>?PgHYg?kvcPCm*&YkvPm>&99kcfmgfmgHcvMzGPzacPMMNggkcf9cPY>mvHcvmMgM9>c%fkH9fY<kpctYc?MV9vfmcmQd&McMgg}kHcMvvvczq??&&m?99R9M9>H9f?gf:gP?PHcHoP;mm>vpcf99Mgvk&H9YPzvHPE9zPMvJ99kMg9zkcckcMYH?&m>z>mz&cPkPF>H9&gkff?Hgmmk&>&zmcM>&:MzMmk>gYfvYPYHHYHfz&&>McPc>P>HkYf9c&Y>vY??m&zMMY>c9PMHfc99cPcMYcvz?Y&>P9Pz&kPgMH>vkc?OcPH?z&m&P9m9mz93PH>Mgv9zYgH9zvYvHvz>zm>-(HMMcvcmgffkvvgv?vv>vmMr&HPMfvMz>fgH?vvsgp?AvczM>9&>>&PmfYk>k)fzg&mgHf&>z&Pz!cPMMyggkcf9cPY>mvHcvmMgmY>M9cfcgv9vfvg>gmmiHMz>zv&HP>P9cv9ckmHgHYvM?PJgvgmg&&-?fv>mccf9?PgmYMH>vHzkPYS>imMvfY9Hg&c9HYY>?mHvzHmv9vxvMM>>kcYkc&gvYYHHP9mfP&5v9Y>>>mkvH9g>gm?vb9z>z5mzp&fg>>9??9?>?mv>?PXgvgmg&&^?fv>c9m?g?HcMvc?kSvvvmve>dmfE>Mk>kvcHY>Y9&vvczm>g&YJMkcc>YvkvcvY>Ym&qzPeHm&PkPm>z9?f>cc?zY?YmH&zcmPMkt&P?>gckkYYHgf?kY&vH,PzH&f59M>>9Y9k9f?cHY&zzvcz9mP#>kvMzfc9HcPc?YY?fH&z>3Y&>&mPvc99>9jkzc&zg?>H?P9zkzm>>9mcg>gkgf&c?zvYzmc-HP?Mk;&PvMY9H?9fvYPYkHcmHzYPk&&^?Mgc<9&k?cgv<Y&??vgP4mPMHAYfkc>YgfccMgSmg?m&>zfMz>H9kM&fH9gckcfYHzPHg&cm>BP&mMcMvkPkgcc?Hg#HkHvzHM9&9PYP{cPc&fc?&cmv>?f&z8HPk&&>HPg9k9ffH?Pg9?YH>zPvm&cVHMPM99Yk>cPcvYc?HH&&>zg&z+cMkMk9Hk&YkcfHHYm&k#>az&c>>rI>z>mf>YYg9gzmNHMz>zgmH}MP?cv9Hkfc9HPYm?Mv>zHmkMYP>Pm>vcYkvfzgz?>?vhvz>Mgoc9ZMmcg9kY*c?vgY#m!HvTYmv&zPz>>>vYvfM?cvgzP?Yvvz&mCKHf9M?fmY>?>vgYg?Pp9v&mf>e9P9?MmgC9(fjgcYM&9H&zfMn&f>?kvcb>skRccgMm9?&vfP>M>m?>&MMg999f9cHgfmg??vHz9&>eHyvc9>&kf?2cfc?v&m&P9z9&9wHPfcg9fg>fPgzYHH>mYzfz?&HP>PzfP9Hkfc9HPgzzcv><PzH&fo9M>>9Y9k9f?cHY&zzvcz9mPE>kvPzfck>YPcHgf?9&vvHzgmkhck{McfH9?Ykg>HH?gmkzMnHmz>kP&M?9gYof&cvgY?H_9v&mf>/>&9vk&9M?9f9g9YH?fFgz>m?999>umf>9f?gfgggY&??rvzMPc>H9?kk>&9vkYcHz9YvvPvgmcPH&g9kM&>?kg? c&gvYYHHP9z&&f9SPfk?f&g&H9c9Y9?HHfPgmf&PaMfg>cc>YP?cH}vHzz1gzgmP99t&MfcS9fgv?gv:g4?WvczM>9&+>&Pz9Y9Hf&?kYMYfHcv&zYPzicPMMsfz9gY>cgYz?fv>&YmMmz&mf9>>f&g&?YgMvxYzvYzfm&&vxkfgMgc>9L??HmY9HYv>z&Pk&&1?MgfkkMkfccg&YYzzvczMm!MzPcM9>Pk>?vfvHcYvvPv?mcPzdfPPMMggkcY>H>vz?f&9vPmz&?P>PIMYgv9vYcc9vmmMHgzzmc_>>YM>Mm9vgYc>cmYv&9v>vmmv99P>Pm>vY9k?Y&gMzYmcevzHmfs9kvPH>f99f>c9z9Y9??HHz&PzbcP9MP9>Yvf9ckYk?HH9P9mfMESkkgM_c5k>?ggkvnYH&gvkP_&?>YPv9P9HfYffg&?>zcvcmPmHIYP9M&9>cYk?Y&gMzYmc&PzHPc&9MPMM9cczkFgkg&?z??z>mcPHEHMkM&9zkgc>gcHzYmm>vfPzMH>kP&kH>gfkffgHvPYzmcAgPPmYjvP&M(9H?9fk?mz>m>2gzgmP99T&MfcE9Pgv?gv:gA?5vczM>9&&Pff5cMc?kYHIcOYtHcvMM9m&:fkLMPM?c&Y2v9g9?9HHvfMg&P>>PMkz9ck9fPg>zv?mmcz>PP&H^fM9cv9Hkgfkgcz)?HvMPvzzMf>HkHc3>ok!ccgMm9?fvcvsm&_cogf:>HkM?v?zHfYk&vHvzv&>&mkEMvfHkgYkgMgf?cH&vYWz&cxMPLkz>&g>fg?zgc?M?Gv&zx>.&ePfMc9HgYc>c)gz?&^gz9P>&5>zMc>M9G?gccgMYI&gvcz9mPJ>kvMc>mYgYc?MHcYk&vHvzv&>&mklMH9MYvY&ffHHYY&xH}z%&c5Mf9Mf9c9_f&gcggm*HHzMMvmz&f9Hfcgo9XfdgcYM&9vk&&m>3YPf>P>gkcfH?PgmYMH>vHzkPYV>{mMvfY9>g&cmYYYzH&&kv&m?&gPcMggg9gkmf&Y>zPHHvgzk&c9EMPkH>&fkcMgzY9H>vc&zmc&Md_fg>c99kPc>vvYc?mpgvYzMMc9MfvMv9vf>fmvTYPzH&&KmPY4>11Pz>&YgkAgkc&?Hz&vz6Y&>&mPvc99>9mfvv9Y>YmHvP9zkP&&zkYfcgvkHffg9zv?Mmcv?MPM&>YM>k&>vfYf?g&vk?mmHzc&k&MPHPO9k9mfHY&g9?YHMv&Pgmg!zPffkc>kH?>cMHcY?&P&&GY&>M&sv>Y>?k&YkcgYz?cvkvMmH&&PkPg>z9cfkfbgHY&H>mcvv&P&HPYPY>&k>gYf??&YMmY&ciPmHMcE9>P>MkcgzcggPm9?fvcvvz&&fUmfo>&9?fg?kg&Y?Hgp/z&m?{gk-M&>v9YfHv9g&?f&Fvm%vM9>cf9M999kHffvggW?PvPzcz7>t(&9H>ckkkMcHc3?k?&vH&&m9TYP>M&cggHf>f#czY&&gv>z?>9UM&mk>fvc&?vfvgv?>?mO_zgmY7YP&Mggg9mY>c&YzY?v>&YzvmzUzM>Mvgv9mYccv?P?HvYz9m&Z>>YPv9P9MYY?cg&v>?Mmzv1&k&fPH9&MmkYf>gPgP?cHH&PzHmg&kPcfW>g9YfYc&ggmg?YL9mMMvpHk9Mmcvk9?9ckHz?fHPvMMgmc>>k9fvcHY%f/cYzv?cHmPgzcM>>ckgcv>vkvc>cmzp?PmHzc&k&MPHPx9k9PfHH9g>zv?v&pvzMY>c9KMH9Yk9f&HcvHY?z&vMPYMc>PPHkc>9fPfMgcHz?cH9vPm>>v&z9c>>kP9mcc?zY?z>?YHHPP&?*kPfcv9Hgc?cHQzzHP}gzgmP99Pc9&>zkYf>c&HkYm?YH?PFm&MH9vf9gPkc?vcvgkmgHf&>m>&zWcM>kY>Xc&f?gYvc?&mkvkCH&fPkkM>HcPkcfmvgY9z>mcvvMv&&EfM9cv9PgfYHcYz-YNHNzcmM99Pf>P>PkcgHc9YkYkHH&Pz?&Y>cP&k>9MczfccMg8vzHcvMz:Pz_cPMMufzkcfMcGzg?cHMvZMg&cSMPocg9ckMf4vgYc?MHOPgmc&Ml%fg>c99kPc>vvYc?m=gzfP9>>9ckvcR>=k^ccgMm9?&vfPOM>>g9ck9>mYgkgcgg&Y?&vvczm>g>H9qkvf?kf?4fhgQ?cHMP9z&&f9wPmk?f&g&?9HkzvYvHvz>zm>FdMM>Mv9Hf>f9vvYc?mngeHP{Mz&?9&>?Y9k9c9gHYf&gHImkm&-z-?>>9ccHkQgkg&?zHgz>mcMz&oMkM&9z9zc>gcHz???mv&mc&P>kP&M?9ggkfggzYcHkHMzHm&M>/gMz>ckkk<cHg&?k?&vzvz&>#c>zPmf>9fYz?HHkY&zHHgmkmfRH9PMm9Yk>cPcvYc?Hz&v9mY&>PPNm>c9HgPfM?cg?mPm&&Ym>P&&vMYM?9&gkfggzYcHkHMzHm&M>PMMz>ckkk2cHg&vk?fmHvmMk>>>zMcf>>yfzfmY>vY?vzPzH&Y&fP&>>fc9vcPcHYY?9H&z>mY&>PPPP>c9HgPfM?cg?mPm&&Ym>P&&vMYM?9&gkcMgzYcHkHwzHm&M>VgMz>ckkkMcHg&vk?fmHvmMk>>>zMcf>>7fzfmY>vY?vzPzH&Y&fP&>>fcgyfcgkg1?HYm&>P9M&>PPMkc>?YPY&?YY>v&?vzYz?&&>kMM>z9cfkfSgHY&z>HgzzmcXk3MMH>&ck9&f?cgYc?g8gvgzmm&P>kP>H9gkkccvSYgHzvcmkmM{HP&k>>gkzfcgkgq?HH&hkzg&z/cMkMk9Hk&Ykc&g??g&bv&zvmYjHf9M&9fY:fm??H&z&&9n9MvmvOvM>Mmg_kMc>cvYHH>H9Pvmc&mkgMfMMccYc?vHcm9?9v9zHmf9gn^MP9Pkck7HQgkzvH?u9v7Mv1fk9MPfz9;fPgPYcY#&JvfxHMv>k2zMU9>k9f&vggmzM&c<cMv&v<kfg>>9??9?f?mv>?fCgvgmg&&j?fv>c9m?gfmH9vcmg,vvvmvJ>^mf+>kcHfc?kg&Yv?YvHM9m&7fk/f9fvc&fMv9g9?9HHvfMgm?{HP9>>9H9vH9c&Yfm,HfH?_&M&k9P9>99HkfHgcgv>?6mzz?zm&&PcMPfk9&k?cgHk?MzHH?Tkz&&?QgMc>gYgkgfmc&?>mPvHzgmkXck.P4fHkgYkc&g??g&tv&z?&g9yP&Mv>YkHH9c&Yfm)mW&?J&&Mk9P9>99HkfHgg>Y?&9H?HmP>M_kgPg>g9&k?Hvg?vc?YzPvv&cMzPcM9>Pk>?vfzHcYYvPvmmcPz;cPMM<ggkcf9cPY>mvHcvmMgmm>M9cf9gv9vfvg>gmmGHmvYz?>Vw&9HfHccYgYGHgzu?*HYPvmc&mkgkcMMcck?HvcvYvH>HmPVmfMH9&kmfYkfk?cHY>YzmPvHzf&9>PP9fv>kgbf?HHHz???mv&mc&P>kP&M?9ggkf&cvgY?H*9vvM9mz9gMMc>ckk&f?ggz^?&H?zgM0&&1?Mgc-9fgHfmvkz>&gvczMm%9gP?Pm>&kcfP?kg&Y?Hg&kzgmY6YP&MgggkcY>c&YzY?v>vgzY&Yl&Pgcg>?Y9ff?HYzmgHgzzmc,>9vPv9P9HYY?cg&zcmHHu&&mM>YP>k&f&Y9kvfzgz?>?vTvzMPc>g9PM?>k9f?vcHHc?>mOvgM9&9&zk0MffH9m?kH>HzYGvkv&mHP&&mMYM?9&gkf&c?Ygzk?&v?zg&cGgfgMg>m9&c>HPYH?gHkzcMl&gZYMY>&9g?gccH>Y&HzH?m>mg&YPYM&>gYgk?H9gfvHHzhgzg&z-cM>fv>vfPfHHYvc?&&clHz8P&IMkY>>c&g&H9cvgz?zv>vvMv&M>ckgfP9?kkffvvYHzcv>6Fmg99P9Pzc:9fgHfmvkz>zzHZmkm&rH>&Pm9Y9?f&?kg&Y?Hg&kz&m?5gk:M&>?kg?yc&gvYYHHP9z&&f9Vk>fgcYgMYcgMzvYvHvz>zm>52gPY>Y9&kgHgcgz9?P&vvzM9&m9vM9c9kMgzf_gP?PHcHSPBmfMH9vkkMz9Zf>c9g&mg?m&MPcMc9vPvMkggk>f?v9g?vmmzP9z9&9<HPfcg9>k?H9H>Hmz>HfPgzg&gu&P?cv9ckmHgHgv9?fWgvgmg&&7?fv>mcck9gPcz?czzvcz9mPK>kvMgfckMcPfvYYYYH&z>UY&>&mPvc99>9skzc&zg?>H?P9PPPmoMf9M999kHffvggUHkvMzH#&&g>YM>M >zk&Hgcmv>mc&f6PmH&fP9fv>H9ff9HvgHYg?kvcP}mH,Mkvkmff9??vfvgv?>?m<1zH&M9vPMPffHg&Yvv9g9?9HHvfMg&fnPPMcg>pg>?MHfvbzcmmPgmg&Pk9P&>fgXY>k??&YM&9H9z9mH&fkgPgf>9&gzc?cmY&HcvPWkm&&?Pgkk>PcHk??kYMYfHcv&zYPz3cPMMufzkcf9cPY>mv?v&cm>MPSHPf>9gvkHfgckYcm1HHzMMv&M>gkkcv>vkvc>cmzh?kmHzgPk&&+vPY>HY9fMY&g9vYH>Hmzv>9G>bmMvg9k>kmcvz9Y?z&vMPYMc9vPHMf99YvfHcggk?c&TvHmM>vj?9gfccvgHH9c9Y9?HHfPgz:&PPPMcM{gCkPYzgfYP?MNgzfP>>99vkfc69WkYHvgcYm&g&?eMPcFMkvPv>vk>kmH1gH?M&v&&%f&M9vsvMv9>9m?IcgYz?cvkvMmH&&>>MM>z9cfkf!gHY&zkHf&Hzm>k9>9z>cc>9rczcm?>zYv>v;zz&&kgM>>?gcYcY6g?m9?9v9zHmf9go?MH>9k>fHfvz9Y&Hf+3zmPv>?kCPR>ukcfMv9gvHPHHzYzf&&P>9cMvkPkHcYg9Y&H>vYz>&P&PPcMHfP9Mgcf?vPv&zYv>&&zv2Yy?M&fkkMkfccg&YYzzvczMm}Mz Yk>>&kzk?g>gg?z?Yz>=cmvPP6z>ccuY>fM?cg?mPm&&Ym>P&&vMYM?9&gkk&c?gg?cHgPgzgmm&&M>fP9Hkgfkgcz!?PmHzc&k&MPHP/9k9PfHY&g9?Y?kv&PgMH&?>&MMcYgcYPcHHcY9vPvMmcPz*cPMM0ggkcfMcAzg?cH9vPm>>v2cPmcgccgMfmvggg?gH&v?Mv&cymfgfv>MgccMvvgv?vv>vmMi&MP>Pv>Hk>k9HvgcYm&gvfvMPc>9kvPv>vk>kmHoggz_HczkzM&H>APH>Y99k&?c?Yg?v&HMiYPcMPBH9cM9kPkMcc?zY?YmH&zcmPMka&P?>gckkg?}gc?k?MvH6JmHOYP9M&cccYk?Y&gMzYmc&PzHPc&9MPMM9cczkccMcWY&?2uIv)mf&cPHkY9>9dkzc&zgY=&gv&mzm?P>kg>>kPkvccH&vP?Mmcv?MPM&>YM>k&>vfYf?g&vk?&H?zgM-&&^vPY>HY9k&cfv-YmzHm&E?>9&9P9MH>fYgk=gkg&?z??z>mc&z6cMkMS9Hk&Y>cgYz?cvkvkmH&&>kP&Mv>YkHH9ckH&?HvYvfm&&9PYPk>&c>kgczcY?>mvHHP9m9>g5kfPf&ggf>gPgv?cm&x>zMPc&?kPk&fYk>g&fvYYY?H&&kz&m?jgk M&>?kg?Tc&g??g&Iv&z?&g97P&Mv>YkHH9cv?P?HvYvfm&q>>cMc9P9HfYc9g&?>zYH?&&mM>Y9ckP>Hcck9gPgM?czzH/mkm&-z ?>>9ccHk<gkg&?zHgz>mc&z&RMkM&9z9zc>gcYHzPHM&cz?>P>&9Y>>f&9vcYc?Y&zkHgzzmcQk/MMH>&c>kgczgc?k?*vHz&Mf&&PzPz9>cYk?Y&gMzYmc&PzHPc&9MPMM9cczkegkg&?z??z>mcPH&8MkM&9zkgc>gcvzYdvkv&mzmzP>Mckz>mg>ffHzvHzkH&&HzgIkQfMHfP99fYc>YPgmHcvHmPm94YP>>P>vkcfHc&H>YgHzvcmkmk HP&kk>fcHkmHkv>vzHc&>vu&z&mM>kY>vfPfHgYgf?&v>&cmc:PJHMY>99&f>YYc?H&?M&YrcPP&H>cP99P9MfcYzc%?k?&vzv?&>jc>HM?9k9&fzcgY>?czzvczMma9gPcMM>(YgfccMgWmgHcv9zP&>9vPcMmgggHY&HPHv?f&^H0ze&chMf9M&9fY4fm?vvHz&mmPgzg&g}&P?cv9ckmHgHHv&mP??&&m?99Z9M9>H9f?gf?gHY9H>vHvv>9&&Pff3>m>?g&?&v>z>&vHvzv&>&mkQMg9zkcckcMYH?&vkv&mz&gP>MckH9cfkfkgHvP?mHMz>mH&k>YM>Mm9vgYfvczYzH>HvPvmMMcP>>PMmkckvgPgM?czHHlmkmfpHk9M>cv9vYxcMvYzcmIvHmY&9{&kcfH>>9mkvcHgvmv?vvMz>&c>kP&Mv>YkHH9cvgz?zv>vvMv&M>cM>9P>mfcfvYPYMHcmHv}&k&fPHf9>>gvkv?QgMzYmc&4zH&Y*9P&fccHk>kmcvz9?>?NHzz&>gh>P?c9ccgHY??gYMmv?vvvm>mm9OPgMY9Yk&fgvggYzkHgzzmcSkrMMH>&c>f>czgc?k?1vHz&Pk&f>HPmckg>gzccH>gbHzHmm>PY&vMPMH9Y9ff&g>Hc?cvPvHmY&94&M>kY>?c&fMHYvczPHH&cz91P<MMckz>dfkf&gzg?H>vc&HmHsk_&Mz>gk>fcYzcmv>?f&zWHPk&&>HPg9k9ffH?Pg9?YH>zPvm&c4H>&M99Yk>cPcvYc?HmPvMGcm?9P9&kY9>c&kvgYg??&mkvgmz&cPkPM>H9&g>fggzYcHkHrzHm&MkRf9HMmgkY>Yzgcv>Yovzvm&>MYTv>P>HkYkfc&Y>vc?vzPzH&Y)9P&>>fY9?g&cMvYzcmPvHlcm9PPPM>cfz9YY>c&YzY?v>vgmzmYP>9cMvkP9zccHOg&mgHglvzY>k9>kv>ckkk6cHv>zc?&HvvYmH998vPz>zk>kvHvgHvcH>zPvm&c&vMPMH9cg(kZgkg&zzmHz>PH&>&mPvc99>9mfvv9Y>Y!?zv&Mg&>4?f9>Mfmg>?>Hcv?mB?%v_mc&Mk9P&>fgWY>?cHHv9?mVgvgmg&&U?fv>?9kkfHvczvcmc&fP9PH>gkvMv>kYgf>c?z9zcmH&mvfPH<fkwP=>wkcfMv9gvYzHzz>zv>v.H9c>>kP9mcc?zY9z>H& zmP>>9>9z>f9PkMHgcmv>?&&vz9M*&_!Yfv>99kfkcHg9m9H>m&vH&Y&?9&MH9cczk4gkgf?Hz&vHRY&>&mPvkY9f9?fHg>gzzPHHvfm9MP-?PkMfgv9zYcHgvhz&.9z9zz>_WHMMcv>zgf?HHgzeYAH4zcmM99PMPzMmY9fMY&HmzPmv&kQ?>9)9izfI>HkM?vfzHgzc&vHvzv&>&mk3Mg9zkcckcMYH?&m>zMmz&cPkPu>H9&gkff?Hgmmk&>&zmcM>&+MzMmk>gYcfc?YHH>HzaPmH&fP9kP>c9m?gfmgPg:&gHomkm&GzX?>>9c99f9cHgfmg?m&>zfMz>H9kM&>v9YfHv9g?v&HHzYm9&&>kP&M?9ggkcMcfYc?&HY&zmc&MQ+9z>c99kPc>vvY9HYv>mPzmFcPH9&>mkYf>gPgv?cHH&PzMPc&?kPk&fYk>g&fvYYY?H&&kz&m?Cgk2M&>?kg?ZgMgf?cH&vY7z&cKMP)kz9ck9fPg>zv?9HkzkmH&9k9M>k&9HfYffg&vk?vmHzcMk&Y9HkHfk9mkYf?vWYfzHvcP9mv9gPgMPg99vkzczY>Yv&vvH(cm>PPPMfc9>k&YkcgYzYmv>&cm>MPJHPf>9cPkHffg9zv?HHgvkmc>1BHMMcvc&Y9Y,?hY?&9H9z9mH&fkgMf>P9M?gfYH>z>mM&(aHP&9gPgMPg99&ffHogmg?z&&&P>Mc9vAvMv9>9m?6cgYz?cvkvMmH&&>>Pg>z9cfkfxgHY&mkH&zzzzo>>YMfM?9Hf>fzHPYH?fv9BPm9&kPkMH>9Y9kk?Ng&zgHk&Cz?PY&vMPMH9Y9ff&g>Hc?fvPvHmY&9%&M>kY>?c&fMHYvczPHH&cz9<PrMMckz>Cfkf&gzg?H>vc&Hz#Tke&Mz>gk>fcczgc?k?kvHz&Pk&f>HPmckg>gzccH>gEHzHmm>PY&vMPMH9Y9ff&g>Hc?fvPvHmY&92&M>kY>?c&fMHYvczPHH&cz96P^MMckz>Yg>f&gzg?H>HgzzzYj>>cPv9P>zfc?Bv>YMzcH?PPP&MYP>9&MvkYk?c&HkYgHzvcmkmM)HP&k>>gkzfcgkg3?HH&5kzg&zocMkMk9Hk&YkcfHHYm&k >1z&c>>NU>z>mf>YYckH&?HvYvfm&&&9gMkk&kPYvfvYPgzHc&bvp&k&P9zkH9>gHY&c9H>?PmzHYP>M>9gPfk>c9czffcPgMmgHc&>zPMvE9kJMA>YYvf??cYMmPm&&Yzv P:HMckH9HfkfmgHvP?HHfz9PP&M>cP?cPc&gYc>?&gvHYH?z&Pk&P>HMc9k9MfHfKYkYPHHm&z9&Y&kP&fg>cg3kOH9gPzzmH#9zvM&9>PmMM9>kHfk?YY>YmHv&Ym>m,&zP&cg>nkPcPgcg-mtHPavmH>9PPkv>fckkgczgc?k?MvHz&P>eMPzMc9k9LfHc&HkYfzHHmPkM>MzPck>Mskzkmg>HYYvvPvHmYmfb&M>kc>vfPfHgYY9?&v>zYm>FPCPMc>HcPkMYcc?zPz&mYz>*&mvPYP?>&ckkgczgc?k?MvHz&P>FMPzMc9k9OfHc&HkYfzHHmPkM>MzPck>MBkzkmg>HYYkz&vHmYmfE&P9>Y>kk&Y>cgYzYYv>JvP&mm>>PffzcHgkf&?HggHkHfzHPP&9PYM>9P>mfccH?&Y9HYv>mPmv1cPHfP>9kYf>gPgP?cHH&PzMPc&?kPk&fYk>g&fvYYY?H&&kzPPH7cMkMM9HkH?9gPHH?z&gvgmzmYP>kvMvkP9z?YHcY&mc&HvoC&&z9YPkf&c&?9cM?&v0zYvMvzzm99P>9&MzggkrHvgvYk&gvfn>mm>z9Hkk>gkzfcg>Hc?cvPv?mcPzCcPMM^fz9mY>cfvzzHmkv&6HmgPkPf>HcP9zYcg>?PYmvcvv&PmzPc9HMjkkkPcHv9Y>mvHvTyzz>Y9ck#>ggHY&ccgMY &gvczMmF9gPcMM>=YgfccMgsmgHcvMzj>g,cPMM*ggkcf9cPY>mvHcvmMgM?>c9f>Mgv9vfvg>gmm!HHzMMv&?>fkcfYg59UfBgcYM&9H&zfMh>M9c9m>?Y9k9c9gHYf&gv>z?>9{M>mk>c>gP?vfvgv?>?m!QzH&M9vP?kgfHgHYgv9g9?9HHvfMg&>*?f9>MMmg>?>H>zvYvHvz>zm>2<MM>Mv9Hf>f9vvYc?mGgQHPgmf>HMfcO>.koccgMm9?vzPzH&Y&fP&>>9Yk>cPcvYc?Hz&vHmYmYo&9k>M>fkcf&cYHz?cHMv.uzmTPkP&>z>?f>cc?HY?HkH&zzmgK>Pc9zMc9M9Af&c4zuY*HfvcmHMYP>PrMz9&?gfVYkY&HzH?m>&cVzPc>k>lkHf&?>g&?z?zz>+Y&>&mPvc99>9rkzc&zg?>H?P9mMPm>>k>fPgv9vfvg>gmmbHmvYz?>INf9Hf?cmYg?PHfzh?1HYPvmc&mkgk?f/cffMHvcvYvH>HmP:mg_zPc>k>MkHf&?>gg?zHczkzl&HV&kfMg9zkcckckYH?&mkzMzf&co&PYkz9ckMf}?zg4?PvPzczb>#(&9H>ckkkMcHcQ?k?&vH&&m93YP>M&cg9gfzccvkz>HHd>zmmMF>PHMkfYk>kmcvHY?>?nHzz&>g&5PP>P9c9I?dc&HH?cvkvMmHm8PkP&>Hf&k9cYg>Y&mgHgzzmc>k9>MHc>9Hkfc9vvYH?fv9PvmH&g1kMcco9HfMHvH&v)zvvfP8zu&4PcMMg99&ffH8v>z9z7&>zm>g&gPgM&>?Yvf?ckgfmv?z&cPkM?999zfggvkvfkvgY>??*9zMvmM>9>k>cv>vkvc>cmzK?gHYzYm&&gkgPYfk9mkYf?v4YmzH&vP9P&9gPgMPg99&ffH!vPvvz&v?M9m9y9PHMfggk>f?v9vkv#H?P9z9&9UHPfcg9>k?H9HcHlz>HmPgzg&gi&P?cv9?kkffvvYPzc&c.>M9M&9>fv>v9k?gc>g?m9m>?m(>mm9gjgMg>&9??vfzHc?>vPHmmcmvPP!z>cc09-ckcPvzzHv>:Hz?P&nMkYfccPkHYcc9?P?Mvc&zm?mmp&Mc>Pckk&f?ggvk?fmHzc&k&APHkP>m9Mf>cHgkvYH>HmzvPY:>r/Pz>&YgkY?>g&?z??z>zg&z&YM>fv>vfPkzHYvc?&&cvfhHmm9kk>kz9cg>k0gzgmH>mYz>zm&vk9M>Mx>zk&Hgcrzg?&vzv?&>>gP>>P>vkcY&?PgMvc??0PL&PYe>>&Pv9Y9?f&?kg&Y?HgF3z&mv&YPHc9>&kf?AcmH?zv&8H/zt&c_Mf9M&9fY_fm?HH&zm59v9m9&HyffgMwkkk&czc??>HcmHv-&k&&PzMg9>kcfzccYkYkHHv&jkmfMHemfkc>czfc?>cq?z?mz>NY&>&2nzM&gg90ckc&YzY?v>zcQH&?PkP&>z9gf>cc?zgmz>Hf-zPHMk^&9HMgkkkfcHHPYH?fv9PvmH&g:kMccT9PgHccYkYMHHHemkmP<Hk9M99Y9k?P?&Ycz&?m&>zfMz>H9kM&fH9gckcfYHzPHHvfm9>v6HPf>9gvkHffg9zv?mHMz>mH&k>YM>Mm9vgYfvczYzH>HvPvzmMcP>>PMmkcgzfugP?PHcH4Paz1MH{,>k>MkHk8cPYP?c?V}tzPPH&eMkMMczg?c>?Yg&?f&gvP,?Mv9c=0Mq9ckMH9c&Yfmg?d&?z3Tk7MkzfHk>YHf9g9YH?f{gvmP>&&PzMg9>cYf>fZczY&&gHemkmM>z9Y>>fc99YPcHgf?9&vvHzgmkhcPcMmcs9gY9cgYzY?&k(>mH>>&vPv>>>mY0ff?HYcHkH8zHPP&HhgPk>cg-kgczc?zkmPvH&&zvMYP>Pm>vY9fff?gH?>?z&PzHmf699PMH>g9kfcHqggYYHYv&zg>g&?9>M&9z9?c>?YgvYzHzz>zv>v&v9cMvkP9mcccvgz?zv>vvMvmz>cPv9P>mYY?fg&vk?HvMP9zzMf9gf>Mv9vf>fmv,YHHM-9vvPf&vMPPmcYgcf&Hcc6YAHcvMM9m?M&PH>Y99k&Ykc&gvYYHHP9zv/P&mkYfk9&g>k!?zYc?MHtPgmc&9oPM>>>9?Yvf9?#Y9HYHfPPP&ec9&Pg>g9&k?HvgMvcH>zPzv&cMzPcM9>Pk>?vc9YYYf&P&zmcPH&g9kM&>?kg?Oc&g??g&pv&zvmYIHf9Mv>zkzc>cvzv?g&gzMP*mH9gPzfR9zYgfHHrgzzYHvmPmHQY!fM&9>cckvgPgH?YH9v&m>&Y&vMPMH9Y9Yf&g>Ycvz?m&>zfMz>H9kM&fH9gckcfYHzPHg&cm>WP&mMcMvkPkgcc?Hg#HkHvzHM9&9PYP cPc&fc?&cmv>?f&z4HPk&&>HPg9k9ffH?Pczvcmg&PvYmv&&2UMHg99kgmH>v>mgHgvPM9m&4fk+fPfvc&kzv9g9?9HHvfMg&>1?f9Mkfmg>Y&vggg?gH&v?Mv&cimfgMYcMgc?cvvgv?vv>vmM{&MP>Pv>Hk>k9HvgcYm&g&cvMPc&kkvPv>vk>kmH=gPvHm&&m)Y&f&?PH>>>zgPfHcfY9zPH9=vzHM(3zkHkz>ckMkyc&g6m!?nvfzc&H>YM>Ma>zk&HgcSzg?c&vzYMcMYP>Pm>vY9f>f*czY&&gv>z?>9&k&mk>c>Ygkgcgg&Y?&vv?zkmf9vPHkcckgv?9?&v9mvHvvkMg&>y?f9MkftgvH9c9Y9?HHfPgmYM>!mMz>Pk>gYcfc?YHH>Hz7PmH&fP9kP>>ccfMgPcH?czzv?vmm&#cPPkk>&9?fg?kg&Yv?YvHM9mHM&P?>Y>>k&Ykc&g??g&)v&z?&g9TP&Mv>YkHH9c&Yfms&>&?zY>=&!PS>c9M?9cM?&YHzYv>vWzz&&kgM>>?Y9YcYrczm9?9v9zHmf9gPPk>>wczfcc9gP?>&vHH{cmf>PPHMf99YvfHcfY9mvHHvfm9>v&z9cMkgPg&H9g>gm?v=9v?Z&&M9YkcfP9Hgcf9YPYMHcmzvJ&k&&PzP?9>kcgHc?YkY&Hzvgm>&cMz1mk>>fgzYH?kg&vH?gzkzf&H>PP9>Y9>fPkmgcYHv&H9zYm>_P:vMc>HkPkHcYcYY&H>mYv?x&&M9YkcfP9Hgcf9YPYMHcmzv5&k&&PzP?9>kcgHcHYkY&Hzvgm>&cMzxmk>>fgzYH?kg&vH?gzkzf&H>PP9>Y9>fPkmgcYHv&H9zYm>NPUvMc>HkPk9cYg>?P?PvczHm&MkR&P?>ggCk&f?ggza?&HvvYmH99T&Mfc0gMY>YxH>Ym&gHgzgm&&?kvMc>mYgff?9Hczfmf=3v(m*dcPMc9>&kf?xcmHHv&mm&&MgmgwgP&M?gvk?fkcfzvYzmc.gPJM&k9M9Mzg{kHcMH&vmzgmHvYM4m7unMc>MY9fMfzcmm9HMm&AvPm>v9kk&g9k9kzH#gH?M&v&dlgmk9v7vMv9>9m?-cHYMmvHMvkz9>vs9MY>>kP9mccgHgg?gH&v?Mv&M>cP?cPc&gYc>c{gz?&#gvmP>&&PzMg9>cYf>fmgvvYHfH?zH&>&z9PMH>fk9YPc9YY?>vPHmmc&HM&P9>Y9>fPfvgcYHHPHHzYzY&&P>9YM?f&kM?YHcvP?Hmcv9&P&MPc9z>?>mk&ccgPvk?&H?zgPk&&-vPY>HY9kvgPgH?Y?fv&m>Pc&vMPMH9Yk9f&g>YY?>vPvPmc&H>PPMkc>?YPY&?YY>v&?vzYz?&&>kP&M?9gY8f&c?YgmaH&vvzY&Hk9PvMz9zf>fvvvgvmgvfWEm?>gxkk)>gggkY?Pg9YkHkvHz9>9&?>&k fY9Pf9ccgg?>&vvMxfMH>Hk_Mi>YYvfccmzgzgm9&cz?>v&vPv>>>mYAfHgMzv?Mmg&HPc>q&xP2>c9M?9f&gfzOzomvvmMQm6w4Mc>MY9kYY&cv?YHfv&hkm&&v:YMHg99wg&fzYYY9vPv?mc&H>PPHMf99YvfHcggk?c&jvHmM>v*M9ffkgv9vfvg>gmmKHMz>zv&HP>P9cv9ckmHgHfgMzcH?Pvzv&vP>Pmcs9fgH?&HmvYHfH?zH&>&z9PMH>fk9YPc9YYYYH&&>zvPz&cPMP5>&9a?wf1gfYcHH&Ym>m<&zP&cg>mg>?cHfvP?HHfz9Mv&HwfM9cv9Hkgfkgcz.?HvMPvPmMf^?fvMv9vf>fmv:YHHM&&.zPgMH_mfGM+9{fccMz9?M?zHmM9mvM&9zfPcvgkYHv9Y9Yz&NvHmM>v>&9fM?gv9vfvg>gmmQ?;&HmcMkPMPf>c9&kYYzgcYM?/mzz?P>&M>zM?Mm9&fccPHkY&??vgUkm&&vJYMHg999g&cHHY?>?mvvM9&>&l/zM&ggk>f?v9g?gmm>-cPc>v&vPv>>>mYRfmcYg?moH&&HPHMm9g9+ffg_kJfYvvYc?mwgvmPM>MkgPg>g9&k?Hvczvc?v&PzmmMy>PHMkfYk>kmcvHY?Mz&vv8Y&f&?PH>>>zgPfHcfY9zPHHvgzk&c9GPPkH>_gkf&c?YgmTH&v?mg><0&P?>ggJkfYHcmzkm>ygzcmM&NkgMc>M9;?gccg9YPH>Wvzcmm9gPfkMfcgfYcHjcKYdHcvMM9mfNcLnM&9c9g?ecHYMmvH?HfAHM?>Yf9M999kHffvgY>??&vz>&PmmPc9vMGkkk&czcz?>Hc&&vgmg&&e?fv>Mcck?HPH&vYH>HLvzm&9gnmk>>&kzfgg>HY?>?mvv Y&f&?PH>>>zgPfHcfY9zPH9vkmk&H49f9>9chkP?ggMvP??HkvfMv&m>ckgfOc&?9c9czz_?HvMPvmmMc>HkHc/>ekhccgMm9H9m&zH&Y&fP&kk>mcHkngkgF?HmPv?zkmf9vPHkc99YPY&Hgg+mvHvvkMgmY9M>mMkkMc?g9cPgvHz&vzMP)&9PYM>>&gck&f?ggvk?&HvvYmH99P99&>HkYkfc&HkYvzHvgPkmY>H9Hkk>m9Yk?Hwg&vHHg^9zv>glgPPc9>Yc&kHgYY>z&Hvzc;zmNPkP&>Hf&kPYYg>gm?vmYv?-&&M9YkcfP9Hgcf9YPYMHcmzzcmM&%kgMc>M96?gfcgMgI?&HqP;zi&fKcMHfYk>k+fzg&mg?^vPmP&c&xkVM.cvkf?9ckHz?fHPvMMg&?>>k9fvcHYSf2cYzv?cHmPgm?M>>ckccv>vkvc>cmzA?emHzc&k&MPHkP>PcckvgPgv?czzvfzPmM9gPck>>_gzYHH9gvmgHgvPM9mk>m>?MP9mcfcQfzggHY&gvkPvmAPkP&>Hg>kHffg9vP?HHgvkmc>O-E9H>ckkkMcHHPYgzcv9PPmk>c9ckP>?9kkfHvgHvcH9&Lzg>9B91zf!>mcHkcgkg&zHHgz>(YmvPPPH>cfHkfYkc&g??gmkvfOHmm9kk>kz9cg>kJgzgmH>mYz>zm&vk9M>Mm9v?9c>cmYv&9v>vmmv99P>P/Mz9&?gc>g?m9HMm8t>MM>fkvPv>vk>kmH<gH?M&v&&!HPvM&P?c9>9k9fHcfzg?fHPvMMgmm>>kMfgcQggYHvgYg?PW9v&mf>#9Mkfkm9??9f9g9YH?f*gv5mP5PPcP;c:9mYvc?v9YkmvHYP9z3Mz)CMP9PkckRH gfvHmv&kvzm_y>P9M&gg9mYMHcvcmvHvvkMg&>;?f9M?f{g>?Mvggg?gH&v?Mv&c*mfgMmcMY9HgcgYg?&H?Pvmc&mkgPmfMgcYfHvcvYvH>HmPxmMr>0vMH9>99?vccgmmgm?&Mzf>g&gPgM&>?Yvfm?cgfzPHmvMm>&Hdk9Y>>>mkvYYcYH&?vmYv>zmmvFHPvcv>vkMf>gcvk?&HvvYmH99=Y9&>vcYf>fmgvm9H>H7vzm&9gPfk>>&czfccMgpmgHcv9zP&>9vPcMmgggcY9?cg?mv?vvvm>mm9EPH>Mgvgvkf?Hgmm1?tv,mc&Mk9MMMz>m?9c>?&v&zH&vicPH99P9PzcU9HfMHvgMvfm>1vvvmv*>Xmfr>fcHY&?mHY?f??vHm>mz>PPHMf99gPf9Hvg9zp?z;Hdz&?&mP&>c9Pgkf&c?YgzkH&vvzY&Hk9Pvc9>vYgfkv>vk?&H?zgMK&&LvPY>HY9k&cfv}YfzHm&nz>9&9P9MH>fYgkY?>gm?z?zz>_Y&>&1FzM&gg9gY>cmYz??v>&Ym>mm!vf9>>>mkvH9g>gm?v59v?h&&M9Ykccv9Hkfc9vvYm?Mv>zHmkMYP>Pm>vcYffgPgH?YH9v&m>Pc&vMPMH9Y9ff&g>HY?f??vHm>mz>PPHMf99gPfHcggk?c&FvgzY&Y}&Pgcg9fY9cMHvggm9HkovzYMk=gPY>Y9&kgHgcmv>m9mzvkmg&H^vMcc!9fg??&H&m9H9HzP5mH-MkvMMfgcHY?H6c+Y=HcvMM9m&Xfk,Mff?gv?%f6gG?cHMP9z&&f9rPfk?c&gmH9c9Y9?HHfPgz?&HW9M>>H>v?9f&gfz8mMm?vmM5m1_#Mc>MY9ffY&cmvYHfH?zH&>&z9PMH>fk9YPfvHc?9mPHHzfm9K>P9c9>99?kHc&Hz?cH9vPm>>v&v9c>9cPkHffg9zv?HHgvkmc>=Cm9H>cckk&f?ggz8?&HvvYmH99.&Mfc*c&gvY&gMm9?9v9zHmf9gP>M?g9g99m?>gfmg?gvgz&m?9vP?Mk>fYvfH?cvcz>&9&&P>>v(vPkcg9>k?H9c?HmzHL9v9m9&HKffgMmc>Yc?fHPYm?Mv>zHmkMYP>Pm>vcYkvH9czzg?Yx>!k&M&fPcM&>YczfccMgZvzHcv9zP&>9vP9fv>kg5fPHHHz?cHMv Mg&cC9PP>>gvkcfmvggmz>mcjkMvmvwvM>MmgJkkYHgf?kYdvHePmH&gikMccO9PgHcfYk?MHH&PzHmf#9kvMH>fk9?vcHgf?9&vvMFcm?9P9&c99>9mfvv9Y>YmHvP9m>m8&zP&cg9>k?H9gMHmzm&9Pgzg&gj&P?cv>mk&fggcY&Yq-gz>m?99PMwmf>gMYkHvcvYvH>HmPSmg0zPc>k>MkHf&?>gg?zHczkzj&H*&kkM&9z9zc>?YYfY?HHz>zzMP:HPf>9cPk9fkgkYH?9_9zMP &z9gMYf59kYgf>HAYYmgHkwPm?&k ffvMzccYg?hH?m9H9HzPimHlMkvPzffgf?vfvgv?>?mpizH&M9vqzkfc9YvkvcvY>Ym&1vHmM>v>z9gkH>YYFkLcqYc?M;9vfmcmLN&McMggJkHcMvvvHYfmHvYMBm1<5Mc>MY9kvgPgH?Y?fv&m>Pc&vMPMH9Yk9f&g>YYYvvPvHmYmY0&M>>cfzk?kmc&Yc?Pmkv&z?&g>kPg>z9cfkfMgHY&z>v>zzmcXk!.MH>&ckkfYHcmzkm>mzzcP>mbPzPm9>cYk>fmcvYH?v,vvvmM&>Pckk>&9vkYcHz9YvvPvHmYmfx&M>kc>vfPfHgYY9?&v>zYzvEP%HMYMY9&f>cc?zYc?MH7Pgmc&9jPM>cv9ckmHgcYvMm>Cgvgmg&&y?fv>?9kkfHvg?vcm9&cP9P&>>kvMv>kYgf>c?z9zkzJHzM9m9Q9PHMfgg9YY>H9HzYkHgvHzv&c9sPPk?c&g&H9g9gzm*HHzMMvMm>gPkcv>vkvc>cmz ?HvMPvPHMfikfvMv9vf>fmvXYHHMsv;&PgMHlYfGMs90fccMz9YfHcHZz&&c&gkUMH9MYvYz?ggkmv?vvvm>mm9SPzkH9YfkckgHvP?mHMz>mH&k>YM>Mm9vgYf>?&YzHYHzz&Pkm&d?Pg>c9g?gfgcmg&H>&PzHmg&kPcflM&cHfYgkgY?HmPvHzf&99vPHMg>kkc?BcHYMmv?z&fP>>v&vPv>>>mY5fP?Hv&zmmYz>z mzA&fgMOggkz?vcczczYv>vmmv99P>Pm>vY9f>fpczY&&gv>z?>9>c>mPzg999f9cHgfmgHY&>z&PzxcP9MP9>YvfccmzgYY?M&cPf>v&vPv>>>mY-ck?Hg?zkH&vvzY&Hk9Pzk&9vgYc>cmYv&9v>vmmv99P>Pm>vY9kkY&czzYmcsvzHmf#9kvMMfc9??P?&HY?>z&HvmYm?)&9k>M>fkcf&cYHz?cHMvb#zmjPkP&>z>?f>cc?Hg*HkH&zzmg.>PcMz>ckkkkcHg&vk?fmHvmMk>>>zMcf>>WfzfmY>vYHfH?zH&>&z9PMH>fk9YPcHggYkHc8xzg&zNcMkMM9Hk&Y>cgYz?cvkvBmH&&PkP&>z>zf>cc?zgmz>Hf(zPHMkl&9HMgkkkfcHHPYH?fv9PvmH&fP9fv>H9gkkccv+YHHM1vaePg&kkvPv>vk>kmHAgH?M&vHzxfMc9vdvMv9>9m?{cgYz?cvkvMmH&&>>MM>z9cfkf_gHY&zkHf&Hzm>k9>9z>cc>9Eczcm?>zYv>v_zz&&kgPA9k9&fzf?Y>?czHHFmkm&yzPg>>9cgmfcgkgk?HmPvM,cm?9P9&kY9>c&kvgYg??&mkv&z?&g9{P&Mv>YkHH9gMH&?HvYvfm&&9PYMM>&c>kgczgf?>mvHHP9m9>gPMfPf&ggk4H>vcYfzHHmPkM>MzPck>MIkzkmg>HY?>?mvvM9&>&mPvc99>9mfvv9g>Ym?vvHzv>v&vPMM>9cgkf&cvgY?Hw9vv&P&HPYPf>&k>gcfvYPYHHYv9z&&>>YP>>P>PkcgzccgMY#&gvczMm^9gPcMM>KYgfccMgSmgHcv9zP&>9vPcMmgggfYM?cYMmv?vvvm>mm9bPH>MgvgmYf?HYfml?Tv5mc&Mk9P&>fgyY9Y??&Y?&9H9z9mH&fkgPa>PkPfcfuvXYPzzvfzPmM9gPfk>c9gvYgHSg{YY&vvczm>g>?99kc9MYvkvcvY>Ym&)vHmM>v>m9fkH9fYokFceYc?M69vv&P&HPYPf>&k>gckzf&vk?fmHvmMk>>>zMcf>>%fzfmY>vYH>HIvzm&9gP>M?g9kMgm?0z9Y9H9vHzf>g&?PHM99>kHkvv9g&?f&1&:.?&f95BjM!9ckMH9cv?P?HvYvfm&U>>cizP&ckkfYHcmzkm>mzzcP>mjPzPm9>cYfff?gH?>?z&PzHmft99PM99Yk>cPfmYc?Hz&HkvcPz&cPMPK>&9}?JfugfYcHH&Ym>mE&zP&cg>;fkf&gzg?H>vc&HzPm>>YP?k&9MYY?cHPYHzcH9mPmM{c>zMc>M9q?gccgMYj&gvcz9mP7>kvMc>mYgff?Mvczf&vHvzv&>&mkKMm>Y9??AckHHz?m&)gPMM99iP!MYgvkcfmvgYfYMmc/cMvmv:vM>Mmgxkg?^gc?k?MvH;!mHVYP9M&cccYk?Y&gMzYmc&PzHPc&9MPMM9cczf?fmg&?cHP&kz&m?{g9kMPfHkcckcMYHY_vkvPmHP&G9MYMk9&YgfcHCgjm9HPSzPH>9r&Mz>gk>YH?&cmv>?f&zaHPk&&>HPg9k9ffH?PgmYMH>vHzkPY!>7mMvfYk>k.fzg&mg?Y&>z&&z&?M>Mg9z9Yc>?cgvHP?zzcPEm&9gPgfv>YYk?>HvYcHkH3zHM>>c0f9HMmgkY>Yzgcv>Yovzvm&>MYP>Pm>vY9f>fmgvm9H>Hmzv>92>wrPz>&Ygf>c?vczkYm&>zm>g&gPgM&>?Yvkmc&gg?cH&HyMg&>X?f9>MMmg>?>vggg?gH&v?Mv&vtkfgM?9H9#f>c?YM&9v>vmmvMYPfP?>Hk>kz?PgHYfH9&Pz9mkUkPHM9g99kYPc9YY?>vPHmmc&HM&P9>Y9>fPfvgcYHHPHHzYzY&&P>9YM?f&kM?YHcvP?Hmcv9&P&MPc9zMakkk&czc??>HcmHzH&k&&PzMg9>kcgzfmH>Yfmz&Hqkm&MH_g>k>fkHYPc9YY?>vPHmmc&HM&Pm>Y9>fPfvgcYHzPHM&cz?>P>&9Y>>f&9vcYc?Y&zkHgzzmc:kLMMH>&c>kgczgc?k?%vHz&&k&&PzPz9>kcgzfmH>Yfmz&H7km&MHOg>k>fkHYPfzHc?>vPHmmcmvPPdz>cfH9UckcPYHm9&cvf}Hmm9kk>kz9cg>k;gzgmH>mYvv&P&HPYPf>&k>gccfYPYHHYv9z&&>MY-?9&>MgYYc?PgHvc?9zPzM&cMzC/>k>&kzk?g>YcvH?Bzkz&&zhgM>>c9zkcckckYH?&mkH&z?mg:cPgcg>g9mk&g>vP?HHgvkmc>.ngPY>Y9&kgHgcYvk?gvzzc&k&MPHM&f>9gfzccYkYEHHv&mkm&Bzbz>>9cczkm?>gfzzmH&kz&PH&gMkMf9HgPf9gYY>HP?mzcmHP&r&MY>>kPkvccgHvP?Mmcv?MPM&>YM>k&>vfYf?g&vk?gvzzc&k&MPHM&f>kMfzccYkY_HHv&LkmfMH<mfkc>czfc?>cu?z?mz>JYmvPPPH>Y>fk&c>?cgvHPHHzYm9&&P>MY>>kPkPccgHvP?Mmcv?MPM&>YM>k&>vfYf?g&vk?PmHzc&k&MPHP%9k9PfHY&g9?Y?kv&PgMH&?>&MMcYgcYPcHHcY9vPvMmcPz&6MkM&9z9?c>gcHH??vkv&mz&gP>Mckz>mg>ffHzvHzkH&&HzgTk fMHfP99fYc>YPgmHcvH&&m9uYP>>P>vkcfHgPgH?Y?Yv&m>PYy>LmMvg9k>kmcvz9?>?THzz&>gX>P?c9c>cmf?v9g9?9HHvfMg&>C?f9>MfmgzH9c9Y9?HHfPgzSZkA&MzM?k>fcYHcZ?k?&vzzg&>:c9mMc9k9kfH?PgHYg?kvcPrmg1zPc>k>MkHf&gkgg?zHczkzQ&Hb&M>kc>vfPfHgYgY?&v>&Ym>mmxvf9>>>O9zf&vgY>??#9zMVmM&k9P9>99HkfHgc?YH?9v>zHzv99p&MfcL9mg??cv3gB?+vczM>9&vVzMz9>9v?vfzHYYv&9vHmYmfo&k9M&9zkgc>HHHzYmm>vfPzMH>kP&kH>gfkffgHvPYzmcz>&PmmPcPv9P>zfcYHc0?k?PvHP9m>>v_vk}MzgYYc?:gH?YH9v&PcMH&?>&MMcYgcYPcHHcY9vPvMmcPz&JMkM&9z9?c>gcYz?cvkvbmH&&>>Pg>z9cfkfkgHY&zkHf&Hzm>k9>9z>cc>9Wczcm?>zYHvmPmH YZfM&9>ccfcgPgH?YH9v&m>PY&?>&MMcYgcYPcHHcY9vPvMmcPz&EMkM&9z9?c>gcHHYpvkv&mz&gP>Mc>z9cfkfkgHY&zkHf&Hzm>k9>9z>cc>9uczcm?>zYHvmPmHBYhfM&9>kYf>gPgv?cHHm&z9&Ys>MPMP9ckHYPcMHcY?&P&&%Y&>M&=v>Y>?k&YkcgYz?cvkvMmH&&>>MM>z9cfkf3gHY&zkvMvfmc&&WY9z>c9Mk0Yzcmv>?&vzzg&>MYB>PmMv9HkvHvcvYM?>vc7km&&vKYMHg99?g&cHYY?9H&&kz&m?*gk3M&>?kg?*c&g??g&Wv&zvmYyHf9M&9fYU?>HgHm??e9v9m9&HKffg>>9??9?P?%Y?&9H9z9mH&fkgM>>?Y9g(kmH>Ym&gHgzgm&&?kvM9>kkkfHc9z9Y?z&vHmYmfb&P9>Y>?k&Y>cgYzYmv>CvzH>9+9kgM?gPg&?gg>?P?vvc+&M>&HCgPk>cg4kgczgc?k?MvHz&P>&gPzMc9k9FfHc&YkY&HzHzm>&cMzPcMM>%Ygfcc9gP?>&vv9zk&k2HP9c9>?c&fHgYgf?&H9zYz?&&9gPcf(>,Y9ffHzvHm9H&zzmg7>9Hk&>c9MklHggcY9?Pv>Pvmc&mkgMffMg>YcHvcvYvH>HmPimHxMkvM?ffgcYvH<c+YiHcvMM9mfZcsVM&9c9g?GcHYMmvm&{Pj?&f91<BM:9ckMH9cv?P?HvYvfm&u>>cPv9P9HfYc9g&?>m?v>mPmPOc>zM?Mm9&fccPHkY&??vgTkmH#MkvMM>k99?vc9YY?>vPHmmc&H&gPgM&>?YvfM?cg?mPm&&Ym>mI&zP&cg>mg>f&gzYgH>mYz>zm&v>YP>Mm>vkHfvvvgv?MH>zcPk&&WvPY>HY9kvgPgH?Y?fv&m>Pc&vMPMH9Yk9f&g>v??>vPvPmcPzjcPMMCggkcf9cPY>mvHcvmMgM>&M9c>Mgv9vfvg>gmmSHmvYz?>1rP9HfgczYg?PH?z;?_HYPvmc&mkgMfMMccYc?HvigX?dvczM>9&vMPMH9Y9ff&g>HcYvvPvHmY&9S&M>f&9>fPfPgcHz???mv&mc&P>kP&M?9ggkfgcYYY?&HgPgzYMk+mPYM?g%kmYHHvz9mPXgzgmP993&Mfclg>g?Y&g?m9?9v9zHmf9gP>M?g9kM9m?>vczk&vHvzv&>&mk!MM9>9vfHg>g9mvHcvmMgMH>MPmcg>gkgf&c?zv?9vYz>&PmmPcMHk&99fYc>YPYvHcvH.PmMMc#?fPf&cYf>Y&cv?Y??v&Wk&M&fPcM&>YczfccMgqvz?Y&>z&&z&?M>Mg9z9Yc>?cgvHP?zzcP)m%PkPPfzcHf>?Hc?H&?M&YTcPP&H>cP99P9MfcYzccYMY!H&v^MnmAJfPc>HcYf>fKczY&&gHdmkm&2zA?>>9ccHk*gkg&?zHgz>mcPz&m9>MfczgHYkc&HHYgvkvfmHMP.HPf>9gvkHfgckYcm!HHzMMv&?>gkkcv>vkvc>cmzs?gvzzc&k&MPHM&9k9gfzccYkY^HHv&m>Pc&vMPMH9Y9Yf&g>HYY?z&vMPYMc>PPHkc>9fPfMgcHz?cH9vPm>>v39MY>>kP9mccgH?P?9vYz>&P&vPcMH>&c>kgczgc?k?kvHz&Pk&&C?MgcO9&k?cgvWY&??vgP<&M&fPcM&>YczfccMgFvzHcv9zP&>9vP9>Y9>fPkmgcYHv&H9zYm>_PpvMc>HgckHcYcYY&zkH&v?mg>w3&P?>gg#k&f?ggz.?&H?zgM/&&K?Mgc09&kvfYgHm9?&vfP5Pj>k>UM?g999f9cHgfmgH>v?M9&MMm9Hf9gg9gfgc&g?mvHcvmMg&f>M9cf>ccY{k8cjYc?MR9v&mf>Sum9vfccY?9f9g9YH?fNgz>m?99PM9mf>c&YcHvcvYvH>HmP7mm&Y ?fG>PcHY??&vgvwmf{NzsmY9vPcMmggkfY9?&vMmv?vvvm>mm9,PgMY9Yk&fgvgYfzkHmvYz?> }P9Hfvg9gpHgggYP&9H&zfM<>>>?9&MzY9k9c9gHYf&gv>z?>9>c&mk>>PYgkgcgg&Y?&vv9mY&>PP!m>c9Hc&f9gYY>HPHvzcmHMP}M9cM?gPg&YYg>H&YvvYv?m&Mkt&PvMY9H?9fvv9YHHYHfz&M9&&PzMg9>gHgzfmH>Yfmz&H%km&MHTg>k>fkHYPcHgf?9&vvHzgmkFckaMH9MYvkz?gHHz?&_HAz+&c(Mf9Mvg9kHcYcfY&m9H&zzmg2>9H9zMmc>kf?zHHvk?&mHvg&k&fPHkP>H9gkkccvLYHHMGvvzPg>9kvPv>vk>kmHRgmvHHczkzM&H&=MkMm9Hc&f9gYYM?&&gvcPymE99PmfzcHY9f&gzYgH>&HS&zmM>3fkzfHckk&YHcg?k?fvHlPmH&g!kMcc=9HfMH9g9?YH>zPvm&cFH&mk>>&kzkzg>vHY9H9vHzf>g&m9>MfczgHYkc&gvYYHHP9z?P&wHMY>99&gkf&c?YgzkH&v?mg>8o&P?>ggak&f?ggzF?&H?zgM /MCfMc>&9YgzccgMY^zzHezP&PFcANfx>Pgvff?kgPvHHczkzM&H>PP?kc>vfPfHgYY9?&v>&Yzv_P&zkYfc9&g>fm?zg}HkHPzHo&&?PYM>9P9PfccHHPYMzcH?PPP&MYP>9&MvkYk?c&HkYgmLvcmkmM5H9aMH9Yk9f&HcHYY?z&vMPYMc>PPHkc>9fPfMgcHzYYm>v&mzm?P>Pg>z>Yf>Yccv?PYzvctLz&>gZgkvMYgkY>?vgc?k?svHP>Mc&f>HPmckg>gzccH>goHzHmm>PY&vMPMH9Y9ff&g>Hc?fvPvHmY&9O&M>kY>?c&fMHYvczPHH&cz9^PJMMckz>Yg>f&gzg?H>mYzMl&&9PYM>9P9vfccHHPY9HYHkPPP&yc>HMffk9gfzfYY>vcHMzPzH&Y&YP&>>fY9?g&cMvYzcmPvHXcm9PPPM>cfz9 ?gc&YzY?v>4gm>APAvMcf&cPkMYcc?zPz&mYz>s&mvPYP?>&ckkPYHgc?k?MvHvd&k&PPH9&>9kYkkc&vgYcm HqP9mP>z9Hf9>&kzfgg>vHz&H?Hmz&&cZP9kM&>?kgYkc&gvYYHHP9zvmz:zM>Mvgv9z?ggMvPYzmcz>&PmmPc9z>fc>kgczgc?k?wvHz&Pk&gPzPYckg>fHY&g?vY?vzPvz&cMHPf>k>&kzkzg>Ycvz?m&>zfMz>H9kM&fH9gckcfYHzPH9jvm>xP&mMcfv9cfkf gHz>zkHf&Hzm>k9>9z>cc>9-czcm?>zYHk&&mHqY_fM&>9kYkkc&H>YgHzHYm>Mv&Hk9M9cg9k?P?&vg?>vPvvmcM&9>PMkc>?YPY&?YY>v&?vzYz?&&>kPg>z9cfkfMgHY&z>vMzzmcAk!(MH>&ckkfYHcmzkm>mzzcP>m%PzPm9>cYkkY&gH?Y?fv&XkmmMHTn>k>&kzfgg>Ycvz?ZzkzPMz>HM>kc9MgPf9gYgk?&m>vmmz&cPkPk>H9&gkff?Hgmmk&>&zmcM>&IMzMmk>gYfvv9YHHYHfz&M9&&PzMg9>gHgzfmH>Yfmz&H<km&MH7g>k>fkHYPfzHc?>vPHmmcmvPP4z>cfH9ockcPYHm9H>uvzvMx&zkYfccLkHcYg9Y&mc&Hz>zm&vk9M>MK>zk&Hgg>Y?&9vM&SPHMvkgPg>g9&k?Hvg9YkHkvHz9>9K>>&MH9Y9ff&c9YY?>H&&>zg&z6cM>fv>HY9f9HgY>mPm&+gzI>>9cP&Mv>YkHH9cvgz?zv>vvMvmz>YPv9P9HfYffg&?>zcHvmPmHGYP9M&9>kYf>gPgP?cHH&PzMPc&?kPk&fYk>g&fvYYY?H&&kzgMoncMkMM9HgTfHgYY9?&&c&Yz?P&nMkYfccPkHYcc9?P?Mvc&zzYM>2&MzM?k>kgczcY?>zcHvmPzzuc9pPs9k9PYz?HY>zH??m&zMMY>c9PMHfc99cPcMYcvz?nzkz&&z&?M>>c9zkcckcbYH?&m>v&mzmzP>9YM?f&kM?YHcvP?Hmcv9&P&MPc9zM#kkk&czc??>HcmHz?&k&&PzMg9>kcgzfmH>Yfmz&H,km&MHGg>k>fkHYPc9YY?>vPHmmc&HM&P9>Y9>fPfvgcYHHPHHzYzY&&P>9YM?f&kM?YHcvP?Hmcv9&P&MPc9zMQggk&czc??>mgv>mPmv*c9&kP>H9ff9HvgHYfH9avzHmg&kPcfA>HkM?v?HvPvvz&v?M9m9u9PHMfggk>f?v9YMvmm>& -&>v&vPv>>>mYnfmcYg?m{?4&HP?Mz9gkMfcgxk^fYvvYc?m(gzfzMMc9>kgc%>_kQccgMm9?&vfPgmgdzPc>k>MkHf&?>Hc?>vPvPmcM&&gPgM&>?YvfM?cg?mPm&&Ym>m2&zP&cg>mg>f&gzYgH>mYz>zm&v>YMfM?9Hf>fzHPYH?fv95Pm&7YP>>P>vkcfHY&g9?YH>zPvm&cwH9PMm>Mk>fHckHY?>?mvvJY&>&brzM&ggk>f?HvgvHPHHzYzf&&P>9ckH9cfkfkgHz>YvHvz>zm>5af9HMmgkY>YzgcY9?Pv>PvmMMcP>>P>vkcgzccgMYnzzvczMmi9gPcM9>Pk>?vccgmmgHf&MScM>>vk_PB>akcfMv9YMYz?mP9zkP&>v9Hfvc9gYH9g9gzmlHHzMMv&?&f9Hfcc&?9f9g9YH?f(gv7mPVPPcPic.9PYvc9v9?MmvvfP9mc>v}zkk>gkzfcgkgM?HH&&>zg&z%cMkMC9Hk&YkcfHHYm&kr>xz&c>>d6>z>mf>YYcv?P?HvYvfm&C>>cPv9P9HfYc9g&?>zYH?&&mM>Y9ckP>Hcck9gPgM?czzHYo>m&RzW?>>>gkzkYg>HcYvvPHzmcM<&5MkMPczgHc>HHg?v&HMaYPcMP=H9cM9kPkMcc?zg-HkH&zzz?Q>Pc9HM*kkk&czgg?>HcmzvmP>&f9zkHfk9&gHfgYkYfHH&Pzvmk9gI?MHMr9>k?cMz9YvvPvHmYmfK&M>M&>?kg?*cfHHYm&kS>Az&c>>(r>z>mf>YYckH&?HvYvfm&Mkbv9HMP>>gYcMczgm&9v>&&P&>gkkMYc19TkYHvgmvcHkzPzH&cMzPfMP>MYgfc?>v9zv&YvmM9&9&zk MmfHk?ckc&YHzPH>&cmMVP>&Mckz>zg>fmgzv?H>mYv&mf>rrc9Hk&99?9cccmYv&9HY&mP>&PkgPg>g9&k?Hvgg?Y?Yv&b>mcwzdz>>fYkMcP?&YcvHH9&kz&m?Rg9kM&>?kgYkc&g??gmkvf;Hmm9kk>kz9cg>krgzgmH>mYv?3&&HPYM9>&ckfMffgcY&?YmzzcmM&5>zMf>P9M?gfYH>z9mv&fPWm7&YkvMc>mYgkY?MvMmg?gvgz&m?9vPcMmgggcY9?cgkmv?vvvm>mm9.PH>Mgvgmkf?HgYm)?BvXmc&Mk9Pf>c>sk&cccgzK?HvMPvP?mf>HPYcW>bkoccgMm9?vzPzH&Y&fP&>>fc9vcPcHYY?9H&z>mY&>PPPP>c9HgPfM?cg?mPm&&Ym>P&&vMYM?9&gkcMcfYc?&HY&zmc&Me49zMQkkk&czc??>HcmHv0&k&&PzMg9>kcgzfcgMge?&H3Pbzr&f,cMHfYk>k5fzg&mg?rzkz&&z&?M>>cfH9ockc&Yz?gv>zcmz&cPkPk>H9&gkff?Hgmmk&>&zmcM>&(MzMmk>gYc>cmYv&9v>vozz&&kgM>>?Y9kkkmH>z9&gHgzgm&&?kvPm>&9gfcc&c+mgH>v?M9mkMN9vc9>9k9fHcfzgYtvkv&mzm?P>MckH>Ifkf&gzYgH>vczzzQWkB&MzMzk>fccHHPYMzcH?PPP&MYP>9&MvkYk?c&Hk?M?fvcz&mYMzPcMM>Rczk6gkg&?z??z>mcPH7?MkM&9zkgc>gcHzYmm>vfPzMH>kP&kH>gfkffgHvPYHHfv9m>&9k9P9M?>Hk&YzgcY9?Pv>Pvm9%YP>>PMmkcfHY&g9?YH>zPzv&cCHMPM99Yk>cPcPYc?HH&&kzfPH&mkkf>fzkcY>f(YzYmv>&Ym>mm8vf9>>>mkvH9g>gJYzH&Pgm>&?k9Pkkmc>Y>HgcgYg?&H?Pvmc&mkgPYMMccYH??v2gI?3vczM>9&fPcPA>&kckgHWgH?M&vHz1fMc9v7vMv9>9m?;cgYz?cvkvMmH&&>>M>>z9cfkfwgHY&zkHf&Hzm>k9>9z>cc>9wczcm?>zYvfv?mHn>AzkP>H9ff9?Pg9?YH>zPvm&c0HMPM99Yk>cPcvYc?HH&&>zg&z7cMkMk9Hk&YkcfHHYm&k0>oz&c>>-w>z>mf>YYc>gmYvHHvvMvmvGMP>>cckk&fvcYYH&9HvmPmH<Y.fM&9>kYkvgPgH?YH9v&m>&cMHw2>k>&kzkzg>Ycvz?m&>zfMz>H9kM&fH9gckcfYHzPHHvfm9>v0HPgMk9cY,fggzYcHkHMzHm&M>GgMz>ckkk_cHg&zk?&vzvz&>MY:?9&>MgYYc?PgHvc?9zPzM&cMzPcMM>jYgfccMgomgHcvMzL>go?omM&9ckPYkc&g??gmkv&zvmYZHf9>M>z9mH9ckH&z#&gSMMv&v8kfg>>9??9fk?mvm&9H9z9mH&fkgM>>?Y9Y>YXH>YP&gHgzgm&&?kvMc>mYgY?fMHcYk&vHvzv&>&mkbMM9>9vfHg>g9mvHcvmMgMf&M9cMkgv9vfvg>gmmiHgzzmcXk!MMH>&c>kgczgc?k?3vHz&&k&&PzPz9>kcgzfmH>Yfmz&Hakm&MH0g>k>fkHYPcmgM?>HHvk=Y&>&mPvkY>vfPfHgYgf?&v>&czvBPaHMY>99&f>YYc>gmYvHHvvMvmv6MP>>cckk&fvcYYH&9HvmPmH-Y<fM&9>cckvgPgH?YH9v&m>&YO>MPMP9ckHYPcMHcY?&P&&uY&>M&yv>Y>?k&Ykc&g??g&Zv&zvmY}Hf9M&9fYRfPf?H&z2V9v9m9&H-ffgM?9Hk9c>gHgv&9H&zfMh&P>vkgcw>Bk{ccgMm9?vzPzH&Y&fP&>>fc9vcPcHYY?9H&z>mYmvPPPH>Y>Yk&c>gcHzYmm>vfPzMH>kP&kH>gfkffgHvP?mHMz>mH&k>YM>Mm9vgYfvYPYHHYHfz&&>McPf>P>HkYf9c&Y>vY??m&zMMY>c9PMHfc99cPcMYcvz?cvMvXm&&qkaPb>f9cfH?YY>Yt?zv&MgmQPkP&>z>?f>cc?Hg8HkH&zzmgy>PcMzM%kkk&czcz?>HcvHsPmMMcl?fPf&cYf>Y&cv?Y??v&ukm&&?Pgf7>&9?fgHBg&Yv?YvHM9m&0fkqMPf?c&Y&v9g9?9HHvfMg&>}?f9MkMmg>?cHfzvYvHvz>zm>x}MM>Mv9Hf>f9vvYc?mRgvYPM>>kgPg>g9&k?Hvg9?YH>zPvm&csH>&M&9Yk>cPcvYc?HmPvM0cm?9P9&kY9>c&kvgYg??&mkzMzf&c2&PYkz9ckMf3?zg0HkH&zzz?1>PcMzMqkkk&czgg?>HcvH&&m95YP>>P>PkcfH?PgMvc??;PL&PY<>>&Pv9Y9?f&?kc&Y??gvczg>g&gImP&9>gPfHcggk?c&2vgmz&cPkPM>H9&fkfggzYcHkHwzHm&!>>cPv9P9HfYfYg&?>zYH?&&mM>Y9ckP>Hcck9gPgM?czzvczMm*9gPcM9>Pk>?vc9YY?>vPHmmc&HM&P9>Y9>fPfvgcYHmPHHzYzY&&>kPfkH>mYk?>?zYcz>?Tzzzmj>>YM>Mm9v?9c>cmYv&9v>vmmv99P>Pm>vY9f>fmgvm9H>Hmzv>9w>B^Pz>&Ygf>c?z9z9mk&Mzm>g&gPgM&>?Yvfccmzgzgmv&gmM>v&vPv>>>mY_fHgMzvzvm&H?+&&?k9P9>99HkfHgc{?k?&vzv?&><c>HM?9k9&fzcgY>?czzvcz9mPn>kvM99Yk>cPfmYc?Hz&v9mY&>PPPv>c9HfPfHgYgY?&v>&Ym>mm/vf9>>>%9zf&vgg2?PvPzczL>:,c9H>Mkkk&czgg?>HcmzvpmPiPPcPGcZ9vgzf7gP?PHcHjPbmmMHrPP>fY9lg&fzvfYzz?vzvm2&ugMHMzci9Pk>Hgcz?zvPvHz?&gQH(vkH9f9Hffgkgg?cHkv?M9&M9gM>c>99kkckgHY9&9v>&&m?tYP>M&fk9Mf>fgcHYM??:vzH&Y>cP&>k>&kzY?g>YcvzHcvMz:MvqzMPMf9>9kfccfY9?c?g&cmMmcVMMPM99>kPffHSgym9H&tvzm>c_gPY>Y9&kgHggcv>?mvzzc&>&&PzkH9>kYf>gPHm?cHHm&zMPYZ>pmMvfY>H?>?kgmYY??qqzMPH>Hk9M&9z9zc>cZgYmvHM&cz?>P>&9YMv>zkzc>cvzv?Hmcv9&P&MPc9z>>9??9c>YPgcHcmH&&P&>99kfvMv9vf>fmvoYmHzH?P>M>xH>&Pk>ggvfcgkg3?HY&&kz&mv&YPHc99MfPkmHcvc?&m>HYmcMRJHMY>99&9>YYg>gm?vmYzk&P>zPPkzfHk>gccMHPYH?fv9;Pm9uYP>>PMmkcfHY&c(zv?H&FzgMg6fk>kk>&9?fgH+g&Yv?YvHM9m&efk<Mmf?c&Yv?HzgYgHgv&z?>v;cPmcgcggHYg?HYfmQ?NvImc&Mk9MMMz>m?9f??&vmzH&vOfPH99P9PzcU9HfMHvg?vfm9&>P8zy&)PcMMg9kccPcHYY?9H&z>)cmvPPPH>Y>fk&c>?YYfY?HHz>zzMP{HPf>9cPk9fkgkYH?9*9v9b&&HPYPf>&ckkgfYgYY&?g^gzgP>mY&HkP>?9kkfHvgHvcmc&4Pz&P9gPgMPg99vkzczY>Yv&vvHLc&kPPPH>cfzkffPcMzgYmm>,9Pv>YxHf9>9>zY;fgcYYY?&HgPgzmM>e&MzMmk>gYfvczYzH>HvPvzmMc%?>Pf&kcgzf<gP?PHcH#P m&MH%m>kcMkHYPccgmmg??&>Bcmv9vP&Mf99YvfH?fHHYg&EHGzn&cbMf9>9kPkHcc?Hg?HkH&zHPP&MPYkc>&c>k*YzgcYM?nmzzcmM&I>zMc>M9Bgzc?cmY&HcvPukm&&?Pgkk>&9vkYcHz9Yv?zvzm>mv9v(vkc9>fPkmgcHzY1HPzPmcm89+PMkH>P9>YYgMgzYmV9z>0&M&9gfk>YgQkEfYvvY9?kvkzHm999P>9&>zkYf>c&HkYm?YH?PGmfMH9vf9gPk>?vcvgkmg?wvPmP&c&SkrM&fHkcckcfYHzPH9vkmk&Hi9f9>9f&kHcYHcY&zkHgvYmY&&egfgMmc>k&czH??>zYH&zfMp&X>H9&>9Y9fcfmgvm9??mm^>z/9g0gMg>&9??vfmYYY?H&&>zw&z&mM>kY9>fPY&gcHHY?mkv&z?&g>kP&M?9ggkf&c?YgzkH&v?mg>3I&PvMY9H?9f&gfzN?m??&&Pv>PkgPg>g9&k?HvcmY&?gvcz&z!9gP>M?g9kMgm?vHzmg?gvgz&m?9vP9>Y9>fPkmgcYHv&?kHc_z&?&mP&>c9Pgkf&c?YgzkHgvYmY&&3gfgMmc>k&czc??>?gvzvm&>>vGHf9>9ggk?HPH&zgH>zPzv&c>&k>PH>f99f>c9z9Y9??HHz&Pz)cP9MP9>Yvf9gYY>HP?mzcmHP&&kWckz9ckMf.vgYc?MHOPgmc&MbNfg>c9MkOHggcY9?Pv>Pvmc&mkgMff9gPYMHvcvYvH>HmPpmHIMkvM?fgcHYY?&z9Y9H9vHzf>g=>P?c99McmYm?HzgYgHgv&z?>vAcPmcg9fg>YcHkvHmd?wvamc&Mk9P&>fgIkgczgc?k?MvHz&zv&vP>Pmca9fgHfmvkz>zzvcz9mP->kvMMfck>cPcvYcvzHcvMzrPzIcP9MP9>YvfccmvtYnvkv&mzm?P>McP?f&kHcYcYY&mc?8v+mc&Mk9P?k&9MYY?cHPYH?gHkzcMq&f>HMc9k9AfH?PgHYfH9&PzHmfU9kvMH>g9kfcHLgg?zHczkzM&Hr&9>>>9zkcckchYH?&mkv&z?&g9sP&Mv>YkHH9c&YfmQHm&vPYMvk9P9>99HkfHgg>Y?&9&k<HP9McPMfvMv9vf>fmvAYm?YH?PRmfMH9gkccgc&YcHAg0YY&vvczm>g>Y9mkg9MYvkvcvY>Ym&ZvmzYm?9XP&kH9cfkfMgHvu?HvYz9m&&vUkfgM!kkk&cH?&YM?HHv{PmH&fP9kP>m9Mf>cHgkvYH>HmzvPY&v%zMz9>9v?vcHHc?>vPHmmcPz)99>M&czkP?>H>Hz?fHPvMMgmm>>P&fv99YqfTcYzv?9HkzkmH&9k9M>k&>HfYf?H&YHHcmzv-&k&fPH9&>HcYf>fmgvvYHfH?zH&>&z9PMH>fk9YPcHggYkHc)GzgmYqYP&MgggkcY>c&YzY?v>&Yz_P&JHkYMzc&g&YYgMgzYms9v?-&&H9gPecv9vkkHgcNYPHPvcvBM)&&>HPc9k9fYHccY>vY?vzPzM&cMHPckk>&9?fg?kg&Y?Hg#{z&mv&YPHc9>&kf?rHPv9gmm>vmMgmgsgP&M?gvk9fkgkYH?9:9vkPe&?>YMMMz>m?9cf?&vWmg&cPvmv&kkgM>>?gcYckmH>?M&gHgzgm&&?kvM?>k9f?vcgHcz9m?B9_zMP9vPvMkggk>f?v9Yfv_m&P9z9&9+HPfcg>Yg>f&gzg?H>mYzMU&&9PYM>9P9vfccHHPY9HYHkPPP&^c>HMffk9gfzfYY>vcHMzPzH&Y&YP&>>fY9?g&cMvYzcmPvHucm9PPPM>cfzk?kmc&Yc?Pmkv&z?&g>kPPkH9cfkfMgHg,HkHPzH1&&9PYPk>&ggkgczcYzkm>vHP>mm&MP>MH>kcYf>fmgvvYH>HUvzm&9gOYk>>&kzk?g>HY?Mz&v9mY&>PPPv>c9HgPf9gYgkmPm&zcaH&f>kPg>z>Yf>YcgM?P?HvYvYm&,>>YP?k&9MYY?cHPYHzcH9mPmM c>zMc>M9w?gccgMYZ&gvcz9mP_>kvM9>kkkfHc9z9Yfz&vHmYmfA&9kMg>YkYf&cgzgYgm>vgmzm?P>PgMY9Yk&fgvggYz>Hgzzz?>k9MMHfP9ckm?ecYvMm9&&vgmg&&O?fv>c9mY-fgHMYgHzH?PkM>SHk>Pv>vk>kmH%gfvHHczkzl&H>PPHMg>kkc?<cgYzY?&ksPmHP&&v9Y>>>mkvH9g>g=YzH&v&mf>g&^9vMskkkM?zHH?>mHH9z9mH&fkgPmf>9&fzcgY>vYH>Hhvzm&9gb.>k>MgzYYg>HcY9mPvHzf&99vPHMf99YvfHcfY9mvHHvfm9>vAHPgMk9cYbfHgMzvzzmH&vmf>T&%Pw>c9M?9f&gfz4?mmv&&Pv>>kgPg>g9&k?HvgcYm&g&Y6YPgQMkvPv>vk>kmHZgM?>?vvHm>m99vPcMmggggYS?gYMmv?vvvm>mm9hPgMY9Yk&fgvgY?m9HvxvmH>9&VkvMYg9kc?vgfvk?gHYzYm&&gkgPmf>g9gzfkggYH?vvcPsmfM?9&k&g9k9kzH^gH?M&v&m)gm?9v+vMv9>9m?pcHYMmvmH&fz?>v&vPv>>>mYTfHgMzv?Mmf&HPH>^&(PV>c9M?9cMczgm&9v>&&PvMF9vkkf5Y9f9fzv.YHHMEvzMPg>9kvPv>vk>kmH=gcvH?gzkmM&H>PPmMM9>kHfk?YY>YmHv&YmMP&q9MYMk9&gkfmcYg?m<H&&HPH>kUPkvMgkkf>cHggYP&9vM&&m?>f9?PZ9k9&fH?PgHYfH9&PzmmM_>PHMkfYk>kmcvHY?>?6Hzz&>g&&9>PF9zk?c>?YY>YmHvP9m>m^&zP&cg9>k?H9c?cmz>&PPgzg&gG&P?cv>mk&fggcY&YKngz>m?999MUmf>9f?gfgggY&??Cvz9&Y&HP&k>>mczf?fmg&?cHP&kz&m?Lg9kMffHg&Ym?Yg>Ym?vvHzv>v&vPMM>9cgkf&cvgY?H+9v?}&>>9M9z>c9MkoHggcYM?lngzcm9&PP>fv>c9m?g?vH9Yf&gHgzgm&&?kvMc>mYgkm?MHczHm?ZFvAm0;cPMc9>fkck4c&YcYg&-vHmM>v>&CfkH>mYqk,c)Yc?Mb9vk=&mvPYP!>&ckfMffgcY&?YmzzcmM&i>zPgf>9&gzfcgMg,?&HIPqz;&fAcMHfYk>klfzg&mg?Y&>v6&zS9M>kY9>9mfvv9Y>Ye?zv&Mg&?>>PMkz99g>fp?zYHz>Hk&zmc&Mx/fg>c9Mk=Hgcmv>?f&zyHM2&&/?MgcskMkfccg&YYzzvczMm(MzJ)MP9PkckoHKgcvHHMzkz&&z#gM>>cfz9OfPgPYcYJ&*vvRzmE(PMP>c>%Yefm?HgPY>mYvG+&mz9fPzk?9z9mg&gg?H?z&QvPz>>g&zMz9P9Hk?cggHgvzHvfvHmfFkpgMc>k9??9cMvg?>&>v9zk&k+HP9c99>c&f?gYY>?&mkvMm>mg&HPMM?gvkHcYHcY&HkH&zzP?p>Pc9z>c9MkB?vgz?P?fv>vkmc&fP9McMgccfMfcgM?P?9v>zPmf>8K f9>&gvkmHcggYYHYv&zg>gRc9>Mm9zkcc>c&YzzHv>zYm>+P>mMc>Hf&kMYYg>gm?vmYHHM>MkAmPYM?glkMYHHHz9?&vzvz&>&1EYfv>Mcck?HPH&vY?vHzzz&>&vkvMHfc99cPcMYcvzH>v?M9&>PP7c>cfHc&Y&H9vkmv?vvvm>mm9ePm>z>?Y>?>gHH&YkHgUvmcSkl#MHP&ckk&fvcYYH&9vMmPzm>c9cM&f>>Yfc? gH?YH9v&v>PYQ>SmMvfYkkcPHzYPzzmHz>Zc&M>PPHMf99gPf9gYY>HP?mzcmHP&&EkvMHc^kg?ggfz>zk?&v?zg&c_gfgMg>m9&c>HPYH?gHkzcMC&g)YMY>&9g?gf&v9YvmvvHP9zQ>vPff99MgvkY?kggYYHYv&zg>g&m9>f9fz9kfgcHgv?c&7vf)?M&>&f9>9>zY2fHgMzvzmmgv?MvmvQvM>MmgXkHcMvvvHzfH?Pvzv&vP>Pmc/9HfMHvgMvfzH&HP2z4&7PcMMg9kMkzfmz9?>z&&vWlMv>k9pc9999z?6cHYMmvHM&gP9>v&vPv>>>mYecM?HggHkHczHPP&m#MM>>H9kgYc>cmYvzYHk&&m9pYPMM&fk9mkYf?v_Y&zH&HPkmm>v0g>k9>kHfgcPz9Ykz&HzPfM?&dMkM&9HgPfHcfY9zPHmvMm>&HZk9Y>>>mkvYYg>glYzH&Pgm?M>&FMzM&k>gYc>cmYv&9v>vjzz&&kgM>>?Y9k?kmH>zP&gHgzgm&&?kvPm>&9gfcc&c-mgH>v?M9MMmm9>Mfgg9gfgc&g?mvH9zYmf&&>>PPkz9?9mf&gcYPzkH&v?mgMkWf9Hf&cmgYf>cmgv?HHvPvzv&Me>Mcfk9&kvfYgHm9??m&P>MMMzPcMM>VYgfccMg8mgHcv9zP&>9vPcMmgggvY9cfzgYgHgv&z?>v_cPmcg>mgMYcHHv?m,?jv}mc&Mk9Pf>c>tk&cccgz2?HvMPvP&mf>HPmcX>)koccgMm9HMm&vv&Y&ZP&kk9M9ffcc&gYvzHcvMz(Pz&g9>M&fz9cfMfsg&Yq&WHUzfmc-H9Y>>>X9zf&vgYfz>?^zzm9d>>YM>Mm9v?9c>cWgz?&!gv&P>&M>zM9f>9egzcHH>YkzzvczMm{9gPcMM>=Ygkm?>gfzzmHsrz&m?8gkLM&>?kg?Lc&gvYYHHP9z&&f9r9 fcfUk?H9c9Y9?HHfPgz?&H79M>>H>v?9f&gfz<?mmvugPz99e9M9>H9f?gfqYkY&HzH?m>&cMHQ4>k>&kzfgg>Yczm?3zkz&&z&zM>>cfzk?kmc&Yc?Pmkv&z?&g>kPgMY9Yk&fgvgg?z>H&zzz?L>>YPvMz9zf>fvvvgzzcHvmPzm>Y9fM&fk9gkYcYg&Yg&gHg6>mg0zu?>>cY9kYPc9YYYfH&&>vuPz >P?fv>kcmYUHHg9?9HHvfMg&>*?kvM9f6g>fggzg?mk&>zHM>mvEvM>MmgukfYHgc?k?BvH_Pm9iYnffPfzkcgHfgHkY&??vgPBm&&v3YMH>HkM?9fvHfvH?TzkzMMz>HM>fH>9k9fHcfzgYmm>v&mz&gP>9YMvkP9m?YHkY&z>?K&zmc&M0<fgMc9M98f&clz4YZHfvcmHMYP>PhMz9&?gfuYkY&HzH?m>&cMHut>k>&kzfgg>Yczm?dzkz&&z&zM>>cfzkcfMc!zg?cHMvuMg&cV9PP>>gvkcfmvgvYzgmg&Hmf>l&#PZ>c9M?9f&gfzw?mmH&&PzMvkgPg>g9&k?Hvg9YkHkvHz9>9B>>&MH9Y9ff&c9YY?>H&&>zg&zAcM>fv>HY9f9HgY>mPm&sgzN>>9cP&Mv>YkHH9cv?P?HvYvfm&o>>ckE>ckkk5cHfmv>m9&&:PmH&fP9fv>H9gkkccvhYHHMCv*zMPMvPffLMJ97fccMz9?M?zHmM9mkM&9vk&cvgcYmv9Y9Yz&VvHmM>v*?4fkHcYg?H9c9Y9?HHfPgz8&PPPMcMQg)k&YHgc?k?MvHv.&k&&PHf9>9kYf>HPH&?cm&v?vmm&ScPPkk>&9?fg?kggYYHYv&zg>g#?k9MPfzkffPcMzg?fm>%9PvMg9pPBMYgvkcfmvgv?zMHmPgzg&g/&P?cv9ckmHggfv9m>!gvgmg&& ?fv>9kYf>gPcm?cHHm&z&&Y1>MPMv9ckHYPcMHcY?&P&&GY&>M&sv>Y>?k&Ykc&gvYYHHP9zv%PLHMYMf9&f>Yccv?P?HvYz9m&b>9YPv9P9HfYfYg&?>zYH?&&mM>Y9ckP>Hcck9gPgM?czzvczMm*9gPcM9>Pk>?vccgmmgHf&9ycMf9vhvMv9>9m?BcgYz?cvkvMmH&&>>Pg>z9cfkfBgHY&mHH&zzzzy>>YP?k&9MYY?cHPYHzcH9mPmM7c>zMc>99Pf>HvgcYm&gvfvMPc>9kvPv>vk>kmHdgg?zHczkzM&HV&9>Mg9zkcckcxYH?&vkvgmz&cPkPk>H9&f>YYc?H&?M&YNcPP&H>cP99P9MfcYzgcY9?Pv>PvmmMcP>>P>vkcgzfYH>YgHzv?m>mm&YX?fy>&cHf?Hkv>zvHczkzk&H3gPPc9>kc&kzHfv?Yavkv&mHMPSHPf>9cPk9cYg>?PYmvczHw&mz>YM>Mm9v?9c>cmYv&9v>vmmv99P>Pm>vY9fff?gH?>?z&PzHmfO99PMH>g9kfcH=ggYYHYv&zg>gu?k9MmfzkffPcMzgYYm>59PvMg9_PGMYgvkcfmvgv?zMHPPgzg&gE&P?cv9ckmHgcYv9m>Ggvgmg&&C?fv>9kYf>gPcm?cHHm&z&&Yx>MPMv9ckHYPcMHcY?&P&&;Y&>M&jv>Y>?k&Ykc&gvYYHHP9zv5PKHMYMf9&f>Yccv?P?HvYz9m&%>9YPv9P9HfYfYg&?>zYH?&&mM>Y9ckP>Hcck9gPgM?czzvczMm29gPcM9>Pk>?vccgmmg?Y&9^cMf9v)vMv9>9m?VcgYz?cvkvMmH&&>>Pg>z9cfkf+gHY&mHH&zzzzR>>YP?k&9MYY?cHPYHzcH9mPmM!c>zMc>99Pf>HvgcYm&gHYvMPc>9kvPv>vk>kmHAgg?zHczkzM&H_&9>Mg9zkcckclYH?&vkvgmz&cPkPk>H9&f>YYc?H&?M&YicPP&H>cP99P9MfcYzgcY9?Pv>PvmmMcP>>P>vkcgzcfH>YgHzv?m>mm&YQ?fG>&cHf?Hkv>zvHczkzk&H2gPPc99Mc&f?Hfv?YGvkv&mHMPVHPf>9cPk9cYg>?PYmvczHX&&?>YM>Mm9v?9c>cmYv&9v>vmmv99P>Pm>vY9f>fmgvm9H>Hmzv>9W>WmMvg9k>kmcvz9?>?mvvM9&>&mPvc99>9mfvv9g?v&m&_Yz?MP,HPf>9cPkHffg9vPYmH&v9zcmmhffgMj9H?9c>cmYvzYHvvzmze>XvfvMmccYgf9g?YmzzH}zP&P7c1_f8>mcHkPf>HYYv?zvzm>mv9vPPkcc2gH?c?YgvYzHzz>zv>vSv9ccPgkgk?vgMgc?MvPv9m>&P_fk.MmgckgfYgYY&?gAgvUP>&fkgPo>PkPfcfNv_gNzH&vvgM9>gkvM9>kkkfHc9z9?>z&&/vvMg>vkyMgfH9P?gcmg>YmHzHbz&mz)MkvMkg>kcfmvgggzM&9HUP?&zk9P9>99HkfHgc?YHYwH>v?mM99*kfv>H9ff9Hvcvvc?9KP6&>9N>>&fg>&gzYvfgHHzMmvs>zPM&9c9*Pvccg9?VcMY>Yg?HvMz?>9NHk&fg>9g=?P?HH&z^?vEcMv&&XfM9c99?9&f?gYgv?HHYvmMg&g9&M>>?Y9k?fzcvm9??zPz9&c&9P9MH>fYgfc?>g&zzmvHgP9Mc9vPM>Y>vk&Y>HvvgY9HvzMP&MP2v9ccP9}gzYzvPvPYmmcHzmfmHafMkMg9ckkf?v9zc?M&NP>mH&fP9%&fk9_gHcgvMzf&PviX&M9>gPFkvcPYPYPcHgf?9&vHmz&m9&cXmMfgg9gkmf&Y>mvHHvfm9>>9Y>mMY>H9?cPvPYH?MHEPgz5Wk99,Ff?k>Yv?gc9v&H>&cPPzz>H9&PzMmgvf>HcH!gvmg&Y3>Pc>g+9k<g9kckmcvvv?M?cvMmPm9U>PPMfcN9U?ccHYMmvHMvkz9>v0MMYMv9&9vfvg>gmmFH&&Hmc>k99.wfvc&?9f?YPY9HcmHP9P(mv9ckkcccYf>fmgvm9?fvcvvz&&frmf.Mq9fkccHz9?>?mvvPH>P&YP>Mf9899?Yg>g??g&*vgmzMv&gk>>Hg99z?YHgg9zmm&z9M>>c2kPfc99HY&?gc9vAmPmH&&PCmv9ffv>&9ff9H9g?g&??vYvvmH&Y:mfg>gg&f>c?z9Y??zHvM9m?PPP9>c>9k9fHcfzg?cm>v&PzMv&gk9fcgvkMcYcvY&z>&vagz9Mv9Pk&fP9Hkfc9vvgm?&H9vczm&fkgPgMm>&f>HvgHYfH96>PYEPMcPMPckgYPfHcMgVmg?FzkP9z_>YM>fv>kYPYFfvvfzcHziHP&mz&mf9MkgvkHffg9z>m9&vzMzc&MPPP9>>9Pkf?6g?zc?HvMPvzvMf9gP9fm9&?gfgggY&??0vvmm&&9lcPm>fYgf?Hbg&Y?Hgl.vCPH&gkkf>ggkcY>HvY>mPm5Hv)&M9>mkc>fg>YH?9f,vY?m,9vfmcmv&&PfMmggk&H>Hvggm9&k&&P>>9&Jk?c}k>k?cgvgYm?>Hmzzz%&&+zMMcv9v?>ccgmmg?mvPvZ>g&mMkMg9H9gfgc&g?mvHH&cm>>P><4vfgcHY_ffgzgRH>mcLGPvmg>zMMc>ckk&f?ggz2?Mv>vgzH&M)?fvMv9Mk>ccvjY&??vgPcMzP>MZPgk?9P?kc&gf?9&vv9mYMg&99m>ccbgvkgHMY9?c&kzMP&>>:PPMfh9cYH?9fpvvzzmc&HPvmg9>fg>H9Mk#?-gfgH?fvkvgmc&k#?f9>9gHk&cfv%Yf?YHgPUmf.z*W>>M{90fccMz9?>z&vHPYMg&99Uf>gg9mckcgYHv&&g39v4Mg6HkHkz9gg>kYg9vmmM&zzvPcMgk9Mcckg9kCkHHPY?HYHYz&P>&fP>f9cccYkYY&gPzYm759zMmk&9kvPzcf9fgHfzY>?mHMvcz>M&FHPMMsgggH?)ckgfmvm+OHqz&gPkk>>Hf&YYcgH>v9mY&f8?mg!k9>MHfP>mfY?fg&v>m9?Kzfm?MYP>Pm>vY9kfcccvg&?fHmP:zT&f5cMHg9k>kmcvvHmPzHmvzk&9CfkY>>>?kg?GcgYzzv?gB>mH>9%mkYfg>9g&cM?Jz>mcHkvfM9&H9&kgM9c3YPYH?&v6Yv&gPvm&&fP9f9>?>&k?cYcvYH?YHmPgmg>&P>M?g99?kzfvz9Y?vPv9mcm9C9PHMfggkcY>c&vzzv?g79Pc>vjMMYMv9&g>?vHgg9zvv>=&PPmmPYkf>&c>YvffYPvmHc&mP9m9&&9%MfMH9ffkfggcYk??O9Pcmm>ek>MH>fk9Y_c>vv?9&>:cPcmvUckgMM9zgHc>HggHm9HvOHP&>>9ckYfccPk?cYcYY&z>?YHHPPmm>cPf9PcmfcYzczv>?k&zv?Pk&&,?Mgcw9Mf>fgcHYM??tvvvmM&>PcfK>&9?fgHcvzHzHPzPmM&99kP&Mf99Yvf9gYvgY9mzzcP(&?9kk9PXc?gmY&H&z>?PHMPgm?>OL&P?>ggcYg?ngfgH?fvkvgmc&k!?f9>vgHk&cfv/g3z?&vvgMM.ckvPv>vk>kmH:gM?>?gHHzMm?9vPvc99>9mfvv9g9v&?vQYPc>vsH9cfi9cYk?9fRYH?HH&(Hmg>c9&kgM9cvfMHgc?YHYlH>v?mM>vP>fcfO>vYg?YH>vcmgH92J>9Rc;mMvcvkMkccMYPY9H>vPzfMj&OkcMH9MYvfMckg9mvHMzYzv&&&vPv>>>mY3f&?HYcmk&9HiPvM&k9P?9P99fcYHv9vsYvvcEfMcMYPM>P>PkcgHcggHzvm&&PzPPc&YkPPmfYk>kmcvz9YfHcHvv&mf&mkwPi>f9cfHv9Y>YmHv1HMP&z&0Pk>99HYYc>c?YgmhHgzzPvmg9>MHc9c{9v?fH>vHmYv9P>Mc&k7ff9>Hg&Ygf9H%zPzHm&3ozv>fkvM&>fk9?9c?c&Y?HYHvzHmY&mkgMgc&k>f?v9g?Yz?vP9z?2PV9McM999kHffvgYcz>H&bzPvmg99kccv9MfYfvg&v>mv&gv9Pz>H>zMc>M9*?gf?gHg3?>H?zM>9&9a?PH>&YgfccMg*z&&kmz&?afegPzfz9c9mfvv9gvHPm.HvPk&&9gPofzcv9g?MHkv?mc&HvYz?>ge&f>fv>gY9?k?&v>m9?t HM<S>^?Mgcg9mk>fmgzgG?&HzzMMv&vk>Mc>mYgkmcPcOmg?mzkzg&H&gPgM&>?YvfH?cY>mPm8HvPgMH9TPf>z>lf>YcH3vvYgmzzfM>Mkj&P?>ggXkMc>cggH?MH?Pvzv&M=>Mcc#9&k?cgvczz?&z9zvmv&9kkM&>fk9?vc9YYzg?9&mmcM,6gkkf9MRgHYcH>v&m>HPvMMg&g98P&M?9gYckccv?PzB?v+cm&>g992Uffc?fM?&gcYM?b&&vPz>MYrvPz>zk>kvHvgHvc?gS9z>Mv<Mk>fcfYkMcP?mYcvH?PH>.Y&MPP9&>cfHkc?gcmYzzHv>XH&&NcPvM5MMkzcHgmcz?gHcz?v9zMPv>cP?>>99gYc>?&gQmvHHP9m?>H9&P?>H>rk>f?gMm9H>;9PMMf>?k>kk>&9?fgH3gM?>?gHHzMm?9v2mM&c6Y9f?f&g??Y?vvHzYmm9gkHMv>zkzc>cvzv?MmcHzv&&9!kMk>H99?9c>?&vwYv&gJHPk&goYMY>&9g?gf<HkYHHM(vvzMf&f>HPz9>kmfMccg>mg?gvgz&m?9vP9kc>kgmkm?>gk?Hvfv?z&mH9gPM>>g>kHfgckYcm+Hg&HMk>YA&P?>gg6kHcMvvgzmfzcvfz&m?i&>fM&kkYifEv9YPm?z>zc&P#kM9PfMH9??>fvgv?>?mp!z&PH)ckkf9fzkcf9cPY>mvHH&cm>>P>&9Y>>>mkvH9c??P?Hvc&HPvmg99kffP9MfYf?YPYHHc&zFvzg>99cM&f>g99W?vHzvY?fvcvvz&&femfL>fczfccMgJz&&9WcPgM?>mkMfH9>9mfvHHvwm9H?H&z?&Y&vPHMY>mYgf&HvgCm9HfFvmg>9IMkvMggckgfYgYY&?g%gvgPk&HPMfvfzcgf>HvcvYvH>HmPymHXMkvMHffcHYfH7cCY%HcvMM9m&}fk*kmfvkc?bfjgF?cHMP9z&&f9WP&P?f&gvH9c9Y9?HHfPgmf&P=MfgMic>g!Y/H5vHzvxgzgmP99N&MfcIcz9?Y&gHm9?9v9zHmf9gPgMPg99ffcfvc&Yf?m^EzfMxAck9Mf>&9A?9cfv&zPHHvfm9>vJmPM>>9HkkYYg>gm?vmYz9zz>{OMM>Mg>HkMf?vvgz?&H9v&mHmJPcPg>&kMkvccvggYYH&jvk&Y9PPz>P9gc&Y>g9HHzPH0&&P9P{BE9&f9f2Ykc>?cYMYcHMzPz9&>JPPff:9cY9fMHvYgm9Hg;vzm>cFHMMcv9M?9f9g9YH?fTgv?mHmJ3>P?>MY9f>gPgM?cH>H{vzm&&&PffW>gYgkgcgg&Y?&vHmz&m9&cimMfggkc?wc&gvYYHHP9m>AP&mMckH9gY.f&c?Ygm)H&v?mgm>9HM>Mm9v?9cfc?YHH>Hz/PmH&fP9kP>H9gkkccvsY/?Y:vvmm&&95cPm>fYgkmHgg&zv?mvczgMv&mkckY9>9mfvv9Y>YmHvP9m>m%&zP&cg9gkPH9cfYcYv?&vfzm>s-MMzMmk>k&f?ggvk?&H?zgM2&&OvPY>HY9k&cfv6Y&Y?m&}z>9&9P9MH>fYgffcPgMmg?g&>P>Mg>b9?fMggkgfPv9g&?f&d&&v?P&5Hf9M999kHffvggj?PvPzczB>+b&9H>gckkgfYgYY&?gtgzfM9&e9vP?f>9MY)??vcvYH9HzP7mM/>ugPH>M9??vc?c&Y?HYHvzHmY&mkgfH>v9zfzg>gvmvHM.gz9MBJ9kgMkf&k9?vc?v.?H&vz>Px&H9Hkv>cggk&?vgczcmY&kP>Pk&&9RkgcccYkfcccvg&?fHmPgmP>mPffccYg,k,Hfg_z&&P/gv:Mm&?kcfY>?gPfHcfY9zPHHvfm9MPumPM>>9HkkYYg>gm?vmYvvzz&zP>Pvcv9Hgcc9HPYv?k.gv?mHmAB>P?>MY9fMfcgM?P?9v>zPmf>_k>M9>kkkfHc9z9Y?z&v9Pvm?>_PHfv9>g<fHHHvv?c&gv&Pv&c9ckHkz9cYg?>H&vPYmH&v9zcmmUffgMmckk&f?ggvk?&H?zgPkIMSfMc>&9YgzccgMYrzzvcz9mP^>kvM9>kkkfHc9z9?>z&vv)Ymv&zPz>>>vYvkzHgYMz8?v&czf>9>mkHkz9gkPH9cfYcYv?&vfzm>JQmP>Mm9z9uf&czYMmv&&v^mPXPPcP:ci90Yvf?v9YgmvHm+>mg>q5mf9>&g(fcH9g&z&m#vHPv&>>VPHfHczgY?c?YY>m9mv3Hqzm?<HVKM>>?kM?vc?zMYz&H8zM9&99?MMc>gkYvffvMgvmH&zzgPk&&5?Mgfk9&k?cgHkY&??vgP+m&&?Pgfq>&9vkYcHz9Y&Hf_Iz&Pv>?kTP{>XkcfMv9g&?f&jv&v?P&9>kPcg>gkgf&c?zv??HkvfMvmv>ckcffg9g&?PvvYv?kZgz>m?999g9%>HY9k9c9gHYf&gvgzP>9&fPcPvM&9fkmH,gmY>?mvzv^m&&zPMfv>?g=fHHggvm>HcvmMgm=93^uM59ckMH9cvgz?zv>vvMv&H>ck)MmgPYMc?v9YHmc&cP>Mc>&9fMmcggvkv?&H&zHmH^9zHMc>ck>fkc>g&YPfmg&Y9?cHmzf>guck>M&g>gHYkc&gvYYHHP9zvmztzM>MvgvkHYcHfYmmgH&THPH>c>YPf>c>v9&ffcmzg?fA>P9mH>YP>f>fMccf>H>g&YfH9<v)&>9&Yo?fWc9czfccMgavzHcvMzVPzOcPMMtfzk?kmc&Yc?Pmkv&z?&g>kPNMYgv9mf&c9gcYmHfPgz3>g9>k&f)99Yv?9Hpgmmgv9OimM>gevf>c99gY5?cv9YMmvvgP9mf>&PcMM>Sczf?fmg&?cHP&kz&m?_g9kM&>v9YfHv9Y9Yz&8vMm>mg&HPMM?gvk?k&c?YYYvHHvYzm>gbgkv>cg9kf?&g>Y?&9H?Pvzv&vP>Pmc89gkYcYg&Yg&gvc3>Mv&v9zkm9fg6fcH>v>z&&>-HPM&?99kgMfcHgH?cHcv ?c&>Q>P&>P>&kHkz>?kHk_c>g??MS9z>P&&H9&kcfP9Hkgfkgcz^?gHYzYm&&gkgMcf>gMf?H9gHzcmcb>*kmMJ>VgPH>M9??9c9v&z7HcFkz&M&Mm9>M&c&kHfMcVzgzH&Xvkzf>v>y9Y>>>mkvYYg>gm?vmYz>zm&v>YM>Mm9v?9c>c,gz?&:gz>m?999f9&f>9&?gfgggY&??pvzvmk9g%?MHM39>k?cMz9zcmf&Y%zMP>?9&kmcvgfYH?&vkzf&90MP>Mf9(P&M?9ggkf&cvgY?Hu9z9zz>;#MM>Mg>HkMf?vvY9mv&cP>M9&g9^kgc99MYvcgv9YfmvHqPcMg&vk9kHcg9fYOcvvgY?&>vHzf&9>PPHMf99YvfHcfY9mvHHvfm9>v5HPf>9g>Y9?fH?vmmc';rypOOQ_fUvDkRmlwcSRbRWCkFPhPdoOe={"SC KSK 4PUl^y< yu%4;SP^z<zU4zd^KuKU^l4yuUC ;Szuy; 4lS^Ud;Pu 4KllP%y","dP4U%l4l<yU;^<P; <%U %dP4lKC<K yUKlUdSl^ SCly Py%zy4K;;^dS4uyz^Cdd;ddzyK4Kyl;P","PC% U;zK;4d4<4ClK SzC C 4uyl^u KlPu<<U UC;PSU 4y^%l","4^y P<P<CPyyCK^llUUz^;Cd U;PUuC<ySP4%uUC;u 4%U;<^KKC%4y ^zUCK^<Cy u%CUuSdU;CP;z K;< ^y^S^ d 44dl","z<dSSUUz Uy4S;dz%dPz^^;u;K;SyPP%P^zU% yz;^Uudzd4%dP SyUyKluPKKCz u%KdCC;C","PyP4 %^ Uuu<<PyP%%^PK CUyllu 4uy<%ydzu<Cy<SSUSdU4y","udPSu^z;PlSSSSlPzu%^ U S4KS<","%zCuzyC;SSyzU%^<C;^4z;U%uC;Sy;CCSC ;%SuKK;C4yzdyCU Pu;UUy4 Cdy^l;ld%z;du;lyPKSzluuKuKSdu 4C^4;y%uS<%uPCKd","S% <CC KS%K44%zlPduUdlP^d^d<y;UPldy^SKl%;K<^l<4U % yCK;y<4z%C%4%d<zSduS%;;Kulz^PdlPyPK4KC4USUuy^SK^ 4l<dd;U","Cz<d;^dyuKzKKdK;^<ydPKKUKCKCU C<zP%4zC4uClluS^<z PUd%SlK<<S%uzd4; y^KS<U4^4CzUzyy^ d^","UldzyUKCSdU <PUdUlP< udl4S4^K%Cyd %<;yd<4C SK;zKlCz<%^llPSl%zlSSyd %^P   %^4CS<Kl<^SzUuCz4 C;PC%%44SSzy<Kl%zzP",";P^%l%%;U;4 ;SdUddSPl;CUUlC%<CSCKP%l;l^C4^ ;l%<zy<C^CySPKKP4Cy4yCKU%U;C%PludP^l;;U dKyy<y^u","P44<zlu4yz^yd<K;dPKzKy^4KPyulK%zlC PK udlKd4l udSd%%P  %y^<dU%Pl%CPy;Szu y<UduSdC^l<dddy< CylK^Sz%l%z^P4 ;;4U<z%C<K4z;KlU;SlSKSdK4Cyu< 4^C^uPP;P4uC4CPU;UCdy4u% zSzCCCP^l;dz 4CyUKuz ;4S; %d;lU; Kd;S^d<Kz4SlCd4Cy;Uy<%SPu%4P y;l<Kz;dKuzuKuul ;Cllly;U^uU Su%Sy^uyl %U%yzu%CSP%USy;CS4 PPlU dz4CuUS<4dy<C yySzPCzP%l;;%4dKyUC4<^ 4;<4uSu%CP;;d%y ^Uz%d%y Sz;%dddzUK4KK <d UK^yCd u;yyu lC ;l^uyUdzK<dSKu^CPCzKKCK;zl<ySKU;u;lzu;zdzzu;yydSCuuKKu%dUSPdd 4%U yd%;u KCzlldKP  uK^zKSUPl<^z%zUy4 ^K<u PylU<K;Cuy<;P^d^PClddUP^^  yldPuyz;^zC4uzzCz 4K;4Kz4SP ;<%Uu%4S4l^yulSlPSK z;UUz^^;u%;%SuSl<U^lyyuzUK; CSyuK^zyPP4^ U<4Czdu;ddyS;dluSz ^Slyl;^zS4KyU<uKlK4zy4%dP%CKzP CSPl4S^ySydS<;4dylKzld4%P^;y ddd<^UzySl<Su%;CUlyK<yUuzPUSuS<<Pd%KS^dy Sy^<;z l;C%lz%uyU^Syuy4SSdu%UduyldSy4%^dyPC;44uS4zzzduy%UK4^ y4dKPu4Kz%u%;^4%  ^CU%uUzd4y KyCdC zd^Ky;z^USyKyyCKllK4 4y^Pl;S4uU4UuK%^udzK ^CCu;<dy4yl^uS;luP U 4UuC<uz<  lPCldu4Sd^y uK ;;KSuzP;%u  CKKy<KSSlP<4^4 SUly^CSlCCS%SKPK4yzCUC y  %^K;Sz<luSu4Cduulz4dluzPKy<%4UK%%^ d ld Kuz<S4<uz; Slu;Pulz<SKd;CKdz<dzKdPlU;U%u PzP%ulKlu;<<z  ;S<duS<dPKUKl4;u4UyPyyd4Ul%%UU<^yUd4;  4%;PKl4lCl<^<Uu%C%USKl<lKU^4;U;Pz%UKu%dyz ;<;zPKKS^zUUSdl%;dK;<z< SUzzKz ;KlulPCS%Kd4uC4%<K< PuyK;zd^<^;^^^CulzUlPlu4 SSU ulC4lCzPyKCPKPlUUKC ;<yl4K;yKz^;Suuu<ullz<S%uKPK^UPCuK%;4ydllddl^4KSC%CKl Sldd^^<PyKd%%uKdP<4; l<dKzP^y4%d<PU PU%;z ;C;dy<S^dyy44zKSCK4^uS^^Pd4SlU4Py^UP SK; %4<%z<zCd4<u<y<4%PC^yu;u4U%^SyU%4z%;4y4PdlSd4K<uKySKP^P< < 4dz<^;;SuS4uKzz%K<Sddd ^; SUdzCSz<Pd<SSdPyllPU%^^uPPC;%C<zCzCu%%P K^l<d % d;UP4%^y4;;4S%U;<y<uUlyKSK<SS;<;Uzzyz y<KPS4Ul Plu;<S;u^SSC;zPU^SlzKzz^;y<yl %Kl4P K dll%^%d<yydU4; P<C%Sud;4lU4CK4^^;uyl<;Cd Su%U;z^4Sy<4yldz4<uKlC4<;4lyddl^C;4PSz^y4lzlyzSCCKyUCPUl 4ySyd%ud4Cy y<SKzKPdd<P< Kl;z u <<y4U<;4C d;4yS;Pu d%< Ul;KyU% P^u^l%^C CuPS;P ylK; yS^%%y;<P%K%SSP%^y^^U^^CzU %ly%<Ky%Sd U  zSy%CCSSdyluK;U4%zzl%Sdd^%uPPyS4K^<U;CU4lu;yU^K%UC4%uzK^P%U<4K%<S<<ClSU yUu^K^;UC;uzPu%d^C Sl<4SKK;uzlCl K<P S% Cz< K;;K4C4 CyS;<CKll SU%S^l;;y<;C<P;U<^^S^u%Cu<^Pl<<PKP%uPuzddP;lCKSSlzz Pyuu4y4u%C^PC;zCdz<y<^^4Sl^ud; %P<KCldC4<PK^4Udd%4yCUy;y;u4y;uKUS;K;Ky<% z4 d%y^zKlS^uSlSP^C<4y<<yK<y zuCUzuCKK<Cy<^dPd%UdluSSUKPU<<Kz4^KPSuClyPuyKSlSUd44<%uPSdzK<dClUzSd^SPldSKdd4CP<4z<d4ld dS44dSUuP< ;zU %P; P%u;^^4%US d;ddC^l4 <y  l;<uKdPllz%PU;<4<yPK;ddl ^<lyyK<u dKlC %y^dP4SPC4d4Ud uUu;<z^dy<S4y ^yl lzl4u%;U K <lu% zSC<l<UCCUSuzSC%zC<P%P<^Pz SC z;4U4UuKdd;<  Pu4uS^4;l<<P% yl;l^ P; Kz^Uzdldl%PCKy<ySu;;y;CSCudC;zCUCPSK4C4<;^KPulC^<u%lUK;^ dUulyllzKy4 ;4zuy<Pld%   PK4%KdK %;C4;^%<y PlC<SK4<P^;dKPU < Cu%4%%z< KlUyUSld;%l4P^^zddy4l<UP Pzy4Kz4 u PK^^%K;Ud<%zUd4CyS<<K;^;u4yS4;KulS;Cz%uSzPK<<;4Kd4KC % dldlyPS<y^zyd4 PzKSuUd;S4zl;K4;S% 4l<u lPzu ulK4UlU PP;dzCSlPlSC<zu%yddU4zC;4S^P yUl %^yC;<Pl;SllC4U^Pl4;Ky US PS^ Uy<KlKddPS%P<S%C<uK%<d%zud%zUyPu  P;  u PC ;%%d; S4^PK4CUl<Cl zU%<%SydPU;S ;z^CS;PuzdPlKuSy;PU<KS<UC ySuCd;CKl%C<yCzPyz% l<KUz%CPydyll P^S4ll^SP;d4CCSzP4<PSKPK%PPU<llP4;lCK44^<%uu;4dd4y%zzK%yzKK4UK<uSKP %lSUu%u^ylu ^SS<d4zduPu;<CdPU<l<d%;zzzK  l%zU^ P%C%lSd;uP^%%K4KP^KU%SlCC USy%z ;K;yd%4U^;U4UluKu%;;U;Sl<SyU zu%CC4U%;lKKPS%zd<4yC^4C^^<UKKSu;4SK4%yS^<^ PlCS44d;CKyzSK4lllK^l<PS Kd4uP;SPK S^ C;l;UK<dPyu%lCz<ul yKK^%u%^ ld; ySySdl;;yU^%l4;44 ;KP^%44dzu%UCSCzl<<^Py<;U^C% ;K d<Sl PCK;yCS  zKzSS;4ul4yKzzzSz;%K4d%Kz^KPyd Syu%P4Kdu KKUzUSzdzlPySCdz<ld4l<PKu<dy4%^Cy  PuKz<^;CyU%lSC^UCUy PCl<P%%yl;%KlClKu<^ KyU< lU;K44<dd KPC^ dyu%C<4 % PPlPuu;l^Syl4KdlS%U;ddCd <;4u%P<z^<CK%yy ;U ;UC;u%UKPu^l 4ulC4u%Uz%%P Pl<u4 ;l %y%%Kzz< %4ddSP^Kd<yly;zP;Kdll^<;zl 4CC4zS%u4;;<PdyK%S^u<  Cl%lC4u;z<;4dzKd44yKzydlzylK4y;4K4PS;UC ^y^lzK%%uC4<dl K^dl%uK%PyKz 4d<lC4UP; P4U Pud4U;;P4 ;<KuUU^yKy;U<d;d<SK Cz4Cl;;44K<uy<SdlKuyydu;;PC%u;^Kz;uuP^^ KCS4UUdPyCdy S% ySzCC4^ylU%S^dz;;K%lyl4;Py%zlP^<%z<zu%SdSzKl<y;Cl;;U4^KCKKuKPyzKPCzl%<%4u<C<4;;CPPu%SPK4Sl l4Sz^  d4;4Ud^;lu; dU4Kd KC",""};return(function(h,...)local b;local f;local o;local t;local l;local y;local e=24915;local d=0;local n={};while d<742 do d=d+1;while d<0xc3 and e%0x1d40<0xea0 do d=d+1 e=(e*683)%47266 local r=d+e if(e%0x88c)<=0x446 then e=(e*0x132)%0x6ce3 while d<0x3aa and e%0x46da<0x236d do d=d+1 e=(e*938)%18638 local t=d+e if(e%0x3456)>=0x1a2b then e=(e*0x293)%0xa9f1 local e=69802 if not n[e]then n[e]=0x1 l=getfenv and getfenv();end elseif e%2~=0 then e=(e*0x167)%0xdb4 local e=92942 if not n[e]then n[e]=0x1 end else e=(e-0x11)%0xad45 d=d+1 local e=56760 if not n[e]then n[e]=0x1 f=string;end end end elseif e%2~=0 then e=(e*0x45)%0x51e while d<0x29b and e%0x1fc4<0xfe2 do d=d+1 e=(e*184)%24041 local l=d+e if(e%0x15be)>0xadf then e=(e+0x2c3)%0x6599 local e=88598 if not n[e]then n[e]=0x1 b={};end elseif e%2~=0 then e=(e*0x3ad)%0x353e local e=92941 if not n[e]then n[e]=0x1 y="\4\8\116\111\110\117\109\98\101\114\70\84\108\106\80\98\76\108\0\6\115\116\114\105\110\103\4\99\104\97\114\81\121\112\119\76\73\101\110\0\6\115\116\114\105\110\103\3\115\117\98\108\84\82\121\65\99\108\122\0\6\115\116\114\105\110\103\4\98\121\116\101\89\67\90\75\113\99\86\70\0\5\116\97\98\108\101\6\99\111\110\99\97\116\66\103\90\104\116\103\66\95\0\5\116\97\98\108\101\6\105\110\115\101\114\116\121\73\102\74\71\68\121\115\5";end else e=(e-0x2ee)%0x8ab7 d=d+1 local e=90374 if not n[e]then n[e]=0x1 o=tonumber;end end end else e=(e-0x21f)%0x6455 d=d+1 while d<0x282 and e%0x8ea<0x475 do d=d+1 e=(e+103)%31723 local y=d+e if(e%0x38b0)>0x1c58 then e=(e*0x3c5)%0xaa9e local e=8595 if not n[e]then n[e]=0x1 end elseif e%2~=0 then e=(e*0x31d)%0x153a local e=28698 if not n[e]then n[e]=0x1 t=function(n)local e=0x01 local function d(d)e=e+d return n:sub(e-d,e-0x01)end while true do local n=d(0x01)if(n=="\5")then break end local e=f.byte(d(0x01))local e=d(e)if n=="\2"then e=b.FTljPbLl(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then l[e]=function(d,e)return h(8,nil,h,e,d)end elseif n=="\4"then e=l[e]elseif n=="\0"then e=l[e][d(f.byte(d(0x01)))];end local d=d(0x08)b[d]=e end end end else e=(e+0x3df)%0xb9cf d=d+1 local e=77663 if not n[e]then n[e]=0x1 l=(not l)and _ENV or l;end end end end end e=(e+279)%32951 end t(y);local d={};for e=0x0,0xff do local n=b.QypwLIen(e);d[e]=n;d[n]=e;end local function r(e)return d[e];end local s=(function(h,f)local y,n=0x01,0x10 local d={{},{},{}}local l=-0x01 local e=0x01 local t=h while true do d[0x03][b.lTRyAclz(f,e,(function()e=y+e return e-0x01 end)())]=(function()l=l+0x01 return l end)()if l==(0x0f)then l=""n=0x000 break end end local l=#f while e<l+0x01 do d[0x02][n]=b.lTRyAclz(f,e,(function()e=y+e return e-0x01 end)())n=n+0x01 if n%0x02==0x00 then n=0x00 b.yIfJGDys(d[0x01],(r((((d[0x03][d[0x02][0x00]]or 0x00)*0x10)+(d[0x03][d[0x02][0x01]]or 0x00)+t)%0x100)));t=h+t;end end return b.BgZhtgB_(d[0x01])end);t(s(73,"HMKV:JChps#3x?1Z3shKJ3MKxVpKCSMs31sKK:ZZsVC#33hMJhVVXK3ZJ:Z?3#s#::sp:1VJMO3shMJp^p#pJsKChJK?MVxppJ:xZZ?pp1Kx{p3sCsxchpCVMCxxxhhxVJ1KpVJMZM3:43xJ##CdM??KpxCV^x3?hCVCz33pCZx:hxC:M1?:3Z:ZYs?ZssK1Mhs3XZxh#?CJKMT:xsJpMZ1JhpCKQxJ#MKZp#1Cx::133ZhCLsx:#hCM#JJZ:KZp3:CsMZ1131h#KMxxh#JxLCJ1MhZ33MCZK:1##KJhK?1JpUV?ZsCTMpZ13JCZJ1M:?sh3V1xJs:V:#3CVJ8v:3?#vCJMh#1psM1?ppsZC3&sVJMg.3ZCZJZZZ3Jp?KJZps:Vx#ZChJ:XJ3s#V:1Zh3pphM#Z?3JZ#3Ks#JV4s1JpsV3+h#?p?:V?3:JZ?1Vs#Jh:KZ1s?J&Z13xpp:Zs^:pVM1:s3hVKh?M#3:hKC?;sV?3sJh3VC1?#VJ:VK1#sMJVKKxRp#V:s::?VM1psZJ?KgZC3=hCVM?XpD:ssC:1Vh11#sh3Jq83xV:Z6h3ps?1MsspVVsZVxxhK:s1xs?CZKqxxKx1Cx#p:VhZK#3sZJx1Z#:CsVL1:hK1Js?p:VZZV3xp1:h1CxxhxVKxsVa1p?FpxV?KZZKpsJZ1pxKhVVph3VJMs?Mp#:dZ3?Ks?:sZ131hKK13xV:1??Mps:KZ??1hxVZ1?#KC6MhxKVC11?pp3::V1ZVshCJZ?#hCsMppMVsK:?xsVJ?cZxVh?ChZ#3CphxxpCCxKM??sJ:JK;xxpCJxMs?MJ?M3pJV?K:1Ms!h1M?ZC#V:M^x#Jp#?;pphaK#?Zx1pCVZxphZVpMMx3M3?:3?hCKx1M3sJ3K:1s#3:KMxx3M??C3#hsK31K3:p3:KZK3h:xMv#1MZ?hx:hsK3MK?Vp:V#1Jp#CMMpC#KLNpZh33JVMJxxph:V?V:hZ?1Cx?h:Mx1C3hCZ=h1JK:?#x:3::pK??1s:V3ZZ3J{M3h#KsMV1Z?3MJpKM?psM?1s:p_C:vZ?CsFJC16##C333hVJsMVx3shhJKM3ChVVh1Mss*C3?#:JsV#ZxpZC#Dl1x#MKhs#JMVs1Zxps3:3?xs?C3MG1hK11JxxpKJpMV1Vsp:pZK#JJKxKhsCMMC1pxJCVK#11#MJh1+JC*ZZ:#sC:M1Zh3pCMK1?sh?J?Z1JpMMZJ#3C:MxMuxZCV=x31hpJh1pJ#MMZ3#Z#JJpZh?MJK=#13p111#Jp3:hK#ZJ##JM)3s?p#KMpKVsMZ?J3?hhKKxC#ZJVZs?MMCx?3#hWV3Z#?VJpM?Z33MJK#?"));t(s(124,". (dvIwyzc#}QHY+zvRY++zvawz O#zy#zzQ( cH(v#(d #w(IcHdv#+(cIQY H2vyQcIzHQIIYwv+Q+I Y zvYz IcHzQ (zH w#?(czI(+zd( c d+}HHEI#v}HiI(QHIwHd+IY Ic+GwdYQycY+IHCdzvY}zw+ (z}hcH I#Q(vvId0#Qd Qzvv#c(^}zIQQHIdHdvdyQbz+dwc+Qyc+Izz+ccD- zw vc +#cz(+#}F}}#0H# HvI}(YQ vdHzIyHY(dYvwQQ w +wwQH(y}cz Q dz ?HcQ?wzv_yy#d(c+UycQQYI ;H}yvQ}yvzY v(YdIQyQpv+vyd+}z,6(yH1wzdY+zI+YyzGwcwtHzvQqvcdQ#Hd(QqdHw(IIH(IzQHIdH+wcYvw Qcy#+#yz+w Q#(cI (cz-Hcd +z {v}yL#z+)Y}c YIQY H{IwH I#YvII+ wzY(yHQ#zvY# ##uct^+cy QcY c#( +yY9Hzy c}Ivd#I(Qw(YIHvI#HIIYYzIQY}wYY+wHbIIQYd Q#(cdqccv  cd(zcH }cv(Ic( Y}d +IzY1QHvIHQIvyII#Yvw}Y+ywYQyYYww}Y}IY+ y}#H"));Am_taIjfeHymXdO=function(e)e((-b._aOlGkHh+(function()local n,d=b.UmsQCIre,b.UGHxqZTj;(function(e)e(e(e))end)(function(e)if n>b.FBdcJoib then return e end n=n+b.UGHxqZTj d=(d*b.vtvlVmVb)%b.YKEGPndd if(d%b.jCFehFxE)>=b.drJZiExk then d=(d+b.YIffBFru)%b.JchXLCna return e(e(e))else return e end return e end)return d;end)()))end;OdXmyHefjIat_mA={b.OaVLVbUH,b.aylbyBxZ};local e=(-b.DECbcGMR+(function()local l,d=b.UmsQCIre,b.UGHxqZTj;(function(d,l,n,e)d(d(e,n,d,e),l(n and e,d,n,e),e(n,e,e,n),d(n,l,d,l))end)(function(t,n,e,f)if l>b.mlzeqAYB then return e end l=l+b.UGHxqZTj d=(d+b.drmMqORL)%b.jSRsTpUF if(d%b.cWISkGst)<b.ZGBWFonO then return e else return e(e(n,e,e,e),t(n,n,t,f),e(e and e,n,n,n and t),n(e,e,n,t and t))end return f(e(e,f,n,t and e),n(f,f,e,e),n(e,t,n,e)and n(f and e,t,t,e),t(e,n,e,n))end,function(e,f,n,t)if l>b.lqYULShx then return e end l=l+b.UGHxqZTj d=(d*b.ROBeJreq)%b.XYITlSfY if(d%b.DcfuyaZl)<b.TrvwLMGu then d=(d-b.ZIiUOjdY)%b.tzVTbroF return f(f(e,e,e,n)and e(n,e,t,f),n(n,n,e and e,n),e(e,t,e,n and f),t(t,f and e,t,n))else return t end return e end,function(t,n,f,e)if l>b.FacKzsrR then return t end l=l+b.UGHxqZTj d=(d-b.nzZyKnhv)%b.Xla_hejA if(d%b.bIULJQQE)>b.wubyZMXP then d=(d+b.KFCFyUZt)%b.UJMlrsHO return t else return t(n(e,e,n,n),t(n,e and n,e and f,e and e),n(e,t,e,n),t(e,f,t,e and n))end return e(e(n,n,e,t and n),n(t,t and f,n,n and f),e(e,e,e,t),e(e,e,n,n))end,function(t,f,n,e)if l>b.hPrhOcEs then return t end l=l+b.UGHxqZTj d=(d*b.mnpBBDfi)%b.VASalLog if(d%b.OoohvTaH)>=b.blfeYGgg then return e else return n(n(f,n,f,e),n(f,e,t,n and e),t(t,f and f,f and f,f),t(e,e,t and n,t))end return t(e(e and e,e,e,t),e(n and e,f,n,n),e(n,t,t,e),f(t and n,f,e,n))end)return d;end)())local he=(getfenv)or(function()return _ENV end);local r=b.IHwFGBiJ or b.qhaErnhb;local l=b.jwXccglE;local g=b.UGHxqZTj;local t=b.cSDWqrSz;local y=b.mJxrqanm;local function fe(u,...)local _=s(e,"Mi_E},bd0yx48& Xx_x_XE}}yb 8Ed00&y_0}iy}&8E_0yiidt4_nE,}xEy04 E&xdbs},d4Xb_byi_ yi_y,Xb,8}(b,dx0Ex4dXxbOy &d}yyb bixy8 ii&dx4b4y_x,xx4X8}4bb4 VbEb0d&xEyyi&i}Eb_&xi_d 8 _xbdx0X0,yyxX3_&xb&__&yb8XE}yJ8i_04Xi}bS4iI_,i&}&E_04i y}}0x&4_8d4&0db4}X }JXE,X}_y}40Xx}yyx 4E80&& }E8c&__ddE8}i,b},E,,b,b_X&}8y&  EXy;8ixi8E&,E_db8di0bd,,&xX8}}8 i4}bxXX ,&y4X&0d ,_0dy8xiy8 ,b}yXi00&X4bbx8XXdxXi8}m04&x_4d88&i bX x,ibE4x6},,xbX,iibE4_Xx,Tyx_X &&5_id_8iyy yEx08&8_&dXG&bdx}Xd}4y4XX(dyu&XEX0,&4E_d}&_iXbE4Xidb 4yXx}yx,XbS0y0 8_X0E EE,0}88__b80,i+b440i:,Qx e},Uy0X}},0d i_,0y&x_ydi44iXbX4i4&i 4d8wiib_4EA},8xbXdE0 :i4d x_i_b_4}i_,_x  ,}yybX_}Exi8i_X0&&iX 0_&E__bx4}i0b0xx&,yE _EE0}&,_bddkd,yb48r38,&x X&,_0_00&&yb ,Eb0d&0_ydxUb,8bX4 1Xb94iI_,E&}E,}dy8 0Ey0x&y.i8b4i xdi8bi_bE4}#Ex&yi0}a4y4 XE80&& yiXy},0dd}& i,bb4dvbX8bX8#iT}bxyX0},0xX8}4yE yEEyg4b_0d}8,iddiy,iybx4y}Ey0 }E,0b&,y 4ibxy4b&8_6 ,X43XX880,_&_0yd 8E00y&x_yidOdxE_48ii,b_4E3},EbX8_3)y4 xE408&&_ dX&lbid}8Ei}b,4b%d,08iEx}&y8 &E 0X GEix}iE_,x,8bidb04d4y_/dd8,8}b,4_X0,8yXXy}&yyy&Edy_y^Eb058}ibdi448db8404x,n4}X_}ix}X}Eb}_ d_8d &y&dd448i8b}48iii8 xE 04&8_&X_}0ym&b8Eiyb}4,*b,,b 4_Vi,&x EX0 &XE30i&_xE4bH,idb840ny,xxy8E,Xb & }ixE _EE0}&E&bi8b,4iiGdE&EXXdx4XX_}x04X4EXxmc}0y&0_ydx84i8b&X,}Xbi4bP_,Ex}XE=0,8yXXE08&4_8d&8 iXd;X,,_b}4ys,,bxdXbKEy4,bi,0  X_X0U&i_ei8yExb_0E_&0XXb}y8hY}00d8y,4dEx00}&x_,db8dibby0x}_ &44XX,bxhXi}_yi}0,o_iE&,08i88i4b84&I ,XE#}iy_x}Xx},yb dEbE0yy8,0,x,iX0i8niib_4i}4&_F bX_}x X8,x_}iiiRXdy0&x,y xbdbb4X9d,0xyX0i,bi4b%0,dyXX,EX&,_}d,8bidb04yE&y4x&?E} yXXREX  &&d8Edbb_00d8yixb44x80_ELx}p&8EX80_E&XdX&E,48&xxd8&xi&b 4XB 8by8i4Ey0i__&4X&}4 } xXb0idX&}_.di8_ii,40b4bXExyX&}xy4 8xVXb}qx_0E&__Ed}8,ibbdX,}y,8x4X8}&y  X}6&&__E}0y&,_bdd8b&__0d_&}, 4EXX,pxibbx}Xb,iy400&&_ydx84ix&0Xb0i_d4Ef_,Ex}X,}byd&0d004 x_8d&8 i& 08xE00^y P &X4,X,bEXE})d,48 *_X0B&i__dE8}E4xb4yI0,yxxX4}8i&_XdXyi 8E_0E&}_ExA5}Xi8,4,ibXxdXd  bx_Xi}_yE }E,0b db0dx&xi4b84&N8g}bxxXi,d_y_NA,_xd&d}ax} cEXb}_IbX8=iib_4E*}d, bXy}0yy xE408&&_ dX&i_dd_8Ei}&0_xdy8iidbi}&y8 &E 0X U4i8yiE_,d08bidb0_8dX4&x X&} yXXO}iy_XXd}0b&&_dd08y07&x_ d_4Xi_b0,Ex_XE}}y, bEdyGiy_40,88i&b 4&XXi8iXydi  &_0,0X, xX80&&8_&d8E_0I&}__d_X4_488ibbi8Ei,bExd4E,0ybXiE8ybyyEJ0&&4_x_ &0iXdb8}8Eb4xxX0}xyyXbi}E00b &E 0X )Ei0_&EE<d,8bidb04y/x,4x8X&} yXXs0ex2Xi}_8}&b_dd08yixb448G&, xXTW,ix  #_ y, bEd00&y_x&b&E_4b 4Xi:bi4_VE,}x,Xb,,yX yEx04&8_&0,&&_Ndi8_iEb}4,zb,dx0Gd,iX0&y_d0 &XEo0i&_d d}_Eibb 8b-y,xx4X8}&y _ y8x  _EE0}&,b,4b_},0bx44.8,&x XX, x0X_}EX_}__Edi&0_ydx84ddb&i8nXbcPX1_,x4i+E0,ydXpd08yixb448=&, xXpq,ix_4&/,y,4,D,,LX0 4E8 4& _X&&4 e8dE8}i,8ii,C0,yg0X4}8X4  EXy.EX};0x&}_,db8di0by4x>4,8x&X ,bx Xix{yE }E,0bE,_0dy8xi48yxxX0,X4u,8,_xE,_},yb dyb0y&x0yd8&8i bX8O_2y 4Ee},,xbXd,d&, xE408iy_ dX&(dXd_8Ei}b,i}sd,0Nb dE,y8 &yy0X cEi A&E_}d,_}idb080^x,4x8X&0&& XO}iy_ EE}8}i,_dd08yixxd48b4, xXggxXx_XE}}y,}E_}d_&y_xd4_di&b 4Xb bi4_i_yD4}Xb}dx,q,}_04_4Ebd 8X_pdy8_b_b&&EiE,dx0E,,y&d 8y40 &XEe&X_Xi5, 8,ibbd40b},x)yX8}&y tx}0yi _EE0}&,_b4E&diyd080ix,& xG ,TxiX_}Ey} ,EXx_&0_ydx_yi88xx4Xyb#4i#_,Ex},^}bX, 0yd8bix_8d&&b_0d/8i,-bE48+,,bxdgi}y&0 4E8y, d_X0Qi^EidE__i,bbi}X,}ExxX4}8y&  EXyd  }z8_E__,4_8di0by8_}4by44E&,bx&X00ixiXiE80X&d_0dy&yi48xX8i8b84d  E8xEX}},yb dE00y&x_4d8&}_4d8X8iib_4E}},84}Eb}Xy4Xidxyx }b dX&Z_i0i&f_ib8xEXi,0xyXx}4y8 &E 0X VEi0_&E_}d,R_idb04ycx,4 0E&,4xbXX}iy_ EE}0, ,i}b_8yixb448l&, xXCV,ix_XE}}y, bEd80i,_xd488i&d,88idbi4_5E,}4}X&E}0_ yEx04&8_&d 8X_=di8_iEb}4,pb,dx0Ey0by4 8E&0 &XER0i&__E0E88HE,i40Ly,xx4X8}&y  X}zyi _EE0}&,_bdd80iydi8_iyb448#&,&x0XyE2d  ,Eb0d&0_ydx84i8b&4 YXbe4i{_,Ex}i&0d ,_8080xird8d&^ibx4yf,XX}&xi X iEb0_&E_}dE0iX}8, iN8,4x8X&} yXXGb,&_ ,E}0,&b_dd0}yb_x44&i , xXqc}X}xy1XybWxxXx}ix08_}y0 4}_404&Eiy4E<4,}x,Xb},,,x}6}}dydXi}x&i_kdi8_iEb}4,_ ydxy;}}xy4 8E4,ux} dE4y4 &E80}&x_}F,:x,xx4> y&y  X}Zy} _EE0}&4Eddd80iyyy44=&,&x XX,}_yX_}Ey}i}Eb00&0_yxx84i8b&4 {Xbv4ir_,dx}Xb}byd 0Ey0x&4}qd&8 iXd?8iiEbE&}_i,bxdX0}yyx_,E8yXdX_X0i&ib}dE8}i,d04xk0,4xxX }8y&  },Yb iE,0E&4_,dd8diyby4xEx,8x&X ,zxkXi}_yE bE,00&d_xdy84i4d &_U bi4._!,_xEX},dyX dE40yi&_4d88&E 0b8/i}b_4bh}yxxb=y,oyy  E48}&&_ dXX*E8d_8di}by4b} ,0441_}4xi &0i0X .Eix_ X_}dx8bi8b0 &(xb&,EX&,}yXEE}iy_ E,}0X&b_&d08Xix0j48-&dyxXZd,ix_XE}}y,X0Ey00 i_x4&88i&b &i_&bi44hE,&x,Xb}dxxX,Exy,&8bdd 8X_qd,8diEb84,_b,dxyXy}xx& 8}y0  }E+0i&__E&&8,_Ebd8E:y,xx4X8b_y X4}RyE _E,0}&,_ddd8Xiyd,44i0,&x Q},#x0X_}Xy}XcEb04d__y0_84Ebb&4X:XbcE}F_,4x}X&}byd 0EXkL&4E}d&&biXdi8ii0bE4}E},bxdX0}4yx 4E80&1&_X0A&i_bdE8}i,bb bL0,yxxUE}8y&  EX4X iE_0E&d_,db8di0y04xw4,84}X }Xx^XidiyE }E,0d&d_0dy8xxyb88bq bd4PYi,_xEiu},xj dE00y&x_4d8 ii d08.iEb_4,e},,x Xd}0yyXEE408&&_ y_&:_id_8,i}b,4bBdd:xyXx}4y8 &E 0X }}i0_&E_}8i8di0b084d_,4x8X&0 yXX.}i4_dXE}0,&b_dd0(Eixd&&}G&, xX_ ,ix_XE,byb bEd00iy_xd488E&d04Xi3bi4_CEbXx,-0b}y0 yEx08&8_&d 8XEydi8_iEb,4,1b,d4xi<}xy4 8,E0 &XEhyEEx_Ed}8,ixbd403y,x&,X8} y  X}#yi _EEyX&,_0dd80iybx44s8bEx w_,:xiX_}Ey}Xd,i0d&8_yx_84i8b&&Qi4bo4b3_y,x}X,}bxyX4Eyya&4E,d&8 iX0_88i_bx4}EX,bxdX0}&8o 4}i0&_b_X0i&iE}&48}i bb8}k0,yxxi4xdy&XdEXyy iby0E&}_Xdb&ii0di4xY4,8x&i_}XxyXi}}yE bE,0b ,_0d48x_Eb88bU ,X40Bi,4xEXb},y  dE0y &x_&d8&bi dd8Ui,X84E!y,, bXd}yyyX8&b08 __ 4y&e_id_&,4db,48+dbxxyXx}4x #_E yb Lb40_&E_}dy&8idb&4ybE,4x&X&b 81Xs}xy_ 4E}4X&b}ddy8y_}b48Wp&d0xXn2b_x_XX}}y& bEd00&yExd4&yi&db4XiObi4_ix,}xXXb,}y0 4Ex04X0_&0i8X_ydi88iE0}4x2bbox0X&}x4, 8E&y4&XE40i&x_Ed}8,ibdy40i,,x4EX8}&y  X,iyi 4EEy)&,_0dd 0i8bx8,w8b,x Ey,SxiHi}Eyd ,EX0d __yd b,i8d_4 ,4bp4_9_,yixX,}4yd  Ey04&4E)d&8 } d%8ii_b}4}Q,,bxd_d}yyx 4E80&& _X0I^5__dE8}i0bb4d#0,y&yX4}8y&X%EXy+ i}}&E&}_4dbibi0by4xiibdx&Y}}XO,Xi}EyE }E,0x,X_0dy8x0Ub84 w dii0qi,0xE}E},yb dE0x&&xEid88 i di8hidbx4ELx,,78Xd}yyy 4E4y7b,_ dX&Q0dd_8}i}ddi jd, xy}0}4y8 &E xi BE00_&0_}d,8b_y8}4yi_,48,X&} yXI_}8y_ 8E}4X&b_dd0&4i8b48bq&dxxX?<,i4}X4}}x* bbE00&y_x0& }i&dx4XEibi4_tE,}4}Xb} y0X,Ex0&&8_&yx8X_0di8diEb}4,i04Ex0)_}x4E 8E&0 XiEy0i&8_E0X8,ibbd8xi,,x4bX8yEy  X}YxEXyEEy6&,,Edd80iyd888H8bxx E},-xiX_}Exd ,E 0d ,_yd884i80x4 i0bh4bD_,Ex}Sdx_ydX_Ey&,&4_8d& ._xdN88i_x44}f,,b4yX4}yxb 4}E0&& _Xy_&,__0r8}_Ubb4d90b44IX4,xy&X&EXyD iE_0,&}_ db&,i0b44xN4dbx&=0}Xx,Xi}_yEXb&L0b __0y48xi4b88Xxy,X48miyixEX}},x00_E0yb&xdid88&i 0i}xiid{4E_&,,xbXd,xxb x}x08_i_ dX&#_id}8Ei b,8,fd,xxyXxb}y8X0E yi 3Ei0_&E_bd,&_idb&4yJx,44 u8} x8X<,iy_ EE}ydXE_d0b8y_ib448v&dcEXCAbLx_Xx}}y, b}yxE&yExd4Xbi&b 4X__b&4_i},}8yXb}dy0 yE404 0_&0X8X__di8_i,b}8_-b,8x0Xy}xx&  E&y8&Xby0i&__E0b&&ibdb40_,,xx4X8,XEy X,*yi_xEE0}&,E0i_80_xbx &78,&x ii8&xiz}}E&i ,Eb0d&0_Xdx&0i8dX4 iibB4i-X,ExXX,,Eyd yEyy8db_80y8 bydD8ii_bE&8p,bExdX&}yyx 4} y}& E&0I ,__dE8}_dd 4did,yXYX4}8y&s/,by^XiE_84&}_,db&y_iby84>4x,x&X }X4_Xb}_x, }}i0b&d_0dy84i4dy4&_#,X4_ti,_4bX},_yb &E0yb&xE&0E8&_8bXl_iib_4Eibb}xb=b}0xd xE408&&E4dX v_id08Ei4b,48i,,04yXx-dy8  E 0X QE,Ix&E_}d,0_idby4yi8Xbx8h&} &yX#}iy_ E,b0, d_d0E8yixb48 iy, 8it304x_XE}}yy xEdy0&y ,d48&i&b &_i2d,4_V ,}40Xb}dEb y} 04 __&y_8X_bd_8__db}bXsb,0x0Xy}xyXd}E&0 &X x0i&E_Ed}&0ibd440jX,x4_X8}&4} X,}yiXbEE08&,_bd480_ bx8bg8dhx XXb8xi6d}Eyx ,}40d&0}bdx&Xi8bX4 iib!4igX,E40X,,xydXiEy0xXi_8yi8 EEdG8ii_0y&i2,bxxd4_}yy4 40}0& _4d0t&i___&8}ibbb4dix,y4 X4,yy&  EXy{d_E_y0&}Eidb8di0by8x)4dkx&a{}XxiXi,}y  }}y0b i_0dy8xi40y4&__,X4iWi,ExEX},8yb dE00x&x_4d88&_ bX&}iidb4EG},,x0d,}0x  x}U08&&_ dXXy_i0d8Ei,b,4djd,8}EXx,4y8yiE yD j,i+E&EE_d,&}idx_4yexb&x8U&} x}Xs}iy_X,y+0, d_d0w8yixb48 iE, 8ivFy_x_XE}}xdXxEdy4&y}bd488i&0r8}itd,4_E ,}x,Xb,yx8 y}X04Cd_&d 8X_=dX8__Eb}8x>b,yx0Xybdy4X}E&y &XE*0i&_}4d}&,ibb840ky,x4&XX}&xX X,Eyi _EEyb E_b0y80Ebbx44o8bX4bXXbExiEE}Ey} ,}00y&0E&dxX8i8b&4 _ib 4iid,E4,X,}byd 0}y0x 4_8y_8 _id58i_}bE4&?,bbxdX0}yyxX E8y&& E,02&y__dy,8i,b&4d&y,yx4X4,8y&X_8dyA iE_,}&}_bdb8d_4by8xs4b_x&r,}Xx6<}}_yx }},0b&X_0dy&&i4d84&i},X4yPi,0E4X}}&yb8EE00x&xE4d8&ixbbX8DiiE 4E9,,,xbGy}0xy x}(08&&_ yi___i0E8EE4b,4bsdbx40Xx,&y8EyE 0X C}E0,&EEdd,^ idb04yi8b4x8ii} x,Xn}iy_X,E&0, 4_d8,8yixb448_,, 4XRPbbx_X,}}y, dEdyq&yE+d4&8i&0<,xigdi4_E&,}x,Xb}d4x y}404 d_&d 8XE_0,8__,b} XSb,dx0X&}Xy4X8E&dx&XEi0i }04d}&yib0d40{y,x4id_}&4E X}iyi EEE04&,_bxb80iybx8E;8,&x XXdXxiX_}EyX ,Eb0d&0,0dx84i80=4 ;Xbl4iEi,Ex}X,}&yd 0Ey0x;x_8d&8 _&df8ii_bE EW,,bxdA,}yyx 4E848& _X0k&&__dE8}i,4 4di8,yx8X4}&y&  }Ky?X}E_0E&}_,db844_by8xk4E8x&XX}X8b,}}_xi }_80b&0_0448xiXX}4&: ,Xxd>i,ExEX},dybXdE0yb&x_4d8&Xy_bX&iii0S4E7},,xbX }0xy xE&08& _ yi 0_i0_8Ei b,4bLd,04iXx,4y8  E y+ rEiy&&E_}d,8didb04y2xbix8!&} xXX+}iy_ ,4_0, d_ddx8yixb448Eb, 8(U{,_x_X}}}4,Y_Edy0&yE,d4 di&b i,iUb04_vy,}4,Xb,y4i y}x04ib_&d 8X_w0&8__}b}8m9b,dx0T4,_y4X E&80&XEv0i&bExd}&,ibd_4y?x,xx4aX}&4_ X}4yiX,EE0}}d_b0480iXbx8Xg8bE8}XXb}xiX8}}y, ,}E0d&84idx84i8dd4Xi6bN4ii},E40X,,Eyd 0Ey0xb8_8y_8 _4dL8ii_bE44z,bxxdXx}yy4 4} x}& }E0Z&4__dE8}i,bX4di8,yx4X4}&y&  ,Ey< iE_0}&}_,db8d_8by8 G4d!x&X }Xx_bX}_x0 }E00b&d_0dyXEi40i4&>X,X4iLi,bE&X},,yb }E00x&xEiX_8&_ bX8}iibE4EQb,,xb_b}0yy x}i08&&_ dXXX_id_8Ei b,4bId,0XdXx,8y8X*E 0X 3}EyX&EEbd,8didb04yjxbix8it} x}Xw}iy_X,}X0, x_dx48yixb48 i4, 8}De0&x_XE}}xdXEEdy &y}bd488i&0p&0i3d04_}i,}x,Xb,yEE y,_04i__&d 8X_OX88__bb}8&sb,yx0Xybby4O/E&yE&XE60i }E_d}&xibd 40Py,x4&ib}&4} Xy(yi _EEyb }_b0 80E,bx44Y8bX4 XXb0xiX}}Ey} ,}0xE&0}_dx&di8b&4 gXxb4iib,E4&X,}0yd 0840x 8_8yi8 _-dl&Ex&bE8bF,yvxdX0}yyx1&E8x%& }j0/&i__0,&,i,dx4d}_,yxxX4,c4E  ,iy/ibEE0}&}Edii8d_ byX}u4,8x&X dix7L0}_y  }E,0b y}idy _i4xb4&v ,X4}ii,_4yX}dyyd 0E00y 8_4yb8&_ bX86iib_4X:}dUxb9_}04_ xE4x}&&}xdX i_i0d8Ei}dd4b_i,08,Xx}&y8XE,e0XXxEi4,&}_,d,8bidb8}i#x,4x8Ez}Xx?XF}ix} E} 0, E_dd08yixxy48_0, 44wk,ix_XE,xy,LQEd0x&y_4d4& _&b &yi2b44_PE,}x,F&}d4_ yE404&&_&d  __Qdi8_i}b}4,!b,4}_Xybgy4iEE 0X&XE}i4&_E,d} 0idb040i48_x4S }& X X}Zyi 0&u0} d_b4*8yixbx48P8biEbXX,2xi_4}}y, ,}0 X&0E4dxXTi8b&4 {Xd_4ii,,E4bX,}byd 0b}0x X_80X8 iXdf8iixbE8yh,,4xdX0}yx8XdE8xE& E}0s&i__0, ii,d&4di},yxxX4, x4  ,dy2_dE_0E&}EddX8dEiby x<4,8x&i:,ix<T4}_8_ }E,0b&db dy&Xi40b4&i(,X4J}y,_4dX}}dyb yE00y }_4yR8&iXbX8_iid}4&V}bxxbi&}0yy x}&x}&&}}dXXE_id_8Ei}b04bi4,04XXx}4y8 &}&0XXEEi0_&E_bd,80y,b08&Lx,4x8X&} yX}&}ix, E}00,&b_dd0&}ixd 48<&, xXwF,ix}XE}}y, bEd00&y_x&X88i&b 8Uiwbi4_Y8,}x,Xb}xy0 yEx08&8_&d 8X_i0i8_iEb}4E8&XX}}44Xib00y&bEdxbXbEy0y4Xiy8b_dbd40ny,0}d4dkd,y4dXd,E,0f?E4y y8E,0E i_,8EQ8,&x _,4ExiX_}Eyy ,Ed0d&y_yd ,Ei8b&4 i}bW4_+_b,*8X,}dyd xEy0x&4_8C_8 _*d98Ei_bE4}<y& xdX0}yxi 4E&0&X68x0C&___db8}i,bb4d0&,yx4X4} y&  EXy1},E_0E&}_bdb8di0by4x34,8x Y_}XxfXi}Exq }E,0b&,8E}0bx4_E80y4}i&b884fyb4X,}4yb dE00dxJ }EE0X Ydi8Jiib_4EC},,xbXd}xyy xE408&&_ bX3X}.d_8Ei}b,,46d,0xyXx}4y8 &E y? CE_0_&}_}d,8bid0,4yL8,4x X&} yXXK}0y_ }E}0b&b_yd08yEdb448Q&bQxXK_,ix0X }}y, b}x00&x_xd888_iXb4Xi6bi8,ZE,,x,Xbddy0 yEx04&8_&d  i00di8EiEbb4,1b,dx bX}xy& 8E&0  PE{0}&__Eyy8,ibbd44Hy,xx4X8d_y  X}ry_ _EE0}&,}4dd80iyb84478,&x d},jx_X_},y} ,Eb0di0_ydx84i8b&4XKX0N8&D_,Ex}X,}by4 0EX_d&4_8d& iiXdi8iiEbE400&,bxdX0,8yx 8E8yibb_X0v&i}1dE8,i,d0,_P0,yxxX }8y&  EX , iE_0E&0_,db8di0bX4x#4,84_X }XxSXi}xyE ,E,08&d_0dy8x_4b84&a bi4n(_,_4,*y},yb dEy0y&x_4d8&Ei bX8#i_b_4}A},,4,Xd}0yy 4E408&&_ G_&B_id_8Ei}b,4bRy&bxyX4}4y& &E 0X v,x0_&}_}db8bi0b04yb ,4x8X&}XyXX5}iy} EE}0,&b_dd08y_ib448p&, &_ra,ix_XE}}y, bEdy&&y_4d48&i&b 4XiCb,4_L,,}xdXb}dy0 y}404&&_&dX8X__di8_idb}4,Ob,0x0Xy}xy4XyE&0 &XED0i&__Ed}8dibbd40zx,xx4X8}&y  X}2yi EEE0}&,_0dd80iybx44<8}& &m},OxiX_bEi4 ,Ed0d&0_yd484i8di4 iebI4_l_,}x}X,bEyd yEy0x&4_8d&8 Eyd18_i_b}4}<b,bxdQi}yyx 4E&0&& _X0H&i__dE8}i,bd4d50,yx8X4}8y&  EXyp&idi00&}_,db dyXby44^4,8x&XX}Xx*X0}_y} }Eb0b&0_0dy&}i4b&4&k ,X42Ji,_x,X}}byb 0E00x&x_4y,8&i bX8iiib_4EA},,xbXd}0yx xE408&X_ dX&r_id_8E2}x}44md,0xyix&_y8  E 0X %E_0_&E_0d,8didby4yT4,4x8i}} xlXq}iy_ EE}0, b_ddy8yi4b44&-&, 4Xql,ix_X}}}y, bEd00&y_xd4&}i&b 4Xiibd4_5E,}xE87X ,=x4X,08 __&d 8Xi Edd48x_bddvdb}x0Xy}xyy4,X0,0x_ 4}40y &_4d&&0__4xoy,xx4X8}&y  X0*y_ &EE0}&,_}_8d& E_X0}&b_,b&8EV&xEX_}Ey} ,Eb0d80b0d4&#i8b&4 =&_x0C80m x,X8}byd 0Ed,Ex,X}E8y_&88}8ii_bE8bCx,bxyX0}4yx 4E80& d_X0E&i__dE8}i,bb8_A0,&xxX8}8y&  EXx4 iE,0E&d_,dx8di0d&4xSX,8x&X }XxsXi}}yE 0E,0x&d_0dy8xEEb88_= ,X4s(i,_xEEx},y0 dE&0y&8_40_}yi di8Wi&b_4}j},,xbX4&9yy xE4y0&&_XdX&A0_d_8bi}bb4b.d,0xydX}4yX &})0X UEiy}E4_}d08bi b04yax,44 X&,_yXXi}iy_ EE}80&b_xd084ixb&48EE8ixXFE,i&eXE},y,  Ed08bi_xd488}4b 8<ifbi_83E,dx,Xb}dy0 yExy &8EFd &__wd_8_iy^i4,{y,d4XXy}4y4 &E&y_bdEa0i&_Exd}8bibbdiyNy,&x4X8}&y  X}Zib _Eb0}&d_bdd80iy }442X,&x XX,-xiX_,by} 0Eb0x&0_xdx84d&b&8_oXbs4it_,Ex}bX}by8 0Ey0x&4_80E}}iXdb8ii}bE4,*,,dxdX0d0yx 4E8yi& _X0j&i0&dE8yi,bd4dT ,y48bE}8x_  }_yc iE_0E!}_,d88di0by4xI4,8&&X ,bxGXi}_y} }E4X8&dE{dy8&i4b&4&hX,X4RE),_xEX}}yyb dE0yyE8_40E8&_EbX80iib_4,e},xxbX }0y4 x}&y4&&E}dX&__id_8Ei}bb4bm ,0xyXx}4y8 &}&0X dEi0y&E_}d,8b_db08iqxb1x8X&} yX*-}iy0 EE80,&d_dd0}Eixdi48h&, xXK:,iJ&XE}xy, dEd04&y_xA^88_ib 8iiJbi4_-Ex4x,Xy}dy0 yEx04  y,d &__?d08_iEb}4,i0,dx8Xy}4y4 8E&0 __E:0}&__,d}8dib0&i4wy,&x4}X}&yX X}iyi b440}&,_b8x80ixbx440b,&4iXX,DxiX_}E4}}xEb04&0_xdx&ii8b&8X/XbE4iL,,Ex0X,bbxi 0E&0x&8_80i8 iXdy8ii,bE4d5,,xxdX0}xyx XE80&& _X0^&i_bdE8yi,bb4dI0,y8xX8}8xE  }7yG dE_0E d_,d48di&by82.4d88yX ,,x=X_}_yd }E4X8&d_Xdy8xi4b&4&DX,X4zEn,_xEX}}yyb dE00y},_40i8&_}bX8diid}i4^},xxbXx}0yy xE448&&E}dX&u_id_8Ei}y,4bh ,0xyXx}8y8XE4}0X 0Ei0E&E_,d,8didb0 0Sx,4x8Ii} yXXl,iX} EE40,&4_d0B8yixb 48i_, 4b+e,Ex_F,,Xy, 8Ed0x&y_xd488iXb 8biSbi4_zE,}x,Xx}dyX y}i04&8_&d &E_Hdy8_i0b}4,lb,dx8Xy,Uy4X}E&0X&XE-X4&__yd}8,ibbd40_yydx4UE}&yX X}byi _,10}&4_bd&80_Pbx&4i ,&4,XX,ixiXb}Ey}XiEb0&&0EYdx8 i8b&&xgXb}4iR},Ex}X,}bxE 0E80x&4_8d&8 iX&}8ii_bE4,*,,bxdX8}yyx 4E80&& _X0}&i__dE8}dbbb40%0,xxxX4}8y&X4EXyi iE_0E&}_,db_4i0by4xc8,8x&X }X{}Xi}_yE ,E,0b&d_0dy8xi4b&4&2 ,X4Q=},_xEX}},Xd dE00y&4_4d88&i d88#iib_4EQ},,xbXdx8yy xE40&&&_ dX&#_id_8Ei}b,4bDd,0x&Xx}4y8 &yX0X iEi0E&E_}d,8b_}b04xux,4x8X&} yX,}}iy_ EE,0,&b_dd0_&ixb448* , xXGs,ix_XE}}yb bEd00&y_&d488i&b _likbi4_?},}x,Xb}dx, yEx04&8_&d 8X_Q&,8_iEb}4b)b,dx0Xy}xy4 8E&yZ >EQ0i&__,d}8,ibbd40Ry}x x{i}&y  Xb)i0 _E}0}&,_bd080iydd44q&,&xXXX,ixiX_,0y} bEb0d&0_ydx84iXb&4XrXbi4iUE,Ex})0}byd 0Ex0x&4_8d&8 iXdq8iixbE4}-,,0xdX0}yyx 4E8d&i&Ei0q&i__dE8}i,bb4dax,yxxX4}8y&  _X}X _E_0E&}_,d08di0by4xg4,8i&E ,ixTXi}_yE }E,0bid_yd&8xi4b844&d_xb0fE,_xEX}},yb db08yiy_4d88&i  y8Gibb_4Ep},,xbXd byy XE4yi&&_ dX&b_bd_80i}b84bs0,0xyXx}X_} &E 0X dEi0E&E_} X8bi8b04y#x,4x8X&biyXX,}iyd EE}0,&bx8d08 ixb&48l&, xXdx,ixdXE},y, bEd00b0_xd888__b 8oiBdE4XVE,yx,X0}dy0 y}8y4&8EEd &Q_zdi8__,dE4,-&,dx4Xy}xy4 8}}0  dEK0_&__Ed}8,_dbd8j^yb_x4+5}&4WX_}!yx _E,0}&,_b0ybEiyd}44i<,&x XX,m&bX_} y} xEb0y&0}X&&84_db&&0{Xbi4i1},Ex0d&}byd 0,E0x&8_8d&}0iXd88ii}bE4}t,dbiXX0,byx 8E8y}& _Xy4&iEidE8xi,bb4df0b xxB4}8xE  EXyW i}E0E i_,0b8dixby4xiK,84yX ,4x/X }_4E?iE,0X&dE}dy&_i4y__7K bx4s_},_x}X}}byb 48=0y&x_4yX8&iXbX8>04b_4XS},dxbXd}04yL,E4yy&&_XdX&d_id_&4i}d}4bq&,0xyXx}44, &} 0X bEi0_&E_}dx8b_}b08y#x,&x8X&b_yXX8}iy  E}i0,&b_4d0&_ixd}48iy, &,,x,ix&XEbxy, dEd0 &y_ RE88i&b  ,i?b_4_Cd&8x,Xb}d8  yE404X8x d &b_?d08_i}b}4,_E,d4}Xy}&y4 8E&0 XIEO0&&__xd}&iib0d&Elybbx4H0}&yX X}ly_ _}70}&0_bdd80Eydy44ix,&4iXX,dxiX_bay}X,EbyE&0_ydx84_/b&8XZXb84iJ_,Ex}E4}bx, 0}x0x&&_8d&d_iXd&8iiXbE8_z,,bx&X0,byxX}E8yx& _X0b&iE6dE8 i,bb4dn0dbxxHx}8x3  EXy1oi}+0E }_,0E8di&by4xiE,848X , xS{i}_yE dE,y<&dEbdy&yi4d_Ea+ b,4JE8,_x}X}}&yb 48V0y&x_44d8&iXbX8a04b_4Xw},,xbXd}0yy,,E4y0&&_ dX&x_id_}0i}bX4bky,0xyXxb4i& &}E0X ,Ei0E&E}}Xb8bi&b04X<x,8x8Ii&byXXs}ix_ EE,0,&b04d08yixb848p&, xXBt,ix_X0}}y, bEd0x&y_xd488_xb 4XiObi4_AE,}x,,x}dy0 yE404&8_&d 8X_6di8Eixb}4,eb,0xyXy}xy4 xEX0 &XEp0i&__Eb}U}i0bd40Uy,xx4X8}&& X#}byi _EEXd}yy0 mEb0:b844:8,&x XX,%iiE_}}y} ,Eb0d&y_ dx84i8 iiXdi88ibEd,Ex}X,}bii 0Ex0x&4_8d&8 iX0_8ii}bE4}L,,bxdX008yx 8E80X& Ei05Xdd8dE8,i,b84dIy,y4iX4,9_,  EXyN dE_0}&}_yX 8di0by8dS4,&x&X 8yxqX_}_y} }E,0b&dExdy88i4b84&^ ,X4bdd,_xbX}},yb 0E004&x_4x48&i bX8+iib_4Et}dxxbXd}0y4 xE408&&dXdX&i_id,8Ei,b,4x0X,0xyXxd y8  E 0X,xEi0E&E_}d,8bidb084Bx,&x8X&} yXXA}i&, EE,0,&0_ddx8y}-8,48{ , 8_<7,_x_Xd}}yyb Ed00&yE&d48&i&d_}di-bi4_Eb,}xbXb}dEd yE404&8_&d 8X_ 4 8_i,b}88ub,0x0Xx}xyXd}E&0 &X}d0i&E_Ed0}&ibbd40E8,xx8X8}&i0 X}iyi ,EE0}&,_b4_80i4bx44j8,&x ii,0xiX,}Eyb ,Eb0d xE4dx8Xi8bX4 wXbz4il,,Ex,X,}xyd xEy47& _8d 8 ,_dv8_i_b}4}>y& xdX0}y8& 4E&0&X68x0H&___dy8}i,bb8yxE,yx8X4}Xy&  EXyrQEE_0b&}_,db8di0d48E24b>x&/G}Xx{Xi}bx^ }Ed0b7y_0dx8xi4d 4&i},X4i?i,_xEX}0Xyb  E00&&x_4d88&EibX80iibb4E)},,xbX4}0x_ xE 08&&_ dX&4_id88Ei}b,4b^d,04xXx,by8X_E 0X AEi0,&EEqd,84idb04y<xdix8nb} x4Xz}Ey_ E}d0,& _d0<8y_Eb448yb, 40Qj,bx_XE}}y, 0Edyf&yE_d4&,i&0 8PiQby4_54,}xxXb}dx_ y}i04 E_&0b8X_ld08_i}b}44Bb, x0X& }y4  E&4i&XEi0i&_x0d}8bibby40)y,xx40i}&y  X}_yi _EE0}Ey_bdd80ixbx44T8, x XX,axiX_}Ey} 4Eb0d&0_y0y84i b&4 .Xbw4ir_bEx}X0}by0 0Ey0x&4_ d&&_iXdi8ii_bE4}i0,bxxX0}4yx &E80&XA_X0_&i__dE8di,bb&6<0,yxxX8}8y&  EXyc iE_0,&,_,");local d=b.UmsQCIre;b.anSOMYxX(function()b.ZTSBv_CT()d=d+b.UGHxqZTj end)local function e(e,n)if n then return d end;d=e+d;end local n,d,s=h(b.UmsQCIre,h,e,_,b.YCZKqcVF);local function f()local n,d=b.YCZKqcVF(_,e(b.UGHxqZTj,b.cSDWqrSz),e(b.mckhXjjl,b.cWgjyL_i)+b.jwXccglE);e(b.jwXccglE);return(d*b.KrgEKXKL)+n;end;local fe=true;local a=b.UmsQCIre local function z()local e=d();local d=d();local t=b.UGHxqZTj;local l=(n(d,b.UGHxqZTj,b.ZeAeDywF)*(b.jwXccglE^b.TpiCMdRr))+e;local e=n(d,b.PTmkdWSI,b.LrYivrqC);local d=((-b.UGHxqZTj)^n(d,b.TpiCMdRr));if(e==b.UmsQCIre)then if(l==a)then return d*b.UmsQCIre;else e=b.UGHxqZTj;t=b.UmsQCIre;end;elseif(e==b.YcUk_Lu_)then return(l==b.UmsQCIre)and(d*(b.UGHxqZTj/b.UmsQCIre))or(d*(b.UmsQCIre/b.UmsQCIre));end;return b.QDXxegcO(d,e-b.pxUGBEmG)*(t+(l/(b.jwXccglE^b.qmUxBCmY)));end;local k=d;local function c(d)local n;if(not d)then d=k();if(d==b.UmsQCIre)then return'';end;end;n=b.lTRyAclz(_,e(b.UGHxqZTj,b.cSDWqrSz),e(b.mckhXjjl,b.cWgjyL_i)+d-b.UGHxqZTj);e(d)local e=""for d=(b.UGHxqZTj+a),#n do e=e..b.lTRyAclz(n,d,d)end return e;end;local k=#b.OaVLVbUH(o('\49.\48'))~=b.UGHxqZTj local e=d;local function ne(...)return{...},b.e_TaJRcK('#',...)end local function le()local a={};local e={};local _={};local o={_,a,nil,e};local e=d()local r={}for l=b.UGHxqZTj,e do local n=s();local d;if(n==b.UmsQCIre)then d=(s()~=#{});elseif(n==b.jwXccglE)then local e=z();if k and b.qcMolOfM(b.OaVLVbUH(e),'.(\48+)$')then e=b.drVWSBQW(e);end d=e;elseif(n==b.UGHxqZTj)then d=c();end;r[l]=d;end;for o=b.UGHxqZTj,d()do local e=s();if(n(e,b.UGHxqZTj,b.UGHxqZTj)==b.UmsQCIre)then local h=n(e,b.jwXccglE,b.cSDWqrSz);local s=n(e,b.mJxrqanm,b.cWgjyL_i);local e={f(),f(),nil,nil};if(h==b.UmsQCIre)then e[t]=f();e[y]=f();elseif(h==#{b.UGHxqZTj})then e[t]=d();elseif(h==u[b.jwXccglE])then e[t]=d()-(b.jwXccglE^b.bvtdgBxX)elseif(h==u[b.cSDWqrSz])then e[t]=d()-(b.jwXccglE^b.bvtdgBxX)e[y]=f();end;if(n(s,b.UGHxqZTj,b.UGHxqZTj)==b.UGHxqZTj)then e[l]=r[e[l]]end if(n(s,b.jwXccglE,b.jwXccglE)==b.UGHxqZTj)then e[t]=r[e[t]]end if(n(s,b.cSDWqrSz,b.cSDWqrSz)==b.UGHxqZTj)then e[y]=r[e[y]]end _[o]=e;end end;for e=b.UGHxqZTj,d()do a[e-(#{b.UGHxqZTj})]=le();end;o[b.cSDWqrSz]=s();return o;end;local function te(n,d,e)local l=d;local l=e;return o(b.qcMolOfM(b.qcMolOfM(({b.anSOMYxX(n)})[b.jwXccglE],d),e))end local function k(j,s,_)local function le(...)local f,p,c,de,u,d,o,z,ee,m,a,n;local e=b.UmsQCIre;while-b.UGHxqZTj<e do if e<=b.jwXccglE then if e>b.UmsQCIre then if e~=-b.UGHxqZTj then for n=b.adXEwdSt,b.KSuCQxwa do if e<2 then c=h(6,2,3,22,j);u=ne de=0;break;end;d=-41;o=-1;break;end;else c=h(6,2,3,22,j);u=ne de=0;end else f=h(6,83,1,34,j);p=h(6,87,2,39,j);end else if e<5 then if-1<e then for d=18,96 do if e<4 then z={};ee={...};break;end;m=b.e_TaJRcK('#',...)-1;a={};break;end;else m=b.e_TaJRcK('#',...)-1;a={};end else if 6>e then n=h(7);else e=-2;end end end e=e+1;end;for e=0,m do if(e>=c)then z[e-c]=ee[e+1];else n[e]=ee[e+1];end;end;local j=m-c+1 local e;local h;function EyJAzvPhftar()fe=false;end;local function c(...)while true do end end while fe do if d<-40 then d=d+42 end e=f[d];h=e[g];if 84<=h then if h<126 then if 104<h then if h>114 then if 119>=h then if h<117 then if 112<=h then repeat if 115<h then local h;n(e[l],e[t]);d=d+1;e=f[d];h=e[l]n[h](n[h+1])d=d+1;e=f[d];n[e[l]]=_[e[t]];d=d+1;e=f[d];n[e[l]]();d=d+1;e=f[d];do return end;d=d+1;e=f[d];for e=e[l],e[t]do n[e]=nil;end;break;end;if(n[e[l]]==n[e[y]])then d=d+1;else d=e[t];end;until true;else if(n[e[l]]==n[e[y]])then d=d+1;else d=e[t];end;end else if 117>=h then local e=e[l]local l,d=u(n[e](n[e+1]))o=d+e-1 local d=0;for e=e,o do d=d+1;n[e]=l[d];end;else if h==118 then local o=p[e[t]];local r;local h={};r=b.JdwoKvEU({},{__index=function(d,e)local e=h[e];return e[1][e[2]];end,__newindex=function(n,e,d)local e=h[e]e[1][e[2]]=d;end;});for l=1,e[y]do d=d+1;local e=f[d];if e[g]==47 then h[l-1]={n,e[t]};else h[l-1]={s,e[t]};end;a[#a+1]=h;end;n[e[l]]=k(o,r,_);else local e=e[l];do return r(n,e,o)end;end end end else if 122<h then if h<124 then n[e[l]]=n[e[t]][e[y]];d=d+1;e=f[d];n[e[l]]();d=d+1;e=f[d];n[e[l]]=n[e[t]];d=d+1;e=f[d];n[e[l]]();d=d+1;e=f[d];do return end;else if h>=121 then for y=30,98 do if h>124 then local h,y;for s=0,2 do if 1<=s then if s==2 then h=e[l];y=n[h];for e=h+1,e[t]do b.yIfJGDys(y,n[e])end;else h=e[l]n[h]=n[h](r(n,h+1,e[t]))d=d+1;e=f[d];end else n(e[l],e[t]);d=d+1;e=f[d];end end break;end;if n[e[l]]then d=d+1;else d=e[t];end;break;end;else if n[e[l]]then d=d+1;else d=e[t];end;end end else if 121<=h then if 120~=h then repeat if 121~=h then n[e[l]]=s[e[t]];break;end;n[e[l]]();until true;else n[e[l]]();end else local s,k,b,u,c,_,a,o,h;for h=0,5 do if h<3 then if 0<h then if 2~=h then h=0;while h>-1 do if 3>=h then if 2>h then if-4<h then repeat if 0<h then u=l;break;end;b=e;until true;else b=e;end else if h~=1 then repeat if h>2 then _=n;break;end;c=t;until true;else c=t;end end else if h<6 then if h>4 then o=b[u];else a=_[b[c]];end else if 4~=h then for e=25,68 do if 6~=h then h=-2;break;end;n[o]=a;break;end;else h=-2;end end end h=h+1 end d=d+1;e=f[d];else h=0;while h>-1 do if 4>h then if 1>=h then if 0<h then u=l;else b=e;end else if 0<h then for e=31,57 do if 2<h then _=n;break;end;c=t;break;end;else _=n;end end else if h<=5 then if 0<h then repeat if h~=4 then o=b[u];break;end;a=_[b[c]];until true;else o=b[u];end else if 3<h then repeat if h~=7 then n[o]=a;break;end;h=-2;until true;else n[o]=a;end end end h=h+1 end d=d+1;e=f[d];end else s=e[l];k=n[e[t]];n[s+1]=k;n[s]=k[e[y]];d=d+1;e=f[d];end else if h>=4 then if h>=3 then repeat if h>4 then n[e[l]]=n[e[t]]*e[y];break;end;n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];until true;else n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];end else s=e[l]n[s]=n[s](r(n,s+1,e[t]))d=d+1;e=f[d];end end end end end end else if h<=109 then if 106<h then if h<=107 then n[e[l]][n[e[t]]]=n[e[y]];else if 104~=h then repeat if h<109 then d=e[t];break;end;n[e[l]]=n[e[t]]+n[e[y]];until true;else n[e[l]]=n[e[t]]+n[e[y]];end end else if 106~=h then local b,u,o,s,_,a,h,r;for h=0,3 do if h>=2 then if 1<h then repeat if h~=3 then n[e[l]][n[e[t]]]=n[e[y]];d=d+1;e=f[d];break;end;n[e[l]][n[e[t]]]=n[e[y]];until true;else n[e[l]][n[e[t]]]=n[e[y]];d=d+1;e=f[d];end else if 1>h then h=0;while h>-1 do if h>3 then if h>=6 then if 6<h then h=-2;else n[a]=_;end else if 2<h then for e=47,81 do if h~=5 then _=s[b[o]];break;end;a=b[u];break;end;else _=s[b[o]];end end else if h<=1 then if h>0 then u=l;else b=e;end else if h~=3 then o=t;else s=n;end end end h=h+1 end d=d+1;e=f[d];else r=e[l]n[r]=n[r](n[r+1])d=d+1;e=f[d];end end end else local e=e[l]n[e]=n[e](r(n,e+1,o))end end else if 112>h then if h==111 then if not n[e[l]]then d=d+1;else d=e[t];end;else if(n[e[l]]~=e[y])then d=d+1;else d=e[t];end;end else if 113<=h then if 110~=h then for b=38,81 do if 113~=h then for h=0,1 do if h>0 then if(n[e[l]]==n[e[y]])then d=d+1;else d=e[t];end;else n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];end end break;end;for h=0,1 do if h<1 then n[e[l]]=_[e[t]];d=d+1;e=f[d];else if n[e[l]]then d=d+1;else d=e[t];end;end end break;end;else for h=0,1 do if h<1 then n[e[l]]=_[e[t]];d=d+1;e=f[d];else if n[e[l]]then d=d+1;else d=e[t];end;end end end else n[e[l]]=_[e[t]];end end end end else if 94>h then if h>=89 then if 91<=h then if 91>=h then local b;for h=0,5 do if 3>h then if h>=1 then if h<2 then n[e[l]]=n[e[t]];d=d+1;e=f[d];else b=e[l]n[b]=n[b](n[b+1])d=d+1;e=f[d];end else n[e[l]]=n[e[t]][e[y]];d=d+1;e=f[d];end else if 4>h then n[e[l]][n[e[t]]]=n[e[y]];d=d+1;e=f[d];else if 5~=h then n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];else n[e[l]][n[e[t]]]=n[e[y]];end end end end else if h~=90 then for b=10,62 do if h<93 then local h,_,y,o,h,h,a,b,c,z,u,k,s;for h=0,6 do if h<3 then if 0>=h then h=0;while h>-1 do if 3>h then if 1>h then b=e;else if h>-2 then for e=44,73 do if h<2 then _=l;break;end;y=t;break;end;else y=t;end end else if h>=5 then if h~=6 then n(s,o);else h=-2;end else if 3<h then s=b[_];else o=b[y];end end end h=h+1 end d=d+1;e=f[d];else if h>-3 then for r=17,64 do if h~=2 then h=0;while h>-1 do if 2>=h then if h>=1 then if 2~=h then _=l;else y=t;end else b=e;end else if 5>h then if 1~=h then repeat if 4>h then o=b[y];break;end;s=b[_];until true;else s=b[_];end else if h==5 then n(s,o);else h=-2;end end end h=h+1 end d=d+1;e=f[d];break;end;h=0;while h>-1 do if 3>h then if 0>=h then b=e;else if-1<h then for e=41,74 do if h<2 then _=l;break;end;y=t;break;end;else _=l;end end else if 5<=h then if h==5 then n(s,o);else h=-2;end else if 1<h then for e=26,64 do if h~=3 then s=b[_];break;end;o=b[y];break;end;else o=b[y];end end end h=h+1 end d=d+1;e=f[d];break;end;else h=0;while h>-1 do if 2>=h then if h>=1 then if 2~=h then _=l;else y=t;end else b=e;end else if 5>h then if 1~=h then repeat if 4>h then o=b[y];break;end;s=b[_];until true;else s=b[_];end else if h==5 then n(s,o);else h=-2;end end end h=h+1 end d=d+1;e=f[d];end end else if 4<h then if 5~=h then h=0;while h>-1 do if 3>=h then if 1>=h then if-2<=h then for d=35,69 do if h~=0 then c=l;break;end;b=e;break;end;else c=l;end else if 1<h then repeat if h~=2 then u=n;break;end;z=t;until true;else u=n;end end else if h>=6 then if 7>h then n[s]=k;else h=-2;end else if 5==h then s=b[c];else k=u[b[z]];end end end h=h+1 end else a=e[l]n[a]=n[a](r(n,a+1,e[t]))d=d+1;e=f[d];end else if h>=0 then for r=32,84 do if h~=3 then h=0;while h>-1 do if 2>=h then if h>0 then if-3<h then for e=49,68 do if 1<h then y=t;break;end;_=l;break;end;else y=t;end else b=e;end else if 5<=h then if 6>h then n(s,o);else h=-2;end else if-1<=h then for e=17,68 do if h<4 then o=b[y];break;end;s=b[_];break;end;else o=b[y];end end end h=h+1 end d=d+1;e=f[d];break;end;h=0;while h>-1 do if h>=3 then if 4>=h then if h>3 then s=b[_];else o=b[y];end else if h~=4 then for e=49,61 do if 5<h then h=-2;break;end;n(s,o);break;end;else h=-2;end end else if 1>h then b=e;else if h~=0 then for e=15,73 do if 2~=h then _=l;break;end;y=t;break;end;else y=t;end end end h=h+1 end d=d+1;e=f[d];break;end;else h=0;while h>-1 do if 2>=h then if h>0 then if-3<h then for e=49,68 do if 1<h then y=t;break;end;_=l;break;end;else y=t;end else b=e;end else if 5<=h then if 6>h then n(s,o);else h=-2;end else if-1<=h then for e=17,68 do if h<4 then o=b[y];break;end;s=b[_];break;end;else o=b[y];end end end h=h+1 end d=d+1;e=f[d];end end end end break;end;local h,u,s,b,_,y;h=e[l];do return n[h](r(n,h+1,e[t]))end;d=d+1;e=f[d];h=e[l];do return r(n,h,o)end;d=d+1;e=f[d];h=e[l];u={};for e=1,#a do s=a[e];for e=0,#s do b=s[e];_=b[1];y=b[2];if _==n and y>=h then u[y]=_[y];b[1]=u;end;end;end;break;end;else local h,s,_,y,u,b;h=e[l];do return n[h](r(n,h+1,e[t]))end;d=d+1;e=f[d];h=e[l];do return r(n,h,o)end;d=d+1;e=f[d];h=e[l];s={};for e=1,#a do _=a[e];for e=0,#_ do y=_[e];u=y[1];b=y[2];if u==n and b>=h then s[b]=u[b];y[1]=s;end;end;end;end end else if 90~=h then local r,s,_,a,o,h,b,y,u;for h=0,2 do if 0<h then if h==1 then h=0;while h>-1 do if h>=3 then if h>=5 then if h~=5 then h=-2;else n(o,a);end else if 0<=h then for e=43,72 do if 4~=h then a=r[_];break;end;o=r[s];break;end;else o=r[s];end end else if h<1 then r=e;else if-2<=h then for e=30,77 do if h~=1 then _=t;break;end;s=l;break;end;else _=t;end end end h=h+1 end d=d+1;e=f[d];else b=e[l];y=n[b]u=n[b+2];if(u>0)then if(y>n[b+1])then d=e[t];else n[b+3]=y;end elseif(y<n[b+1])then d=e[t];else n[b+3]=y;end end else n[e[l]]=#n[e[t]];d=d+1;e=f[d];end end else if(n[e[l]]~=e[y])then d=d+1;else d=e[t];end;end end else if h>=86 then if 87>h then local h,b,s;for r=0,4 do if r>=2 then if 3<=r then if 1<=r then for y=43,52 do if r<4 then n(e[l],e[t]);d=d+1;e=f[d];break;end;h=e[l];b=n[h]s=n[h+2];if(s>0)then if(b>n[h+1])then d=e[t];else n[h+3]=b;end elseif(b<n[h+1])then d=e[t];else n[h+3]=b;end break;end;else h=e[l];b=n[h]s=n[h+2];if(s>0)then if(b>n[h+1])then d=e[t];else n[h+3]=b;end elseif(b<n[h+1])then d=e[t];else n[h+3]=b;end end else n[e[l]]=#n[e[t]];d=d+1;e=f[d];end else if-1<r then for h=21,93 do if 0<r then n(e[l],e[t]);d=d+1;e=f[d];break;end;n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];break;end;else n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];end end end else if h~=86 then repeat if 88~=h then local f=e[l];local l={};for e=1,#a do local e=a[e];for d=0,#e do local d=e[d];local t=d[1];local e=d[2];if t==n and e>=f then l[e]=t[e];d[1]=l;end;end;end;break;end;local t,r,s,b,y,h;for o=0,1 do if o~=1 then t=e[l]n[t](n[t+1])d=d+1;e=f[d];else t=e[l];r={};for e=1,#a do s=a[e];for e=0,#s do b=s[e];y=b[1];h=b[2];if y==n and h>=t then r[h]=y[h];b[1]=r;end;end;end;end end until true;else local f=e[l];local l={};for e=1,#a do local e=a[e];for d=0,#e do local e=e[d];local t=e[1];local d=e[2];if t==n and d>=f then l[d]=t[d];e[1]=l;end;end;end;end end else if h>=83 then for y=23,53 do if 84~=h then local h;s[e[t]]=n[e[l]];d=d+1;e=f[d];n[e[l]]=s[e[t]];d=d+1;e=f[d];n[e[l]]=s[e[t]];d=d+1;e=f[d];h=e[l]n[h](n[h+1])d=d+1;e=f[d];n[e[l]]=_[e[t]];d=d+1;e=f[d];n[e[l]]();d=d+1;e=f[d];do return end;break;end;local e=e[l];local d=n[e];for e=e+1,o do b.yIfJGDys(d,n[e])end;break;end;else local e=e[l];local d=n[e];for e=e+1,o do b.yIfJGDys(d,n[e])end;end end end else if 98>=h then if h>95 then if h>96 then if 96<h then for b=16,57 do if h<98 then n[e[l]]=(e[t]~=0);break;end;local h;n[e[l]][e[t]]=n[e[y]];d=d+1;e=f[d];h=e[l]n[h]=n[h](r(n,h+1,e[t]))d=d+1;e=f[d];n[e[l]]=_[e[t]];d=d+1;e=f[d];n[e[l]]=s[e[t]];d=d+1;e=f[d];n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];n[e[l]]=n[e[t]];d=d+1;e=f[d];h=e[l]n[h](r(n,h+1,e[t]))break;end;else local h;n[e[l]][e[t]]=n[e[y]];d=d+1;e=f[d];h=e[l]n[h]=n[h](r(n,h+1,e[t]))d=d+1;e=f[d];n[e[l]]=_[e[t]];d=d+1;e=f[d];n[e[l]]=s[e[t]];d=d+1;e=f[d];n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];n[e[l]]=n[e[t]];d=d+1;e=f[d];h=e[l]n[h](r(n,h+1,e[t]))end else local d=e[l];local l=n[d];for e=d+1,e[t]do b.yIfJGDys(l,n[e])end;end else if 90<h then repeat if 94~=h then local e=e[l]n[e]=n[e]()break;end;local e=e[l]n[e]=n[e](n[e+1])until true;else local e=e[l]n[e]=n[e]()end end else if 102>h then if 100<=h then if h~=100 then n[e[l]]=n[e[t]][e[y]];d=d+1;e=f[d];n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];n[e[l]]=n[e[t]][e[y]];d=d+1;e=f[d];n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];n[e[l]]=(e[t]~=0);d=d+1;e=f[d];n[e[l]]=s[e[t]];d=d+1;e=f[d];n[e[l]]=n[e[t]][e[y]];else do return end;end else if(n[e[l]]==e[y])then d=d+1;else d=e[t];end;end else if 103<=h then if h==104 then n[e[l]]=_[e[t]];else local h,_,s,o,h,h,z,b,k,c,u,a,y;for h=0,6 do if 2>=h then if 0<h then if h~=-3 then for r=39,85 do if h<2 then h=0;while h>-1 do if h>2 then if 4<h then if h>1 then for e=41,95 do if 5<h then h=-2;break;end;n(y,o);break;end;else h=-2;end else if h~=1 then repeat if 3~=h then y=b[_];break;end;o=b[s];until true;else y=b[_];end end else if h>0 then if h<2 then _=l;else s=t;end else b=e;end end h=h+1 end d=d+1;e=f[d];break;end;h=0;while h>-1 do if h<3 then if h>=1 then if-3<h then for e=16,62 do if 1~=h then s=t;break;end;_=l;break;end;else s=t;end else b=e;end else if 5<=h then if 6==h then h=-2;else n(y,o);end else if h>=0 then repeat if 4~=h then o=b[s];break;end;y=b[_];until true;else o=b[s];end end end h=h+1 end d=d+1;e=f[d];break;end;else h=0;while h>-1 do if h<3 then if h>=1 then if-3<h then for e=16,62 do if 1~=h then s=t;break;end;_=l;break;end;else s=t;end else b=e;end else if 5<=h then if 6==h then h=-2;else n(y,o);end else if h>=0 then repeat if 4~=h then o=b[s];break;end;y=b[_];until true;else o=b[s];end end end h=h+1 end d=d+1;e=f[d];end else h=0;while h>-1 do if h>=3 then if 4>=h then if h>=0 then for e=24,61 do if h~=4 then o=b[s];break;end;y=b[_];break;end;else y=b[_];end else if 3<=h then repeat if h~=6 then n(y,o);break;end;h=-2;until true;else h=-2;end end else if 1>h then b=e;else if h>-1 then repeat if 2~=h then _=l;break;end;s=t;until true;else _=l;end end end h=h+1 end d=d+1;e=f[d];end else if h>4 then if h>2 then for s=37,75 do if h<6 then z=e[l]n[z]=n[z](r(n,z+1,e[t]))d=d+1;e=f[d];break;end;h=0;while h>-1 do if 4>h then if h<2 then if h>=-1 then repeat if 0~=h then k=l;break;end;b=e;until true;else k=l;end else if 0<h then for e=45,86 do if h~=2 then u=n;break;end;c=t;break;end;else u=n;end end else if h>=6 then if 3~=h then for e=36,93 do if 6~=h then h=-2;break;end;n[y]=a;break;end;else n[y]=a;end else if h>1 then for e=35,92 do if h<5 then a=u[b[c]];break;end;y=b[k];break;end;else a=u[b[c]];end end end h=h+1 end break;end;else h=0;while h>-1 do if 4>h then if h<2 then if h>=-1 then repeat if 0~=h then k=l;break;end;b=e;until true;else k=l;end else if 0<h then for e=45,86 do if h~=2 then u=n;break;end;c=t;break;end;else u=n;end end else if h>=6 then if 3~=h then for e=36,93 do if 6~=h then h=-2;break;end;n[y]=a;break;end;else n[y]=a;end else if h>1 then for e=35,92 do if h<5 then a=u[b[c]];break;end;y=b[k];break;end;else a=u[b[c]];end end end h=h+1 end end else if 4>h then h=0;while h>-1 do if h<=2 then if 0>=h then b=e;else if h==1 then _=l;else s=t;end end else if 4>=h then if 0~=h then repeat if 4>h then o=b[s];break;end;y=b[_];until true;else o=b[s];end else if h~=4 then repeat if h>5 then h=-2;break;end;n(y,o);until true;else h=-2;end end end h=h+1 end d=d+1;e=f[d];else h=0;while h>-1 do if h<=2 then if h<1 then b=e;else if 1~=h then s=t;else _=l;end end else if h>=5 then if h==6 then h=-2;else n(y,o);end else if h>=-1 then for e=30,98 do if 4>h then o=b[s];break;end;y=b[_];break;end;else o=b[s];end end end h=h+1 end d=d+1;e=f[d];end end end end end else local d=e[l];local l=n[e[t]];n[d+1]=l;n[d]=l[e[y]];end end end end end else if 146<h then if 156<h then if h<=161 then if 158>=h then if h>=156 then for b=22,63 do if h<158 then if not n[e[l]]then d=d+1;else d=e[t];end;break;end;for h=0,1 do if-3<h then for b=13,80 do if 0<h then if n[e[l]]then d=d+1;else d=e[t];end;break;end;n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];break;end;else n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];end end break;end;else for h=0,1 do if-3<h then for b=13,80 do if 0<h then if n[e[l]]then d=d+1;else d=e[t];end;break;end;n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];break;end;else n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];end end end else if 159<h then if 161>h then if(n[e[l]]==e[y])then d=d+1;else d=e[t];end;else for h=0,1 do if h>=-1 then repeat if 1~=h then n(e[l],e[t]);d=d+1;e=f[d];break;end;n[e[l]]=_[e[t]];until true;else n(e[l],e[t]);d=d+1;e=f[d];end end end else n[e[l]]=#n[e[t]];end end else if 164>=h then if 162<h then if h>161 then repeat if 164~=h then local h,b,y;for r=0,2 do if 0>=r then n(e[l],e[t]);d=d+1;e=f[d];else if 1~=r then h=e[l];b=n[h]y=n[h+2];if(y>0)then if(b>n[h+1])then d=e[t];else n[h+3]=b;end elseif(b<n[h+1])then d=e[t];else n[h+3]=b;end else n(e[l],e[t]);d=d+1;e=f[d];end end end break;end;local r,b;for h=0,6 do if 2>=h then if h>0 then if 2>h then n[e[l]]=n[e[t]]+n[e[y]];d=d+1;e=f[d];else n[e[l]]=n[e[t]];d=d+1;e=f[d];end else n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];end else if 5>h then if h~=0 then for b=27,87 do if h~=4 then n[e[l]]=s[e[t]];d=d+1;e=f[d];break;end;n[e[l]]=n[e[t]]%e[y];d=d+1;e=f[d];break;end;else n[e[l]]=n[e[t]]%e[y];d=d+1;e=f[d];end else if 4<h then repeat if h~=6 then n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];break;end;r=e[t];b=n[r]for e=r+1,e[y]do b=b..n[e];end;n[e[l]]=b;until true;else n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];end end end end until true;else local r,b;for h=0,6 do if 2>=h then if h>0 then if 2>h then n[e[l]]=n[e[t]]+n[e[y]];d=d+1;e=f[d];else n[e[l]]=n[e[t]];d=d+1;e=f[d];end else n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];end else if 5>h then if h~=0 then for b=27,87 do if h~=4 then n[e[l]]=s[e[t]];d=d+1;e=f[d];break;end;n[e[l]]=n[e[t]]%e[y];d=d+1;e=f[d];break;end;else n[e[l]]=n[e[t]]%e[y];d=d+1;e=f[d];end else if 4<h then repeat if h~=6 then n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];break;end;r=e[t];b=n[r]for e=r+1,e[y]do b=b..n[e];end;n[e[l]]=b;until true;else n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];end end end end end else local h;for b=0,6 do if 2>=b then if b<=0 then n[e[l]][e[t]]=n[e[y]];d=d+1;e=f[d];else if 1<b then n[e[l]]=_[e[t]];d=d+1;e=f[d];else h=e[l]n[h]=n[h](r(n,h+1,e[t]))d=d+1;e=f[d];end end else if 5<=b then if 6~=b then n[e[l]]=n[e[t]];d=d+1;e=f[d];else h=e[l]n[h](r(n,h+1,e[t]))end else if b>1 then for h=23,78 do if 4>b then n[e[l]]=s[e[t]];d=d+1;e=f[d];break;end;n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];break;end;else n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];end end end end end else if 166<=h then if 163<h then for b=17,85 do if 166<h then local h,b,s;for r=0,6 do if 3>r then if r<1 then n[e[l]]=_[e[t]];d=d+1;e=f[d];else if r==2 then n[e[l]]={};d=d+1;e=f[d];else n[e[l]]=n[e[t]][e[y]];d=d+1;e=f[d];end end else if r>4 then if r>2 then repeat if 5<r then h=e[l];b=n[h]s=n[h+2];if(s>0)then if(b>n[h+1])then d=e[t];else n[h+3]=b;end elseif(b<n[h+1])then d=e[t];else n[h+3]=b;end break;end;n(e[l],e[t]);d=d+1;e=f[d];until true;else h=e[l];b=n[h]s=n[h+2];if(s>0)then if(b>n[h+1])then d=e[t];else n[h+3]=b;end elseif(b<n[h+1])then d=e[t];else n[h+3]=b;end end else if 2~=r then repeat if 3~=r then n(e[l],e[t]);d=d+1;e=f[d];break;end;n(e[l],e[t]);d=d+1;e=f[d];until true;else n(e[l],e[t]);d=d+1;e=f[d];end end end end break;end;n[e[l]]=(e[t]~=0);break;end;else n[e[l]]=(e[t]~=0);end else local b;for h=0,5 do if h>=3 then if 4>h then n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];else if 1<h then repeat if 4~=h then if not n[e[l]]then d=d+1;else d=e[t];end;break;end;b=e[l]n[b]=n[b](n[b+1])d=d+1;e=f[d];until true;else if not n[e[l]]then d=d+1;else d=e[t];end;end end else if 1>h then n[e[l]]=s[e[t]];d=d+1;e=f[d];else if-3~=h then repeat if h>1 then n[e[l]]=s[e[t]];d=d+1;e=f[d];break;end;n[e[l]]=s[e[t]];d=d+1;e=f[d];until true;else n[e[l]]=s[e[t]];d=d+1;e=f[d];end end end end end end end else if h>151 then if 153>=h then if h>149 then repeat if h>152 then n[e[l]]=n[e[t]][e[y]];break;end;local f=n[e[y]];if not f then d=d+1;else n[e[l]]=f;d=e[t];end;until true;else n[e[l]]=n[e[t]][e[y]];end else if h<155 then local l=e[l];local h=n[l+2];local f=n[l]+h;n[l]=f;if(h>0)then if(f<=n[l+1])then d=e[t];n[l+3]=f;end elseif(f>=n[l+1])then d=e[t];n[l+3]=f;end else if h>153 then repeat if 155<h then for h=0,6 do if h<3 then if 1>h then n[e[l]]=n[e[t]][e[y]];d=d+1;e=f[d];else if h>0 then for b=35,66 do if h<2 then _[e[t]]=n[e[l]];d=d+1;e=f[d];break;end;n[e[l]]=_[e[t]];d=d+1;e=f[d];break;end;else _[e[t]]=n[e[l]];d=d+1;e=f[d];end end else if h>4 then if 1<=h then for b=28,83 do if h~=5 then _[e[t]]=n[e[l]];break;end;n[e[l]]=(e[t]~=0);d=d+1;e=f[d];break;end;else n[e[l]]=(e[t]~=0);d=d+1;e=f[d];end else if h~=0 then for b=11,95 do if h~=3 then _[e[t]]=n[e[l]];d=d+1;e=f[d];break;end;n[e[l]]=n[e[t]][e[y]];d=d+1;e=f[d];break;end;else _[e[t]]=n[e[l]];d=d+1;e=f[d];end end end end break;end;local f,h,b,r,y;local d=0;while d>-1 do if 3>d then if d>0 then if d>=-2 then for e=13,95 do if 1~=d then b=t;break;end;h=l;break;end;else h=l;end else f=e;end else if 4>=d then if d==3 then r=f[b];else y=f[h];end else if d<6 then n(y,r);else d=-2;end end end d=d+1 end until true;else local h,f,r,y,b;local d=0;while d>-1 do if 3>d then if d>0 then if d>=-2 then for e=13,95 do if 1~=d then r=t;break;end;f=l;break;end;else f=l;end else h=e;end else if 4>=d then if d==3 then y=h[r];else b=h[f];end else if d<6 then n(b,y);else d=-2;end end end d=d+1 end end end end else if h>148 then if 150<=h then if 148<h then for d=40,56 do if 150<h then n[e[l]]=n[e[t]]-n[e[y]];break;end;n[e[l]]=n[e[t]]-e[y];break;end;else n[e[l]]=n[e[t]]-n[e[y]];end else n[e[l]][n[e[t]]]=n[e[y]];end else if 146~=h then repeat if h~=147 then if(e[l]<n[e[y]])then d=e[t];else d=d+1;end;break;end;n[e[l]]=n[e[t]]*e[y];until true;else if(e[l]<n[e[y]])then d=e[t];else d=d+1;end;end end end end else if h<136 then if 130<h then if h>=133 then if h>=134 then if 135~=h then local l=e[l];local h=n[l+2];local f=n[l]+h;n[l]=f;if(h>0)then if(f<=n[l+1])then d=e[t];n[l+3]=f;end elseif(f>=n[l+1])then d=e[t];n[l+3]=f;end else n[e[l]]=n[e[t]][e[y]];d=d+1;e=f[d];n[e[l]]();d=d+1;e=f[d];n[e[l]]=n[e[t]];d=d+1;e=f[d];n[e[l]]();d=d+1;e=f[d];do return end;end else do return n[e[l]]end end else if h>127 then repeat if 131<h then n[e[l]][e[t]]=n[e[y]];break;end;for e=e[l],e[t]do n[e]=nil;end;until true;else for e=e[l],e[t]do n[e]=nil;end;end end else if h>127 then if 129>h then local e=e[l]local l,d=u(n[e](n[e+1]))o=d+e-1 local d=0;for e=e,o do d=d+1;n[e]=l[d];end;else if h>128 then for d=10,84 do if 130>h then n[e[l]]=n[e[t]]+e[y];break;end;local d=e[l]local l,e=u(n[d](r(n,d+1,e[t])))o=e+d-1 local e=0;for d=d,o do e=e+1;n[d]=l[e];end;break;end;else local d=e[l]local l,e=u(n[d](r(n,d+1,e[t])))o=e+d-1 local e=0;for d=d,o do e=e+1;n[d]=l[e];end;end end else if h~=126 then n[e[l]]=n[e[t]]+n[e[y]];else n[e[l]]=k(p[e[t]],nil,_);end end end else if 140<h then if h>143 then if 145>h then local p,_,o,s,p,h,a,b,u,z,k,c,y;h=0;while h>-1 do if 3>h then if h>0 then if-2~=h then for e=11,66 do if h~=1 then o=t;break;end;_=l;break;end;else _=l;end else b=e;end else if h>=5 then if 4~=h then for e=19,96 do if 5~=h then h=-2;break;end;n(y,s);break;end;else h=-2;end else if h>1 then for e=38,86 do if h~=4 then s=b[o];break;end;y=b[_];break;end;else s=b[o];end end end h=h+1 end d=d+1;e=f[d];h=0;while h>-1 do if h>=3 then if 5>h then if 0~=h then for e=27,68 do if 3<h then y=b[_];break;end;s=b[o];break;end;else s=b[o];end else if 1<=h then for e=43,73 do if 6~=h then n(y,s);break;end;h=-2;break;end;else n(y,s);end end else if h>0 then if h>-2 then for e=11,61 do if h~=2 then _=l;break;end;o=t;break;end;else o=t;end else b=e;end end h=h+1 end d=d+1;e=f[d];h=0;while h>-1 do if h>=3 then if h<=4 then if h~=-1 then repeat if h~=4 then s=b[o];break;end;y=b[_];until true;else y=b[_];end else if h>=3 then for e=44,67 do if 6~=h then n(y,s);break;end;h=-2;break;end;else n(y,s);end end else if 0<h then if 2~=h then _=l;else o=t;end else b=e;end end h=h+1 end d=d+1;e=f[d];a=e[l]n[a]=n[a](r(n,a+1,e[t]))d=d+1;e=f[d];h=0;while h>-1 do if 4>h then if 1<h then if h==3 then k=n;else z=t;end else if h==0 then b=e;else u=l;end end else if 5>=h then if 2<h then repeat if 5~=h then c=k[b[z]];break;end;y=b[u];until true;else y=b[u];end else if 6~=h then h=-2;else n[y]=c;end end end h=h+1 end d=d+1;e=f[d];h=0;while h>-1 do if 3>h then if h<=0 then b=e;else if-3<h then for e=41,85 do if 1~=h then o=t;break;end;_=l;break;end;else _=l;end end else if 4<h then if 4<=h then repeat if h<6 then n(y,s);break;end;h=-2;until true;else n(y,s);end else if h>=-1 then repeat if h~=4 then s=b[o];break;end;y=b[_];until true;else s=b[o];end end end h=h+1 end d=d+1;e=f[d];h=0;while h>-1 do if 3>h then if h>=1 then if h~=1 then o=t;else _=l;end else b=e;end else if h>=5 then if 2~=h then repeat if 6~=h then n(y,s);break;end;h=-2;until true;else n(y,s);end else if h>0 then for e=21,63 do if h~=4 then s=b[o];break;end;y=b[_];break;end;else y=b[_];end end end h=h+1 end else if h~=146 then local h;n[e[l]]=n[e[t]];d=d+1;e=f[d];h=e[l]n[h](n[h+1])d=d+1;e=f[d];n[e[l]]=_[e[t]];d=d+1;e=f[d];n[e[l]]();d=d+1;e=f[d];do return end;d=d+1;e=f[d];for e=e[l],e[t]do n[e]=nil;end;else local d=e[l];local l=n[d];for e=d+1,e[t]do b.yIfJGDys(l,n[e])end;end end else if h>141 then if 140~=h then for b=17,95 do if h>142 then for h=0,6 do if 3>h then if h<1 then n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];else if h~=2 then n(e[l],e[t]);d=d+1;e=f[d];else n(e[l],e[t]);d=d+1;e=f[d];end end else if 5>h then if 2<h then for b=29,85 do if h<4 then n(e[l],e[t]);d=d+1;e=f[d];break;end;n[e[l]]=#n[e[t]];d=d+1;e=f[d];break;end;else n[e[l]]=#n[e[t]];d=d+1;e=f[d];end else if 1~=h then repeat if 6~=h then n[e[l]]=n[e[t]]-n[e[y]];d=d+1;e=f[d];break;end;n(e[l],e[t]);until true;else n(e[l],e[t]);end end end end break;end;local b,s,o,_,r,y,h,u,p,j,k,z,c;h=0;while h>-1 do if h>3 then if h<6 then if h<5 then r=_[b[o]];else y=b[s];end else if 2<h then repeat if 7>h then n[y]=r;break;end;h=-2;until true;else h=-2;end end else if 2<=h then if h>-1 then repeat if 2~=h then _=n;break;end;o=t;until true;else o=t;end else if h>=-1 then for d=41,67 do if h~=1 then b=e;break;end;s=l;break;end;else b=e;end end end h=h+1 end d=d+1;e=f[d];h=0;while h>-1 do if h>3 then if 5<h then if 5<h then for e=13,74 do if h<7 then n[y]=r;break;end;h=-2;break;end;else h=-2;end else if h>=0 then repeat if 5>h then r=_[b[o]];break;end;y=b[s];until true;else y=b[s];end end else if h>1 then if h>2 then _=n;else o=t;end else if h~=-1 then for d=17,58 do if h>0 then s=l;break;end;b=e;break;end;else b=e;end end end h=h+1 end d=d+1;e=f[d];u=e[l]n[u]=n[u](n[u+1])d=d+1;e=f[d];h=0;while h>-1 do if 3>=h then if h>=2 then if 3==h then _=n;else o=t;end else if 1~=h then b=e;else s=l;end end else if 5>=h then if h<5 then r=_[b[o]];else y=b[s];end else if h>4 then for e=25,77 do if h~=7 then n[y]=r;break;end;h=-2;break;end;else n[y]=r;end end end h=h+1 end d=d+1;e=f[d];do return n[e[l]]end d=d+1;e=f[d];u=e[l];p={};for e=1,#a do j=a[e];for e=0,#j do k=j[e];z=k[1];c=k[2];if z==n and c>=u then p[c]=z[c];k[1]=p;end;end;end;d=d+1;e=f[d];d=e[t];break;end;else local b,r,o,_,s,y,h,u,z,p,c,j,k;h=0;while h>-1 do if h>3 then if h<6 then if h<5 then s=_[b[o]];else y=b[r];end else if 2<h then repeat if 7>h then n[y]=s;break;end;h=-2;until true;else h=-2;end end else if 2<=h then if h>-1 then repeat if 2~=h then _=n;break;end;o=t;until true;else o=t;end else if h>=-1 then for d=41,67 do if h~=1 then b=e;break;end;r=l;break;end;else b=e;end end end h=h+1 end d=d+1;e=f[d];h=0;while h>-1 do if h>3 then if 5<h then if 5<h then for e=13,74 do if h<7 then n[y]=s;break;end;h=-2;break;end;else h=-2;end else if h>=0 then repeat if 5>h then s=_[b[o]];break;end;y=b[r];until true;else y=b[r];end end else if h>1 then if h>2 then _=n;else o=t;end else if h~=-1 then for d=17,58 do if h>0 then r=l;break;end;b=e;break;end;else b=e;end end end h=h+1 end d=d+1;e=f[d];u=e[l]n[u]=n[u](n[u+1])d=d+1;e=f[d];h=0;while h>-1 do if 3>=h then if h>=2 then if 3==h then _=n;else o=t;end else if 1~=h then b=e;else r=l;end end else if 5>=h then if h<5 then s=_[b[o]];else y=b[r];end else if h>4 then for e=25,77 do if h~=7 then n[y]=s;break;end;h=-2;break;end;else n[y]=s;end end end h=h+1 end d=d+1;e=f[d];do return n[e[l]]end d=d+1;e=f[d];u=e[l];z={};for e=1,#a do p=a[e];for e=0,#p do c=p[e];j=c[1];k=c[2];if j==n and k>=u then z[k]=j[k];c[1]=z;end;end;end;d=d+1;e=f[d];d=e[t];end else local f,h,b,y,r;local d=0;while d>-1 do if d<3 then if 1>d then f=e;else if d>0 then repeat if d~=2 then h=l;break;end;b=t;until true;else h=l;end end else if 5<=d then if 6>d then n(r,y);else d=-2;end else if d==3 then y=f[b];else r=f[h];end end end d=d+1 end end end else if h<=137 then if 134~=h then repeat if 137~=h then d=e[t];break;end;local r,b;for h=0,4 do if h>=2 then if 2<h then if h~=3 then r=e[t];b=n[r]for e=r+1,e[y]do b=b..n[e];end;n[e[l]]=b;else n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];end else n[e[l]]=n[e[t]]%e[y];d=d+1;e=f[d];end else if h>=-2 then for b=33,88 do if h~=1 then n[e[l]]=s[e[t]];d=d+1;e=f[d];break;end;n[e[l]]=n[e[t]]+n[e[y]];d=d+1;e=f[d];break;end;else n[e[l]]=s[e[t]];d=d+1;e=f[d];end end end until true;else d=e[t];end else if h<139 then local h,_,s,o,h,h,a,b,c,z,u,k,y;for h=0,6 do if h<3 then if 1>h then h=0;while h>-1 do if h<=2 then if 1>h then b=e;else if h>=-3 then repeat if 2>h then _=l;break;end;s=t;until true;else s=t;end end else if h<=4 then if h>1 then repeat if 3~=h then y=b[_];break;end;o=b[s];until true;else o=b[s];end else if 3<=h then for e=28,66 do if 6~=h then n(y,o);break;end;h=-2;break;end;else n(y,o);end end end h=h+1 end d=d+1;e=f[d];else if-2~=h then repeat if 1~=h then a=e[l]n[a]=n[a](r(n,a+1,e[t]))d=d+1;e=f[d];break;end;h=0;while h>-1 do if 3<=h then if h<5 then if 4~=h then o=b[s];else y=b[_];end else if h>1 then for e=25,75 do if h~=6 then n(y,o);break;end;h=-2;break;end;else n(y,o);end end else if h>0 then if h>=0 then for e=49,97 do if h~=1 then s=t;break;end;_=l;break;end;else s=t;end else b=e;end end h=h+1 end d=d+1;e=f[d];until true;else a=e[l]n[a]=n[a](r(n,a+1,e[t]))d=d+1;e=f[d];end end else if 4<h then if 6>h then h=0;while h>-1 do if 3>h then if 1<=h then if h~=-2 then for e=27,88 do if h<2 then _=l;break;end;s=t;break;end;else s=t;end else b=e;end else if h<=4 then if 4~=h then o=b[s];else y=b[_];end else if 1<=h then for e=38,64 do if 6~=h then n(y,o);break;end;h=-2;break;end;else h=-2;end end end h=h+1 end d=d+1;e=f[d];else h=0;while h>-1 do if 3<=h then if 5>h then if 2<=h then repeat if h<4 then o=b[s];break;end;y=b[_];until true;else y=b[_];end else if 4~=h then repeat if h<6 then n(y,o);break;end;h=-2;until true;else h=-2;end end else if h>0 then if h>=0 then for e=17,60 do if 1<h then s=t;break;end;_=l;break;end;else _=l;end else b=e;end end h=h+1 end end else if h~=4 then n[e[l]]={};d=d+1;e=f[d];else h=0;while h>-1 do if h>=4 then if h<=5 then if 2<h then for e=39,88 do if 5>h then k=u[b[z]];break;end;y=b[c];break;end;else k=u[b[z]];end else if 7==h then h=-2;else n[y]=k;end end else if 1>=h then if h>-1 then for d=15,85 do if h~=1 then b=e;break;end;c=l;break;end;else c=l;end else if h>0 then for e=46,74 do if h~=3 then z=t;break;end;u=n;break;end;else u=n;end end end h=h+1 end d=d+1;e=f[d];end end end end else if h~=139 then for e=e[l],e[t]do n[e]=nil;end;else local h;h=e[l]n[h]=n[h](r(n,h+1,e[t]))d=d+1;e=f[d];n[e[l]]=n[e[t]];d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);end end end end end end end else if h>=42 then if h>=63 then if 73<=h then if 78>h then if h>74 then if 75<h then if 76==h then s[e[t]]=n[e[l]];else if(e[l]<n[e[y]])then d=e[t];else d=d+1;end;end else local h,b,y;for r=0,2 do if r>0 then if-1<r then repeat if r~=1 then h=e[l];b=n[h]y=n[h+2];if(y>0)then if(b>n[h+1])then d=e[t];else n[h+3]=b;end elseif(b<n[h+1])then d=e[t];else n[h+3]=b;end break;end;n(e[l],e[t]);d=d+1;e=f[d];until true;else h=e[l];b=n[h]y=n[h+2];if(y>0)then if(b>n[h+1])then d=e[t];else n[h+3]=b;end elseif(b<n[h+1])then d=e[t];else n[h+3]=b;end end else n[e[l]]=#n[e[t]];d=d+1;e=f[d];end end end else if h>=71 then for b=38,82 do if 73~=h then local b;for h=0,6 do if 3<=h then if h>4 then if h>=1 then for y=38,83 do if 5<h then b=e[l]n[b]=n[b](r(n,b+1,e[t]))break;end;n[e[l]]=n[e[t]];d=d+1;e=f[d];break;end;else n[e[l]]=n[e[t]];d=d+1;e=f[d];end else if 3==h then n[e[l]]=n[e[t]];d=d+1;e=f[d];else n[e[l]]=n[e[t]];d=d+1;e=f[d];end end else if 0>=h then n[e[l]]=s[e[t]];d=d+1;e=f[d];else if-2<h then for b=46,59 do if 1~=h then n[e[l]]=s[e[t]];d=d+1;e=f[d];break;end;n[e[l]]=s[e[t]];d=d+1;e=f[d];break;end;else n[e[l]]=s[e[t]];d=d+1;e=f[d];end end end end break;end;n[e[l]][e[t]]=n[e[y]];break;end;else local b;for h=0,6 do if 3<=h then if h>4 then if h>=1 then for y=38,83 do if 5<h then b=e[l]n[b]=n[b](r(n,b+1,e[t]))break;end;n[e[l]]=n[e[t]];d=d+1;e=f[d];break;end;else n[e[l]]=n[e[t]];d=d+1;e=f[d];end else if 3==h then n[e[l]]=n[e[t]];d=d+1;e=f[d];else n[e[l]]=n[e[t]];d=d+1;e=f[d];end end else if 0>=h then n[e[l]]=s[e[t]];d=d+1;e=f[d];else if-2<h then for b=46,59 do if 1~=h then n[e[l]]=s[e[t]];d=d+1;e=f[d];break;end;n[e[l]]=s[e[t]];d=d+1;e=f[d];break;end;else n[e[l]]=s[e[t]];d=d+1;e=f[d];end end end end end end else if h>=81 then if h<82 then local d=e[l]n[d](r(n,d+1,e[t]))else if 80~=h then repeat if 83>h then local h;n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];h=e[l]n[h]=n[h](r(n,h+1,e[t]))d=d+1;e=f[d];n[e[l]]=n[e[t]][n[e[y]]];break;end;local h,o,_,s,h,h,a,b,u,k,z,c,y;for h=0,6 do if 2<h then if h>=5 then if 2~=h then repeat if 5<h then h=0;while h>-1 do if h>2 then if h<5 then if h==4 then y=b[o];else s=b[_];end else if 3<=h then repeat if 6>h then n(y,s);break;end;h=-2;until true;else n(y,s);end end else if h<1 then b=e;else if h>-2 then for e=47,70 do if 1~=h then _=t;break;end;o=l;break;end;else o=l;end end end h=h+1 end break;end;h=0;while h>-1 do if h>2 then if h<=4 then if 4==h then y=b[o];else s=b[_];end else if 4~=h then repeat if 5~=h then h=-2;break;end;n(y,s);until true;else n(y,s);end end else if h>0 then if-1<h then for e=35,67 do if h<2 then o=l;break;end;_=t;break;end;else _=t;end else b=e;end end h=h+1 end d=d+1;e=f[d];until true;else h=0;while h>-1 do if h>2 then if h<5 then if h==4 then y=b[o];else s=b[_];end else if 3<=h then repeat if 6>h then n(y,s);break;end;h=-2;until true;else n(y,s);end end else if h<1 then b=e;else if h>-2 then for e=47,70 do if 1~=h then _=t;break;end;o=l;break;end;else o=l;end end end h=h+1 end end else if 4~=h then h=0;while h>-1 do if 4<=h then if h<=5 then if h~=3 then repeat if 4~=h then y=b[u];break;end;c=z[b[k]];until true;else y=b[u];end else if 5<h then for e=23,55 do if 7>h then n[y]=c;break;end;h=-2;break;end;else h=-2;end end else if 2<=h then if 3==h then z=n;else k=t;end else if h~=1 then b=e;else u=l;end end end h=h+1 end d=d+1;e=f[d];else h=0;while h>-1 do if h>=3 then if h<=4 then if 4>h then s=b[_];else y=b[o];end else if 1<h then for e=41,88 do if 5<h then h=-2;break;end;n(y,s);break;end;else h=-2;end end else if 0>=h then b=e;else if 1==h then o=l;else _=t;end end end h=h+1 end d=d+1;e=f[d];end end else if 0<h then if h>=-1 then for u=15,60 do if 2>h then h=0;while h>-1 do if h<=2 then if 1<=h then if-1<=h then repeat if 2>h then o=l;break;end;_=t;until true;else _=t;end else b=e;end else if h<5 then if h~=-1 then for e=18,84 do if h>3 then y=b[o];break;end;s=b[_];break;end;else y=b[o];end else if h>=2 then for e=21,61 do if 6~=h then n(y,s);break;end;h=-2;break;end;else n(y,s);end end end h=h+1 end d=d+1;e=f[d];break;end;a=e[l]n[a]=n[a](r(n,a+1,e[t]))d=d+1;e=f[d];break;end;else h=0;while h>-1 do if h<=2 then if 1<=h then if-1<=h then repeat if 2>h then o=l;break;end;_=t;until true;else _=t;end else b=e;end else if h<5 then if h~=-1 then for e=18,84 do if h>3 then y=b[o];break;end;s=b[_];break;end;else y=b[o];end else if h>=2 then for e=21,61 do if 6~=h then n(y,s);break;end;h=-2;break;end;else n(y,s);end end end h=h+1 end d=d+1;e=f[d];end else h=0;while h>-1 do if h>2 then if h<=4 then if 3~=h then y=b[o];else s=b[_];end else if 5==h then n(y,s);else h=-2;end end else if h<1 then b=e;else if h~=2 then o=l;else _=t;end end end h=h+1 end d=d+1;e=f[d];end end end until true;else local h;n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];h=e[l]n[h]=n[h](r(n,h+1,e[t]))d=d+1;e=f[d];n[e[l]]=n[e[t]][n[e[y]]];end end else if h>78 then if h>77 then for b=25,87 do if h~=80 then local d=e[l];do return n[d](r(n,d+1,e[t]))end;break;end;for h=0,1 do if-3<=h then for b=43,70 do if h>0 then if n[e[l]]then d=d+1;else d=e[t];end;break;end;n[e[l]]=_[e[t]];d=d+1;e=f[d];break;end;else if n[e[l]]then d=d+1;else d=e[t];end;end end break;end;else local d=e[l];do return n[d](r(n,d+1,e[t]))end;end else n[e[l]]={};d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n[e[l]]=n[e[t]];d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);end end end else if 68<=h then if h>=70 then if h>=71 then if h>=68 then repeat if h~=71 then local b,s,a,p,k,z,h,j,c,y;for h=0,5 do if 2<h then if 3<h then if 3<=h then repeat if 4<h then b=e[l]n[b]=n[b](r(n,b+1,o))break;end;b=e[l]j,c=u(n[b](r(n,b+1,e[t])))o=c+b-1 y=0;for e=b,o do y=y+1;n[e]=j[y];end;d=d+1;e=f[d];until true;else b=e[l]j,c=u(n[b](r(n,b+1,e[t])))o=c+b-1 y=0;for e=b,o do y=y+1;n[e]=j[y];end;d=d+1;e=f[d];end else n[e[l]]=_[e[t]];d=d+1;e=f[d];end else if 0>=h then b=e[l]n[b]=n[b](n[b+1])d=d+1;e=f[d];else if-3<h then repeat if 2>h then b=e[l]n[b]=n[b]()d=d+1;e=f[d];break;end;h=0;while h>-1 do if 2>=h then if h<1 then s=e;else if-3<h then repeat if h<2 then a=l;break;end;p=t;until true;else a=l;end end else if 5>h then if 4==h then z=s[a];else k=s[p];end else if 6==h then h=-2;else n(z,k);end end end h=h+1 end d=d+1;e=f[d];until true;else h=0;while h>-1 do if 2>=h then if h<1 then s=e;else if-3<h then repeat if h<2 then a=l;break;end;p=t;until true;else a=l;end end else if 5>h then if 4==h then z=s[a];else k=s[p];end else if 6==h then h=-2;else n(z,k);end end end h=h+1 end d=d+1;e=f[d];end end end end break;end;n[e[l]]=k(p[e[t]],nil,_);until true;else n[e[l]]=k(p[e[t]],nil,_);end else local d=e[l]n[d]=n[d](r(n,d+1,e[t]))end else if 66<=h then for d=19,62 do if 69>h then local d=e[l]local l,e=u(n[d](r(n,d+1,e[t])))o=e+d-1 local e=0;for d=d,o do e=e+1;n[d]=l[e];end;break;end;n[e[l]]=n[e[t]]*e[y];break;end;else local d=e[l]local l,e=u(n[d](r(n,d+1,e[t])))o=e+d-1 local e=0;for d=d,o do e=e+1;n[d]=l[e];end;end end else if h<=64 then if 62<=h then repeat if h>63 then local e=e[l];local d=n[e];for e=e+1,o do b.yIfJGDys(d,n[e])end;break;end;local d=e[l]n[d]=n[d](r(n,d+1,e[t]))until true;else local e=e[l];local d=n[e];for e=e+1,o do b.yIfJGDys(d,n[e])end;end else if 65>=h then local d=e[l];local l=n[e[t]];n[d+1]=l;n[d]=l[e[y]];else if h==66 then local f=e[l];local t={};for e=1,#a do local e=a[e];for d=0,#e do local d=e[d];local l=d[1];local e=d[2];if l==n and e>=f then t[e]=l[e];d[1]=t;end;end;end;else local e=e[l]n[e]=n[e](n[e+1])end end end end end else if h>=52 then if 56<h then if 60>h then if h>57 then if 55~=h then repeat if 59~=h then local e=e[l]n[e](n[e+1])break;end;local b;for h=0,4 do if 1<h then if 3>h then n(e[l],e[t]);d=d+1;e=f[d];else if 4==h then if(n[e[l]]==e[y])then d=d+1;else d=e[t];end;else b=e[l]n[b]=n[b](r(n,b+1,e[t]))d=d+1;e=f[d];end end else if-2<h then for b=46,89 do if 1>h then n[e[l]]=n[e[t]];d=d+1;e=f[d];break;end;n(e[l],e[t]);d=d+1;e=f[d];break;end;else n[e[l]]=n[e[t]];d=d+1;e=f[d];end end end until true;else local b;for h=0,4 do if 1<h then if 3>h then n(e[l],e[t]);d=d+1;e=f[d];else if 4==h then if(n[e[l]]==e[y])then d=d+1;else d=e[t];end;else b=e[l]n[b]=n[b](r(n,b+1,e[t]))d=d+1;e=f[d];end end else if-2<h then for b=46,89 do if 1>h then n[e[l]]=n[e[t]];d=d+1;e=f[d];break;end;n(e[l],e[t]);d=d+1;e=f[d];break;end;else n[e[l]]=n[e[t]];d=d+1;e=f[d];end end end end else _[e[t]]=n[e[l]];end else if 60>=h then local e=e[l]n[e](n[e+1])else if h~=57 then repeat if 62>h then local _,r,o,b,s,h;n[e[l]]=n[e[t]][e[y]];d=d+1;e=f[d];n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];n[e[l]]=n[e[t]][e[y]];d=d+1;e=f[d];n[e[l]][n[e[t]]]=n[e[y]];d=d+1;e=f[d];do return n[e[l]]end d=d+1;e=f[d];_=e[l];r={};for e=1,#a do o=a[e];for e=0,#o do b=o[e];s=b[1];h=b[2];if s==n and h>=_ then r[h]=s[h];b[1]=r;end;end;end;break;end;local a,s,u,o,r,b,h,y;h=0;while h>-1 do if 3<h then if 6>h then if h~=5 then r=o[a[u]];else b=a[s];end else if h>2 then for e=13,72 do if h<7 then n[b]=r;break;end;h=-2;break;end;else n[b]=r;end end else if h>=2 then if-1<h then repeat if 3>h then u=t;break;end;o=n;until true;else o=n;end else if h>=-4 then for d=37,59 do if h<1 then a=e;break;end;s=l;break;end;else s=l;end end end h=h+1 end d=d+1;e=f[d];y=e[l]n[y](n[y+1])d=d+1;e=f[d];n[e[l]]=_[e[t]];d=d+1;e=f[d];n[e[l]]();d=d+1;e=f[d];do return end;until true;else local a,o,u,y,s,r,h,b;h=0;while h>-1 do if 3<h then if 6>h then if h~=5 then s=y[a[u]];else r=a[o];end else if h>2 then for e=13,72 do if h<7 then n[r]=s;break;end;h=-2;break;end;else n[r]=s;end end else if h>=2 then if-1<h then repeat if 3>h then u=t;break;end;y=n;until true;else y=n;end else if h>=-4 then for d=37,59 do if h<1 then a=e;break;end;o=l;break;end;else o=l;end end end h=h+1 end d=d+1;e=f[d];b=e[l]n[b](n[b+1])d=d+1;e=f[d];n[e[l]]=_[e[t]];d=d+1;e=f[d];n[e[l]]();d=d+1;e=f[d];do return end;end end end else if 53<h then if h>54 then if 53~=h then repeat if 56>h then do return n[e[l]]end break;end;if n[e[l]]then d=d+1;else d=e[t];end;until true;else do return n[e[l]]end end else _[e[t]]=n[e[l]];end else if h==53 then n[e[l]]=n[e[t]]%n[e[y]];else local e=e[l];o=e+j-1;for d=e,o do local e=z[d-e];n[d]=e;end;end end end else if 46<h then if 48>=h then if 45<h then repeat if 47~=h then n[e[l]]={};break;end;local f,s,b,h,y,r;local d=0;while d>-1 do if d>3 then if d<=5 then if d>0 then repeat if 5~=d then y=h[f[b]];break;end;r=f[s];until true;else y=h[f[b]];end else if d~=6 then d=-2;else n[r]=y;end end else if 2>d then if 1~=d then f=e;else s=l;end else if d>=0 then for e=25,85 do if 2~=d then h=n;break;end;b=t;break;end;else h=n;end end end d=d+1 end until true;else local f,s,b,h,y,r;local d=0;while d>-1 do if d>3 then if d<=5 then if d>0 then repeat if 5~=d then y=h[f[b]];break;end;r=f[s];until true;else y=h[f[b]];end else if d~=6 then d=-2;else n[r]=y;end end else if 2>d then if 1~=d then f=e;else s=l;end else if d>=0 then for e=25,85 do if 2~=d then h=n;break;end;b=t;break;end;else h=n;end end end d=d+1 end end else if 50<=h then if 46<=h then for b=30,98 do if h<51 then n[e[l]]=n[e[t]][e[y]];d=d+1;e=f[d];n[e[l]]();d=d+1;e=f[d];n[e[l]]=n[e[t]];d=d+1;e=f[d];n[e[l]]();d=d+1;e=f[d];do return end;break;end;local e=e[l]n[e]=n[e]()break;end;else n[e[l]]=n[e[t]][e[y]];d=d+1;e=f[d];n[e[l]]();d=d+1;e=f[d];n[e[l]]=n[e[t]];d=d+1;e=f[d];n[e[l]]();d=d+1;e=f[d];do return end;end else local b;for h=0,6 do if h>2 then if h<=4 then if 0<=h then repeat if 3~=h then n(e[l],e[t]);d=d+1;e=f[d];break;end;n(e[l],e[t]);d=d+1;e=f[d];until true;else n(e[l],e[t]);d=d+1;e=f[d];end else if h>2 then repeat if h~=5 then n[e[l]]=n[e[t]];break;end;b=e[l]n[b]=n[b](r(n,b+1,e[t]))d=d+1;e=f[d];until true;else n[e[l]]=n[e[t]];end end else if h>0 then if h>1 then n(e[l],e[t]);d=d+1;e=f[d];else n(e[l],e[t]);d=d+1;e=f[d];end else n(e[l],e[t]);d=d+1;e=f[d];end end end end end else if 44>h then if 38~=h then repeat if h<43 then n[e[l]]={};d=d+1;e=f[d];n[e[l]]={};d=d+1;e=f[d];n[e[l]]={};d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);break;end;local h,a,c,u,_,h,h,b,o,s,r,y;for h=0,6 do if 3>h then if h<=0 then h=0;while h>-1 do if h>=4 then if h<=5 then if h>=3 then for e=27,71 do if 5~=h then _=u[b[c]];break;end;y=b[a];break;end;else _=u[b[c]];end else if h~=2 then repeat if 7~=h then n[y]=_;break;end;h=-2;until true;else n[y]=_;end end else if 2>h then if-2<=h then repeat if 1~=h then b=e;break;end;a=l;until true;else a=l;end else if h~=0 then for e=13,77 do if 3>h then c=t;break;end;u=n;break;end;else u=n;end end end h=h+1 end d=d+1;e=f[d];else if h>=-3 then repeat if h<2 then h=0;while h>-1 do if 3<h then if 5>=h then if 3~=h then repeat if 5~=h then _=u[b[c]];break;end;y=b[a];until true;else y=b[a];end else if h>=2 then repeat if 7~=h then n[y]=_;break;end;h=-2;until true;else n[y]=_;end end else if h<2 then if 1==h then a=l;else b=e;end else if 2~=h then u=n;else c=t;end end end h=h+1 end d=d+1;e=f[d];break;end;h=0;while h>-1 do if h>2 then if 5<=h then if h>3 then for e=41,58 do if 6~=h then n(y,r);break;end;h=-2;break;end;else n(y,r);end else if h<4 then r=b[s];else y=b[o];end end else if 1>h then b=e;else if 0<=h then for e=26,98 do if 1<h then s=t;break;end;o=l;break;end;else s=t;end end end h=h+1 end d=d+1;e=f[d];until true;else h=0;while h>-1 do if 3<h then if 5>=h then if 3~=h then repeat if 5~=h then _=u[b[c]];break;end;y=b[a];until true;else y=b[a];end else if h>=2 then repeat if 7~=h then n[y]=_;break;end;h=-2;until true;else n[y]=_;end end else if h<2 then if 1==h then a=l;else b=e;end else if 2~=h then u=n;else c=t;end end end h=h+1 end d=d+1;e=f[d];end end else if h>4 then if h~=3 then for _=18,71 do if 6~=h then h=0;while h>-1 do if h<=2 then if 1<=h then if 1~=h then s=t;else o=l;end else b=e;end else if h>4 then if h<6 then n(y,r);else h=-2;end else if h==3 then r=b[s];else y=b[o];end end end h=h+1 end d=d+1;e=f[d];break;end;h=0;while h>-1 do if 3<=h then if h<=4 then if h~=4 then r=b[s];else y=b[o];end else if 2<=h then repeat if h>5 then h=-2;break;end;n(y,r);until true;else h=-2;end end else if 0<h then if h==1 then o=l;else s=t;end else b=e;end end h=h+1 end break;end;else h=0;while h>-1 do if h<=2 then if 1<=h then if 1~=h then s=t;else o=l;end else b=e;end else if h>4 then if h<6 then n(y,r);else h=-2;end else if h==3 then r=b[s];else y=b[o];end end end h=h+1 end d=d+1;e=f[d];end else if 4==h then h=0;while h>-1 do if h<=2 then if 0>=h then b=e;else if h~=1 then s=t;else o=l;end end else if h<5 then if 1~=h then for e=45,87 do if h<4 then r=b[s];break;end;y=b[o];break;end;else r=b[s];end else if 3<h then repeat if 6~=h then n(y,r);break;end;h=-2;until true;else h=-2;end end end h=h+1 end d=d+1;e=f[d];else h=0;while h>-1 do if h<=2 then if 0>=h then b=e;else if 1~=h then s=t;else o=l;end end else if h<=4 then if h>=2 then for e=32,69 do if h>3 then y=b[o];break;end;r=b[s];break;end;else r=b[s];end else if 6==h then h=-2;else n(y,r);end end end h=h+1 end d=d+1;e=f[d];end end end end until true;else n[e[l]]={};d=d+1;e=f[d];n[e[l]]={};d=d+1;e=f[d];n[e[l]]={};d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);end else if 45<=h then if 44~=h then for b=24,57 do if h~=46 then n[e[l]]=n[e[t]][e[y]];d=d+1;e=f[d];n[e[l]]();d=d+1;e=f[d];n[e[l]]=n[e[t]];d=d+1;e=f[d];n[e[l]]();d=d+1;e=f[d];do return end;break;end;n[e[l]]=n[e[t]][n[e[y]]];break;end;else n[e[l]]=n[e[t]][e[y]];d=d+1;e=f[d];n[e[l]]();d=d+1;e=f[d];n[e[l]]=n[e[t]];d=d+1;e=f[d];n[e[l]]();d=d+1;e=f[d];do return end;end else local h;n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];h=e[l]n[h]=n[h](r(n,h+1,e[t]))d=d+1;e=f[d];n[e[l]]=n[e[t]];d=d+1;e=f[d];n(e[l],e[t]);end end end end end else if h>20 then if h>30 then if h>35 then if h>=39 then if h<40 then n[e[l]]=n[e[t]]%n[e[y]];else if h~=41 then local h;n[e[l]]=n[e[t]];d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];n(e[l],e[t]);d=d+1;e=f[d];h=e[l]n[h]=n[h](r(n,h+1,e[t]))else n[e[l]]();end end else if h>=37 then if h>=34 then for f=11,81 do if 38~=h then n[e[l]]=s[e[t]];break;end;local l=e[l];local f=n[l]local h=n[l+2];if(h>0)then if(f>n[l+1])then d=e[t];else n[l+3]=f;end elseif(f<n[l+1])then d=e[t];else n[l+3]=f;end break;end;else n[e[l]]=s[e[t]];end else local h;for b=0,1 do if b~=-4 then for y=38,83 do if b>0 then if not n[e[l]]then d=d+1;else d=e[t];end;break;end;h=e[l]n[h]=n[h]()d=d+1;e=f[d];break;end;else h=e[l]n[h]=n[h]()d=d+1;e=f[d];end end end end else if 33>h then if h==31 then n[e[l]]=n[e[t]]-n[e[y]];else local e=e[l]n[e]=n[e](r(n,e+1,o))end else if 34<=h then if h>31 then for b=45,56 do if 35~=h then local h,b,y;for r=0,2 do if 0<r then if-2<r then repeat if r<2 then n(e[l],e[t]);d=d+1;e=f[d];break;end;h=e[l];b=n[h]y=n[h+2];if(y>0)then if(b>n[h+1])then d=e[t];else n[h+3]=b;end elseif(b<n[h+1])then d=e[t];else n[h+3]=b;end until true;else h=e[l];b=n[h]y=n[h+2];if(y>0)then if(b>n[h+1])then d=e[t];else n[h+3]=b;end elseif(b<n[h+1])then d=e[t];else n[h+3]=b;end end else n[e[l]]=#n[e[t]];d=d+1;e=f[d];end end break;end;local h;n[e[l]]=s[e[t]];d=d+1;e=f[d];n[e[l]]=s[e[t]];d=d+1;e=f[d];n[e[l]]=s[e[t]];d=d+1;e=f[d];n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];h=e[l];do return n[h](r(n,h+1,e[t]))end;d=d+1;e=f[d];h=e[l];do return r(n,h,o)end;d=d+1;e=f[d];do return end;break;end;else local h;n[e[l]]=s[e[t]];d=d+1;e=f[d];n[e[l]]=s[e[t]];d=d+1;e=f[d];n[e[l]]=s[e[t]];d=d+1;e=f[d];n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];h=e[l];do return n[h](r(n,h+1,e[t]))end;d=d+1;e=f[d];h=e[l];do return r(n,h,o)end;d=d+1;e=f[d];do return end;end else n[e[l]]=n[e[t]]-e[y];end end end else if 25>=h then if h>22 then if h>23 then if 25>h then n[e[l]]=n[e[t]]%e[y];else local d=e[l];do return n[d](r(n,d+1,e[t]))end;end else local o=p[e[t]];local r;local h={};r=b.JdwoKvEU({},{__index=function(d,e)local e=h[e];return e[1][e[2]];end,__newindex=function(n,e,d)local e=h[e]e[1][e[2]]=d;end;});for l=1,e[y]do d=d+1;local e=f[d];if e[g]==47 then h[l-1]={n,e[t]};else h[l-1]={s,e[t]};end;a[#a+1]=h;end;n[e[l]]=k(o,r,_);end else if h>=20 then repeat if 21<h then local b;for h=0,6 do if h>=3 then if h>=5 then if h>=1 then repeat if h~=6 then n[e[l]]=#n[e[t]];d=d+1;e=f[d];break;end;if(n[e[l]]==e[y])then d=d+1;else d=e[t];end;until true;else n[e[l]]=#n[e[t]];d=d+1;e=f[d];end else if 3<h then n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];else b=e[l]n[b]=n[b](n[b+1])d=d+1;e=f[d];end end else if 0>=h then n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];else if 1==h then n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];else n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];end end end end break;end;n[e[l]]={};until true;else local b;for h=0,6 do if h>=3 then if h>=5 then if h>=1 then repeat if h~=6 then n[e[l]]=#n[e[t]];d=d+1;e=f[d];break;end;if(n[e[l]]==e[y])then d=d+1;else d=e[t];end;until true;else n[e[l]]=#n[e[t]];d=d+1;e=f[d];end else if 3<h then n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];else b=e[l]n[b]=n[b](n[b+1])d=d+1;e=f[d];end end else if 0>=h then n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];else if 1==h then n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];else n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];end end end end end end else if h>27 then if h>=29 then if h>27 then repeat if 30~=h then local c,k,b,_,a,r,u,o,h;n[e[l]]=#n[e[t]];d=d+1;e=f[d];n[e[l]]=n[e[t]]%n[e[y]];d=d+1;e=f[d];n[e[l]]=n[e[t]]+e[y];d=d+1;e=f[d];n[e[l]]=s[e[t]];d=d+1;e=f[d];c=e[l];k=n[e[t]];n[c+1]=k;n[c]=k[e[y]];d=d+1;e=f[d];h=0;while h>-1 do if h>=4 then if h>=6 then if 7>h then n[o]=u;else h=-2;end else if 4~=h then o=b[_];else u=r[b[a]];end end else if 1>=h then if h<1 then b=e;else _=l;end else if h~=0 then for e=35,57 do if 3~=h then a=t;break;end;r=n;break;end;else r=n;end end end h=h+1 end d=d+1;e=f[d];h=0;while h>-1 do if h<=3 then if h>=2 then if 0<h then repeat if 2~=h then r=n;break;end;a=t;until true;else r=n;end else if 1>h then b=e;else _=l;end end else if 6>h then if h>0 then for e=49,66 do if 4~=h then o=b[_];break;end;u=r[b[a]];break;end;else o=b[_];end else if 6==h then n[o]=u;else h=-2;end end end h=h+1 end break;end;local h;n[e[l]]=n[e[t]];d=d+1;e=f[d];h=e[l]n[h](n[h+1])d=d+1;e=f[d];n[e[l]]=_[e[t]];d=d+1;e=f[d];n[e[l]]();d=d+1;e=f[d];do return end;d=d+1;e=f[d];for e=e[l],e[t]do n[e]=nil;end;until true;else local c,k,b,_,u,r,a,o,h;n[e[l]]=#n[e[t]];d=d+1;e=f[d];n[e[l]]=n[e[t]]%n[e[y]];d=d+1;e=f[d];n[e[l]]=n[e[t]]+e[y];d=d+1;e=f[d];n[e[l]]=s[e[t]];d=d+1;e=f[d];c=e[l];k=n[e[t]];n[c+1]=k;n[c]=k[e[y]];d=d+1;e=f[d];h=0;while h>-1 do if h>=4 then if h>=6 then if 7>h then n[o]=a;else h=-2;end else if 4~=h then o=b[_];else a=r[b[u]];end end else if 1>=h then if h<1 then b=e;else _=l;end else if h~=0 then for e=35,57 do if 3~=h then u=t;break;end;r=n;break;end;else r=n;end end end h=h+1 end d=d+1;e=f[d];h=0;while h>-1 do if h<=3 then if h>=2 then if 0<h then repeat if 2~=h then r=n;break;end;u=t;until true;else r=n;end else if 1>h then b=e;else _=l;end end else if 6>h then if h>0 then for e=49,66 do if 4~=h then o=b[_];break;end;a=r[b[u]];break;end;else o=b[_];end else if 6==h then n[o]=a;else h=-2;end end end h=h+1 end end else n[e[l]]=n[e[t]][e[y]];end else if 25<h then repeat if h<27 then do return end;break;end;local c,k,b,u,o,_,s,a,h;for h=0,5 do if h<3 then if 1>h then c=e[l];k=n[e[t]];n[c+1]=k;n[c]=k[e[y]];d=d+1;e=f[d];else if 0<=h then for y=40,59 do if 1~=h then h=0;while h>-1 do if h>=4 then if h<6 then if h~=2 then repeat if 4~=h then a=b[u];break;end;s=_[b[o]];until true;else s=_[b[o]];end else if h~=4 then repeat if 7>h then n[a]=s;break;end;h=-2;until true;else n[a]=s;end end else if 2<=h then if 0~=h then for e=12,57 do if 3>h then o=t;break;end;_=n;break;end;else _=n;end else if h>=-2 then for d=44,97 do if h~=0 then u=l;break;end;b=e;break;end;else u=l;end end end h=h+1 end d=d+1;e=f[d];break;end;h=0;while h>-1 do if h>=4 then if h>5 then if 2<=h then for e=49,61 do if h~=6 then h=-2;break;end;n[a]=s;break;end;else n[a]=s;end else if 0<=h then for e=19,78 do if h>4 then a=b[u];break;end;s=_[b[o]];break;end;else s=_[b[o]];end end else if h<2 then if h>=-3 then repeat if 1~=h then b=e;break;end;u=l;until true;else b=e;end else if-2<h then repeat if 3>h then o=t;break;end;_=n;until true;else o=t;end end end h=h+1 end d=d+1;e=f[d];break;end;else h=0;while h>-1 do if h>=4 then if h>5 then if 2<=h then for e=49,61 do if h~=6 then h=-2;break;end;n[a]=s;break;end;else n[a]=s;end else if 0<=h then for e=19,78 do if h>4 then a=b[u];break;end;s=_[b[o]];break;end;else s=_[b[o]];end end else if h<2 then if h>=-3 then repeat if 1~=h then b=e;break;end;u=l;until true;else b=e;end else if-2<h then repeat if 3>h then o=t;break;end;_=n;until true;else o=t;end end end h=h+1 end d=d+1;e=f[d];end end else if 4>h then c=e[l]n[c]=n[c](r(n,c+1,e[t]))d=d+1;e=f[d];else if 1<=h then for b=44,98 do if 4<h then n[e[l]]=n[e[t]]+n[e[y]];break;end;n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];break;end;else n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];end end end end until true;else local c,k,b,u,o,_,s,a,h;for h=0,5 do if h<3 then if 1>h then c=e[l];k=n[e[t]];n[c+1]=k;n[c]=k[e[y]];d=d+1;e=f[d];else if 0<=h then for y=40,59 do if 1~=h then h=0;while h>-1 do if h>=4 then if h<6 then if h~=2 then repeat if 4~=h then a=b[u];break;end;s=_[b[o]];until true;else s=_[b[o]];end else if h~=4 then repeat if 7>h then n[a]=s;break;end;h=-2;until true;else n[a]=s;end end else if 2<=h then if 0~=h then for e=12,57 do if 3>h then o=t;break;end;_=n;break;end;else _=n;end else if h>=-2 then for d=44,97 do if h~=0 then u=l;break;end;b=e;break;end;else u=l;end end end h=h+1 end d=d+1;e=f[d];break;end;h=0;while h>-1 do if h>=4 then if h>5 then if 2<=h then for e=49,61 do if h~=6 then h=-2;break;end;n[a]=s;break;end;else n[a]=s;end else if 0<=h then for e=19,78 do if h>4 then a=b[u];break;end;s=_[b[o]];break;end;else s=_[b[o]];end end else if h<2 then if h>=-3 then repeat if 1~=h then b=e;break;end;u=l;until true;else b=e;end else if-2<h then repeat if 3>h then o=t;break;end;_=n;until true;else o=t;end end end h=h+1 end d=d+1;e=f[d];break;end;else h=0;while h>-1 do if h>=4 then if h>5 then if 2<=h then for e=49,61 do if h~=6 then h=-2;break;end;n[a]=s;break;end;else n[a]=s;end else if 0<=h then for e=19,78 do if h>4 then a=b[u];break;end;s=_[b[o]];break;end;else s=_[b[o]];end end else if h<2 then if h>=-3 then repeat if 1~=h then b=e;break;end;u=l;until true;else b=e;end else if-2<h then repeat if 3>h then o=t;break;end;_=n;until true;else o=t;end end end h=h+1 end d=d+1;e=f[d];end end else if 4>h then c=e[l]n[c]=n[c](r(n,c+1,e[t]))d=d+1;e=f[d];else if 1<=h then for b=44,98 do if 4<h then n[e[l]]=n[e[t]]+n[e[y]];break;end;n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];break;end;else n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];end end end end end end end end else if h>9 then if h<=14 then if h>11 then if h<=12 then local h;for b=0,3 do if 2<=b then if 3==b then if n[e[l]]then d=d+1;else d=e[t];end;else h=e[l]n[h]=n[h](r(n,h+1,e[t]))d=d+1;e=f[d];end else if b>-2 then for h=14,82 do if 0~=b then n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];break;end;n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];break;end;else n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];end end end else if h<14 then s[e[t]]=n[e[l]];else local f=n[e[y]];if not f then d=d+1;else n[e[l]]=f;d=e[t];end;end end else if h~=11 then local o,s,_,f,b,r,h;local d=0;while d>-1 do if d>=3 then if d<=4 then if d~=4 then r=f[o];else h=n[b];for e=1+b,f[_]do h=h..n[e];end;end else if 5==d then n[r]=h;else d=-2;end end else if 1<=d then if d<2 then f=e;else b=f[s];end else o=l;s=t;_=y;end end d=d+1 end else local h,b,r;for y=0,2 do if y>0 then if y~=1 then h=e[l];b=n[h]r=n[h+2];if(r>0)then if(b>n[h+1])then d=e[t];else n[h+3]=b;end elseif(b<n[h+1])then d=e[t];else n[h+3]=b;end else n(e[l],e[t]);d=d+1;e=f[d];end else n[e[l]]=#n[e[t]];d=d+1;e=f[d];end end end end else if h<18 then if h<=15 then local b,a,_,c,u,o,h,r;n[e[l]]=s[e[t]];d=d+1;e=f[d];n[e[l]]=s[e[t]];d=d+1;e=f[d];h=0;while h>-1 do if h<=3 then if h>1 then if 1<=h then repeat if h>2 then c=n;break;end;_=t;until true;else _=t;end else if h~=1 then b=e;else a=l;end end else if 5>=h then if h>=1 then repeat if h~=5 then u=c[b[_]];break;end;o=b[a];until true;else o=b[a];end else if 5~=h then for e=37,93 do if 6<h then h=-2;break;end;n[o]=u;break;end;else h=-2;end end end h=h+1 end d=d+1;e=f[d];r=e[l]n[r]=n[r](n[r+1])d=d+1;e=f[d];n[e[l]][n[e[t]]]=n[e[y]];d=d+1;e=f[d];do return end;else if 16<h then local h;for b=0,2 do if b<1 then h=e[l]n[h]=n[h](r(n,h+1,e[t]))d=d+1;e=f[d];else if-3<b then repeat if 2~=b then n[e[l]]=n[e[t]]-e[y];d=d+1;e=f[d];break;end;n[e[l]][n[e[t]]]=n[e[y]];until true;else n[e[l]]=n[e[t]]-e[y];d=d+1;e=f[d];end end end else local d=e[l]n[d](r(n,d+1,e[t]))end end else if h<=18 then local f,r,s,h,y,b;local d=0;while d>-1 do if d>=4 then if 5<d then if d>5 then for e=17,52 do if d~=7 then n[b]=y;break;end;d=-2;break;end;else d=-2;end else if 4<d then b=f[r];else y=h[f[s]];end end else if d<2 then if d~=-3 then for n=31,98 do if d<1 then f=e;break;end;r=l;break;end;else f=e;end else if d>-1 then repeat if d~=3 then s=t;break;end;h=n;until true;else h=n;end end end d=d+1 end else if 16~=h then for d=24,59 do if 20~=h then n[e[l]]=n[e[t]][n[e[y]]];break;end;local e=e[l];o=e+j-1;for d=e,o do local e=z[d-e];n[d]=e;end;break;end;else local e=e[l];o=e+j-1;for d=e,o do local e=z[d-e];n[d]=e;end;end end end end else if 4<h then if h<=6 then if 1~=h then for b=43,84 do if h<6 then for h=0,6 do if h>=3 then if 4>=h then if 1~=h then for b=13,57 do if h<4 then n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];break;end;n[e[l]]=s[e[t]];d=d+1;e=f[d];break;end;else n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];end else if h>5 then n[e[l]]={};else n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];end end else if 1<=h then if-3<h then repeat if 1<h then n[e[l]]=s[e[t]];d=d+1;e=f[d];break;end;n[e[l]]=s[e[t]];d=d+1;e=f[d];until true;else n[e[l]]=s[e[t]];d=d+1;e=f[d];end else n[e[l]]=_[e[t]];d=d+1;e=f[d];end end end break;end;n[e[l]]=n[e[t]]%e[y];break;end;else for h=0,6 do if h>=3 then if 4>=h then if 1~=h then for b=13,57 do if h<4 then n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];break;end;n[e[l]]=s[e[t]];d=d+1;e=f[d];break;end;else n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];end else if h>5 then n[e[l]]={};else n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];end end else if 1<=h then if-3<h then repeat if 1<h then n[e[l]]=s[e[t]];d=d+1;e=f[d];break;end;n[e[l]]=s[e[t]];d=d+1;e=f[d];until true;else n[e[l]]=s[e[t]];d=d+1;e=f[d];end else n[e[l]]=_[e[t]];d=d+1;e=f[d];end end end end else if 8>h then for h=0,3 do if h>1 then if h~=3 then n[e[l]]=n[e[t]][n[e[y]]];d=d+1;e=f[d];else if n[e[l]]then d=d+1;else d=e[t];end;end else if 1~=h then n(e[l],e[t]);d=d+1;e=f[d];else n(e[l],e[t]);d=d+1;e=f[d];end end end else if 8~=h then local b,_,o,f,s,r,h;local d=0;while d>-1 do if d>2 then if d<5 then if d>=1 then for e=27,97 do if d~=3 then h=n[s];for e=1+s,f[o]do h=h..n[e];end;break;end;r=f[b];break;end;else r=f[b];end else if 4~=d then for e=10,52 do if 6>d then n[r]=h;break;end;d=-2;break;end;else d=-2;end end else if d>=1 then if 1~=d then s=f[_];else f=e;end else b=l;_=t;o=y;end end d=d+1 end else local e=e[l];do return r(n,e,o)end;end end end else if h>1 then if h<=2 then local h;h=e[l]n[h](n[h+1])d=d+1;e=f[d];n[e[l]]=_[e[t]];d=d+1;e=f[d];n[e[l]]=_[e[t]];d=d+1;e=f[d];n[e[l]]=n[e[t]][e[y]];d=d+1;e=f[d];n[e[l]]=_[e[t]];d=d+1;e=f[d];n[e[l]]=n[e[t]][e[y]];d=d+1;e=f[d];n[e[l]]=_[e[t]];else if-1<=h then repeat if h~=4 then if(n[e[l]]==n[e[y]])then d=d+1;else d=e[t];end;break;end;local t,r,h;for y=0,1 do if y>-4 then repeat if 0<y then t=e[l];h=n[t];for e=t+1,o do b.yIfJGDys(h,n[e])end;break;end;t=e[l];o=t+j-1;for e=t,o do r=z[e-t];n[e]=r;end;d=d+1;e=f[d];until true;else t=e[l];h=n[t];for e=t+1,o do b.yIfJGDys(h,n[e])end;end end until true;else if(n[e[l]]==n[e[y]])then d=d+1;else d=e[t];end;end end else if h~=-3 then for b=11,97 do if h~=0 then local h,s;for b=0,6 do if b>2 then if 5<=b then if b<6 then h=e[l];s=n[e[t]];n[h+1]=s;n[h]=s[e[y]];d=d+1;e=f[d];else n[e[l]]=n[e[t]];end else if 2<b then for s=15,75 do if b~=3 then n[e[l]][n[e[t]]]=n[e[y]];d=d+1;e=f[d];break;end;h=e[l]n[h]=n[h](r(n,h+1,e[t]))d=d+1;e=f[d];break;end;else n[e[l]][n[e[t]]]=n[e[y]];d=d+1;e=f[d];end end else if b>=1 then if-3~=b then repeat if b<2 then n[e[l]]=n[e[t]];d=d+1;e=f[d];break;end;n[e[l]]=n[e[t]];d=d+1;e=f[d];until true;else n[e[l]]=n[e[t]];d=d+1;e=f[d];end else h=e[l];s=n[e[t]];n[h+1]=s;n[h]=s[e[y]];d=d+1;e=f[d];end end end break;end;n[e[l]]=n[e[t]]+e[y];break;end;else local h,s;for b=0,6 do if b>2 then if 5<=b then if b<6 then h=e[l];s=n[e[t]];n[h+1]=s;n[h]=s[e[y]];d=d+1;e=f[d];else n[e[l]]=n[e[t]];end else if 2<b then for s=15,75 do if b~=3 then n[e[l]][n[e[t]]]=n[e[y]];d=d+1;e=f[d];break;end;h=e[l]n[h]=n[h](r(n,h+1,e[t]))d=d+1;e=f[d];break;end;else n[e[l]][n[e[t]]]=n[e[y]];d=d+1;e=f[d];end end else if b>=1 then if-3~=b then repeat if b<2 then n[e[l]]=n[e[t]];d=d+1;e=f[d];break;end;n[e[l]]=n[e[t]];d=d+1;e=f[d];until true;else n[e[l]]=n[e[t]];d=d+1;e=f[d];end else h=e[l];s=n[e[t]];n[h+1]=s;n[h]=s[e[y]];d=d+1;e=f[d];end end end end end end end end end end d=1+d;end;end;return le end;local l=0xff;local f={};local h=(1);local t='';(function(d)local n=d local y=0x00 local e=0x00 n={(function(t)if y>0x1f then return t end y=y+1 e=(e+0x4cf-t)%0x12 return(e%0x03==0x0 and(function(n)if not d[n]then e=e+0x01 d[n]=(0x3b);f[h]=he();h=h+l;end return true end)'PWKzd'and n[0x1](0x1f0+t))or(e%0x03==0x1 and(function(n)if not d[n]then e=e+0x01 d[n]=(0x4c);end return true end)'yMXLA'and n[0x2](t+0x23a))or(e%0x03==0x2 and(function(n)if not d[n]then e=e+0x01 d[n]=(0xa6);end return true end)'WjovI'and n[0x3](t+0x39b))or t end),(function(r)if y>0x24 then return r end y=y+1 e=(e+0x61b-r)%0xd return(e%0x03==0x2 and(function(n)if not d[n]then e=e+0x01 d[n]=(0x6f);t='\37';l={function()l()end};t=t..'\100\43';end return true end)'WYozM'and n[0x2](0x190+r))or(e%0x03==0x0 and(function(n)if not d[n]then e=e+0x01 d[n]=(0x7a);t={t..'\58 a',t};f[h]=le();h=h+((not b.jufaUh_U)and 1 or 0);t[1]='\58'..t[1];l[2]=0xff;end return true end)'yzahG'and n[0x3](r+0x10a))or(e%0x03==0x1 and(function(n)if not d[n]then e=e+0x01 d[n]=(0xaf);end return true end)'OrVtd'and n[0x1](r+0xbe))or r end),(function(b)if y>0x2a then return b end y=y+1 e=(e+0x4a5-b)%0x2f return(e%0x03==0x0 and(function(n)if not d[n]then e=e+0x01 d[n]=(0x80);l[2]=(l[2]*(te(function()f()end,r(t))-te(l[1],r(t))))+1;f[h]={};l=l[2];h=h+l;end return true end)'bxnqk'and n[0x1](0x24b+b))or(e%0x03==0x2 and(function(n)if not d[n]then e=e+0x01 d[n]=(0x38);end return true end)'jySlP'and n[0x2](b+0x389))or(e%0x03==0x1 and(function(n)if not d[n]then e=e+0x01 d[n]=(0x9e);end return true end)'zmvOB'and n[0x3](b+0x194))or b end)}n[0x2](0xe87)end){};local e=k(r(f));f[2]={};f[1]=e(f[1])Am_taIjfeHymXdO=nil;e=k(r(f))return e(...);end return fe((function()local d={}local e=0x01;local n;if b.jufaUh_U then n=b.jufaUh_U(fe)else n=''end if b.qcMolOfM(n,b.yQwGaMwq)then e=e+0;else e=e+1;end d[e]=0x02;d[d[e]+0x01]=0x03;return d;end)(),...)end)((function(e,d,n,t,l,f)local f;if e<=3 then if 1>=e then if e~=1 then do return d(1),d(4,l,t,n,d),d(5,l,t,n)end;else do return function(n,e,d)if d then local e=(n/2^(e-1))%2^((d-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;end else if e==3 then do return d(1),d(4,l,t,n,d),d(5,l,t,n)end;else do return 16777216,65536,256 end;end end else if e>5 then if e>6 then if 3~=e then repeat if 8>e then do return setmetatable({},{['__\99\97\108\108']=function(e,l,t,n,d)if d then return e[d]elseif n then return e else e[l]=t end end})end break;end;do return n(e,nil,n);end until true;else do return setmetatable({},{['__\99\97\108\108']=function(e,n,l,t,d)if d then return e[d]elseif t then return e else e[n]=l end end})end end else do return l[n]end;end else if e~=2 then for f=38,79 do if e~=5 then local e=t;local f,t,l=l(2);do return function()local d,n,b,h=d(n,e(e,e),e(e,e)+3);e(4);return(h*f)+(b*t)+(n*l)+d;end;end;break;end;local e=t;do return function()local d=d(n,e(e,e),e(e,e));e(1);return d;end;end;break;end;else local e=t;local l,t,f=l(2);do return function()local n,d,b,h=d(n,e(e,e),e(e,e)+3);e(4);return(h*l)+(b*t)+(d*f)+n;end;end;end end end end),...)
+--This watermark is used to delete the file if its cached, remove it to make the file persist after vape updates.
+local loadstring = function(...)
+	local res, err = loadstring(...)
+	if err and vape then
+		vape:CreateNotification('Vape', 'Failed to load : '..err, 30, 'alert')
+	end
+	return res
+end
+local isfile = isfile or function(file)
+	local suc, res = pcall(function()
+		return readfile(file)
+	end)
+	return suc and res ~= nil and res ~= ''
+end
+local function downloadFile(path, func)
+	if not isfile(path) then
+		local suc, res = pcall(function()
+			return game:HttpGet('https://raw.githubusercontent.com/QP-Offcial/VapeV4ForRoblox/'..readfile('newvape/profiles/commit.txt')..'/'..select(1, path:gsub('newvape/', '')), true)
+		end)
+		if not suc or res == '404: Not Found' then
+			error(res)
+		end
+		if path:find('.lua') then
+			res = '--This watermark is used to delete the file if its cached, remove it to make the file persist after vape updates.\n'..res
+		end
+		writefile(path, res)
+	end
+	return (func or readfile)(path)
+end
+local run = function(func)
+	func()
+end
+local btext = function(text)
+	return text..' '
+end
+
+local queue_on_teleport = queue_on_teleport or function() end
+local cloneref = cloneref or function(obj)
+	return obj
+end
+
+local function getPlacedBlock(pos)
+	if not pos then
+		return
+	end
+	local roundedPosition = bedwars.BlockController:getBlockPosition(pos)
+	return bedwars.BlockController:getStore():getBlockAt(roundedPosition), roundedPosition
+end
+
+local vapeConnections
+if shared.vapeConnections and type(shared.vapeConnections) == "table" then vapeConnections = shared.vapeConnections else vapeConnections = {}; shared.vapeConnections = vapeConnections; end
+
+local playersService = cloneref(game:GetService('Players'))
+local replicatedStorage = cloneref(game:GetService('ReplicatedStorage'))
+local runService = cloneref(game:GetService('RunService'))
+local inputService = cloneref(game:GetService('UserInputService'))
+local tweenService = cloneref(game:GetService('TweenService'))
+local lightingService = cloneref(game:GetService('Lighting'))
+local marketplaceService = cloneref(game:GetService('MarketplaceService'))
+local teleportService = cloneref(game:GetService('TeleportService'))
+local httpService = cloneref(game:GetService('HttpService'))
+local guiService = cloneref(game:GetService('GuiService'))
+local groupService = cloneref(game:GetService('GroupService'))
+local textChatService = cloneref(game:GetService('TextChatService'))
+local contextService = cloneref(game:GetService('ContextActionService'))
+local workspace = cloneref(game:GetService('Workspace'))
+local debris = cloneref(game:GetService("Debris"))
+local coreGui = cloneref(game:GetService('CoreGui'))
+local collectionService = cloneref(game:GetService("CollectionService"))
+
+local isnetworkowner = identifyexecutor and table.find({'AWP', 'Nihon'}, ({identifyexecutor()})[1]) and isnetworkowner or function()
+	return true
+end
+local gameCamera = workspace.CurrentCamera or workspace:FindFirstChildWhichIsA('Camera')
+local lplr = playersService.LocalPlayer
+local assetfunction = getcustomasset
+
+local GuiLibrary = shared.GuiLibrary
+local vape = shared.vape
+local entitylib = vape.Libraries.entity
+local targetinfo = vape.Libraries.targetinfo
+local sessioninfo = vape.Libraries.sessioninfo
+local uipallet = vape.Libraries.uipallet
+local tween = vape.Libraries.tween
+local color = vape.Libraries.color
+local whitelist = vape.Libraries.whitelist
+local prediction = vape.Libraries.prediction
+local getfontsize = vape.Libraries.getfontsize
+local getcustomasset = vape.Libraries.getcustomasset
+
+local activeTweens = {}
+local activeAnimationTrack = nil
+local activeModel = nil
+local emoteActive = false
+ 
+
+local RunLoops = {RenderStepTable = {}, StepTable = {}, HeartTable = {}}
+do
+	function RunLoops:BindToRenderStep(name, func)
+		if RunLoops.RenderStepTable[name] == nil then
+			RunLoops.RenderStepTable[name] = runService.RenderStepped:Connect(func)
+		end
+	end
+
+	function RunLoops:UnbindFromRenderStep(name)
+		if RunLoops.RenderStepTable[name] then
+			RunLoops.RenderStepTable[name]:Disconnect()
+			RunLoops.RenderStepTable[name] = nil
+		end
+	end
+
+	function RunLoops:BindToStepped(name, func)
+		if RunLoops.StepTable[name] == nil then
+			RunLoops.StepTable[name] = runService.Stepped:Connect(func)
+		end
+	end
+
+	function RunLoops:UnbindFromStepped(name)
+		if RunLoops.StepTable[name] then
+			RunLoops.StepTable[name]:Disconnect()
+			RunLoops.StepTable[name] = nil
+		end
+	end
+
+	function RunLoops:BindToHeartbeat(name, func)
+		if RunLoops.HeartTable[name] == nil then
+			RunLoops.HeartTable[name] = runService.Heartbeat:Connect(func)
+		end
+	end
+
+	function RunLoops:UnbindFromHeartbeat(name)
+		if RunLoops.HeartTable[name] then
+			RunLoops.HeartTable[name]:Disconnect()
+			RunLoops.HeartTable[name] = nil
+		end
+	end
+end
+
+local XStore = {
+	bedtable = {},
+	Tweening = false,
+	AntiHitting = false
+}
+XFunctions:SetGlobalData('XStore', XStore)
+
+local function getrandomvalue(tab)
+	return #tab > 0 and tab[math.random(1, #tab)] or ''
+end
+
+local function GetEnumItems(enum)
+	local fonts = {}
+	for i,v in next, Enum[enum]:GetEnumItems() do 
+		table.insert(fonts, v.Name) 
+	end
+	return fonts
+end
+
+local isAlive = function(plr, healthblacklist)
+	plr = plr or lplr
+	local alive = false 
+	if plr.Character and plr.Character.PrimaryPart and plr.Character:FindFirstChild("HumanoidRootPart") and plr.Character:FindFirstChild("Humanoid") and plr.Character:FindFirstChild("Head") then 
+		alive = true
+	end
+	if not healthblacklist and alive and plr.Character.Humanoid.Health and plr.Character.Humanoid.Health <= 0 then 
+		alive = false
+	end
+	return alive
+end
+local function GetMagnitudeOf2Objects(part, part2, bypass)
+	local magnitude, partcount = 0, 0
+	if not bypass then 
+		local suc, res = pcall(function() return part.Position end)
+		partcount = suc and partcount + 1 or partcount
+		suc, res = pcall(function() return part2.Position end)
+		partcount = suc and partcount + 1 or partcount
+	end
+	if partcount > 1 or bypass then 
+		magnitude = bypass and (part - part2).magnitude or (part.Position - part2.Position).magnitude
+	end
+	return magnitude
+end
+local function createSequence(args)
+    local seq =
+        ColorSequence.new(
+        {
+            ColorSequenceKeypoint.new(args[1], args[2]),
+            ColorSequenceKeypoint.new(args[3], args[4])
+        }
+    )
+    return seq
+end
+local function GetTopBlock(position, smart, raycast, customvector)
+	position = position or isAlive(lplr, true) and lplr.Character:WaitForChild("HumanoidRootPart").Position
+	if not position then 
+		return nil 
+	end
+	if raycast and not game.Workspace:Raycast(position, Vector3.new(0, -2000, 0), store.blockRaycast) then
+	    return nil
+    end
+	local lastblock = nil
+	for i = 1, 500 do 
+		local newray = game.Workspace:Raycast(lastblock and lastblock.Position or position, customvector or Vector3.new(0.55, 999999, 0.55), store.blockRaycast)
+		local smartest = newray and smart and game.Workspace:Raycast(lastblock and lastblock.Position or position, Vector3.new(0, 5.5, 0), store.blockRaycast) or not smart
+		if newray and smartest then
+			lastblock = newray
+		else
+			break
+		end
+	end
+	return lastblock
+end
+local function FindEnemyBed(maxdistance, highest)
+	local target = nil
+	local distance = maxdistance or math.huge
+	local whitelistuserteams = {}
+	local badbeds = {}
+	if not lplr:GetAttribute("Team") then return nil end
+	for i,v in pairs(playersService:GetPlayers()) do
+		if v ~= lplr then
+			local type, attackable = vape.Libraries.whitelist:get(v)
+			if not attackable then
+				whitelistuserteams[v:GetAttribute("Team")] = true
+			end
+		end
+	end
+	for i,v in pairs(collectionService:GetTagged("bed")) do
+			local bedteamstring = string.split(v:GetAttribute("id"), "_")[1]
+			if whitelistuserteams[bedteamstring] ~= nil then
+			   badbeds[v] = true
+		    end
+	    end
+	for i,v in pairs(collectionService:GetTagged("bed")) do
+		if v:GetAttribute("id") and v:GetAttribute("id") ~= lplr:GetAttribute("Team").."_bed" and badbeds[v] == nil and lplr.Character and lplr.Character.PrimaryPart then
+			if v:GetAttribute("NoBreak") or v:GetAttribute("PlacedByUserId") and v:GetAttribute("PlacedByUserId") ~= 0 then continue end
+			local magdist = GetMagnitudeOf2Objects(lplr.Character.PrimaryPart, v)
+			if magdist < distance then
+				target = v
+				distance = magdist
+			end
+		end
+	end
+	local coveredblock = highest and target and GetTopBlock(target.Position, true)
+	if coveredblock then
+		target = coveredblock.Instance
+	end
+	for i,v in pairs(game:GetService("Teams"):GetTeams()) do
+		if target and v.TeamColor == target.Bed.BrickColor then
+			XStore.bedtable[target] = v.Name
+		end
+	end
+	return target
+end
+local function FindTeamBed()
+	local bedstate, res = pcall(function()
+		return lplr.leaderstats.Bed.Value
+	end)
+	return bedstate and res and res ~= nil and res == "✅"
+end
+local function FindItemDrop(item)
+	local itemdist = nil
+	local dist = math.huge
+	local function abletocalculate() return lplr.Character and lplr.Character:FindFirstChild("HumanoidRootPart") end
+    for i,v in pairs(collectionService:GetTagged("ItemDrop")) do
+		if v and v.Name == item and abletocalculate() then
+			local itemdistance = GetMagnitudeOf2Objects(lplr.Character:WaitForChild("HumanoidRootPart"), v)
+			if itemdistance < dist then
+			itemdist = v
+			dist = itemdistance
+		end
+		end
+	end
+	return itemdist
+end
+
+local function getItem(itemName, inv)
+	for slot, item in (inv or store.inventory.inventory.items) do
+		if item.itemType == itemName then
+			return item, slot
+		end
+	end
+	return nil
+end
+
+local vapeAssert = function(argument, title, text, duration, hault, moduledisable, module) 
+	if not argument then
+    local suc, res = pcall(function()
+    local notification = GuiLibrary:CreateNotification(title or "QP Vape", text or "Failed to call function.", duration or 20, "assets/WarningNotification.png")
+    notification.IconLabel.ImageColor3 = Color3.new(220, 0, 0)
+    notification.Frame.Frame.ImageColor3 = Color3.new(220, 0, 0)
+    if moduledisable and (module and vape.Modules[module].Enabled) then vape.Modules[module]:Toggle(false) end
+    end)
+    if hault then while true do task.wait() end end end
+end
+
+local function spinParts(model)
+    for _, part in ipairs(model:GetDescendants()) do
+        if part:IsA("BasePart") and (part.Name == "Middle" or part.Name == "Outer") then
+            local tweenInfo, goal
+            if part.Name == "Middle" then
+                tweenInfo = TweenInfo.new(12.5, Enum.EasingStyle.Linear, Enum.EasingDirection.Out, -1, false, 0)
+                goal = { Orientation = part.Orientation + Vector3.new(0, -360, 0) }
+            elseif part.Name == "Outer" then
+                tweenInfo = TweenInfo.new(1.5, Enum.EasingStyle.Linear, Enum.EasingDirection.Out, -1, false, 0)
+                goal = { Orientation = part.Orientation + Vector3.new(0, 360, 0) }
+            end
+ 
+            local tween = tweenService:Create(part, tweenInfo, goal)
+            tween:Play()
+            table.insert(activeTweens, tween)
+        end
+    end
+end
+ 
+local function placeModelUnderLeg()
+    local player = playersService.LocalPlayer
+    local character = player.Character or player.CharacterAdded:Wait()
+    local humanoidRootPart = character:FindFirstChild("HumanoidRootPart")
+ 
+    if humanoidRootPart then
+        local assetsFolder = replicatedStorage:FindFirstChild("Assets")
+        if assetsFolder then
+            local effectsFolder = assetsFolder:FindFirstChild("Effects")
+            if effectsFolder then
+                local modelTemplate = effectsFolder:FindFirstChild("NightmareEmote")
+                if modelTemplate and modelTemplate:IsA("Model") then
+                    local clonedModel = modelTemplate:Clone()
+                    clonedModel.Parent = workspace
+ 
+                    if clonedModel.PrimaryPart then
+                        clonedModel:SetPrimaryPartCFrame(humanoidRootPart.CFrame - Vector3.new(0, 3, 0))
+                    else
+                        warn("PrimaryPart not set for NightmareEmote model!")
+                        return
+                    end
+ 
+                    spinParts(clonedModel)
+                    activeModel = clonedModel
+                else
+                    warn("NightmareEmote model not found or is not a valid model!")
+                end
+            else
+                warn("Effects folder not found in Assets!")
+            end
+        else
+            warn("Assets folder not found in ReplicatedStorage!")
+        end
+    else
+        warn("HumanoidRootPart not found in character!")
+    end
+end
+ 
+local function playAnimation(animationId)
+    local player = playersService.LocalPlayer
+    local character = player.Character or player.CharacterAdded:Wait()
+    local humanoid = character:FindFirstChild("Humanoid")
+ 
+    if humanoid then
+        local animator = humanoid:FindFirstChild("Animator") or Instance.new("Animator", humanoid)
+        local animation = Instance.new("Animation")
+        animation.AnimationId = animationId
+        activeAnimationTrack = animator:LoadAnimation(animation)
+        activeAnimationTrack:Play()
+    else
+        warn("Humanoid not found in character!")
+    end
+end
+ 
+local function stopEffects()
+    for _, tween in ipairs(activeTweens) do
+        tween:Cancel()
+    end
+    activeTweens = {}
+ 
+    if activeAnimationTrack then
+        activeAnimationTrack:Stop()
+        activeAnimationTrack = nil
+    end
+ 
+    if activeModel then
+        activeModel:Destroy()
+        activeModel = nil
+    end
+ 
+    emoteActive = false
+end
+ 
+local function monitorWalking()
+    local player = playersService.LocalPlayer
+    local character = player.Character or player.CharacterAdded:Wait()
+    local humanoid = character:FindFirstChild("Humanoid")
+ 
+    if humanoid then
+        humanoid.Running:Connect(function(speed)
+            if speed > 0 and emoteActive then
+                stopEffects()
+            end
+        end)
+    else
+        warn("Humanoid not found in character!")
+    end
+end
+ 
+local function activateNightmareEmote()
+    if emoteActive then
+        return
+    end
+ 
+    emoteActive = true
+    local success, err = pcall(function()
+        monitorWalking()
+        placeModelUnderLeg()
+        playAnimation("rbxassetid://9191822700")
+    end)
+ 
+    if not success then
+        warn("Error occurred: " .. tostring(err))
+        emoteActive = false
+    end
+end
+
+
+
+
+run(function()
+    local InfiniteJump
+    local Velocity
+    InfiniteJump = vape.Categories.Modules:CreateModule({
+        Name = "InfiniteJump",
+        Function = function(callback)
+            if callback then
+				InfiniteJump:Clean(inputService.InputBegan:Connect(function(input, gameProcessed)
+					if gameProcessed then return end
+					if input.UserInputType == Enum.UserInputType.Keyboard and input.KeyCode == Enum.KeyCode.Space then
+						while inputService:IsKeyDown(Enum.KeyCode.Space) do
+							local PrimaryPart = lplr.Character.PrimaryPart
+							if entitylib.isAlive and PrimaryPart then
+								PrimaryPart.Velocity = vector.create(PrimaryPart.Velocity.X, Velocity.Value, PrimaryPart.Velocity.Z)
+							end
+							wait()
+						end
+					end
+				end))
+				if inputService.TouchEnabled then
+					local Jumping = false
+					local JumpButton = lplr.PlayerGui:WaitForChild("TouchGui"):WaitForChild("TouchControlFrame"):WaitForChild("JumpButton")
+					
+					InfiniteJump:Clean(JumpButton.MouseButton1Down:Connect(function()
+						Jumping = true
+					end))
+
+					InfiniteJump:Clean(JumpButton.MouseButton1Up:Connect(function()
+						Jumping = false
+					end))
+
+					InfiniteJump:Clean(runService.RenderStepped:Connect(function()
+						if Jumping and entitylib.isAlive then
+							local PrimaryPart = lplr.Character.PrimaryPart
+							PrimaryPart.Velocity = vector.create(PrimaryPart.Velocity.X, Velocity.Value, PrimaryPart.Velocity.Z)
+						end
+					end))
+				end
+			end
+        end,
+        Tooltip = "Allows infinite jumping"
+    })
+    Velocity = InfiniteJump:CreateSlider({
+        Name = 'Velocity',
+        Min = 50,
+        Max = 300,
+        Default = 50
+    })
+end)
+
+run(function()
+	local InfernalKill = {Enabled = false}
+	InfernalKill = vape.Categories.Modules:CreateModule({
+		["Name"] = "EmberExploit",
+		["Function"] = function(callback)
+			if callback then
+				repeat
+					wait()
+					local tmp = getItem("infernal_saber")
+					if tmp then
+						bedwars.Client:Get('HellBladeRelease'):SendToServer({
+							weapon = tmp.tool;
+							player = game:GetService("Players").LocalPlayer;
+							chargeTime = 0.9;
+						})
+					end
+				until not InfernalKill["Enabled"]
+			end
+		end,
+		["Description"] = "Ember Exploit"
+	})
+end)
+
+run(function()
+	local SkyScytheKill = {Enabled = false}
+	SkyScytheKill = vape.Categories.Modules:CreateModule({
+		["Name"] = "SkyScytheExploit",
+		["Function"] = function(callback)
+			if callback then
+				repeat
+					wait()
+					if getItem("sky_scythe") then
+						bedwars.Client:Get('SkyScytheSpin'):SendToServer()
+					end
+				until not SkyScytheKill["Enabled"]
+			end
+		end,
+		["Description"] = "SkyScytheExploit"
+	})
+end)
+
+run(function()
+	local PartyPopperExploit = {Enabled = false}
+	PartyPopperExploit = vape.Categories.Modules:CreateModule({
+		["Name"] = "PartyPopperExploit",
+		["Function"] = function(callback)
+			if callback then
+				repeat
+					wait()
+					bedwars.AbilityController:useAbility('PARTY_POPPER')
+				until not PartyPopperExploit["Enabled"]
+			end
+		end,
+		["Description"] = "PartyPopperExploit"
+	})
+end)
+
+run(function()
+	local TrainWhistleExploit = {Enabled = false}
+	TrainWhistleExploit = vape.Categories.Modules:CreateModule({
+		["Name"] = "TrainWhistleExploit",
+		["Function"] = function(callback)
+			if callback then
+				repeat
+					wait()
+					bedwars.AbilityController:useAbility('TRAIN_WHISTLE')
+				until not TrainWhistleExploit["Enabled"]
+			end
+		end,
+		["Description"] = "TrainWhistleExploit"
+	})
+end)
+
+
+-- patched
+-- run(function()
+-- 	local ProjectileExploit = {Enabled = false}
+-- 	local old
+-- 	ProjectileExploit = vape.Categories.Modules:CreateModule({
+-- 		["Name"] = "ProjectileExploit",
+-- 		["Function"] = function(callback)
+-- 			if callback then
+-- 				old = hookmetamethod(game, "__namecall", function(self, ...)
+-- 					if self == replicatedStorage.rbxts_include.node_modules["@rbxts"].net.out._NetManaged.ProjectileFire and not checkcaller() then
+-- 						local args = {...}
+-- 						args[8].drawDurationSeconds = 0/0
+-- 					end
+-- 					return old(self, ...)
+-- 				end)
+-- 			else
+-- 				if old then
+-- 					hookmetamethod(game, '__namecall', old)
+-- 				end
+-- 			end
+-- 		end,
+-- 		["Description"] = "ProjectileExploit Thanks Retro.gone"
+-- 	})
+-- end)
+
+-- patched
+-- run(function()
+-- 	local SkollKitCrasher = {Enabled = false}
+-- 	SkollKitCrasher = vape.Categories.Modules:CreateModule({
+-- 		["Name"] = "SkollKitCrasher",
+-- 		["Function"] = function(callback)
+-- 			if callback then
+-- 				repeat
+-- 					task.wait()
+-- 					game:GetService("ReplicatedStorage"):WaitForChild("rbxts_include"):WaitForChild("node_modules"):WaitForChild("@rbxts"):WaitForChild("net"):WaitForChild("out"):WaitForChild("_NetManaged"):WaitForChild("VoidHunter_MarkAbilityRequest"):FireServer({
+-- 						direction = Vector3.zero;
+-- 					})
+-- 				until not SkollKitCrasher["Enabled"]
+-- 			end
+-- 		end,
+-- 		["Description"] = "SkollKitCrasher"
+-- 	})
+-- end)
+-- run(function()
+-- 	local AntiSkollKitCrasher = {Enabled = false}
+-- 	AntiSkollKitCrasher = vape.Categories.Modules:CreateModule({
+-- 		["Name"] = "AntiSkollKitCrasher",
+-- 		["Function"] = function(callback)
+-- 			if callback then
+-- 				for i,v in next, getgc() do
+-- 					if type(v) == 'function' and debug.info(v,"n") == "useMarkAbility" then
+-- 						local RateLimit = {}
+-- 						local old
+-- 						old = hookfunction(v,function(...)
+-- 							local args = {...}
+-- 							if not RateLimit[args[2]] then
+-- 								RateLimit[args[2]] = tick()
+-- 								return old(...)
+-- 							elseif RateLimit[args[2]] + 10 < tick() then
+-- 								RateLimit[args[2]] = tick()
+-- 								return old(...)
+-- 							end
+-- 						end)
+-- 						break
+-- 					end
+-- 				end
+-- 			end
+-- 		end,
+-- 		["Description"] = "AntiSkollKitCrasher"
+-- 	})
+-- end)
+
+run(function()
+    local NightmareEventButton
+    NightmareEventButton = vape.Categories.Modules:CreateModule({
+        Name = "Nightmare Emote",
+        Description = "Play Nightmare Emote",
+        Function = function(callback)
+            if callback then
+                NightmareEventButton:Toggle(false)
+                activateNightmareEmote()
+            end
+        end
+    })
+end)
+
+run(function()
+    local AdetundeExploit
+    local AdetundeExploit_List
+
+    local adetunde_remotes = {
+        ["Shield"] = function()
+            local args = { [1] = "shield" }
+            local returning = game:GetService("ReplicatedStorage")
+                :WaitForChild("rbxts_include")
+                :WaitForChild("node_modules")
+                :WaitForChild("@rbxts")
+                :WaitForChild("net")
+                :WaitForChild("out")
+                :WaitForChild("_NetManaged")
+                :WaitForChild("UpgradeFrostyHammer")
+                :InvokeServer(unpack(args))
+            return returning
+        end,
+
+        ["Speed"] = function()
+            local args = { [1] = "speed" }
+            local returning = game:GetService("ReplicatedStorage")
+                :WaitForChild("rbxts_include")
+                :WaitForChild("node_modules")
+                :WaitForChild("@rbxts")
+                :WaitForChild("net")
+                :WaitForChild("out")
+                :WaitForChild("_NetManaged")
+                :WaitForChild("UpgradeFrostyHammer")
+                :InvokeServer(unpack(args))
+            return returning
+        end,
+
+        ["Strength"] = function()
+            local args = { [1] = "strength" }
+            local returning = game:GetService("ReplicatedStorage")
+                :WaitForChild("rbxts_include")
+                :WaitForChild("node_modules")
+                :WaitForChild("@rbxts")
+                :WaitForChild("net")
+                :WaitForChild("out")
+                :WaitForChild("_NetManaged")
+                :WaitForChild("UpgradeFrostyHammer")
+                :InvokeServer(unpack(args))
+            return returning
+        end
+    }
+
+    local current_upgrador = "Shield"
+    local hasnt_upgraded_everything = true
+    local testing = 1
+
+    AdetundeExploit = vape.Categories.Modules:CreateModule({
+        Name = 'AdetundeExploit',
+        Function = function(calling)
+            if calling then 
+                -- Check if in testing mode or equipped kit
+                -- if tostring(shared.store.queueType) == "training_room" or shared.store.equippedKit == "adetunde" then
+                --     AdetundeExploit["ToggleButton"](false) 
+                --     current_upgrador = AdetundeExploit_List.Value
+                task.spawn(function()
+                    repeat
+                        local returning_table = adetunde_remotes[current_upgrador]()
+                        
+                        if type(returning_table) == "table" then
+                            local Speed = returning_table["speed"]
+                            local Strength = returning_table["strength"]
+                            local Shield = returning_table["shield"]
+
+                            print("Speed: " .. tostring(Speed))
+                            print("Strength: " .. tostring(Strength))
+                            print("Shield: " .. tostring(Shield))
+                            print("Current Upgrador: " .. tostring(current_upgrador))
+
+                            if returning_table[string.lower(current_upgrador)] == 3 then
+                                if Strength and Shield and Speed then
+                                    if Strength == 3 or Speed == 3 or Shield == 3 then
+                                        if (Strength == 3 and Speed == 2 and Shield == 2) or
+                                           (Strength == 2 and Speed == 3 and Shield == 2) or
+                                           (Strength == 2 and Speed == 2 and Shield == 3) then
+                                            -- warningNotification("AdetundeExploit", "Fully upgraded everything possible!", 7)
+                                            hasnt_upgraded_everything = false
+                                        else
+                                            local things = {}
+                                            for i, v in pairs(adetunde_remotes) do
+                                                table.insert(things, i)
+                                            end
+                                            for i, v in pairs(things) do
+                                                if things[i] == current_upgrador then
+                                                    table.remove(things, i)
+                                                end
+                                            end
+                                            local random = things[math.random(1, #things)]
+                                            current_upgrador = random
+                                        end
+                                    end
+                                end
+                            end
+                        else
+                            local things = {}
+                            for i, v in pairs(adetunde_remotes) do
+                                table.insert(things, i)
+                            end
+                            for i, v in pairs(things) do
+                                if things[i] == current_upgrador then
+                                    table.remove(things, i)
+                                end
+                            end
+                            local random = things[math.random(1, #things)]
+                            current_upgrador = random
+                        end
+                        task.wait(0.1)
+                    until not AdetundeExploit.Enabled or not hasnt_upgraded_everything
+                end)
+                -- else
+                --     AdetundeExploit["ToggleButton"](false)
+                --     warningNotification("AdetundeExploit", "Kit required or you need to be in testing mode", 5)
+                -- end
+            end
+        end
+    })
+
+    local real_list = {}
+    for i, v in pairs(adetunde_remotes) do
+        table.insert(real_list, i)
+    end
+
+    AdetundeExploit_List = AdetundeExploit:CreateDropdown({
+        Name = 'Preferred Upgrade',
+        List = real_list,
+        Function = function() end,
+        Default = "Shield"
+    })
+end)
+
+run(function()
+	local NoNameTag
+	NoNameTag = vape.Categories.Modules:CreateModule({
+		PerformanceModeBlacklisted = true,
+		Name = 'NoNameTag',
+        Tooltip = 'Removes your NameTag.',
+		Function = function(callback)
+			if callback then
+				NoNameTag:Clean(runService.RenderStepped:Connect(function()
+					pcall(function()
+						lplr.Character.Head.Nametag:Destroy()
+					end)
+				end))
+			end
+		end,
+        Default = false
+	})
+end)
+
+run(function()
+	local DamageIndicator = {}
+	local DamageIndicatorColorToggle = {}
+	local DamageIndicatorColor = {Hue = 0, Sat = 0, Value = 0}
+	local DamageIndicatorTextToggle = {}
+	local DamageIndicatorText = {ListEnabled = {}}
+	local DamageIndicatorFontToggle = {}
+	local DamageIndicatorFont = {Value = 'GothamBlack'}
+	local DamageIndicatorTextObjects = {}
+    local DamageIndicatorMode1
+    local DamageMessages = {
+		'Pow!',
+		'Pop!',
+		'Hit!',
+		'Smack!',
+		'Bang!',
+		'Boom!',
+		'Whoop!',
+		'Damage!',
+		'-9e9!',
+		'Whack!',
+		'Crash!',
+		'Slam!',
+		'Zap!',
+		'Snap!',
+		'Thump!'
+	}
+	local RGBColors = {
+		Color3.fromRGB(255, 0, 0),
+		Color3.fromRGB(255, 127, 0),
+		Color3.fromRGB(255, 255, 0),
+		Color3.fromRGB(0, 255, 0),
+		Color3.fromRGB(0, 0, 255),
+		Color3.fromRGB(75, 0, 130),
+		Color3.fromRGB(148, 0, 211)
+	}
+	local orgI, mz, vz = 1, 5, 10
+    local DamageIndicatorMode = {Value = 'Rainbow'}
+	local DamageIndicatorMode2 = {Value = 'Gradient'}
+	DamageIndicator = vape.Categories.Modules:CreateModule({
+        PerformanceModeBlacklisted = true,
+		Name = 'DamageIndicator',
+		Function = function(calling)
+			if calling then
+				task.spawn(function()
+					table.insert(DamageIndicator.Connections, workspace.DescendantAdded:Connect(function(v)
+						pcall(function()
+                            if v.Name ~= 'DamageIndicatorPart' then return end
+							local indicatorobj = v:FindFirstChildWhichIsA('BillboardGui'):FindFirstChildWhichIsA('Frame'):FindFirstChildWhichIsA('TextLabel')
+							if indicatorobj then
+                                if DamageIndicatorColorToggle.Enabled then
+                                    -- indicatorobj.TextColor3 = Color3.fromHSV(DamageIndicatorColor.Hue, DamageIndicatorColor.Sat, DamageIndicatorColor.Value)
+                                    if DamageIndicatorMode.Value == 'Rainbow' then
+                                        if DamageIndicatorMode2.Value == 'Gradient' then
+                                            indicatorobj.TextColor3 = Color3.fromHSV(tick() % mz / mz, orgI, orgI)
+                                        else
+                                            runService.Stepped:Connect(function()
+                                                orgI = (orgI % #RGBColors) + 1
+                                                indicatorobj.TextColor3 = RGBColors[orgI]
+                                            end)
+                                        end
+                                    elseif DamageIndicatorMode.Value == 'Custom' then
+                                        indicatorobj.TextColor3 = Color3.fromHSV(
+                                            DamageIndicatorColor.Hue, 
+                                            DamageIndicatorColor.Sat, 
+                                            DamageIndicatorColor.Value
+                                        )
+                                    else
+                                        indicatorobj.TextColor3 = Color3.fromRGB(127, 0, 255)
+                                    end
+                                end
+                                if DamageIndicatorTextToggle.Enabled then
+                                    if DamageIndicatorMode1.Value == 'Custom' then
+                                        print(getrandomvalue(DamageIndicatorText.ListEnabled))
+                                        local o = getrandomvalue(DamageIndicatorText.ListEnabled)
+                                        indicatorobj.Text = o ~= '' and o or indicatorobj.Text
+									elseif DamageIndicatorMode1.Value == 'Multiple' then
+										indicatorobj.Text = DamageMessages[math.random(orgI, #DamageMessages)]
+									else
+										indicatorobj.Text = 'Render Intents on top!'
+									end
+								end
+								indicatorobj.Font = DamageIndicatorFontToggle.Enabled and Enum.Font[DamageIndicatorFont.Value] or indicatorobject.Font
+							end
+						end)
+					end))
+				end)
+			end
+		end
+	})
+    DamageIndicatorMode = DamageIndicator:CreateDropdown({
+		Name = 'Color Mode',
+		List = {
+			'Rainbow',
+			'Custom',
+			'Lunar'
+		},
+		HoverText = 'Mode to color the Damage Indicator',
+		Value = 'Rainbow',
+		Function = function() end
+	})
+	DamageIndicatorMode2 = DamageIndicator:CreateDropdown({
+		Name = 'Rainbow Mode',
+		List = {
+			'Gradient',
+			'Paint'
+		},
+		HoverText = 'Mode to color the Damage Indicator\nwith Rainbow Color Mode',
+		Value = 'Gradient',
+		Function = function() end
+	})
+    DamageIndicatorMode1 = DamageIndicator:CreateDropdown({
+		Name = 'Text Mode',
+		List = {
+            'Custom',
+			'Multiple',
+			'Lunar'
+		},
+		HoverText = 'Mode to change the Damage Indicator Text',
+		Value = 'Custom',
+		Function = function() end
+	})
+	DamageIndicatorColorToggle = DamageIndicator:CreateToggle({
+		Name = 'Custom Color',
+		Function = function(calling) pcall(function() DamageIndicatorColor.Object.Visible = calling end) end
+	})
+	DamageIndicatorColor = DamageIndicator:CreateColorSlider({
+		Name = 'Text Color',
+		Function = function() end
+	})
+	DamageIndicatorTextToggle = DamageIndicator:CreateToggle({
+		Name = 'Custom Text',
+		HoverText = 'random messages for the indicator',
+		Function = function(calling) pcall(function() DamageIndicatorText.Object.Visible = calling end) end
+	})
+	DamageIndicatorText = DamageIndicator:CreateTextList({
+		Name = 'Text',
+		TempText = 'Indicator Text',
+		AddFunction = function() end
+	})
+	DamageIndicatorFontToggle = DamageIndicator:CreateToggle({
+		Name = 'Custom Font',
+		Function = function(calling) pcall(function() DamageIndicatorFont.Object.Visible = calling end) end
+	})
+	DamageIndicatorFont = DamageIndicator:CreateDropdown({
+		Name = 'Font',
+		List = GetEnumItems('Font'),
+		Function = function() end
+	})
+	DamageIndicatorColor.Object.Visible = DamageIndicatorColorToggle.Enabled
+	DamageIndicatorText.Object.Visible = DamageIndicatorTextToggle.Enabled
+	DamageIndicatorFont.Object.Visible = DamageIndicatorFontToggle.Enabled
+end)
+
+run(function()
+	local HealthbarVisuals = {};
+	local HealthbarRound = {};
+	local HealthbarColorToggle = {};
+	local HealthbarGradientToggle = {};
+	local HealthbarGradientColor = {};
+	local HealthbarHighlight = {};
+	local HealthbarHighlightColor = newcolor();
+	local HealthbarGradientRotation = {Value = 0};
+	local HealthbarTextToggle = {};
+	local HealthbarFontToggle = {};
+	local HealthbarTextColorToggle = {};
+	local HealthbarBackgroundToggle = {};
+	local HealthbarText = {ListEnabled = {}};
+	local HealthbarInvis = {Value = 0};
+	local HealthbarRoundSize = {Value = 4};
+	local HealthbarFont = {value = 'LuckiestGuy'};
+	local HealthbarColor = newcolor();
+	local HealthbarBackground = newcolor();
+	local HealthbarTextColor = newcolor();
+	local healthbarobjects = Performance.new();
+	local oldhealthbar;
+	local healthbarhighlight;
+	local textconnection;
+	local function healthbarFunction()
+		if not HealthbarVisuals.Enabled then 
+			return 
+		end
+		local healthbar = ({pcall(function() return lplr.PlayerGui.hotbar['1'].HotbarHealthbarContainer.HealthbarProgressWrapper['1'] end)})[2]
+		if healthbar and type(healthbar) == 'userdata' then 
+			oldhealthbar = healthbar;
+			healthbar.Transparency = (0.1 * HealthbarInvis.Value);
+			healthbar.BackgroundColor3 = (HealthbarColorToggle.Enabled and Color3.fromHSV(HealthbarColor.Hue, HealthbarColor.Sat, HealthbarColor.Value) or healthbar.BackgroundColor3)
+			if HealthbarGradientToggle.Enabled then 
+				healthbar.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				local gradient = (healthbar:FindFirstChildWhichIsA('UIGradient') or Instance.new('UIGradient', healthbar))
+				gradient.Color = createSequence({0, Color3.fromHSV(HealthbarColor.Hue, HealthbarColor.Sat, HealthbarColor.Value), 1, Color3.fromHSV(HealthbarGradientColor.Hue, HealthbarGradientColor.Sat, HealthbarGradientColor.Value)})
+				gradient.Rotation = HealthbarGradientRotation.Value
+				table.insert(healthbarobjects, gradient)
+			end
+			for i,v in healthbar.Parent:GetChildren() do 
+				if v:IsA('Frame') and v:FindFirstChildWhichIsA('UICorner') == nil and HealthbarRound.Enabled then
+					local corner = Instance.new('UICorner', v);
+					corner.CornerRadius = UDim.new(0, HealthbarRoundSize.Value);
+					table.insert(healthbarobjects, corner)
+				end
+			end
+			local healthbarbackground = ({pcall(function() return healthbar.Parent.Parent end)})[2]
+			if healthbarbackground and type(healthbarbackground) == 'userdata' then
+				healthbar.Transparency = (0.1 * HealthbarInvis.Value);
+				if HealthbarHighlight.Enabled then 
+					local highlight = Instance.new('UIStroke', healthbarbackground);
+					highlight.Color = Color3.fromHSV(HealthbarHighlightColor.Hue, HealthbarHighlightColor.Sat, HealthbarHighlightColor.Value);
+					highlight.Thickness = 1.6; 
+					healthbarhighlight = highlight
+				end
+				if healthbar.Parent.Parent:FindFirstChildWhichIsA('UICorner') == nil and HealthbarRound.Enabled then 
+					local corner = Instance.new('UICorner', healthbar.Parent.Parent);
+					corner.CornerRadius = UDim.new(0, HealthbarRoundSize.Value);
+					table.insert(healthbarobjects, corner)
+				end 
+				if HealthbarBackgroundToggle.Enabled then
+					healthbarbackground.BackgroundColor3 = Color3.fromHSV(HealthbarBackground.Hue, HealthbarBackground.Sat, HealthbarBackground.Value)
+				end
+			end
+			local healthbartext = ({pcall(function() return healthbar.Parent.Parent['1'] end)})[2]
+			if healthbartext and type(healthbartext) == 'userdata' then 
+				local randomtext = getrandomvalue(HealthbarText.ListEnabled)
+				if HealthbarTextColorToggle.Enabled then
+					healthbartext.TextColor3 = Color3.fromHSV(HealthbarTextColor.Hue, HealthbarTextColor.Sat, HealthbarTextColor.Value)
+				end
+				if HealthbarFontToggle.Enabled then 
+					healthbartext.Font = Enum.Font[HealthbarFont.Value]
+				end
+				if randomtext ~= '' and HealthbarTextToggle.Enabled then 
+					healthbartext.Text = randomtext:gsub('<health>', isAlive(lplr, true) and tostring(math.round(lplr.Character:GetAttribute('Health') or 0)) or '0')
+				else
+					pcall(function() healthbartext.Text = tostring(lplr.Character:GetAttribute('Health')) end)
+				end
+				if not textconnection then 
+					textconnection = healthbartext:GetPropertyChangedSignal('Text'):Connect(function()
+						local randomtext = getrandomvalue(HealthbarText.ListEnabled)
+						if randomtext ~= '' then 
+							healthbartext.Text = randomtext:gsub('<health>', isAlive() and tostring(math.floor(lplr.Character:GetAttribute('Health') or 0)) or '0')
+						else
+							pcall(function() healthbartext.Text = tostring(math.floor(lplr.Character:GetAttribute('Health'))) end)
+						end
+					end)
+				end
+			end
+		end
+	end
+	HealthbarVisuals = vape.Categories.Modules:CreateModule({
+		Name = 'HealthbarVisuals',
+		Function = function(calling)
+			if calling then 
+				task.spawn(function()
+					table.insert(HealthbarVisuals.Connections, lplr.PlayerGui.DescendantAdded:Connect(function(v)
+						if v.Name == 'HotbarHealthbarContainer' and v.Parent and v.Parent.Parent and v.Parent.Parent.Name == 'hotbar' then
+							healthbarFunction()
+						end
+					end))
+					healthbarFunction()
+				end)
+			else
+				pcall(function() textconnection:Disconnect() end)
+				pcall(function() oldhealthbar.Parent.Parent.BackgroundColor3 = Color3.fromRGB(41, 51, 65) end)
+				pcall(function() oldhealthbar.BackgroundColor3 = Color3.fromRGB(203, 54, 36) end)
+				pcall(function() oldhealthbar.Parent.Parent['1'].Text = tostring(lplr.Character:GetAttribute('Health')) end)
+				pcall(function() oldhealthbar.Parent.Parent['1'].TextColor3 = Color3.fromRGB(255, 255, 255) end)
+				pcall(function() oldhealthbar.Parent.Parent['1'].Font = Enum.Font.LuckiestGuy end)
+				oldhealthbar = nil
+				textconnection = nil
+				for i,v in healthbarobjects do 
+					pcall(function() v:Destroy() end)
+				end
+				table.clear(healthbarobjects);
+				pcall(function() healthbarhighlight:Destroy() end);
+				healthbarhighlight = nil;
+			end
+		end
+	})
+	HealthbarColorToggle = HealthbarVisuals:CreateToggle({
+		Name = 'Main Color',
+		Default = true,
+		Function = function(calling)
+			pcall(function() HealthbarColor.Object.Visible = calling end)
+			pcall(function() HealthbarGradientToggle.Object.Visible = calling end)
+			if HealthbarVisuals.Enabled then
+				HealthbarVisuals:Toggle()
+				HealthbarVisuals:Toggle()
+			end
+		end 
+	})
+	HealthbarGradientToggle = HealthbarVisuals:CreateToggle({
+		Name = 'Gradient',
+		Function = function(calling)
+			if HealthbarVisuals.Enabled then
+				HealthbarVisuals:Toggle()
+				HealthbarVisuals:Toggle()
+			end
+		end
+	})
+	HealthbarColor = HealthbarVisuals:CreateColorSlider({
+		Name = 'Main Color',
+		Function = function()
+			task.spawn(healthbarFunction)
+		end
+	})
+	HealthbarGradientColor = HealthbarVisuals:CreateColorSlider({
+		Name = 'Secondary Color',
+		Function = function(calling)
+			if HealthbarGradientToggle.Enabled then 
+				task.spawn(healthbarFunction)
+			end
+		end
+	})
+	HealthbarBackgroundToggle = HealthbarVisuals:CreateToggle({
+		Name = 'Background Color',
+		Function = function(calling)
+			pcall(function() HealthbarBackground.Object.Visible = calling end)
+			if HealthbarVisuals.Enabled then
+				HealthbarVisuals:Toggle()
+				HealthbarVisuals:Toggle()
+			end
+		end 
+	})
+	HealthbarBackground = HealthbarVisuals:CreateColorSlider({
+		Name = 'Background Color',
+		Function = function() 
+			task.spawn(healthbarFunction)
+		end
+	})
+	HealthbarTextToggle = HealthbarVisuals:CreateToggle({
+		Name = 'Text',
+		Function = function(calling)
+			pcall(function() HealthbarText.Object.Visible = calling end)
+			if HealthbarVisuals.Enabled then
+				HealthbarVisuals:Toggle()
+				HealthbarVisuals:Toggle()
+			end
+		end 
+	})
+	HealthbarText = HealthbarVisuals:CreateTextList({
+		Name = 'Text',
+		TempText = 'Healthbar Text',
+		AddFunction = function()
+			if HealthbarVisuals.Enabled then
+				HealthbarVisuals:Toggle()
+				HealthbarVisuals:Toggle()
+			end
+		end,
+		RemoveFunction = function()
+			if HealthbarVisuals.Enabled then
+				HealthbarVisuals:Toggle()
+				HealthbarVisuals:Toggle()
+			end
+		end
+	})
+	HealthbarTextColorToggle = HealthbarVisuals:CreateToggle({
+		Name = 'Text Color',
+		Function = function(calling)
+			pcall(function() HealthbarTextColor.Object.Visible = calling end)
+			if HealthbarVisuals.Enabled then
+				HealthbarVisuals:Toggle()
+				HealthbarVisuals:Toggle()
+			end
+		end 
+	})
+	HealthbarTextColor = HealthbarVisuals:CreateColorSlider({
+		Name = 'Text Color',
+		Function = function() 
+			task.spawn(healthbarFunction)
+		end
+	})
+	HealthbarFontToggle = HealthbarVisuals:CreateToggle({
+		Name = 'Text Font',
+		Function = function(calling)
+			pcall(function() HealthbarFont.Object.Visible = calling end)
+			if HealthbarVisuals.Enabled then
+				HealthbarVisuals:Toggle()
+				HealthbarVisuals:Toggle()
+			end
+		end 
+	})
+	HealthbarFont = HealthbarVisuals:CreateDropdown({
+		Name = 'Text Font',
+		List = GetEnumItems('Font'),
+		Function = function(calling)
+			if HealthbarVisuals.Enabled then
+				HealthbarVisuals:Toggle()
+				HealthbarVisuals:Toggle()
+			end
+		end
+	})
+	HealthbarRound = HealthbarVisuals:CreateToggle({
+		Name = 'Round',
+		Function = function(calling)
+			pcall(function() HealthbarRoundSize.Object.Visible = calling end);
+			if HealthbarVisuals.Enabled then
+				HealthbarVisuals:Toggle()
+				HealthbarVisuals:Toggle()
+			end
+		end
+	})
+	HealthbarRoundSize = HealthbarVisuals:CreateSlider({
+		Name = 'Corner Size',
+		Min = 1,
+		Max = 20,
+		Default = 5,
+		Function = function(value)
+			if HealthbarVisuals.Enabled then 
+				pcall(function() 
+					oldhealthbar.Parent:FindFirstChildOfClass('UICorner').CornerRadius = UDim.new(0, value);
+					oldhealthbar.Parent.Parent:FindFirstChildOfClass('UICorner').CornerRadius = UDim.new(0, value)  
+				end)
+			end
+		end
+	})
+	HealthbarHighlight = HealthbarVisuals:CreateToggle({
+		Name = 'Highlight',
+		Function = function(calling)
+			pcall(function() HealthbarHighlightColor.Object.Visible = calling end);
+			if HealthbarVisuals.Enabled then
+				HealthbarVisuals:Toggle()
+				HealthbarVisuals:Toggle()
+			end
+		end
+	})
+	HealthbarHighlightColor = HealthbarVisuals:CreateColorSlider({
+		Name = 'Highlight Color',
+		Function = function()
+			if HealthbarVisuals.Enabled then 
+				pcall(function() healthbarhighlight.Color = Color3.fromHSV(HealthbarHighlightColor.Hue, HealthbarHighlightColor.Sat, HealthbarHighlightColor.Value) end)
+			end
+		end
+	})
+	HealthbarInvis = HealthbarVisuals:CreateSlider({
+		Name = 'Invisibility',
+		Min = 0,
+		Max = 10,
+		Function = function(value)
+			pcall(function() 
+				oldhealthbar.Transparency = (0.1 * value);
+				oldhealthbar.Parent.Parent.Transparency = (0.1 * HealthbarInvis.Value); 
+			end)
+		end
+	})
+	HealthbarBackground.Object.Visible = false;
+	HealthbarText.Object.Visible = false;
+	HealthbarTextColor.Object.Visible = false;
+	HealthbarFont.Object.Visible = false;
+	HealthbarRoundSize.Object.Visible = false;
+	HealthbarHighlightColor.Object.Visible = false;
+end)
+
+run(function()
+	local PlayerViewModel = {};
+    local viewmodelMode = {};
+	local viewmodel = Performance.new()
+	local reModel = function(entity)
+		for i,v in entity.Character:GetChildren() do
+			if v:IsA('BasePart') or v:IsA('Accessory') then
+				pcall(function() v.Transparency = 1 end)
+			end
+		end
+		local part = Instance.new("Part", entity.Character)
+		part.CanCollide = false
+
+		local mesh = Instance.new("SpecialMesh", part)
+		mesh.MeshId = viewmodelMode.Value == 'Among Us' and 'http://www.roblox.com/asset/?id=6235963214' or 'http://www.roblox.com/asset/?id=13004256866'
+		mesh.TextureId = viewmodelMode.Value == 'Among Us' and 'http://www.roblox.com/asset/?id=6235963270' or 'http://www.roblox.com/asset/?id=13004256905'
+		mesh.Offset = viewmodelMode.Value == 'Rabbit' and Vector3.new(0,1.6,0) or Vector3.new(0,0.3,0)
+		mesh.Scale = viewmodelMode.Value == 'Rabbit' and Vector3.new(10, 8, 10) or Vector3.new(0.11, 0.11, 0.11)
+
+		local weld = Instance.new("Weld", part)
+		weld.Part0 = part
+		weld.Part1 = part.Parent.UpperTorso or part.Parent.Torso
+		
+		table.insert(viewmodel, task.spawn(function()
+			viewmodel[entity.Name] = part
+		end))
+	end;
+	local removeModel = function(ent)
+        viewmodel[ent.Name]:Remove()
+        for i,v in ent.Character:GetChildren() do
+            if v:IsA('BasePart') or v:IsA('Accessory') then
+                pcall(function() 
+                    if v ~= ent.Character.PrimaryPart then 
+                        v.Transparency = 0 
+                    end 
+                end)
+            end
+        end
+        viewmodel[ent.Name] = nil
+		task.wait(1)
+	end
+	PlayerViewModel = vape.Categories.Modules:CreateModule({
+		Name = 'PlayerViewModel',
+		Function = function(call)
+			if call then
+				for i,v in playersService:GetPlayers() do
+					table.insert(PlayerViewModel.Connections, v.CharacterAdded:Connect(function()
+						pcall(function() removeModel(v) end)
+						task.spawn(pcall, reModel, v)
+					end))
+				end
+				table.insert(PlayerViewModel.Connections, playersService.PlayerAdded:Connect(function(v)
+					table.insert(PlayerViewModel.Connections, v.CharacterAdded:Connect(function()
+						task.spawn(pcall, removeModel, v)
+						task.spawn(pcall, reModel, v)
+					end))
+				end))
+				RunLoops:BindToHeartbeat('PlayerVM', function()
+					for i,v in playersService:GetPlayers() do
+						if isAlive(v) and not viewmodel[v.Name] then
+                            if not PlayerViewModel.Enabled then break end
+							task.spawn(pcall, reModel, v)
+						end
+					end
+				end)
+			else
+                RunLoops:UnbindFromHeartbeat('PlayerVM')
+                for i,v in playersService:GetPlayers() do
+                    task.spawn(pcall, removeModel, v)
+                end
+			end
+		end,
+		HoverText = 'Turns you into a curtain model'
+	})
+    viewmodelMode = PlayerViewModel:CreateDropdown({
+        Name = 'Model',
+        List = {'Among Us', 'Rabbit'},
+        Function = function()
+			PlayerViewModel:Toggle()
+        end,
+        Default = 'Among Us'
+    })
+end);
+
+
+run(function()
+	local queuecardvisuals = {};
+	local queucardvisualsgradientoption = {};
+	local queuecardvisualhighlight = {};
+	local queuecardmodshighlightcolor = newcolor();
+	local queuecardvisualscolor = newcolor();
+	local queuecardvisualscolor2 = newcolor();
+	local queuecardobjects = Performance.new();
+	local queuecardvisualsround = {Value = 4};
+	local queuecardfunc: () -> () = function()
+		if not lplr.PlayerGui:FindFirstChild('QueueApp') then return end;
+		if not queuecardvisuals.Enabled then return end;
+		local card: Frame = lplr.PlayerGui.QueueApp:WaitForChild('1', math.huge);
+		local cardcorner: UICorner = card:FindFirstChildOfClass('UICorner') or Instance.new('UICorner', card);
+		card.BackgroundColor3 = Color3.fromHSV(queuecardvisualscolor.Hue, queuecardvisualscolor.Sat, queuecardvisualscolor.Value);
+		cardcorner.CornerRadius = queuecardvisualsround.Value;
+		if table.find(queuecardobjects, cardcorner) == nil then 
+			table.insert(queuecardobjects, cardcorner);
+		end;
+		if queucardvisualsgradientoption.Enabled then 
+			card.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+			local gradient = card:FindFirstChildWhichIsA('UIGradient') or Instance.new('UIGradient', card);
+			gradient.Color = ColorSequence.new({
+				[1] = ColorSequenceKeypoint.new(0, Color3.fromHSV(queuecardvisualscolor.Hue, queuecardvisualscolor.Sat, queuecardvisualscolor.Value)), 
+				[2] = ColorSequenceKeypoint.new(1, Color3.fromHSV(queuecardvisualscolor2.Hue, queuecardvisualscolor2.Sat, queuecardvisualscolor2.Value))
+			});
+			if table.find(queuecardobjects, gradient) == nil then
+				table.insert(queuecardobjects, gradient);
+			end;
+		end;
+		if queuecardvisualhighlight.Enabled then 
+			local highlight: UIStroke? = card:FindFirstChildOfClass('UIStroke') or Instance.new('UIStroke', card);
+			highlight.Thickness = 1.7;
+			highlight.Color = Color3.fromHSV(queuecardmodshighlightcolor.Hue, queuecardmodshighlightcolor.Sat, queuecardmodshighlightcolor.Value);
+			if table.find(queuecardobjects, highlight) == nil then
+				table.insert(queuecardobjects, highlight);
+			end;
+		else
+			pcall(function() card:FindFirstChildOfClass('UIStroke'):Destroy() end)
+		end;
+	end;
+	queuecardvisuals = vape.Categories.Modules:CreateModule({
+		Name = 'QueueCardVisuals',
+		Function = function(calling: boolean)
+			if calling then 
+				pcall(queuecardfunc);
+				table.insert(queuecardvisuals.Connections, lplr.PlayerGui.ChildAdded:Connect(queuecardfunc));
+			else
+				queuecardobjects:clear(game.Destroy)
+			end
+		end
+	});
+	queucardvisualsgradientoption = queuecardvisuals:CreateToggle({
+		Name = 'Gradient',
+		Function = function(calling)
+			pcall(function() queuecardvisualscolor2.Object.Visible = calling end) 
+		end
+	});
+	queuecardvisualsround = queuecardvisuals:CreateSlider({
+		Name = 'Rounding',
+		Min = 0,
+		Max = 20,
+		Default = 4,
+		Function = function(value: number): ()
+			for i: number, v: UICorner? in queuecardobjects do 
+				if v.ClassName == 'UICorner' then 
+					v.CornerRadius = value;
+				end;
+			end
+		end
+	})
+	queuecardvisualscolor = queuecardvisuals:CreateColorSlider({
+		Name = 'Color',
+		Function = function()
+			task.spawn(pcall, queuecardfunc)
+		end
+	});
+	queuecardvisualscolor2 = queuecardvisuals:CreateColorSlider({
+		Name = 'Color 2',
+		Function = function()
+			task.spawn(pcall, queuecardfunc)
+		end
+	});
+	queuecardvisualhighlight = queuecardvisuals:CreateToggle({
+		Name = 'Highlight',
+		Function = function()
+			task.spawn(pcall, queuecardfunc)
+		end
+	});
+	queuecardmodshighlightcolor = queuecardvisuals:CreateColorSlider({
+		Name = 'Highlight Color',
+		Function = function()
+			task.spawn(pcall, queuecardfunc)
+		end;
+	});
+end);
+
+run(function()
+	local Atmosphere: table = {["Enabled"] = false};
+	local Toggles: table = {}
+	local themeName: any;
+	local newobjects: table, oldobjects: table = {}, {}
+    local function BeforeShaders()
+        return {
+            Brightness = lightingService.Brightness,
+            ColorShift_Bottom = lightingService.ColorShift_Bottom,
+            ColorShift_Top = lightingService.ColorShift_Top,
+            OutdoorAmbient = lightingService.OutdoorAmbient,
+            TimeOfDay = lightingService.TimeOfDay,
+            FogColor = lightingService.FogColor,
+            FogEnd = lightingService.FogEnd,
+            FogStart = lightingService.FogStart,
+            ExposureCompensation = lightingService.ExposureCompensation,
+            ShadowSoftness = lightingService.ShadowSoftness,
+            Ambient = lightingService.Ambient,
+            children = lightingService:GetChildren()
+        }
+    end
+    local function restoreDefault(lightingState)
+        lightingService:ClearAllChildren()
+        lightingService.Brightness = lightingState.Brightness
+        lightingService.ColorShift_Bottom = lightingState.ColorShift_Bottom
+        lightingService.ColorShift_Top = lightingState.ColorShift_Top
+        lightingService.OutdoorAmbient = lightingState.OutdoorAmbient
+        lightingService.TimeOfDay = lightingState.TimeOfDay
+        lightingService.FogColor = lightingState.FogColor
+        lightingService.FogEnd = lightingState.FogEnd
+        lightingService.FogStart = lightingState.FogStart
+        lightingService.ExposureCompensation = lightingState.ExposureCompensation
+        lightingService.ShadowSoftness = lightingState.ShadowSoftness
+        lightingService.Ambient = lightingState.Ambient
+        for _, child in next, workspace.ItemDrops:GetChildren() do
+            child.Parent = lightingService
+        end
+    end
+	local apidump: table = {
+		Sky = {
+			SkyboxUp = 'Text',
+			SkyboxDn = 'Text',
+			SkyboxLf = 'Text',
+			SkyboxRt = 'Text',
+			SkyboxFt = 'Text',
+			SkyboxBk = 'Text',
+			SunTextureId = 'Text',
+			SunAngularSize = 'Number',
+			MoonTextureId = 'Text',
+			MoonAngularSize = 'Number',
+			StarCount = 'Number'
+		},
+		Atmosphere = {
+			Color = 'Color',
+			Decay = 'Color',
+			Density = 'Number',
+			Offset = 'Number',
+			Glare = 'Number',
+			Haze = 'Number'
+		},
+		BloomEffect = {
+			Intensity = 'Number',
+			Size = 'Number',
+			Threshold = 'Number'
+		},
+		DepthOfFieldEffect = {
+			FarIntensity = 'Number',
+			FocusDistance = 'Number',
+			InFocusRadius = 'Number',
+			NearIntensity = 'Number'
+		},
+		SunRaysEffect = {
+			Intensity = 'Number',
+			Spread = 'Number'
+		},
+		ColorCorrectionEffect = {
+			TintColor = 'Color',
+			Saturation = 'Number',
+			Contrast = 'Number',
+			Brightness = 'Number'
+		}
+	}
+	local skyThemes: table = {
+		Purple = {
+			SkyboxBk = 'rbxassetid://8539982183',
+			SkyboxDn = 'rbxassetid://8539981943',
+			SkyboxFt = 'rbxassetid://8539981721',
+			SkyboxLf = 'rbxassetid://8539981424',
+			SkyboxRt = 'rbxassetid://8539980766',
+			SkyboxUp = 'rbxassetid://8539981085',
+			MoonAngularSize = 0,
+			SunAngularSize = 0,
+			StarCount = 3000,
+		},
+		Galaxy = {
+			SkyboxBk = 'rbxassetid://159454299',
+			SkyboxDn = 'rbxassetid://159454296',
+			SkyboxFt = 'rbxassetid://159454293',
+			SkyboxLf = 'rbxassetid://159454293',
+			SkyboxRt = 'rbxassetid://159454293',
+			SkyboxUp = 'rbxassetid://159454288',
+			SunAngularSize = 0,
+		},
+		BetterNight = {
+			SkyboxBk = 'rbxassetid://155629671',
+			SkyboxDn = 'rbxassetid://12064152',
+			SkyboxFt = 'rbxassetid://155629677',
+			SkyboxLf = 'rbxassetid://155629662',
+			SkyboxRt = 'rbxassetid://155629666',
+			SkyboxUp = 'rbxassetid://155629686',
+			SunAngularSize = 0,
+		},
+		BetterNight2 = {
+			SkyboxBk = 'rbxassetid://248431616',
+			SkyboxDn = 'rbxassetid://248431677',
+			SkyboxFt = 'rbxassetid://248431598',
+			SkyboxLf = 'rbxassetid://248431686',
+			SkyboxRt = 'rbxassetid://248431611',
+			SkyboxUp = 'rbxassetid://248431605',
+			StarCount = 3000,
+		},
+		MagentaOrange = {
+			SkyboxBk = 'rbxassetid://566616113',
+			SkyboxDn = 'rbxassetid://566616232',
+			SkyboxFt = 'rbxassetid://566616141',
+			SkyboxLf = 'rbxassetid://566616044',
+			SkyboxRt = 'rbxassetid://566616082',
+			SkyboxUp = 'rbxassetid://566616187',
+			StarCount = 3000,
+		},
+		Purple2 = {
+			SkyboxBk = 'rbxassetid://8107841671',
+			SkyboxDn = 'rbxassetid://6444884785',
+			SkyboxFt = 'rbxassetid://8107841671',
+			SkyboxLf = 'rbxassetid://8107841671',
+			SkyboxRt = 'rbxassetid://8107841671',
+			SkyboxUp = 'rbxassetid://8107849791',
+			SunTextureId = 'rbxassetid://6196665106',
+			MoonTextureId = 'rbxassetid://6444320592',
+			MoonAngularSize = 0,
+		},
+		Galaxy2 = {
+			SkyboxBk = 'rbxassetid://14164368678',
+			SkyboxDn = 'rbxassetid://14164386126',
+			SkyboxFt = 'rbxassetid://14164389230',
+			SkyboxLf = 'rbxassetid://14164398493',
+			SkyboxRt = 'rbxassetid://14164402782',
+			SkyboxUp = 'rbxassetid://14164405298',
+			SunTextureId = 'rbxassetid://8281961896',
+			MoonTextureId = 'rbxassetid://6444320592',
+			SunAngularSize = 0,
+			MoonAngularSize = 0,
+		},
+		Pink = {
+			SkyboxBk = 'rbxassetid://271042516',
+			SkyboxDn = 'rbxassetid://271077243',
+			SkyboxFt = 'rbxassetid://271042556',
+			SkyboxLf = 'rbxassetid://271042310',
+			SkyboxRt = 'rbxassetid://271042467',
+			SkyboxUp = 'rbxassetid://271077958',
+		},
+		PurpleMountains = {
+			SkyboxBk = 'rbxassetid://17901353811',
+			SkyboxDn = 'rbxassetid://17901366771',
+			SkyboxFt = 'rbxassetid://17901356262',
+			SkyboxLf = 'rbxassetid://17901359687',
+			SkyboxRt = 'rbxassetid://17901362326',
+			SkyboxUp = 'rbxassetid://17901365106',
+			SunAngularSize = 0,
+		},
+		AestheticMountains = {
+			SkyboxBk = 'rbxassetid://15470198023',
+			SkyboxDn = 'rbxassetid://15470151245',
+			SkyboxFt = 'rbxassetid://15470200128',
+			SkyboxLf = 'rbxassetid://15470202648',
+			SkyboxRt = 'rbxassetid://15470204862',
+			SkyboxUp = 'rbxassetid://15470207755',
+			MoonAngularSize = 11,
+			SunAngularSize = 21,
+		},
+		OverPlanet = {
+			SkyboxBk = 'rbxassetid://165052268',
+			SkyboxDn = 'rbxassetid://165052286',
+			SkyboxFt = 'rbxassetid://165052328',
+			SkyboxLf = 'rbxassetid://165052365',
+			SkyboxRt = 'rbxassetid://165052306',
+			SkyboxUp = 'rbxassetid://165052345',
+			MoonAngularSize = 11,
+			SunAngularSize = 21,
+			StarCount = 3000,
+		},
+		Beach = {
+			SkyboxBk = 'rbxassetid://173380597',
+			SkyboxDn = 'rbxassetid://173380627',
+			SkyboxFt = 'rbxassetid://173380642',
+			SkyboxLf = 'rbxassetid://173380671',
+			SkyboxRt = 'rbxassetid://173380774',
+			SkyboxUp = 'rbxassetid://173380790',
+			MoonAngularSize = 11,
+			SunAngularSize = 21,
+		},
+		RedNight = {
+			SkyboxBk = 'rbxassetid://401664839',
+			SkyboxDn = 'rbxassetid://401664862',
+			SkyboxFt = 'rbxassetid://401664960',
+			SkyboxLf = 'rbxassetid://401664881',
+			SkyboxRt = 'rbxassetid://401664901',
+			SkyboxUp = 'rbxassetid://401664936',
+			SunAngularSize = 0,
+		},
+		GreenHaze = {
+			SkyboxBk = 'rbxassetid://160193404',
+			SkyboxDn = 'rbxassetid://160193466',
+			SkyboxFt = 'rbxassetid://160193461',
+			SkyboxLf = 'rbxassetid://160193469',
+			SkyboxRt = 'rbxassetid://160193463',
+			SkyboxUp = 'rbxassetid://160193458',
+			SunAngularSize = 0,
+		},
+		Purple3 = {
+			SkyboxBk = 'rbxassetid://433274085',
+			SkyboxDn = 'rbxassetid://433274194',
+			SkyboxFt = 'rbxassetid://433274131',
+			SkyboxLf = 'rbxassetid://433274370',
+			SkyboxRt = 'rbxassetid://433274429',
+			SkyboxUp = 'rbxassetid://433274285',
+		},
+		DarkishPink = {
+			SkyboxBk = 'rbxassetid://570555736',
+			SkyboxDn = 'rbxassetid://570555964',
+			SkyboxFt = 'rbxassetid://570555800',
+			SkyboxLf = 'rbxassetid://570555840',
+			SkyboxRt = 'rbxassetid://570555882',
+			SkyboxUp = 'rbxassetid://570555929',
+		},
+		Space = {
+			MoonAngularSize = 0,
+			SunAngularSize = 0,
+			SkyboxBk = 'rbxassetid://166509999',
+			SkyboxDn = 'rbxassetid://166510057',
+			SkyboxFt = 'rbxassetid://166510116',
+			SkyboxLf = 'rbxassetid://166510092',
+			SkyboxRt = 'rbxassetid://166510131',
+			SkyboxUp = 'rbxassetid://166510114',
+		},
+		Space2 = {
+			SkyboxBk = 'rbxassetid://11844076072',
+			SkyboxDn = 'rbxassetid://11844069700',
+			SkyboxFt = 'rbxassetid://11844067209',
+			SkyboxLf = 'rbxassetid://11844063543',
+			SkyboxRt = 'rbxassetid://11844058446',
+			SkyboxUp = 'rbxassetid://11844053742',
+			MoonTextureId = 'rbxassetid://11844121592',
+			SunAngularSize = 11,
+			StarCount = 3e3, -- This is a valid way to write 3000 in Lua (scientific notation)
+			MoonAngularSize = 20,
+		},
+		Galaxy3 = {
+			MoonAngularSize = 0,
+			SunAngularSize = 0,
+			SkyboxBk = 'rbxassetid://14543264135',
+			SkyboxDn = 'rbxassetid://14543358958',
+			SkyboxFt = 'rbxassetid://14543257810',
+			SkyboxLf = 'rbxassetid://14543275895',
+			SkyboxRt = 'rbxassetid://14543280890',
+			SkyboxUp = 'rbxassetid://14543371676',
+		},
+		NetherWorld = {
+			MoonAngularSize = 0,
+			SunAngularSize = 0,
+			SkyboxBk = 'rbxassetid://14365019002',
+			SkyboxDn = 'rbxassetid://14365023350',
+			SkyboxFt = 'rbxassetid://14365018399',
+			SkyboxLf = 'rbxassetid://14365018705',
+			SkyboxRt = 'rbxassetid://14365018143',
+			SkyboxUp = 'rbxassetid://14365019327',
+		},
+		Nebula = {
+			MoonAngularSize = 0,
+			SunAngularSize = 0,
+			SkyboxBk = 'rbxassetid://5260808177',
+			SkyboxDn = 'rbxassetid://5260653793',
+			SkyboxFt = 'rbxassetid://5260817288',
+			SkyboxLf = 'rbxassetid://5260800833',
+			SkyboxRt = 'rbxassetid://5260811073',
+			SkyboxUp = 'rbxassetid://5260824661',
+		},
+		PurpleSpace = {
+			MoonAngularSize = 0,
+			SunAngularSize = 0,
+			SkyboxBk = 'rbxassetid://15983968922',
+			SkyboxDn = 'rbxassetid://15983966825',
+			SkyboxFt = 'rbxassetid://15983965025', -- This was duplicated, I kept this one.
+			SkyboxLf = 'rbxassetid://15983967420',
+			SkyboxRt = 'rbxassetid://15983966246',
+			SkyboxUp = 'rbxassetid://15983964246',
+			StarCount = 3000,
+		},
+		PurpleNight = {
+			MoonAngularSize = 0,
+			SunAngularSize = 0,
+			SkyboxBk = 'rbxassetid://5260808177',
+			SkyboxDn = 'rbxassetid://5260653793',
+			SkyboxFt = 'rbxassetid://5260817288',
+			SkyboxLf = 'rbxassetid://5260800833',
+			SkyboxRt = 'rbxassetid://5260800833',
+			SkyboxUp = 'rbxassetid://5084576400',
+		},
+		Aesthetic = {
+			MoonAngularSize = 0,
+			SunAngularSize = 0,
+			SkyboxBk = 'rbxassetid://1417494030',
+			SkyboxDn = 'rbxassetid://1417494146',
+			SkyboxFt = 'rbxassetid://1417494253',
+			SkyboxLf = 'rbxassetid://1417494402',
+			SkyboxRt = 'rbxassetid://1417494499',
+			SkyboxUp = 'rbxassetid://1417494643',
+		},
+		Aesthetic2 = {
+			MoonAngularSize = 0,
+			SunAngularSize = 0,
+			SkyboxBk = 'rbxassetid://600830446',
+			SkyboxDn = 'rbxassetid://600831635',
+			SkyboxFt = 'rbxassetid://600832720',
+			SkyboxLf = 'rbxassetid://600886090',
+			SkyboxRt = 'rbxassetid://600833862',
+			SkyboxUp = 'rbxassetid://600835177',
+		},
+		Pastel = {
+			SunAngularSize = 0,
+			MoonAngularSize = 0,
+			SkyboxBk = 'rbxassetid://2128458653',
+			SkyboxDn = 'rbxassetid://2128462480',
+			SkyboxFt = 'rbxassetid://2128458653',
+			SkyboxLf = 'rbxassetid://2128462027',
+			SkyboxRt = 'rbxassetid://2128462027',
+			SkyboxUp = 'rbxassetid://2128462236',
+		},
+		PurpleClouds = {
+			SkyboxBk = 'rbxassetid://570557514',
+			SkyboxDn = 'rbxassetid://570557775',
+			SkyboxFt = 'rbxassetid://570557559',
+			SkyboxLf = 'rbxassetid://570557620',
+			SkyboxRt = 'rbxassetid://570557672',
+			SkyboxUp = 'rbxassetid://570557727',
+		},
+		BetterSky = {
+			-- The 'if skyobj then' check isn't needed here if this is purely data.
+			-- This entry defines properties directly, just like the others.
+			SkyboxBk = 'rbxassetid://591058823',
+			SkyboxDn = 'rbxassetid://591059876',
+			SkyboxFt = 'rbxassetid://591058104',
+			SkyboxLf = 'rbxassetid://591057861',
+			SkyboxRt = 'rbxassetid://591057625',
+			SkyboxUp = 'rbxassetid://591059642',
+		},
+		DarkClouds = {
+			SkyboxBk = 'rbxassetid://190477248',
+			SkyboxDn = 'rbxassetid://190477222',
+			SkyboxFt = 'rbxassetid://190477200',
+			SkyboxLf = 'rbxassetid://190477185',
+			SkyboxRt = 'rbxassetid://190477166',
+			SkyboxUp = 'rbxassetid://190477146',
+			MoonAngularSize = 1.5,
+			StarCount = 0,
+		},
+		Pinkie = {
+			SkyboxBk = 'rbxassetid://11555017034',
+			SkyboxDn = 'rbxassetid://11555013415',
+			SkyboxFt = 'rbxassetid://11555010145',
+			SkyboxLf = 'rbxassetid://11555006545',
+			SkyboxRt = 'rbxassetid://11555000712',
+			SkyboxUp = 'rbxassetid://11554996247',
+			MoonAngularSize = 1.5,
+			StarCount = 0,
+		},
+		Hell = {
+			SkyboxBk = 'rbxassetid://11730840088',
+			SkyboxDn = 'rbxassetid://11730842997',
+			SkyboxFt = 'rbxassetid://11730849615',
+			SkyboxLf = 'rbxassetid://11730852920',
+			SkyboxRt = 'rbxassetid://11730855491',
+			SkyboxUp = 'rbxassetid://11730857150',
+			MoonAngularSize = 11,
+			StarCount = 3000,
+		},
+		BetterNight3 = {
+			MoonTextureId = 'rbxassetid://1075087760',
+			SkyboxBk = 'rbxassetid://2670643994',
+			SkyboxDn = 'rbxassetid://2670643365',
+			SkyboxFt = 'rbxassetid://2670643214',
+			SkyboxLf = 'rbxassetid://2670643070',
+			SkyboxRt = 'rbxassetid://2670644173',
+			SkyboxUp = 'rbxassetid://2670644331',
+			MoonAngularSize = 1.5,
+			StarCount = 500,
+		},
+		Orange = {
+			SkyboxBk = 'rbxassetid://150939022',
+			SkyboxDn = 'rbxassetid://150939038',
+			SkyboxFt = 'rbxassetid://150939047',
+			SkyboxLf = 'rbxassetid://150939056',
+			SkyboxRt = 'rbxassetid://150939063',
+			SkyboxUp = 'rbxassetid://150939082',
+		},
+		DarkMountains = {
+			SkyboxBk = 'rbxassetid://5098814730',
+			SkyboxDn = 'rbxassetid://5098815227',
+			SkyboxFt = 'rbxassetid://5098815653',
+			SkyboxLf = 'rbxassetid://5098816155',
+			SkyboxRt = 'rbxassetid://5098820352',
+			SkyboxUp = 'rbxassetid://5098819127',
+		},
+		FlamingSunset = {
+			SkyboxBk = 'rbxassetid://415688378',
+			SkyboxDn = 'rbxassetid://415688193',
+			SkyboxFt = 'rbxassetid://415688242',
+			SkyboxLf = 'rbxassetid://415688310',
+			SkyboxRt = 'rbxassetid://415688274',
+			SkyboxUp = 'rbxassetid://415688354',
+		},
+		Nebula2 = {
+			MoonAngularSize = 0,
+			SunAngularSize = 0,
+			SkyboxBk = 'rbxassetid://16932794531',
+			SkyboxDn = 'rbxassetid://16932797813',
+			SkyboxFt = 'rbxassetid://16932800523',
+			SkyboxLf = 'rbxassetid://16932803722',
+			SkyboxRt = 'rbxassetid://16932806825',
+			SkyboxUp = 'rbxassetid://16932810138',
+		},
+		Nebula3 = {
+			MoonAngularSize = 0,
+			SunAngularSize = 0,
+			SkyboxBk = 'rbxassetid://17839210699',
+			SkyboxDn = 'rbxassetid://17839215896',
+			SkyboxFt = 'rbxassetid://17839218166',
+			SkyboxLf = 'rbxassetid://17839220800',
+			SkyboxRt = 'rbxassetid://17839223605',
+			SkyboxUp = 'rbxassetid://17839226876',
+		},
+		Nebula4 = {
+			MoonAngularSize = 0,
+			SunAngularSize = 0,
+			SkyboxBk = 'rbxassetid://17103618635',
+			SkyboxDn = 'rbxassetid://17103622190',
+			SkyboxFt = 'rbxassetid://17103624898',
+			SkyboxLf = 'rbxassetid://17103628153',
+			SkyboxRt = 'rbxassetid://17103636666',
+			SkyboxUp = 'rbxassetid://17103639457',
+		},
+		NewYork = {
+			SkyboxBk = 'rbxassetid://11333973069',
+			SkyboxDn = 'rbxassetid://11333969768',
+			SkyboxFt = 'rbxassetid://11333964303',
+			SkyboxLf = 'rbxassetid://11333971332',
+			SkyboxRt = 'rbxassetid://11333982864',
+			SkyboxUp = 'rbxassetid://11333967970',
+			SunAngularSize = 0,
+		},
+		Aesthetic3 = {
+			SkyboxBk = 'rbxassetid://151165214',
+			SkyboxDn = 'rbxassetid://151165197',
+			SkyboxFt = 'rbxassetid://151165224',
+			SkyboxLf = 'rbxassetid://151165191',
+			SkyboxRt = 'rbxassetid://151165206',
+			SkyboxUp = 'rbxassetid://151165227',
+		},
+		FakeClouds = {
+			SkyboxBk = 'rbxassetid://8496892810',
+			SkyboxDn = 'rbxassetid://8496896250',
+			SkyboxFt = 'rbxassetid://8496892810',
+			SkyboxLf = 'rbxassetid://8496892810',
+			SkyboxRt = 'rbxassetid://8496892810',
+			SkyboxUp = 'rbxassetid://8496897504',
+			SunAngularSize = 0,
+		},
+		LunarNight = {
+			SkyboxBk = 'rbxassetid://187713366',
+			SkyboxDn = 'rbxassetid://187712428',
+			SkyboxFt = 'rbxassetid://187712836',
+			SkyboxLf = 'rbxassetid://187713755',
+			SkyboxRt = 'rbxassetid://187714525',
+			SkyboxUp = 'rbxassetid://187712111',
+			SunAngularSize = 0,
+			StarCount = 0,
+		},
+		FPSBoost = {
+			SkyboxBk = 'rbxassetid://11457548274',
+			SkyboxDn = 'rbxassetid://11457548274',
+			SkyboxFt = 'rbxassetid://11457548274',
+			SkyboxLf = 'rbxassetid://11457548274',
+			SkyboxRt = 'rbxassetid://11457548274',
+			SkyboxUp = 'rbxassetid://11457548274',
+			SunAngularSize = 0,
+			StarCount = 3000,
+		},
+		PurplePlanet = {
+			SkyboxBk = 'rbxassetid://16262356578',
+			SkyboxDn = 'rbxassetid://16262358026',
+			SkyboxFt = 'rbxassetid://16262360469',
+			SkyboxLf = 'rbxassetid://16262362003',
+			SkyboxRt = 'rbxassetid://16262363873',
+			SkyboxUp = 'rbxassetid://16262366016',
+			SunAngularSize = 21,
+			StarCount = 3000,
+		},
+		BluePlanet = {
+			SkyboxBk = 'rbxassetid://16888989874',
+			SkyboxDn = 'rbxassetid://16888991855',
+			SkyboxFt = 'rbxassetid://16888995219',
+			SkyboxLf = 'rbxassetid://16888998994',
+			SkyboxRt = 'rbxassetid://16889000916',
+			SkyboxUp = 'rbxassetid://16889004122',
+			SunAngularSize = 21,
+			StarCount = 3000,
+		},
+		Mountains = {
+			SkyboxBk = 'rbxassetid://15359410490',
+			SkyboxDn = 'rbxassetid://15359411132',
+			SkyboxFt = 'rbxassetid://15359412131',
+			SkyboxLf = 'rbxassetid://15359411633',
+			SkyboxRt = 'rbxassetid://15359417656',
+			SkyboxUp = 'rbxassetid://15359412677',
+			SunAngularSize = 21,
+			StarCount = 3000,
+		},
+		LunarNight2 = {
+			SkyboxBk = 'rbxassetid://14365026085',
+			SkyboxDn = 'rbxassetid://14365026242',
+			SkyboxFt = 'rbxassetid://14365025735',
+			SkyboxLf = 'rbxassetid://14365025904',
+			SkyboxRt = 'rbxassetid://14365025444',
+			SkyboxUp = 'rbxassetid://14365026442',
+			SunAngularSize = 21,
+			StarCount = 3000,
+		},
+		FunnyStorm = {
+			SkyboxBk = 'rbxassetid://6280934001',
+			SkyboxDn = 'rbxassetid://6280935347',
+			SkyboxFt = 'rbxassetid://6280936575',
+			SkyboxLf = 'rbxassetid://6280938749',
+			SkyboxRt = 'rbxassetid://6280940989',
+			SkyboxUp = 'rbxassetid://6280942402',
+			SunAngularSize = 21,
+			StarCount = 3000,
+		},
+		Flame = {
+			SkyboxBk = 'rbxassetid://6286780109',
+			SkyboxDn = 'rbxassetid://6286782353',
+			SkyboxFt = 'rbxassetid://6286784186',
+			SkyboxLf = 'rbxassetid://6286785801',
+			SkyboxRt = 'rbxassetid://6286788245',
+			SkyboxUp = 'rbxassetid://6286790025',
+			SunAngularSize = 21,
+			StarCount = 3000,
+		},
+		BlueSpace = {
+			SkyboxBk = 'rbxassetid://16876541778',
+			SkyboxDn = 'rbxassetid://16876543880',
+			SkyboxFt = 'rbxassetid://16876546384',
+			SkyboxLf = 'rbxassetid://16876548320',
+			SkyboxRt = 'rbxassetid://16876550345',
+			SkyboxUp = 'rbxassetid://16876552681',
+			SunAngularSize = 21,
+			StarCount = 3000,
+		}
+	}
+
+    local ILS: any = BeforeShaders()
+	local function removeObject(v)
+		if not table.find(newobjects, v) then 
+			local toggle = Toggles[v.ClassName]
+			if toggle and toggle.Toggle["Enabled"] then
+				table.insert(oldobjects, v)
+				v.Parent = game
+			end
+		end
+	end
+	
+	local function themes(val)
+        local theme = skyThemes[themeName["Value"]]
+        if theme then
+            local sky = lightingService:FindFirstChild("CustomSky") or Instance.new("Sky", lightingService)
+            for v, value in next, theme do
+                if v ~= "Atmosphere" then
+                    sky[v] = value
+                end
+            end
+        end;
+    end;
+
+	Atmosphere = vape.Categories.Modules:CreateModule({
+		["Name"] = 'Atmosphere',
+		["Function"] = function(callback: boolean): void
+			if callback then
+				for _, v in lightingService:GetChildren() do
+                    if v:IsA('PostEffect') or v:IsA('Sky') or v:IsA('Atmosphere') or v:IsA('Clouds') then
+                        v:Destroy()
+                    end
+                end
+
+                for _, v in workspace:GetDescendants() do
+                    if v:IsA("Clouds") then
+                        v:Destroy()
+                    end;
+                end;
+				local d: number = 0
+				local r: any = workspace.Terrain
+				for _, v in lightingService:GetChildren() do
+                    if v:IsA('PostEffect') or v:IsA('Sky') or v:IsA('Atmosphere') or v:IsA('Clouds') then -- Added Clouds
+                        v:Destroy();
+                    end;
+                end;
+				lightingService.Brightness = d + 1;
+                lightingService.EnvironmentDiffuseScale = d + 0.2;
+                lightingService.EnvironmentSpecularScale = d + 0.82;
+
+                local sunRays = Instance.new('SunRaysEffect')
+                table.insert(newobjects, sunRays)
+                pcall(function() sunRays.Parent = lightingService end)
+
+                local atmosphere = Instance.new('Atmosphere')
+                table.insert(newobjects, atmosphere)
+                pcall(function() atmosphere.Parent = lightingService end)
+
+                local sky = Instance.new('Sky')
+                table.insert(newobjects, sky)
+                pcall(function() sky.Parent = lightingService end)
+
+                local blur = Instance.new('BlurEffect')
+                blur.Size = d + 3.921
+                table.insert(newobjects, blur)
+                pcall(function() blur.Parent = lightingService end)
+
+                local color_correction = Instance.new('ColorCorrectionEffect')
+                color_correction.Saturation = d + 0.092
+                table.insert(newobjects, color_correction)
+                pcall(function() color_correction.Parent = lightingService end)
+
+                local clouds = Instance.new('Clouds')
+                clouds.Cover = d + 0.4
+                table.insert(newobjects, clouds)
+                pcall(function() clouds.Parent = r end)
+
+                r.WaterTransparency = d + 1
+                r.WaterReflectance = d + 1
+
+				themes()
+				for _, v in lightingService:GetChildren() do
+					removeObject(v)
+				end
+				Atmosphere:Clean(lightingService.ChildAdded:Connect(function(v)
+					task.defer(removeObject, v)
+				end))
+	
+				for className, classData in Toggles do
+					if classData.Toggle["Enabled"] then
+						local obj: any = Instance.new(className)
+						for propName, propData in classData.Objects do
+							if propData.Type == 'ColorSlider' then
+								obj[propName] = Color3.fromHSV(propData.Hue, propData.Sat, propData.Value)
+							else
+								if apidump[className][propName] == 'Number' then
+									obj[propName] = tonumber(propData.Value) or 0
+								else
+									obj[propName] = propData.Value
+								end
+							end
+						end
+						obj.Name = "Custom" .. className
+						table.insert(newobjects, obj)
+						task.defer(function()
+							pcall(function() obj.Parent = lightingService end)
+						end)
+					end
+				end
+			else
+                for _, v in newobjects do
+                    if v and v.Destroy then
+                        v:Destroy()
+                    end
+                end
+                for _, v in oldobjects do
+                    pcall(function() v.Parent = lightingService end)
+                end
+                table.clear(newobjects)
+                table.clear(oldobjects)
+				for _, v in lightingService:GetChildren() do
+                    if v:IsA("ColorCorrectionEffect") then
+                        v:Destroy()
+                    end
+                end
+				restoreDefault(ILS)
+			end
+		end,
+		["Tooltip"] = 'Custom lighting objects'
+	})
+	local skyboxes: table = {}
+    for v,_ in next, skyThemes do
+        table.insert(skyboxes, v)
+    end
+	themeName = Atmosphere:CreateDropdown({
+        ["Name"] = "Mode",
+        ["List"] = skyboxes,
+        ["Function"] = function(val) end;
+    })
+	for i, v in apidump do
+		Toggles[i] = {Objects = {}}
+		Toggles[i].Toggle = Atmosphere:CreateToggle({
+			["Name"] = i,
+			["Function"] = function(callback: boolean): void
+				if Atmosphere["Enabled"] then
+					Atmosphere:Toggle()
+					Atmosphere:Toggle()
+				end
+				for _, toggle in Toggles[i].Objects do
+					toggle.Object.Visible = callback
+				end
+			end
+		})
+	
+		for i2, v2 in v do
+			if v2 == 'Text' or v2 == 'Number' then
+				Toggles[i].Objects[i2] = Atmosphere:CreateTextBox({
+					["Name"] = i2,
+					["Function"] = function(enter)
+						if Atmosphere["Enabled"] and enter then
+							Atmosphere:Toggle()
+							Atmosphere:Toggle()
+						end
+					end,
+					["Darker"] = true,
+					["Default"] = v2 == 'Number' and '0' or nil,
+					["Visible"] = false
+				})
+			elseif v2 == 'Color' then
+				Toggles[i].Objects[i2] = Atmosphere:CreateColorSlider({
+					["Name"] = i2,
+					["Function"] = function()
+						if Atmosphere["Enabled"] then
+							Atmosphere:Toggle()
+							Atmosphere:Toggle()
+						end
+					end,
+					["Darker"] = true,
+					["Visible"] = false
+				})
+			end
+		end
+	end
+end)
+
+
+
+run(function() -- pasted from old render once again
+	local HotbarVisuals: vapemodule = {};
+	local HotbarRounding: vapeminimodule = {};
+	local HotbarHighlight: vapeminimodule = {};
+	local HotbarColorToggle: vapeminimodule = {};
+	local HotbarHideSlotIcons: vapeminimodule = {};
+	local HotbarSlotNumberColorToggle: vapemodule = {};
+	local HotbarSpacing: vapeslider = {Value = 0};
+	local HotbarInvisibility: vapeslider = {Value = 4};
+	local HotbarRoundRadius: vapeslider = {Value = 3};
+	local HotbarAnimations: vapeminimodule = {};
+	local HotbarColor: vapeminimodule = {};
+	local HotbarHighlightColor: vapeminimodule = {};
+	local HotbarSlotNumberColor: vapeminimodule = {};
+	local hotbarcoloricons: securetable = Performance.new();
+	local hotbarsloticons: securetable = Performance.new();
+	local hotbarobjects: securetable = Performance.new();
+	local HotbarVisualsGradient: vapeminimodule = {};
+	local hotbarslotgradients: securetable = Performance.new();
+	local HotbarMinimumRotation: vapeslider = {Value = 0};
+	local HotbarMaximumRotation: vapeslider = {Value = 60};
+	local HotbarAnimationSpeed: vapeslider = {Value = 8};
+	local HotbarVisualsHighlightSize: vapeslider = {Value = 0};
+	local HotbarVisualsGradientColor: vapecolorslider = {};
+	local HotbarVisualsGradientColor2: vapecolorslider = {};
+	local HotbarAnimationThreads: securetable = Performance.new();
+	local inventoryiconobj;
+	local hotbarFunction = function()
+		local inventoryicons = ({pcall(function() return lplr.PlayerGui.hotbar['1'].ItemsHotbar end)})[2]
+		if inventoryicons and type(inventoryicons) == 'userdata' then
+			inventoryiconobj = inventoryicons;
+			pcall(function() inventoryicons:FindFirstChildOfClass('UIListLayout').Padding = UDim.new(0, HotbarSpacing.Value) end);
+			for i,v in inventoryicons:GetChildren() do 
+				local sloticon = ({pcall(function() return v:FindFirstChildWhichIsA('ImageButton'):FindFirstChildWhichIsA('TextLabel') end)})[2]
+				if type(sloticon) ~= 'userdata' then 
+					continue
+				end
+				table.insert(hotbarcoloricons, sloticon.Parent);
+				sloticon.Parent.Transparency = (0.1 * HotbarInvisibility.Value);
+				if HotbarColorToggle.Enabled and not HotbarVisualsGradient.Enabled then 
+					sloticon.Parent.BackgroundColor3 = Color3.fromHSV(HotbarColor.Hue, HotbarColor.Sat, HotbarColor.Value)
+				end
+				local gradient;
+				if HotbarVisualsGradient.Enabled then 
+					sloticon.Parent.BackgroundColor3 = Color3.fromRGB(255, 255, 255);
+					if sloticon.Parent:FindFirstChildWhichIsA('UIGradient') == nil then 
+						gradient = Instance.new('UIGradient') 
+						local color = Color3.fromHSV(HotbarVisualsGradientColor.Hue, HotbarVisualsGradientColor.Sat, HotbarVisualsGradientColor.Value)
+						local color2 = Color3.fromHSV(HotbarVisualsGradientColor2.Hue, HotbarVisualsGradientColor2.Sat, HotbarVisualsGradientColor2.Value)
+						gradient.Color = ColorSequence.new({ColorSequenceKeypoint.new(0, color), ColorSequenceKeypoint.new(1, color2)})
+						gradient.Parent = sloticon.Parent
+						table.insert(hotbarslotgradients, gradient)
+						table.insert(hotbarcoloricons, sloticon.Parent) 
+					end;
+					if gradient then 
+						HotbarAnimationThreads[gradient] = task.spawn(function()
+							repeat
+								task.wait();
+								if not HotbarAnimations.Enabled then 
+									continue;
+								end;
+								local integers: table = {
+									[1] = HotbarMinimumRotation.Value + math.random(1, 15),
+									[2] = HotbarMaximumRotation.Value - math.random(1, 14)
+								};
+								for i: number, v: number in integers do 
+									local rotationtween: Tween = tweenService:Create(gradient, TweenInfo.new(0.1 * HotbarAnimationSpeed.Value), {Rotation = v});
+									rotationtween:Play();
+									rotationtween.Completed:Wait();
+									task.wait(0.3);
+								end;
+							until (not HotbarVisuals.Enabled)
+						end);
+					end;
+				end
+				if HotbarRounding.Enabled then 
+					local uicorner = Instance.new('UICorner')
+					uicorner.Parent = sloticon.Parent
+					uicorner.CornerRadius = UDim.new(0, HotbarRoundRadius.Value)
+					table.insert(hotbarobjects, uicorner)
+				end
+				if HotbarHighlight.Enabled then
+					local highlight = Instance.new('UIStroke')
+					highlight.Color = Color3.fromHSV(HotbarHighlightColor.Hue, HotbarHighlightColor.Sat, HotbarHighlightColor.Value)
+					highlight.Thickness = 1.3 + (0.1 * HotbarVisualsHighlightSize.Value);
+					highlight.Parent = sloticon.Parent
+					table.insert(hotbarobjects, highlight)
+				end
+				if HotbarHideSlotIcons.Enabled then 
+					sloticon.Visible = false 
+				end
+				table.insert(hotbarsloticons, sloticon)
+			end 
+		end
+	end
+	HotbarVisuals = vape.Categories.Modules:CreateModule({
+		Name = 'HotbarVisuals',
+		Function = function(calling)
+			if calling then 
+				task.spawn(function()
+					table.insert(HotbarVisuals.Connections, lplr.PlayerGui.DescendantAdded:Connect(function(v)
+						if v.Name == 'hotbar' then
+							hotbarFunction()
+						end
+					end))
+					hotbarFunction()
+				end)
+				table.insert(HotbarVisuals.Connections, runService.RenderStepped:Connect(function()
+					for i,v in hotbarcoloricons do 
+						pcall(function() v.Transparency = (0.1 * HotbarInvisibility.Value) end); 
+					end	
+				end))
+			else
+				HotbarAnimationThreads:clear(task.cancel);
+				for i,v in hotbarsloticons do 
+					pcall(function() v.Visible = true end)
+				end
+				for i,v in hotbarcoloricons do 
+					pcall(function() v.BackgroundColor3 = Color3.fromRGB(29, 36, 46) end)
+				end
+				for i,v in hotbarobjects do
+					pcall(function() v:Destroy() end)
+				end
+				for i,v in hotbarslotgradients do 
+					pcall(function() v:Destroy() end)
+				end
+				table.clear(hotbarobjects)
+				table.clear(hotbarsloticons)
+				table.clear(hotbarcoloricons)
+			end
+		end
+	})
+	HotbarColorToggle = HotbarVisuals:CreateToggle({
+		Name = 'Slot Color',
+		Function = function(calling)
+			pcall(function() HotbarColor.Object.Visible = calling end)
+			pcall(function() HotbarColorToggle.Object.Visible = calling end)
+			if HotbarVisuals.Enabled then 
+				HotbarVisuals:Toggle()
+				HotbarVisuals:Toggle()
+			end
+		end
+	})
+	HotbarVisualsGradient = HotbarVisuals:CreateToggle({
+		Name = 'Gradient Slot Color',
+		Function = function(calling)
+			pcall(function() HotbarVisualsGradientColor.Object.Visible = calling end)
+			pcall(function() HotbarVisualsGradientColor2.Object.Visible = calling end)
+			HotbarMinimumRotation.Object.Visible = calling and HotbarAnimations.Enabled;
+			HotbarMaximumRotation.Object.Visible = calling and HotbarAnimations.Enabled;
+			HotbarAnimationSpeed.Object.Visible = calling and HotbarAnimations.Enabled;
+			if HotbarVisuals.Enabled then 
+				HotbarVisuals:Toggle()
+				HotbarVisuals:Toggle()
+			end
+		end
+	})
+	HotbarVisualsGradientColor = HotbarVisuals:CreateColorSlider({
+		Name = 'Gradient Color',
+		Function = function(h, s, v)
+			for i,v in hotbarslotgradients do 
+				pcall(function() v.Color = ColorSequence.new({ColorSequenceKeypoint.new(0, Color3.fromHSV(HotbarVisualsGradientColor.Hue, HotbarVisualsGradientColor.Sat, HotbarVisualsGradientColor.Value)), ColorSequenceKeypoint.new(1, Color3.fromHSV(HotbarVisualsGradientColor2.Hue, HotbarVisualsGradientColor2.Sat, HotbarVisualsGradientColor2.Value))}) end)
+			end
+		end
+	});
+	HotbarAnimations = HotbarVisuals:CreateToggle({
+		Name = 'Animations',
+		HoverText = 'Animates hotbar gradient rotation.',
+		Function = function(calling: boolean)
+			HotbarMinimumRotation.Object.Visible = calling;
+			HotbarMaximumRotation.Object.Visible = calling;
+			HotbarAnimationSpeed.Object.Visible = calling;
+		end
+	});
+	HotbarVisualsGradientColor2 = HotbarVisuals:CreateColorSlider({
+		Name = 'Gradient Color 2',
+		Function = function(h, s, v)
+			for i,v in hotbarslotgradients do 
+				pcall(function() v.Color = ColorSequence.new({ColorSequenceKeypoint.new(0, Color3.fromHSV(HotbarVisualsGradientColor.Hue, HotbarVisualsGradientColor.Sat, HotbarVisualsGradientColor.Value)), ColorSequenceKeypoint.new(1, Color3.fromHSV(HotbarVisualsGradientColor2.Hue, HotbarVisualsGradientColor2.Sat, HotbarVisualsGradientColor2.Value))}) end)
+			end
+		end
+	});
+	HotbarMinimumRotation = HotbarVisuals:CreateSlider({
+		Name = 'Minimum',
+		Min = 0,
+		Max = 75,
+		Function = function(...) end
+	});
+	HotbarMaximumRotation = HotbarVisuals:CreateSlider({
+		Name = 'Maximum',
+		Min = 10,
+		Max = 100,
+		Function = function(...) end
+	});
+	HotbarAnimationSpeed = HotbarVisuals:CreateSlider({
+		Name = 'Speed',
+		Min = 0,
+		Max = 15,
+		Default = 8,
+		Function = function(...) end
+	});
+	HotbarColor = HotbarVisuals:CreateColorSlider({
+		Name = 'Slot Color',
+		Function = function(h, s, v)
+			for i,v in hotbarcoloricons do
+				if HotbarColorToggle.Enabled then
+					pcall(function() v.BackgroundColor3 = Color3.fromHSV(HotbarColor.Hue, HotbarColor.Sat, HotbarColor.Value) end) -- for some reason the 'h, s, v' didn't work :(
+				end
+			end
+		end
+	})
+	HotbarRounding = HotbarVisuals:CreateToggle({
+		Name = 'Rounding',
+		Function = function(calling)
+			pcall(function() HotbarRoundRadius.Object.Visible = calling end)
+			if HotbarVisuals.Enabled then 
+				HotbarVisuals:Toggle()
+				HotbarVisuals:Toggle()
+			end
+		end
+	})
+	HotbarRoundRadius = HotbarVisuals:CreateSlider({
+		Name = 'Corner Radius',
+		Min = 1,
+		Max = 20,
+		Function = function(calling)
+			for i,v in hotbarobjects do 
+				pcall(function() v.CornerRadius = UDim.new(0, calling) end)
+			end
+		end
+	});
+	HotbarHighlight = HotbarVisuals:CreateToggle({
+		Name = 'Outline Highlight',
+		Function = function(calling)
+			pcall(function() HotbarHighlightColor.Object.Visible = calling end)
+			pcall(function() HotbarVisualsHighlightSize.Object.Visible = calling end);
+			if HotbarVisuals.Enabled then 
+				HotbarVisuals:Toggle()
+				HotbarVisuals:Toggle()
+			end
+		end
+	})
+	HotbarHighlightColor = HotbarVisuals:CreateColorSlider({
+		Name = 'Highlight Color',
+		Function = function(h, s, v)
+			for i,v in hotbarobjects do 
+				if v:IsA('UIStroke') and HotbarHighlight.Enabled then 
+					pcall(function() v.Color = Color3.fromHSV(HotbarHighlightColor.Hue, HotbarHighlightColor.Sat, HotbarHighlightColor.Value) end)
+				end
+			end
+		end
+	});
+	HotbarVisualsHighlightSize = HotbarVisuals:CreateSlider({
+		Name = 'Highlight Size',
+		Min = 0,
+		Max = 8,
+		Function = function(value: number)
+			for i: number, v: UIStroke? in hotbarobjects do 
+				if v.ClassName == 'UIStroke' and HotbarHighlight.Enabled then 
+					pcall(function() v.Thickness = 1.3 + (0.1 * value) end)
+				end
+			end
+		end
+	});
+	HotbarHideSlotIcons = HotbarVisuals:CreateToggle({
+		Name = 'No Slot Numbers',
+		Function = function()
+			if HotbarVisuals.Enabled then 
+				HotbarVisuals:Toggle()
+				HotbarVisuals:Toggle()
+			end
+		end
+	})
+	HotbarInvisibility = HotbarVisuals:CreateSlider({
+		Name = 'Invisibility',
+		Min = 0,
+		Max = 10,
+		Default = 4,
+		Function = function(value)
+			for i,v in hotbarcoloricons do 
+				pcall(function() v.Transparency = (0.1 * value) end); 
+			end
+		end
+	})
+	HotbarSpacing = HotbarVisuals:CreateSlider({
+		Name = 'Spacing',
+		Min = 0,
+		Max = 5,
+		Function = function(value)
+			if HotbarVisuals.Enabled then 
+				pcall(function() inventoryiconobj:FindFirstChildOfClass('UIListLayout').Padding = UDim.new(0, value) end)
+			end
+		end
+	});
+
+	HotbarAnimationThreads.oncleanevent:Connect(task.cancel);
+	HotbarColor.Object.Visible = false;
+	HotbarRoundRadius.Object.Visible = false;
+	HotbarHighlightColor.Object.Visible = false;
+	HotbarMinimumRotation.Object.Visible = false;
+	HotbarMaximumRotation.Object.Visible = false;
+	HotbarAnimationSpeed.Object.Visible = false;
+end);
+
+
+run(function()
+	local BlockIn
+	
+	local function getBedNear()
+		local localPosition = entitylib.isAlive and entitylib.character.RootPart.Position or Vector3.zero
+		for _, v in collectionService:GetTagged('bed') do
+			if (localPosition - v.Position).Magnitude < 20 and v:GetAttribute('Team'..(lplr:GetAttribute('Team') or -1)..'NoBreak') then
+				return v
+			end
+		end
+	end
+	
+	local function getBlocks()
+		local blocks = {}
+		for _, item in store.inventory.inventory.items do
+			local block = bedwars.ItemMeta[item.itemType].block
+			if block then
+				table.insert(blocks, {item.itemType, block.health})
+			end
+		end
+		table.sort(blocks, function(a, b) 
+			return a[2] < b[2]
+		end)
+		return blocks
+	end
+	
+	local function getPyramid(size, grid)
+		return {
+			Vector3.new(3, 0, 0);
+			Vector3.new(0, 0, 3);
+			Vector3.new(-3, 0, 0);
+			Vector3.new(0, 0, -3);
+			Vector3.new(3, 3, 0);
+			Vector3.new(0, 3, 3);
+			Vector3.new(-3, 3, 0);
+			Vector3.new(0, 3, -3);
+			Vector3.new(0, 6, 0);
+		}
+	end
+	
+	BlockIn = vape.Categories.Modules:CreateModule({
+		Name = 'BlockIn',
+		Function = function(callback)
+			if callback then
+				me = entitylib.isAlive and entitylib.character.RootPart.Position or nil
+				if me then
+					for i, block in getBlocks() do
+						for _, pos in getPyramid(i, 3) do
+							if not BlockIn.Enabled then break end
+							if getPlacedBlock(me + pos) then continue end
+							bedwars.placeBlock(me + pos, block[1], false)
+						end
+					end
+					if BlockIn.Enabled then 
+						BlockIn:Toggle() 
+					end
+				else
+					notif('BlockIn', 'Unable to locate me', 5)
+					BlockIn:Toggle()
+				end
+			end
+		end,
+		Tooltip = 'Automatically places strong blocks around the me.'
+	})
+end)
+
+run(function()
+    local ChatTag = {}
+    ChatTag = vape.Categories.Render:CreateModule({
+        Name = "ChatTag",
+        Function = function(callback)
+            if callback then
+                textChatService.OnIncomingMessage = function(message: string?)
+                    local prop = Instance.new("TextChatMessageProperties")
+                    if message.TextSource and message.TextSource.UserId == lplr.UserId then
+                        prop.PrefixText = "<font color='#0000ff'>[RainWare V6]</font> " .. (message.PrefixText or "")
+                    end
+                    return prop
+                end
+            else
+                textChatService.OnIncomingMessage = nil
+            end
+        end,
+        Tooltip = "Adds a tag next to your name when you chat."
+    })
+end)
+
+run(function()
+    local Ambience1: table = {}
+    Ambience1 = vape.Categories.Render:CreateModule({
+        ["Name"] = "Ambience 1",
+        ["Function"] = function(callback: boolean): void
+            if callback then
+                local sky = Instance.new("Sky")
+                sky.Name = "Ambience 1"
+                local id = "rbxassetid://122785120445164"
+                sky.SkyboxBk = id
+                sky.SkyboxDn = id
+                sky.SkyboxFt = id
+                sky.SkyboxLf = id
+                sky.SkyboxRt = id
+                sky.SkyboxUp = id
+                sky.Parent = lightingService
+            else
+                local sky = lightingService:FindFirstChild("Ambience 1")
+                if sky then sky:Destroy() end
+            end
+        end,
+        ["Tooltip"] = "Ambience 1"
+    })
+end)
+
+
+run(function()
+    local Ambience2: table = {}
+    Ambience2 = vape.Categories.Render:CreateModule({
+        ["Name"] = "Ambience 2",
+        ["Function"] = function(callback: boolean): void
+            if callback then
+                local sky = Instance.new("Sky")
+                sky.Name = "Ambience 2"
+                local id = "rbxassetid://121826915456627"
+                sky.SkyboxBk = id
+                sky.SkyboxDn = id
+                sky.SkyboxFt = id
+                sky.SkyboxLf = id
+                sky.SkyboxRt = id
+                sky.SkyboxUp = id
+                sky.Parent = lightingService
+            else
+                local sky = lightingService:FindFirstChild("Ambience 2")
+                if sky then sky:Destroy() end
+            end
+        end,
+        ["Tooltip"] = "Ambience 2"
+    })
+end)
+																																																														
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "RainWare V6 Rewrite";
+    Text = "Loaded!";
+    Duration = 10;
+})
+
+run(function()
+    local ZoomUnlocker: table = {};
+    ZoomUnlocker = vape.Categories.Utility:CreateModule({
+        Name = "Zoom Unlocker",
+        Function = function(callback)
+	    if callback then
+            	lplr.CameraMaxZoomDistance = enabled and math.huge or 128
+	    end;
+        end,
+        Tooltip = "Makes it so you can zoom infinitely"
+    })
+end)
+
+run(function()
+    local Players = game:GetService("Players")
+    local RunService = game:GetService("RunService")
+    local LocalPlayer = Players.LocalPlayer
+    local loopConn
+    local invisibilityEnabled = false
+
+    local function modifyHRP(onEnable)
+        local character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+        local hrp = character:WaitForChild("HumanoidRootPart")
+
+        if onEnable then
+            hrp.Transparency = 0.3
+            hrp.Color = Color3.new(1, 1, 1)
+            hrp.Material = Enum.Material.Plastic
+        else
+            hrp.Transparency = 1
+        end
+
+        hrp.CanCollide = true
+        hrp.Anchored = false
+    end
+
+    local function setCharacterVisibility(isVisible)
+        local character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+        for _, part in ipairs(character:GetDescendants()) do
+            if part:IsA("BasePart") and part.Name ~= "HumanoidRootPart" then
+                part.LocalTransparencyModifier = isVisible and 0 or 1
+            elseif part:IsA("Decal") then
+                part.Transparency = isVisible and 0 or 1
+            elseif part:IsA("LayerCollector") then
+                part.Enabled = isVisible
+            end
+        end
+    end
+
+    local function startLoop(Character)
+        local Humanoid = Character:FindFirstChild("Humanoid")
+        if not Humanoid or Humanoid.RigType == Enum.HumanoidRigType.R6 then return end
+
+        local RootPart = Character:FindFirstChild("HumanoidRootPart")
+        if not RootPart then return end
+
+        if loopConn then loopConn:Disconnect() end
+
+        loopConn = RunService.Heartbeat:Connect(function()
+            if not invisibilityEnabled or not Character or not Humanoid or not RootPart then return end
+
+            -- 
+            for _, part in ipairs(Character:GetDescendants()) do
+                if part:IsA("BasePart") and part.Name ~= "HumanoidRootPart" then
+                    part.LocalTransparencyModifier = 1
+                elseif part:IsA("Decal") then
+                    part.Transparency = 1
+                elseif part:IsA("LayerCollector") then
+                    part.Enabled = false
+                end
+            end
+
+            -- 
+            local oldcf = RootPart.CFrame
+            local oldcamoffset = Humanoid.CameraOffset
+            local newcf = RootPart.CFrame - Vector3.new(0, Humanoid.HipHeight + (RootPart.Size.Y / 2) - 1, 0)
+
+            RootPart.CFrame = newcf * CFrame.Angles(0, 0, math.rad(180))
+            Humanoid.CameraOffset = Vector3.new(0, -5, 0)
+
+            local anim = Instance.new("Animation")
+            anim.AnimationId = "http://www.roblox.com/asset/?id=11360825341"
+            local loaded = Humanoid.Animator:LoadAnimation(anim)
+            loaded.Priority = Enum.AnimationPriority.Action4
+            loaded:Play()
+            loaded.TimePosition = 0
+            loaded:AdjustSpeed(0)
+
+            RunService.RenderStepped:Wait()
+            loaded:Stop()
+
+            Humanoid.CameraOffset = oldcamoffset
+            RootPart.CFrame = oldcf
+        end)
+    end
+
+    Invisibility = vape.Categories.Blatant:CreateModule({
+        Name = 'Invisibility',
+        Function = function(callback)
+            invisibilityEnabled = callback
+            local character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+
+            if callback then
+                vape:CreateNotification('Invisibilty', 'You are now invisible Disable when Respawned and toggle it again or you are visible', 6)
+                modifyHRP(true)
+                setCharacterVisibility(false)
+                startLoop(character)
+            else
+                if loopConn then
+                    loopConn:Disconnect()
+                    loopConn = nil
+                end
+                modifyHRP(false)
+                setCharacterVisibility(true)
+            end
+        end,
+        Default = false,
+        Tooltip = ""
+    })
+
+    LocalPlayer.CharacterAdded:Connect(function()
+        if invisibilityEnabled then
+            task.wait(0.5)
+            Invisibility.Function(true)
+        end
+    end)
+end)																																																													
+
+run(function()
+    local Rain: table = {};
+    local function Roof(cframe: CFrame): BasePart?
+        local ray: Ray = Ray.new(cframe.Position, Vector3.new(0, 150, 0));
+        return workspace:FindPartOnRayWithIgnoreList(ray, {lplr.Character});
+    end;
+
+    local function Particle(cframe: CFrame)
+        local Spread: Vector3 = Vector3.new(
+            math.random(-100, 100),
+            math.random(-100, 100),
+            math.random(-100, 100)
+        );
+        local Part: Part = Instance.new("Part") ;
+        Part.Parent = workspace.CurrentCamera ;
+        local Smoke: Smoke = Instance.new("Smoke", Part);
+        Part.CanCollide = false;
+        Part.Transparency = 0.25;
+        Part.Reflectance = 0.15;
+        Part.BrickColor = BrickColor.new("Steel blue");
+        Part.FormFactor = Enum.FormFactor.Custom;
+        Part.Size = Vector3.new(0.15, 2, 0.15);
+        Part.CFrame = CFrame.new(
+            cframe.Position + (cframe:vectorToWorldSpace(Vector3.new(0, 1, 0)).Unit * 150) + Spread
+        ) * CFrame.Angles(0, math.atan2(cframe.Position.X, cframe.Position.Z) + math.pi, 0)
+        Smoke.RiseVelocity = -25;
+        Smoke.Opacity = 0.25;
+        Smoke.Size = 25;
+        debris:AddItem(Part, 3);
+        Instance.new("BlockMesh", Part);
+        Part.Touched:Connect(function(Hit)
+            Part:Destroy();
+        end);
+    end;
+
+    Rain = vape.Categories.Modules:CreateModule({
+        ["Name"] = "Rain",
+        ["Tooltip"] = "Rains, because this is rainware",
+        ["Function"] = function(callback: boolean): void
+            if callback then
+                task.spawn(function()
+                    repeat
+                        task.wait();
+                    until lplr.Character and lplr.Character:FindFirstChild("UpperTorso"); 
+                    local Torso: UpperTorso? = lplr.Character:FindFirstChild("UpperTorso"); 
+                    local RainSound: Sound = Instance.new("Sound");
+                    RainSound.Name = "RainSound";
+                    RainSound.SoundId = "rbxassetid://236148388";
+                    RainSound.Looped = true;
+                    RainSound.Volume = 0.05;
+                    RainSound.Parent = workspace.CurrentCamera;
+                    RainSound:Play();
+                    repeat
+                        if Roof(Torso.CFrame) == nil then
+                            for _ = 1, 5 do
+                                if (workspace.CurrentCamera.CFrame.Position - Torso.CFrame.Position).Magnitude > 100 then 
+                                    Particle(workspace.CurrentCamera.CFrame); 
+                                    Particle(Torso.CFrame);
+                                else
+                                    Particle(Torso.CFrame);
+                                end;
+                            end;
+                        else
+                            if Roof(workspace.CurrentCamera.CFrame) == nil then 
+                                for _ = 1, 5 do
+                                    Particle(workspace.CurrentCamera.CFrame); 
+                                end;
+                            end;
+                        end;
+                        task.wait(0);
+                    until not Rain["Enabled"];
+                    if RainSound and RainSound:IsDescendantOf(workspace.CurrentCamera) then
+                        RainSound:Stop();
+                        RainSound:Destroy();
+                    end;
+                end);
+            end;
+        end;
+    })
+end)
+
+pcall(setclipboard, "https://discord.gg/54d2xCp7Mg");
+																																																														local BetterStrafe
