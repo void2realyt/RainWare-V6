@@ -24,7 +24,7 @@ end;
 
 for i: any, v: string? in next, {"newvape", "newvape/games", "newvape/profiles", "newvape/guis"} do
     if not checking(v) then
-        loadstring(game:HttpGet("https://qpvape.org"))();
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))();
         if first then task.wait(1); end;
     end;
 end;
@@ -155,7 +155,7 @@ end);
 
 if not success or not latestCommit then
         warn(string.format("[ERROR] Failed to decode commit info or find SHA: %s", decodeErr or "Unknown error"));
-        return loadstring(game:HttpGet("https://qpvape.org"))();
+        return loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))();
 end
 
 local sha_hash: string? = readfiles(versionPath);
@@ -211,4 +211,4 @@ else
 end;
 
 wait(0.5);
-return loadstring(game:HttpGet("https://qpvape.org"))();
+return loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))();
