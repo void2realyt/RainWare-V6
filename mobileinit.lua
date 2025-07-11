@@ -144,7 +144,7 @@ local suc, res, err = http_get(commitApiUrl, 3, 1)
 
 if not suc or not res then
     warn(string.format("[ERROR] Failed to get latest commit info: %s", err or "Unknown error"))
-    return loadstring(game:HttpGet("https://qpvape.org"))()
+    return loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
 end
 
 local latestCommit
@@ -155,7 +155,7 @@ end)
 
 if not success or not latestCommit then
     warn(string.format("[ERROR] Failed to decode commit info or find SHA: %s", decodeErr or "Unknown error"))
-    return loadstring(game:HttpGet("https://qpvape.org"))()
+    return loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
 end
 
 local sha_hash = readfiles(versionPath)
