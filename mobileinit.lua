@@ -25,7 +25,7 @@ end
 
 for _, v in next, { "newvape", "newvape/games", "newvape/profiles", "newvape/guis" } do
     if not checking(v) then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua"))()
         if first then task.wait(1) end
     end
 end
@@ -144,7 +144,7 @@ local suc, res, err = http_get(commitApiUrl, 3, 1)
 
 if not suc or not res then
     warn(string.format("[ERROR] Failed to get latest commit info: %s", err or "Unknown error"))
-    return loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+    return loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua"))()
 end
 
 local latestCommit
@@ -155,7 +155,7 @@ end)
 
 if not success or not latestCommit then
     warn(string.format("[ERROR] Failed to decode commit info or find SHA: %s", decodeErr or "Unknown error"))
-    return loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+    return loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua"))()
 end
 
 local sha_hash = readfiles(versionPath)
@@ -166,7 +166,7 @@ if sha_hash ~= latestCommit then
     print("[UPDATE] New version detected, starting update process...")
     updateNeeded = true
 
-    local modules_url = bust_cache("https://raw.githubusercontent.com/void2realyt/RainWare-V6/main/games/modules.lua")
+    local modules_url = bust_cache("https://raw.githubusercontent.com/void2realyt/RainWare-V6/main/games/6872274481.lua")
     local sucM, resM, errM = http_get(modules_url, 3, 1)
     if sucM and resM then
         makefiles(modulesPath, resM)
@@ -211,4 +211,4 @@ else
 end
 
 wait(0.5)
-return loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+return loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua"))()
