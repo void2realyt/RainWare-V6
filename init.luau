@@ -24,7 +24,7 @@ end;
 
 for i: any, v: string? in next, {"newvape", "newvape/games", "newvape/profiles", "newvape/guis"} do
     if not checking(v) then
-        loadstring(game:HttpGet("https://qpvape.org"))();
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))();
         if first then task.wait(1); end;
     end;
 end;
