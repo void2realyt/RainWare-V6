@@ -6,7 +6,7 @@ end
 
 local httpService = cloneref(game:GetService("HttpService"))
 local versionPath = "newvape/version.txt"
-local modulesPath = "newvape/games/modules.lua"
+local modulesPath = "newvape/games/6872274481.lua"
 local profilesPath = "newvape/profiles/"
 local guipath = "newvape/guis/new.lua"
 local shapath = "newvape/newlua.sha"
