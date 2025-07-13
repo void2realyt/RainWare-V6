@@ -8897,4 +8897,28 @@ run(function()
 		Tooltip = "Prevents you from dying"
 	})
 end)
+run(function()
+    local ClickDash
+    local DashDistance
+
+    ClickDash = vape.Categories.Utility:CreateModule({
+        Name = "ClickDash",
+        Function = function(callback)
+            if callback and entitylib.isAlive and lplr.Character and lplr.Character.PrimaryPart then
+                local root = lplr.Character.PrimaryPart
+                local forward = workspace.CurrentCamera.CFrame.LookVector
+                local dashTo = root.Position + (forward * DashDistance.Value)
+                lplr.Character:SetPrimaryPartCFrame(CFrame.new(dashTo))
+            end
+        end,
+        Tooltip = "Dashes forward instantly when activated"
+    })
+
+    DashDistance = ClickDash:CreateSlider({
+        Name = "Dash Distance",
+        Min = 10,
+        Max = 100,
+        Default = 40
+    })
+end)
 	
