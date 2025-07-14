@@ -8525,11 +8525,6 @@ run(function()
         Tooltip = "Adds a tag next to your name when you chat."
     })
 end)
-game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "RainWare V6 Rewrite";
-    Text = "Loaded!";
-    Duration = 10;
-})
 run(function()
     local Players = game:GetService("Players")
     local RunService = game:GetService("RunService")
@@ -9032,4 +9027,386 @@ run(function()
         Default = 40
     })
 end)
+local YuziFly
+run(function()
+	local up, down = 0, 0
+	local JumpTick, JumpSpeed, Direction = tick(), 0
+	local delayFlyUntil = 0
+
+	YuziFly = vape.Categories.Blatant:CreateModule({
+		Name = "YuziFly",
+		Function = function(enabled)
+			frictionTable.YuziFly = enabled or nil
+			updateVelocity()
+			if enabled then
+				JumpTick = tick()
+				JumpSpeed = 0
+				Direction = nil
+				delayFlyUntil = 0
+				up, down = 0, 0
+
+				local daoList = {
+					["wood_dao"] = true,
+					["stone_dao"] = true,
+					["iron_dao"] = true,
+					["diamond_dao"] = true,
+					["emerald_dao"] = true
+				}
+
+				local item = store.hand and store.hand.tool
+				if item and daoList[item.Name] and bedwars.AbilityController:canUseAbility("dash") then
+					local root = entitylib.character.RootPart
+					local pos = root.Position
+					local dir = root.CFrame.LookVector
+
+					bedwars.SwordController.lastAttack = workspace:GetServerTimeNow()
+					switchItem(item, 0.1)
+
+					replicatedStorage["events-@easy-games/game-core:shared/game-core-networking@getEvents.Events"]
+						.useAbility:FireServer("dash", {
+							direction = dir,
+							origin = pos,
+							weapon = item.Name
+						})
+
+					JumpSpeed = 4.5
+					JumpTick = tick() + 2.4
+					Direction = Vector3.new(dir.X, 0, dir.Z).Unit
+					delayFlyUntil = tick() + 0.2
+				end
+
+				YuziFly:Clean(runService.PreSimulation:Connect(function()
+					if not entitylib.isAlive then return end
+					local root = entitylib.character.RootPart
+					if not isnetworkowner(root) then return end
+
+					local moveDir = entitylib.character.Humanoid.MoveDirection
+					local flyVec = moveDir * getSpeed()
+					local yVel = (up + down) * 45
+
+					if JumpTick > tick() and Direction then
+						flyVec += Direction * JumpSpeed
+					end
+
+					if tick() >= delayFlyUntil then
+						root.AssemblyLinearVelocity = flyVec + Vector3.new(0, yVel, 0)
+					end
+				end))
+
+				YuziFly:Clean(inputService.InputBegan:Connect(function(input)
+					if not inputService:GetFocusedTextBox() then
+						if input.KeyCode == Enum.KeyCode.Space then
+							up = 1
+						elseif input.KeyCode == Enum.KeyCode.LeftShift then
+							down = -1
+						end
+					end
+				end))
+
+				YuziFly:Clean(inputService.InputEnded:Connect(function(input)
+					if input.KeyCode == Enum.KeyCode.Space then
+						up = 0
+					elseif input.KeyCode == Enum.KeyCode.LeftShift then
+						down = 0
+					end
+				end))
+			else
+				JumpSpeed = 0
+				Direction = nil
+				delayFlyUntil = 0
+				up, down = 0, 0
+			end
+		end,
+		ExtraText = function()
+			return "Heatseeker"
+		end,
+		Tooltip = "Lets you fly longer with yuzi"
+	})
+end)
+run(function()
+	local studantivoid
+
+	local function getLowGround()
+		local mag = math.huge
+		for _, pos in bedwars.BlockController:getStore():getAllBlockPositions() do
+			pos = pos * 3
+			if pos.Y < mag and not getPlacedBlock(pos + Vector3.new(0, 3, 0)) then
+				mag = pos.Y
+			end
+		end
+		return mag
+	end
+
+	studantivoid = vape.Categories.Blatant:CreateModule({
+		Name = "StudAntiVoid",
+		Function = function(callback)
+			if callback then
+				repeat task.wait() until store.matchState ~= 0 or (not studantivoid.Enabled)
+				if not studantivoid.Enabled then return end
+
+				local pos = getLowGround()
+				if pos ~= math.huge then
+					local part = Instance.new("Part")
+					part.Size = Vector3.new(10000, 1, 10000)
+					part.Transparency = 0.23
+					part.Anchored = true
+					part.CanCollide = true
+					part.Material = Enum.Material.Plastic
+					part.Color = Color3.new(0.5, 0, 0.5)
+					part.Position = Vector3.new(0, pos - 2, 0)
+					part.Parent = workspace
+
+					local decal = Instance.new("Decal")
+					decal.Texture = "rbxasset://textures/terrain/Studs.png"
+					decal.Face = Enum.NormalId.Top
+					decal.Parent = part
+
+					studantivoid:Clean(part)
+				end
+			end
+		end,
+		Tooltip = "Stud Antivoid"
+	})
+end)
+run(function()
+    GetHost = vape.Categories.Utility:CreateModule({
+        Name = 'GetHost',
+        Function = function(enabled)
+            local player = game.Players.LocalPlayer
+            if enabled then
+                player:SetAttribute("CustomMatchRole", "host")
+            else
+                player:SetAttribute("CustomMatchRole", nil) 
+            end
+        end,
+        Default = false,
+        Tooltip = ":troll:"
+    })
+end)
+local CheaterDetector
+run(function()
+	local flagged = {}
+
+	CheaterDetector = vape.Categories.Utility:CreateModule({
+		Name = "CheaterDetector",
+		Function = function(enabled)
+			if enabled then
+				for _, player in pairs(game.Players:GetPlayers()) do
+					if player ~= game.Players.LocalPlayer and not flagged[player] then
+						local accountAge = player.AccountAge or 0
+						if accountAge < 25 then
+							flagged[player] = true
+							notif("Cheaterdetector", player.Name .. " might be cheating (" .. accountAge .. " days)", 10, "warning")
+						end
+					end
+				end
+				game.Players.PlayerAdded:Connect(function(player)
+					if player ~= game.Players.LocalPlayer then
+						task.delay(5, function() 
+							if not flagged[player] then
+								local accountAge = player.AccountAge or 0
+								if accountAge < 25 then
+									flagged[player] = true
+									notif("Cheaterdetector", player.Name .. " might be cheating (" .. accountAge .. " days)", 10, "warning")
+								end
+							end
+						end)
+					end
+				end)
+			else
+				flagged = {}
+			end
+		end,
+		Tooltip = "Detects players that might be cheating"
+	})
+end)
+run(function()
+    local Lists, lastSaid = {}, {}
+
+    Lists["ez"] = {
+        "bro really said ez ð¹",
+        "stay humble <obj>",
+        "imagine saying ez"
+    }
+
+    Lists["lag"] = {
+        "blame lag again <obj>",
+        "lag harder next time <obj>",
+        "is that your router crying <obj>?"
+    }
+
+    Lists["trash"] = {
+        "nah you're trash <obj>",
+        "trash player (<obj>) spotted",
+        "trash talking from the bottom <obj>?"
+    }
+
+	  Lists["hacks"] = {
+        "no hacks, its my gaming chair <obj>",
+        "you hack <obj>",
+        "voidware skids <obj>"
+    }
+
+	  Lists["bad"] = {
+        "nah you're bad <obj>",
+        "omg saying bad when your bad",
+        "crazy saying bad <obj>"
+    }
+
+		Lists["hacker"] = {
+        "im not a hacker, <obj> you are",
+        "im not hacking brooo",
+        "no hacks i swear"
+    }
+
+    local function sendReply(keyword, playerName)
+        local replies = Lists[keyword]
+        if not replies or #replies == 0 then return end
+        local msg = replies[math.random(1, #replies)]
+        if #replies > 1 and msg == lastSaid[keyword] then
+            repeat task.wait()
+                msg = replies[math.random(1, #replies)]
+            until msg ~= lastSaid[keyword]
+        end
+        lastSaid[keyword] = msg
+        msg = msg:gsub("<obj>", playerName or "")
+        if textChatService.ChatVersion == Enum.ChatVersion.TextChatService then
+            textChatService.ChatInputBarConfiguration.TargetTextChannel:SendAsync(msg)
+        else
+            replicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+        end
+    end
+
+    local AutoResponder = vape.Categories.Utility:CreateModule({
+        Name = "AutoResponder",
+        Function = function(enabled)
+            if enabled then
+                if textChatService.ChatVersion == Enum.ChatVersion.TextChatService then
+                    AutoResponder:Clean(textChatService.MessageReceived:Connect(function(message)
+                        local props = message.TextSource
+                        if not props then return end
+                        local speaker = playersService:GetPlayerByUserId(props.UserId)
+                        if not speaker or speaker == lplr then return end
+                        local msg = message.Text:lower()
+                        for keyword in pairs(Lists) do
+                            if string.find(msg, keyword) then
+                                sendReply(keyword, speaker.DisplayName or speaker.Name)
+                                break
+                            end
+                        end
+                    end))
+                else
+                    AutoResponder:Clean(playersService.PlayerChatted:Connect(function(player, message)
+                        if player == lplr then return end
+                        local msg = message:lower()
+                        for keyword in pairs(Lists) do
+                            if string.find(msg, keyword) then
+                                sendReply(keyword, player.DisplayName or player.Name)
+                                break
+                            end
+                        end
+                    end))
+                end
+            end
+        end,
+        Tooltip = "Replies to chat messages"
+    })
+end)
+local TexturePack
+run(function()
+	local Players = game:GetService("Players")
+	local ReplicatedStorage = game:GetService("ReplicatedStorage")
+	local Workspace = game:GetService("Workspace")
+
+	TexturePack = vape.Categories.Render:CreateModule({
+		Name = "TexturePack",
+		Function = function(enabled)
+			if enabled then
+				task.spawn(function()
+					local objs = game:GetObjects("rbxassetid://13892897527")
+					local import = objs[1]
+					import.Parent = ReplicatedStorage
+
+					local index = {
+						{
+							name = "wood_sword",
+							offset = CFrame.Angles(0, math.rad(-100), math.rad(-90)),
+							model = import:WaitForChild("Wood_Sword"),
+						},
+						{
+							name = "stone_sword",
+							offset = CFrame.Angles(0, math.rad(-100), math.rad(-90)),
+							model = import:WaitForChild("Stone_Sword"),
+						},
+						{
+							name = "iron_sword",
+							offset = CFrame.Angles(0, math.rad(-100), math.rad(-90)),
+							model = import:WaitForChild("Iron_Sword"),
+						},
+						{
+							name = "diamond_sword",
+							offset = CFrame.Angles(0, math.rad(-100), math.rad(-90)),
+							model = import:WaitForChild("Diamond_Sword"),
+						},
+						{
+							name = "emerald_sword",
+							offset = CFrame.Angles(0, math.rad(-100), math.rad(-90)),
+							model = import:WaitForChild("Emerald_Sword"),
+						},
+					}
+
+					local func
+					func = Workspace:WaitForChild("Camera").Viewmodel.ChildAdded:Connect(function(tool)
+						if not tool:IsA("Accessory") then return end
+						for _, v in pairs(index) do
+							if v.name == tool.Name then
+								for _, part in pairs(tool:GetDescendants()) do
+									if part:IsA("Part") or part:IsA("MeshPart") or part:IsA("UnionOperation") then
+										part.Transparency = 1
+									end
+								end
+								local model = v.model:Clone()
+								model.CFrame = tool:WaitForChild("Handle").CFrame * v.offset
+								model.CFrame *= CFrame.Angles(0, math.rad(-50), 0)
+								model.Parent = tool
+								local weld = Instance.new("WeldConstraint", model)
+								weld.Part0 = model
+								weld.Part1 = tool:WaitForChild("Handle")
+
+								local tool2 = Players.LocalPlayer.Character:WaitForChild(tool.Name)
+								for _, part in pairs(tool2:GetDescendants()) do
+									if part:IsA("Part") or part:IsA("MeshPart") or part:IsA("UnionOperation") then
+										part.Transparency = 1
+									end
+								end
+								local model2 = v.model:Clone()
+								model2.Anchored = false
+								model2.CFrame = tool2:WaitForChild("Handle").CFrame * v.offset
+								model2.CFrame *= CFrame.Angles(0, math.rad(-50), 0)
+								model2.CFrame *= CFrame.new(0.7, 0, -0.8)
+								model2.Parent = tool2
+								local weld2 = Instance.new("WeldConstraint", model2)
+								weld2.Part0 = model2
+								weld2.Part1 = tool2:WaitForChild("Handle")
+							end
+						end
+					end)
+
+					TexturePack.Disconnect = function()
+						if func then
+							func:Disconnect()
+							func = nil
+						end
+					end
+				end)
+			else
+				if TexturePack.Disconnect then
+					TexturePack.Disconnect()
+				end
+			end
+		end,
+		Tooltip = "TexturePack"
+	})
+end)
+notif("Rainware", "Loaded RainWare V6 Rewrite🌧️", 5, "alert")
 	
