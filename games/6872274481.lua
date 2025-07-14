@@ -9409,4 +9409,164 @@ run(function()
 	})
 end)
 notif("Rainware", "Loaded RainWare V6 Rewrite🌧️", 5, "alert")
+run(function()
+    local MusicPlayer
+    local songLibrary = {
+        {name = "Raining Tacos", tags = {"Raining", "Tacos", "ambient"}, id = "rbxassetid://142376088"},
+        {name = "Elegant Scones Lover", tags = {"Elegant", "Scones", "Lover"}, id = "rbxassetid://93669715727290"},
+        {name = "Fantasy Echo", tags = {"fantasy", "echo", "dreamy"}, id = "rbxassetid://1837095140"},
+        {name = "Relax Beats", tags = {"chill", "relax", "vibe"}, id = "rbxassetid://85145737471753"},
+        {name = "Ambient Haze", tags = {"ambient", "fog", "haze"}, id = "rbxassetid://16190760005"}
+    }
+
+    local currentTrack = 1
+    local soundInstance
+
+    local function playTrack(index)
+        if soundInstance then soundInstance:Stop(); soundInstance:Destroy() end
+        soundInstance = Instance.new("Sound")
+        soundInstance.SoundId = songLibrary[index].id
+        soundInstance.Volume = 0.7
+        soundInstance.Looped = true
+        soundInstance.Parent = workspace
+        task.wait(1)
+        soundInstance:Play()
+    end
+
+    local function searchSongs(query)
+        for i, song in ipairs(songLibrary) do
+            if string.lower(song.name):find(string.lower(query)) then
+                return i
+            else
+                for _, tag in ipairs(song.tags) do
+                    if string.lower(tag):find(string.lower(query)) then
+                        return i
+                    end
+                end
+            end
+        end
+        return nil
+    end
+
+    local function createGUI()
+        local playerGui = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+        local screenGui = Instance.new("ScreenGui", playerGui)
+        screenGui.Name = "BlueSpotifyGUI"
+        screenGui.ResetOnSpawn = false
+
+        local frame = Instance.new("Frame", screenGui)
+        frame.Size = UDim2.new(0, 360, 0, 230)
+        frame.Position = UDim2.new(0.5, -180, 0.75, -115)
+        frame.BackgroundColor3 = Color3.fromRGB(60, 130, 200)
+        frame.BorderSizePixel = 0
+        frame.Active = true
+        frame.Draggable = true
+        Instance.new("UICorner", frame).CornerRadius = UDim.new(0, 12)
+
+        local title = Instance.new("TextLabel", frame)
+        title.Size = UDim2.new(1, 0, 0, 30)
+        title.Text = "🔍 Virtual Music Search"
+        title.Font = Enum.Font.GothamBold
+        title.TextColor3 = Color3.fromRGB(255, 255, 255)
+        title.BackgroundTransparency = 1
+        title.TextSize = 18
+
+        local searchBox = Instance.new("TextBox", frame)
+        searchBox.Position = UDim2.new(0.05, 0, 0, 35)
+        searchBox.Size = UDim2.new(0.9, 0, 0, 28)
+        searchBox.PlaceholderText = "Enter track name or keyword..."
+        searchBox.Text = ""
+        searchBox.Font = Enum.Font.Gotham
+        searchBox.TextSize = 14
+        searchBox.BackgroundColor3 = Color3.fromRGB(180, 210, 230)
+        searchBox.TextColor3 = Color3.fromRGB(0, 0, 0)
+
+        local trackLabel = Instance.new("TextLabel", frame)
+        trackLabel.Position = UDim2.new(0, 0, 0, 70)
+        trackLabel.Size = UDim2.new(1, 0, 0, 30)
+        trackLabel.Text = songLibrary[currentTrack].name
+        trackLabel.Font = Enum.Font.GothamSemibold
+        trackLabel.TextColor3 = Color3.fromRGB(10, 40, 80)
+        trackLabel.BackgroundTransparency = 1
+        trackLabel.TextSize = 16
+
+        searchBox.FocusLost:Connect(function()
+            local foundIndex = searchSongs(searchBox.Text)
+            if foundIndex then
+                currentTrack = foundIndex
+                trackLabel.Text = songLibrary[foundIndex].name
+                playTrack(foundIndex)
+            else
+                trackLabel.Text = "No match found"
+            end
+        end)
+
+        local function createButton(txt, pos, callback)
+            local btn = Instance.new("TextButton", frame)
+            btn.Size = UDim2.new(0, 60, 0, 30)
+            btn.Position = pos
+            btn.Text = txt
+            btn.Font = Enum.Font.Gotham
+            btn.BackgroundColor3 = Color3.fromRGB(150, 200, 250)
+            btn.TextColor3 = Color3.fromRGB(0, 20, 50)
+            btn.TextSize = 14
+            btn.MouseButton1Click:Connect(callback)
+            Instance.new("UICorner", btn).CornerRadius = UDim.new(0, 8)
+        end
+
+        createButton("⏮️", UDim2.new(0.05, 0, 0, 110), function()
+            currentTrack = (currentTrack - 1 < 1) and #songLibrary or currentTrack - 1
+            trackLabel.Text = songLibrary[currentTrack].name
+            playTrack(currentTrack)
+        end)
+
+        createButton("▶️", UDim2.new(0.30, 0, 0, 110), function()
+            playTrack(currentTrack)
+        end)
+
+        createButton("⏸️", UDim2.new(0.55, 0, 0, 110), function()
+            if soundInstance then soundInstance:Pause() end
+        end)
+
+        createButton("⏭️", UDim2.new(0.80, 0, 0, 110), function()
+            currentTrack = (currentTrack + 1 > #songLibrary) and 1 or currentTrack + 1
+            trackLabel.Text = songLibrary[currentTrack].name
+            playTrack(currentTrack)
+        end)
+
+        local volumeSlider = Instance.new("TextBox", frame)
+        volumeSlider.Position = UDim2.new(0.05, 0, 0, 160)
+        volumeSlider.Size = UDim2.new(0.9, 0, 0, 28)
+        volumeSlider.PlaceholderText = "Volume (0.0 - 1.0)"
+        volumeSlider.Text = tostring(soundInstance and soundInstance.Volume or 0.7)
+        volumeSlider.Font = Enum.Font.Gotham
+        volumeSlider.TextSize = 14
+        volumeSlider.BackgroundColor3 = Color3.fromRGB(180, 210, 230)
+        volumeSlider.TextColor3 = Color3.fromRGB(0, 0, 0)
+
+        volumeSlider.FocusLost:Connect(function()
+            local val = tonumber(volumeSlider.Text)
+            if val and soundInstance then
+                soundInstance.Volume = math.clamp(val, 0, 1)
+            end
+        end)
+    end
+
+    MusicPlayer = vape.Categories.Utility:CreateModule({
+        Name = "MusicPlayer",
+        Function = function(enabled)
+            if enabled then
+                createGUI()
+                playTrack(currentTrack)
+            else
+                if soundInstance then soundInstance:Stop(); soundInstance:Destroy() end
+                local pg = game.Players.LocalPlayer:FindFirstChild("PlayerGui")
+                if pg and pg:FindFirstChild("BlueSpotifyGUI") then
+                    pg.BlueSpotifyGUI:Destroy()
+                end
+            end
+        end,
+        Tooltip = "Search and play royalty-free music in a custom GUI"
+    })
+end)
 	
