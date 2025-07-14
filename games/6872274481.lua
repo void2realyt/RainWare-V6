@@ -8921,4 +8921,115 @@ run(function()
         Default = 40
     })
 end)
+run(function()
+    local BowWallbang
+    local MaxDistance
+
+    BowWallbang = vape.Categories.Combat:CreateModule({
+        Name = "BowWallbangAura",
+        Function = function(callback)
+            if callback and entitylib.isAlive and lplr.Character and lplr.Character:FindFirstChildOfClass("Tool") then
+                local tool = lplr.Character:FindFirstChildOfClass("Tool")
+                if tool.Name:lower():find("bow") then
+                    for _, player in pairs(game:GetService("Players"):GetPlayers()) do
+                        if player ~= lplr and player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+                            local targetPart = player.Character.HumanoidRootPart
+                            local distance = (lplr.Character.PrimaryPart.Position - targetPart.Position).Magnitude
+                            if distance <= MaxDistance.Value then
+                                local ray = Ray.new(lplr.Character.Head.Position, (targetPart.Position - lplr.Character.Head.Position).Unit * distance)
+                                local hitPart = workspace:FindPartOnRay(ray, lplr.Character)
+
+                                -- If there's a wall between you and the target
+                                if hitPart and hitPart:IsDescendantOf(player.Character) == false then
+                                    -- Simulate projectile hit
+                                    game:GetService("ReplicatedStorage").ProjectileHit:FireServer(targetPart, "Bow")
+                                end
+                            end
+                        end
+                    end
+                end
+            end
+        end,
+        Tooltip = "Shoots through walls with bow when target is behind cover"
+    })
+
+    MaxDistance = BowWallbang:CreateSlider({
+        Name = "Max Wallbang Distance",
+        Min = 10,
+        Max = 100,
+        Default = 50
+    })
+end)
+run(function()
+    local PressureAura
+    local AuraRadius
+
+    PressureAura = vape.Categories.Combat:CreateModule({
+        Name = "PressureAura",
+        Function = function(callback)
+            if callback and entitylib.isAlive and lplr.Character and lplr.Character.PrimaryPart then
+                local root = lplr.Character.PrimaryPart
+                for _, player in pairs(game:GetService("Players"):GetPlayers()) do
+                    if player ~= lplr and player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+                        local targetRoot = player.Character.HumanoidRootPart
+                        local distance = (root.Position - targetRoot.Position).Magnitude
+                        if distance <= AuraRadius.Value then
+                            -- Visual overload effect
+                            local particles = Instance.new("ParticleEmitter")
+                            particles.Texture = "rbxassetid://243098098" -- flame texture
+                            particles.Rate = 100
+                            particles.Lifetime = NumberRange.new(0.5)
+                            particles.Speed = NumberRange.new(5)
+                            particles.Parent = targetRoot
+                            game:GetService("Debris"):AddItem(particles, 1)
+
+                            -- Optional screen shake (client-side only)
+                            if player == game:GetService("Players").LocalPlayer then
+                                workspace.CurrentCamera.CFrame = workspace.CurrentCamera.CFrame * CFrame.Angles(0.05, 0, 0)
+                            end
+                        end
+                    end
+                end
+            end
+        end,
+        Tooltip = "Creates intense visual effects near enemies"
+    })
+
+    AuraRadius = PressureAura:CreateSlider({
+        Name = "Aura Radius",
+        Min = 10,
+        Max = 100,
+        Default = 50
+    })
+end)
+run(function()
+    local SmoothSync
+    local SyncRate
+
+    SmoothSync = vape.Categories.Utility:CreateModule({
+        Name = "SmoothSync",
+        Function = function(callback)
+            if callback and entitylib.isAlive and lplr.Character and lplr.Character.PrimaryPart then
+                local root = lplr.Character.PrimaryPart
+                local velocity = root.Velocity
+
+                -- Clamp velocity to avoid sudden spikes
+                if velocity.Magnitude > SyncRate.Value then
+                    root.Velocity = velocity.Unit * SyncRate.Value
+                end
+
+                -- Optional: Add slight delay to movement updates to avoid spam
+                task.wait(0.05)
+            end
+        end,
+        Tooltip = "Smooths movement to reduce anti-cheat lagbacks"
+    })
+
+    SyncRate = SmoothSync:CreateSlider({
+        Name = "Max Velocity",
+        Min = 10,
+        Max = 100,
+        Default = 40
+    })
+end)
 	
