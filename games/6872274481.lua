@@ -9312,102 +9312,6 @@ run(function()
         Tooltip = "Replies to chat messages"
     })
 end)
-local TexturePack
-run(function()
-	local Players = game:GetService("Players")
-	local ReplicatedStorage = game:GetService("ReplicatedStorage")
-	local Workspace = game:GetService("Workspace")
-
-	TexturePack = vape.Categories.Render:CreateModule({
-		Name = "TexturePack",
-		Function = function(enabled)
-			if enabled then
-				task.spawn(function()
-					local objs = game:GetObjects("rbxassetid://13892897527")
-					local import = objs[1]
-					import.Parent = ReplicatedStorage
-
-					local index = {
-						{
-							name = "wood_sword",
-							offset = CFrame.Angles(0, math.rad(-100), math.rad(-90)),
-							model = import:WaitForChild("Wood_Sword"),
-						},
-						{
-							name = "stone_sword",
-							offset = CFrame.Angles(0, math.rad(-100), math.rad(-90)),
-							model = import:WaitForChild("Stone_Sword"),
-						},
-						{
-							name = "iron_sword",
-							offset = CFrame.Angles(0, math.rad(-100), math.rad(-90)),
-							model = import:WaitForChild("Iron_Sword"),
-						},
-						{
-							name = "diamond_sword",
-							offset = CFrame.Angles(0, math.rad(-100), math.rad(-90)),
-							model = import:WaitForChild("Diamond_Sword"),
-						},
-						{
-							name = "emerald_sword",
-							offset = CFrame.Angles(0, math.rad(-100), math.rad(-90)),
-							model = import:WaitForChild("Emerald_Sword"),
-						},
-					}
-
-					local func
-					func = Workspace:WaitForChild("Camera").Viewmodel.ChildAdded:Connect(function(tool)
-						if not tool:IsA("Accessory") then return end
-						for _, v in pairs(index) do
-							if v.name == tool.Name then
-								for _, part in pairs(tool:GetDescendants()) do
-									if part:IsA("Part") or part:IsA("MeshPart") or part:IsA("UnionOperation") then
-										part.Transparency = 1
-									end
-								end
-								local model = v.model:Clone()
-								model.CFrame = tool:WaitForChild("Handle").CFrame * v.offset
-								model.CFrame *= CFrame.Angles(0, math.rad(-50), 0)
-								model.Parent = tool
-								local weld = Instance.new("WeldConstraint", model)
-								weld.Part0 = model
-								weld.Part1 = tool:WaitForChild("Handle")
-
-								local tool2 = Players.LocalPlayer.Character:WaitForChild(tool.Name)
-								for _, part in pairs(tool2:GetDescendants()) do
-									if part:IsA("Part") or part:IsA("MeshPart") or part:IsA("UnionOperation") then
-										part.Transparency = 1
-									end
-								end
-								local model2 = v.model:Clone()
-								model2.Anchored = false
-								model2.CFrame = tool2:WaitForChild("Handle").CFrame * v.offset
-								model2.CFrame *= CFrame.Angles(0, math.rad(-50), 0)
-								model2.CFrame *= CFrame.new(0.7, 0, -0.8)
-								model2.Parent = tool2
-								local weld2 = Instance.new("WeldConstraint", model2)
-								weld2.Part0 = model2
-								weld2.Part1 = tool2:WaitForChild("Handle")
-							end
-						end
-					end)
-
-					TexturePack.Disconnect = function()
-						if func then
-							func:Disconnect()
-							func = nil
-						end
-					end
-				end)
-			else
-				if TexturePack.Disconnect then
-					TexturePack.Disconnect()
-				end
-			end
-		end,
-		Tooltip = "TexturePack"
-	})
-end)
 notif("Rainware", "Loaded RainWare V6 Rewrite🌧️", 5, "alert")
 run(function()
     local MusicPlayer
@@ -9568,5 +9472,109 @@ run(function()
         end,
         Tooltip = "Search and play royalty-free music in a custom GUI"
     })
+end)
+local Ambience1
+
+run(function()
+	local lighting = game:GetService("Lighting")
+	local Workspace = game:GetService("Workspace")
+	local part
+
+	local function getHighGround()
+		local mag = -math.huge
+		for _, pos in bedwars.BlockController:getStore():getAllBlockPositions() do
+			pos = pos * 3
+			if pos.Y > mag and not getPlacedBlock(pos + Vector3.new(0, 3, 0)) then
+				mag = pos.Y
+			end
+		end
+		return mag
+	end
+
+	Ambience1 = vape.Categories.Render:CreateModule({
+		Name = "Ambience 1",
+		Function = function(enabled)
+			if enabled then
+				local sky = Instance.new("Sky")
+				sky.Name = "Ambience 1"
+				local id = "rbxassetid://122785120445164"
+				sky.SkyboxBk = id
+				sky.SkyboxDn = id
+				sky.SkyboxFt = id
+				sky.SkyboxLf = id
+				sky.SkyboxRt = id
+				sky.SkyboxUp = id
+				sky.Parent = lighting
+
+				local height = getHighGround()
+				if height ~= -math.huge then
+					part = Instance.new("Part")
+					part.Name = "AmbienceSnow"
+					part.Size = Vector3.new(500, 1, 500)
+					part.Anchored = true
+					part.CanCollide = false
+					part.Transparency = 1
+					part.Position = Vector3.new(0, height + 10, 0)
+					part.Parent = Workspace
+
+					local snow = Instance.new("ParticleEmitter")
+					snow.Texture = "http://www.roblox.com/asset/?id=558200857"
+					snow.Rate = 250
+					snow.Lifetime = NumberRange.new(6, 10)
+					snow.Speed = NumberRange.new(1, 2)
+					snow.VelocitySpread = 360
+					snow.Size = NumberSequence.new({
+						NumberSequenceKeypoint.new(0, 0.2),
+						NumberSequenceKeypoint.new(1, 0.35)
+					})
+					snow.Transparency = NumberSequence.new({
+						NumberSequenceKeypoint.new(0, 0.3),
+						NumberSequenceKeypoint.new(1, 0.5)
+					})
+					snow.LightInfluence = 0.1
+					snow.Rotation = NumberRange.new(0, 180)
+					snow.RotSpeed = NumberRange.new(-10, 10)
+					snow.SpreadAngle = Vector2.new(20, 20)
+					snow.Acceleration = Vector3.new(0, -1, 0)
+					snow.Parent = part
+				end
+			else
+				local sky = lighting:FindFirstChild("Ambience 1")
+				if sky then sky:Destroy() end
+				if part and part.Parent then
+					part:Destroy()
+					part = nil
+				end
+			end
+		end,
+		Tooltip = "Ambience 1"
+	})
+end)
+
+local Ambience2
+run(function()
+	local lighting = game:GetService("Lighting")
+
+	Ambience2 = vape.Categories.Render:CreateModule({
+		Name = "Ambience 2",
+		Function = function(enabled)
+			if enabled then
+				local sky = Instance.new("Sky")
+				sky.Name = "Ambience 1"
+				local id = "rbxassetid://121826915456627"
+				sky.SkyboxBk = id
+				sky.SkyboxDn = id
+				sky.SkyboxFt = id
+				sky.SkyboxLf = id
+				sky.SkyboxRt = id
+				sky.SkyboxUp = id
+				sky.Parent = lighting
+			else
+				local sky = lighting:FindFirstChild("Ambience 1")
+				if sky then sky:Destroy() end
+			end
+		end,
+		Tooltip = "Ambience 2"
+	})
 end)
 	
