@@ -10074,4 +10074,33 @@ run(function()
         Tooltip = "Boost FPS by disabling effects and simplifying visuals"
     })
 end)
+local ClearChat
+run(function()
+    local player = game.Players.LocalPlayer
 
+    ClearChat = vape.Categories.Utility:CreateModule({
+        Name = "Clear Chat",
+        Tooltip = "Fills the chat with blank lines to push old messages off screen",
+        Function = function(enabled)
+            if enabled then
+                local function chat(msg)
+                    if game:GetService("TextChatService").ChatVersion == Enum.ChatVersion.TextChatService then
+                        game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync(msg)
+                    else
+                        game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(msg, "All")
+                    end
+                end
+
+                -- Prepare shorter blank messages that respect the chat character limit
+                local blankLine = "\u{000D} "
+                local segment = "" .. string.rep(blankLine, 40) .. ""
+
+                -- Send multiple smaller messages
+                for i = 1, 3 do
+                    chat(segment)
+                    task.wait(0.2)
+                end
+            end
+        end
+    })
+end)
