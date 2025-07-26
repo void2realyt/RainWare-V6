@@ -8852,46 +8852,6 @@ run(function()
         Default = "Shield"
     })
 end)
-local Antihit
-run(function()
-	local player = game.Players.LocalPlayer
-	local RunService = game:GetService("RunService")
-
-	Antihit = vape.Categories.Blatant:CreateModule({
-		Name = "Antihit",
-		Function = function(enabled)
-			if enabled then
-				spawn(function()
-					while Antihit.Enabled do
-						local character = player.Character
-						if character and character:FindFirstChild("HumanoidRootPart") then
-							local root = character.HumanoidRootPart
-							for _, otherPlayer in ipairs(game.Players:GetPlayers()) do
-								if otherPlayer ~= player then
-									local otherChar = otherPlayer.Character
-									if otherChar and otherChar:FindFirstChild("HumanoidRootPart") then
-										local dist = (root.Position - otherChar.HumanoidRootPart.Position).Magnitude
-										if dist <= 15 then
-											local original = root.Position
-											root.CFrame = CFrame.new(original + Vector3.new(0, -85, 0))
-											task.wait(0.4)
-											if Antihit.Enabled and player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
-												player.Character.HumanoidRootPart.CFrame = CFrame.new(original)
-											end
-											break
-										end
-									end
-								end
-							end
-						end
-						task.wait(0.1)
-					end
-				end)
-			end
-		end,
-		Tooltip = "Prevents you from dying"
-	})
-end)
 run(function()
     local ClickDash
     local DashDistance
@@ -9714,5 +9674,213 @@ run(function()
 		Max = 2,
 		Decimal = 20,
 		Default = 5
+	})
+end)
+run(function()
+	local AntiHit = {}
+	local physEngine = game:GetService("RunService")
+	local worldSpace = game.Workspace
+	local camView = worldSpace.CurrentCamera
+	local plyr = lplr
+	local entSys = entitylib
+	local queryutil = {}
+	function queryutil:setQueryIgnored(part, index)
+		if index == nil then index = true end
+		if part then part:SetAttribute("gamecore_GameQueryIgnore", index) end
+	end
+	local utilPack = {QueryUtil = queryutil}
+
+	local dupeNode, altHeight
+	shared.anchorBase = nil
+	shared.evadeFlag = false
+
+	local trigSet = {p = true, n = false, w = false}
+	local shiftMode = "Up"
+	local scanRad = 30
+
+	local function genTwin()
+		if entSys.isAlive and entSys.character.Humanoid.Health > 0 and entSys.character.HumanoidRootPart then
+			altHeight = entSys.character.Humanoid.HipHeight
+			shared.anchorBase = entSys.character.HumanoidRootPart
+			utilPack.QueryUtil:setQueryIgnored(shared.anchorBase, true)
+			if not plyr.Character or not plyr.Character.Parent then return false end
+
+			plyr.Character.Parent = game
+			dupeNode = shared.anchorBase:Clone()
+			dupeNode.Parent = plyr.Character
+			shared.anchorBase.Parent = camView
+			dupeNode.CFrame = shared.anchorBase.CFrame
+
+			plyr.Character.PrimaryPart = dupeNode
+			entSys.character.HumanoidRootPart = dupeNode
+			entSys.character.RootPart = dupeNode
+			plyr.Character.Parent = worldSpace
+
+			for _, x in plyr.Character:GetDescendants() do
+				if x:IsA('Weld') or x:IsA('Motor6D') then
+					if x.Part0 == shared.anchorBase then x.Part0 = dupeNode end
+					if x.Part1 == shared.anchorBase then x.Part1 = dupeNode end
+				end
+			end
+			return true
+		end
+		return false
+	end
+
+	local function resetCore()
+		if not entSys.isAlive or not shared.anchorBase or not shared.anchorBase:IsDescendantOf(game) then
+			shared.anchorBase = nil
+			dupeNode = nil
+			return false
+		end
+
+		if not plyr.Character or not plyr.Character.Parent then return false end
+
+		plyr.Character.Parent = game
+
+		shared.anchorBase.Parent = plyr.Character
+		shared.anchorBase.CanCollide = true
+		shared.anchorBase.Velocity = Vector3.zero 
+		shared.anchorBase.Anchored = false 
+
+		plyr.Character.PrimaryPart = shared.anchorBase
+		entSys.character.HumanoidRootPart = shared.anchorBase
+		entSys.character.RootPart = shared.anchorBase
+
+		for _, x in plyr.Character:GetDescendants() do
+			if x:IsA('Weld') or x:IsA('Motor6D') then
+				if x.Part0 == dupeNode then x.Part0 = shared.anchorBase end
+				if x.Part1 == dupeNode then x.Part1 = shared.anchorBase end
+			end
+		end
+
+		local prevLoc = dupeNode and dupeNode.CFrame or shared.anchorBase.CFrame
+		if dupeNode then
+			dupeNode:Destroy()
+			dupeNode = nil
+		end
+
+		plyr.Character.Parent = worldSpace
+		shared.anchorBase.CFrame = prevLoc
+
+		if entSys.character.Humanoid then
+			entSys.character.Humanoid.HipHeight = altHeight or 2
+		end
+
+		shared.anchorBase = nil
+		shared.evadeFlag = false
+		altHeight = nil
+
+		return true
+	end
+
+	local function isEnemy(plr)
+		return plr and plr.Team ~= lplr.Team
+	end
+
+	local function shiftPos()
+		if not AntiHit.on or not VeloAntiHit.Enabled then return end
+		local hits = entSys.AllPosition({
+			Range = scanRad,
+			Wallcheck = trigSet.w or nil,
+			Part = 'RootPart',
+			Players = trigSet.p,
+			NPCs = trigSet.n,
+			Limit = 5
+		})
+
+		for _, target in ipairs(hits) do
+			if target and target.Player and isEnemy(target.Player) and not shared.evadeFlag then
+				local base = entSys.character.RootPart
+				if base then
+					shared.evadeFlag = true
+					local targetY = shiftMode == "Up" and 150 or 0
+					shared.anchorBase.CFrame = CFrame.new(base.CFrame.X, targetY, base.CFrame.Z)
+					task.wait(0.15)
+					shared.anchorBase.CFrame = base.CFrame
+					task.wait(0.05)
+					shared.evadeFlag = false
+				end
+				break
+			end
+		end
+	end
+
+	function AntiHit:engage()
+		if self.on then return end
+		self.on = true
+
+		if not genTwin() then
+			self:disengage()
+			return
+		end
+
+		self.physHook = physEngine.PreSimulation:Connect(function()
+			if not VeloAntiHit.Enabled then return end
+			if entSys.isAlive and shared.anchorBase and entSys.character.RootPart then
+				local currBase = entSys.character.RootPart
+				local currPos = currBase.CFrame
+
+				if not isnetworkowner(shared.anchorBase) then
+					currBase.CFrame = shared.anchorBase.CFrame
+					currBase.Velocity = shared.anchorBase.Velocity
+					return
+				end
+				if not shared.evadeFlag then
+					shared.anchorBase.CFrame = currPos
+				end
+				shared.anchorBase.Velocity = Vector3.zero
+				shared.anchorBase.CanCollide = false
+				shiftPos()
+			else
+				self:disengage()
+			end
+		end)
+
+		self.respawnHook = entSys.Events.LocalAdded:Connect(function()
+			if VeloAntiHit.Enabled then
+				self:disengage()
+				task.wait(0.1)
+				self:engage()
+			end
+		end)
+	end
+
+	function AntiHit:disengage()
+		self.on = false
+		pcall(resetCore)
+		if self.physHook then self.physHook:Disconnect() self.physHook = nil end
+		if self.respawnHook then self.respawnHook:Disconnect() self.respawnHook = nil end
+	end
+
+	VeloAntiHit = vape.Categories.Blatant:CreateModule({
+		Name = "AntiHit",
+		Function = function(enabled)
+			if enabled then
+				AntiHit:engage()
+			else
+				AntiHit:disengage()
+			end
+		end,
+		Tooltip = "Dodges attacks"
+	})
+
+	VeloAntiHit:CreateTargets({
+		Players = true,
+		NPCs = false
+	})
+	VeloAntiHit:CreateDropdown({
+		Name = "Shift Type",
+		List = {"Up", "Down"},
+		Value = "Up",
+		Function = function(opt) shiftMode = opt end
+	})
+	VeloAntiHit:CreateSlider({
+		Name = "Scan Perimeter",
+		Min = 1,
+		Max = 30,
+		Default = 30,
+		Suffix = function(v) return v == 1 and "span" or "spans" end,
+		Function = function(v) scanRad = v end
 	})
 end)
