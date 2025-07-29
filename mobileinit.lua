@@ -188,5 +188,5 @@ else
     print("[Version] Already up to date.")
 end
 
-task.wait(0.5)
+task.wait(3)
 return loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua"))()
