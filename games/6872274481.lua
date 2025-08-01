@@ -10306,3 +10306,94 @@ run(function()
 		Tooltip = 'Only attacks while swinging manually'
 	})]]
 end)
+																																																																																									run(function()
+        local GameRain: table = {["Enabled"] = false}
+        local RainParts: {BasePart} = {}
+        local RainSound: Sound? = nil
+        local Roof: (cframe: CFrame) -> Part? = function(cframe: CFrame): Part?
+                return workspace:FindPartOnRayWithIgnoreList(
+                        Ray.new(cframe.p, Vector3.new(0, 150, 0)),
+                        {lplr.Character}
+                );
+        end;
+
+        local Particle: (cframe: CFrame) -> () = function(cframe: CFrame): ()
+                local Spread: Vector3 = Vector3.new(
+                        math.random(-100, 100),
+                        math.random(-100, 100),
+                        math.random(-100, 100)
+                );
+                local Part: Part = Instance.new("Part");
+                Part.Anchored = false;
+                Part.CanCollide = false;
+                Part.Transparency = 0.25;
+                Part.Reflectance = 0.15;
+                Part.Size = Vector3.new(0.15, 2, 0.15);
+                Part.BrickColor = BrickColor.new("Steel blue");
+                Part.FormFactor = Enum.FormFactor.Custom;
+                Part.CFrame = CFrame.new(
+                        cframe.p + (cframe:VectorToWorldSpace(Vector3.new(0, 1, 0)).Unit * 150) + Spread
+                ) * CFrame.Angles(0, math.atan2(cframe.p.X, cframe.p.Z) + math.pi, 0);
+                local Smoke: Smoke = Instance.new("Smoke", Part);
+                Smoke.RiseVelocity = -25;
+                Smoke.Opacity = 0.25;
+                Smoke.Size = 25;
+                Instance.new("BlockMesh", Part)
+                Part.Touched:Connect(function()
+                        if Part then Part:Destroy(); end;
+                end);
+                Part.Parent = gameCamera;
+                table.insert(RainParts, Part);
+                game:GetService("Debris"):AddItem(Part, 3);
+        end;
+        GameRain = vape.Categories.Render:CreateModule({
+                ["Name"] = "Rain",
+                ["HoverText"] = "Enables rain effect.",
+                ["Function"] = function(callback: boolean): void
+                        if callback then
+                                GameRain["Enabled"] = true
+                                task.spawn(function()
+                                        local character: Model = lplr.Character or lplr.CharacterAdded:Wait();
+                                        if not character then return; end;
+                                        local torso: BasePart = character:WaitForChild("UpperTorso", 10);
+                                        if not torso then return; end;
+                                        RainSound = Instance.new("Sound", gameCamera);
+                                        RainSound.SoundId = "http://www.roblox.com/asset/?ID=236148388";
+                                        RainSound.Looped = true;
+                                        RainSound.Volume = 0.03;
+                                        RainSound:Play();
+                                        while GameRain["Enabled"] do
+                                                task.wait(0.06)
+                                                if Roof(torso.CFrame) == nil then
+                                                        for _ = 1, 5 do
+                                                                if (gameCamera.CFrame.p - torso.CFrame.p).Magnitude > 100 then
+                                                                        Particle(gameCamera.CFrame);
+                                                                        Particle(torso.CFrame);
+                                                                else
+                                                                        Particle(torso.CFrame);
+                                                                end;
+                                                        end;
+                                                else
+                                                        if Roof(gameCamera.CFrame) == nil then
+                                                                for _ = 1, 5 do
+                                                                        Particle(gameCamera.CFrame);
+                                                                end;
+                                                        end;
+                                                end;
+                                        end;
+                                        if RainSound then
+                                                RainSound:Stop();
+                                                RainSound:Destroy();
+                                                RainSound = nil;
+                                        end;
+                                        for _, part: BasePart in pairs(RainParts) do
+                                                if part and part:IsDescendantOf(workspace) then
+                                                        part:Destroy();
+                                                end;
+                                        end;
+                                        table.clear(RainParts);
+                                end);
+                        end;
+                end;
+        });
+end)
