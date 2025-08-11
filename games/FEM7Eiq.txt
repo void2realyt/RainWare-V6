@@ -1,0 +1,60 @@
+run(function()
+    local Xylex: table = {};
+	local function transformImage(img: string, txt: string)
+		local function funnyfunc(v: Instance)
+			if v:GetFullName():find("ExperienceChat") == nil then
+				if v:IsA("ImageLabel") or v:IsA("ImageButton") then
+					v.Image = img;
+					v:GetPropertyChangedSignal("Image"):Connect(function()
+						v.Image = img;
+					end);
+				elseif v:IsA("TextLabel") or v:IsA("TextButton") then
+					if v.Text ~= "" then
+						v.Text = txt;
+					end;
+					v:GetPropertyChangedSignal("Text"):Connect(function()
+						if v.Text ~= "" then
+							v.Text = txt;
+						end;
+					end);
+				elseif v:IsA("Texture") or v:IsA("Decal") then
+					v.Texture = img;
+					v:GetPropertyChangedSignal("Texture"):Connect(function()
+						v.Texture = img;
+					end);
+				elseif v:IsA("MeshPart") then
+					v.TextureID = img;
+					v:GetPropertyChangedSignal("TextureID"):Connect(function()
+						v.TextureID = img;
+					end);
+				elseif v:IsA("SpecialMesh") then
+					v.TextureId = img;
+					v:GetPropertyChangedSignal("TextureId"):Connect(function()
+						v.TextureId = img;
+					end);
+				elseif v:IsA("Sky") then
+					v.SkyboxBk = img;
+					v.SkyboxDn = img;
+					v.SkyboxFt = img;
+					v.SkyboxLf = img;
+					v.SkyboxRt = img;
+					v.SkyboxUp = img;
+				end;
+			end;
+		end;
+
+		for _, v in next, game:GetDescendants() do
+			funnyfunc(v);
+		end;
+		game.DescendantAdded:Connect(funnyfunc);
+	end;
+    Xylex = vape.Categories.World:CreateButton({
+        ["Name"] = 'Xylex'
+        ["Function"] = function(callback: boolean): void
+            if callback then
+                 transformImage("http://www.roblox.com/asset/?id=13953598788", "byelex");
+            end;
+        end,
+        ["Tooltip"] = 'This is a xylex button, it replaces the images and text in the game with xylex images and text.'
+    })
+end)
