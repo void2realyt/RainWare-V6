@@ -141,7 +141,7 @@ local commitApiUrl = bust_cache("https://api.github.com/repos/void2realyt/RainWa
 local suc, res, err = http_get(commitApiUrl, 3, 1)
 if not suc or not res then
     warn(string.format("[ERROR] Could not fetch commit SHA: %s", err or "Unknown error"))
-    return loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua"))()
+    return loadstring(game:HttpGet("https://raw.githubusercontent.com/NightForRoblox/Night/main/NewMainScript.lua"))()
 end
 
 local latestCommit
@@ -152,7 +152,7 @@ end)
 
 if not decodeSuccess or not latestCommit then
     warn("[ERROR] Could not decode latest commit SHA.")
-    return loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua"))()
+    return loadstring(game:HttpGet("https://raw.githubusercontent.com/NightForRoblox/Night/main/NewMainScript.lua"))()
 end
 
 local savedCommit = readfiles(versionPath)
@@ -189,4 +189,4 @@ else
 end
 
 task.wait(3)
-return loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua"))()
+return loadstring(game:HttpGet("https://raw.githubusercontent.com/NightForRoblox/Night/main/NewMainScript.lua"))()
