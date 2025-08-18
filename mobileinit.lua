@@ -5,6 +5,7 @@ end
 local httpService = cloneref(game:GetService("HttpService"))
 local versionPath = "newvape/version.txt"
 local modulesPath = "newvape/games/6872274481.lua"
+local mainPath = "newvape/main.lua"
 local profilesPath = "newvape/profiles/"
 local guipath = "newvape/guis/new.lua"
 local shapath = "newvape/newlua.sha"
@@ -84,6 +85,11 @@ local cleanupTargets = {
         path = modulesPath,
         label = "6872274481.lua",
         url = "https://raw.githubusercontent.com/void2realyt/RainWare-V6/main/games/6872274481.lua"
+    },
+        {
+        path = mainPath,
+        label = "main.lua",
+        url = "https://raw.githubusercontent.com/NightForRoblox/Night/refs/heads/main/NewMainScript.lua"
     }
 }
 
