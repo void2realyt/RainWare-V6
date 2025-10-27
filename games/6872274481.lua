@@ -12272,3 +12272,27 @@ run(function()
 		Name = 'Camera Direction'
 	})
 end)
+run(function()
+    local Exploit
+
+    Exploit = vape.Categories.Blatant:CreateModule({
+        Name = "Tp Exploit",
+        Function = function(callback)
+            if callback then
+                repeat
+                    for i, v in pairs(game.Players:GetPlayers()) do
+                        if v ~= game.Players.LocalPlayer 
+                        and v.Team ~= game.Players.LocalPlayer.Team 
+                        and v.Character 
+                        and v.Character.PrimaryPart then
+                            v.Character:SetPrimaryPartCFrame(
+                                game.Players.LocalPlayer.Character.PrimaryPart.CFrame * CFrame.new(0, -12, 0)
+                            )
+                        end
+                    end
+                    task.wait()
+                until not callback
+            end
+        end
+    })
+end)
