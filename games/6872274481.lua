@@ -12286,7 +12286,7 @@ run(function()
                         and v.Character 
                         and v.Character.PrimaryPart then
                             v.Character:SetPrimaryPartCFrame(
-                                game.Players.LocalPlayer.Character.PrimaryPart.CFrame * CFrame.new(0, -12, 0)
+                                game.Players.LocalPlayer.Character.PrimaryPart.CFrame * CFrame.new(0, -2, 0)
                             )
                         end
                     end
